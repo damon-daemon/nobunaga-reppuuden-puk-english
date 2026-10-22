@@ -21,6 +21,17 @@ This repository contains the English text and the tools that build the patch.
 It does **not** contain the game, any of its data, or the Japanese script — you need
 your own copy of the game.
 
+## Screenshots
+
+| | | |
+|:-:|:-:|:-:|
+| ![Main menu](docs/screenshots/01_main_menu.png) | ![Scenario select](docs/screenshots/02_scenario.png) | ![Scenario introduction](docs/screenshots/03_scenario_intro.png) |
+| Main menu | Scenario select | Scenario introduction |
+| ![Clan select](docs/screenshots/04_clan_select.png) | ![Strategy map](docs/screenshots/05_map.png) | ![Command bar](docs/screenshots/06_command_bar.png) |
+| Clan select | Strategy map | Command bar |
+| ![Event dialogue](docs/screenshots/07_dialogue.png) | ![Officer list](docs/screenshots/08_officer_list.png) | ![Battle](docs/screenshots/09_battle.png) |
+| Historical event | Officer list | Field battle (tutorial) |
+
 ## What's translated
 
 - All in-game text: dialogue and event narration, notices, menus, forms, lists, help texts,
@@ -104,6 +115,7 @@ patch, the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 | `tools/asm.py` | Small MIPS assembler for the program patches |
 | `tools/package.py` | Makes the release zip (patch + .cue + README.txt with checksums) |
 | `tools/dev/`, `tools/emu/` | Development helpers (disassembly, unicorn tests, DuckStation automation) |
+| `docs/screenshots/` | README screenshots |
 
 ## Known issues
 
