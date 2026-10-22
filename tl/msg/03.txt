@@ -1,0 +1,633 @@
+@3000
+You cannot move onto a tile with a building unit.
+
+@3001
+A building unit can only target castles of its own province.
+
+@3002
+Impassable terrain cannot be a target.
+
+@3003
+An ally's castle cannot be a target.
+
+@3004
+You cannot enter another daimyo's castle.
+
+@3005
+You cannot move onto a tile where a building unit is already building a castle.
+
+@3006
+Surrounded by enemy corps; you cannot leave the castle.
+
+@3007
+Have the unit enter the castle?
+
+@3008
+You cannot enter another daimyo's castle.
+
+@3009
+Hills cannot be cultivated beyond fields.
+
+@3010
+No flood-controlled river within 3 tiles: plains cannot be cultivated beyond fields.
+
+@3011
+This tile is a Lv3 rice paddy. The paddy cannot be raised any higher.
+
+@3012
+Towns can only be built on plains.
+
+@3013
+A Lv1 town can only be built on plains.
+
+@3014
+Only a Lv1 town next to another Lv1 town, or below a main castle, can become Lv2.
+
+@3015
+Only a Lv2 town below a main castle next to a port can become Lv3.
+
+@3016
+This tile is a Lv3 town. The town cannot be raised any higher.
+
+@3017
+A Lv1 village can only be built on plains or hills.
+
+@3018
+Only a Lv1 village on plains can become Lv2.
+
+@3019
+Only a Lv2 village below a main castle can become Lv3.
+
+@3020
+This tile is a Lv3 village. The village cannot be raised any higher.
+
+@3021
+A gunsmith village has already been built on this tile.
+
+@3022
+A speciality has already been made on this tile.
+
+@3023
+A bridge needs a road on the far bank. It also cannot be built if either side would be a bridge.
+
+@3024
+This tile already has flood control.
+
+@3025
+This province already has the maximum of 4 branch castles. No more castles can be built.
+
+@3026
+You cannot build a castle where its domain would cross the border.
+
+@3027
+This castle's defence is already at maximum. It cannot be repaired further.
+
+@3028
+The Ikko are allies of the Honganji. They cannot be attacked.
+
+@3029
+Only terrain of your own power can be demolished.
+
+@3030
+Delete
+
+@3031
+Enter this castle, or repair it?
+
+@3032
+Attack?
+
+@3033
+A corps has no commander-in-chief.
+
+@3034
+Supplies not assigned to a corps will be lost. Continue?
+
+@3035
+A corps has 0 troops. Continue?
+
+@3036
+A corps has 0 rice. Continue?
+
+@3037
+Building a castle as the lackey of the {v0237}? Outrageous! You disgrace the {v0133} clan!
+
+@3037.1
+We share {v0133} blood, but now we are enemies... Such is war. It cannot be helped. Attack!
+
+@3038
+{v0234}! Did you think our {v0136} clan would let you build a castle here?
+
+@3038.1
+A {v0236} castle here would surely bring ruin on our {v0136} clan. Destroy it before that happens!
+
+@3038.2
+{C184}, it is not finished yet, it seems. Smash it all to pieces while we can, {C218}!
+
+@3039
+Curses... {v0234}! All our work is ruined. I shall go back to {v0138} for now.
+
+@3039.1
+{C193}! How dreadful! All our toil, for nothing... I shall go back to {v0138} for now.
+
+@3039.2
+It cannot be helped... back to {v0138} for now. {v0234}... I will not forget this!
+
+@3040
+Curses... {v0234}! All our work is ruined. We must build it all again...
+
+@3040.1
+{C193}! How dreadful! All our toil, for nothing... We must start again from the ground plan...
+
+@3040.2
+It cannot be helped... we start again from scratch. {v0234}... I will not forget this!
+
+@3041
+This tile is a free market. The village cannot be developed further.
+
+@3042
+Build the road to where?
+
+@3043
+Sea, lakes and mountains cannot be targets.
+
+@3044
+Choose where to build the road to.
+
+@3045
+Target this unit?
+
+@3046
+There is no adjacent tile to organise on.
+
+@3047
+Choose a tile to place it on.
+
+@3048
+Choose a target.
+
+@3049
+Place a new unit on this tile?
+
+@3050
+So the castle we targeted was destroyed while being built... The attack is called off.
+
+@3050.1
+The castle we targeted was destroyed while being built, so I will call off the attack.
+
+@3051
+A tile that cannot be reached cannot be a target.
+
+@3052
+A corps is on the adjacent target tile; this cannot be done.
+
+@3053
+There are no enemy corps or castles to target.
+
+@3054
+The Ikko are allies of the Honganji.
+
+@3055
+There are no corps of your own to target.
+
+@3056
+Not a castle of your own power; transport is not possible.
+
+@3057
+There are no corps to target.
+
+@3058
+An ally cannot be a target of attack.
+
+@3059
+Another province's domain cannot be a target.
+
+@3060
+A province whose main castle you do not hold cannot be a target.
+
+@3061
+You can only move to your own castles or ungoverned castles.
+
+@3062
+There is no river without flood control to target.
+
+@3063
+There are no plains or hills to target.
+
+@3064
+You cannot build a castle on a tile next to a border.
+
+@3065
+This province already has 4 branch castles; no castle can be built.
+
+@3066
+A river that is not straight cannot be a target.
+
+@3067
+A building unit is on the adjacent target tile; this cannot be done.
+
+@3068
+A castle at maximum defence cannot be a target.
+
+@3069
+Domain cannot be a target.
+
+@3070
+Demolish {v6f}?
+
+@3071
+Build a castle here? (Work period: {v6f})
+
+@3072
+The road building is finished.\n
+
+@3072.1
+The road building has been finished.\n
+
+@3073
+The flood control work is finished.\n
+
+@3073.1
+The flood control work has been finished.\n
+
+@3074
+So the {v0336} have begun a castle on our target tile... The {v6f} is called off.
+
+@3074.1
+The {v0336} have begun a castle on our target tile, so I will call off the {v6f} order.
+
+@3075
+If {v0334} is building a castle there, I have nothing to do... The {v6f} is called off.
+
+@3075.1
+Lord {v0334} has begun a castle on our target tile, so I will call off the {v6f} order.
+
+@3075.2
+Someone of our {v0136} clan has begun a castle on our target tile, so I will call off the {v6f}.
+
+@3076
+The {v0336} stopped building, so our target castle is gone. The attack is called off.
+
+@3076.1
+The {v0336} stopped building, so our target castle is gone. I will call off the attack.
+
+@3077
+{v6f} has been newly completed!
+
+@3077.1
+{C14}, {v6f} has been newly completed.
+
+@3078
+A new branch castle has been completed. Name it {v6f}?
+
+@3079
+Name this castle {v6f}?
+
+@3080
+Set the castle name to {v6f}?
+
+@3081
+The {v0136} clan seems to have built a castle in {v6f} Province.
+
+@3082
+Choose a command.
+
+@3083
+Build without spending gold?
+
+@3084
+The castle the {v0336} were building, our target, is complete. The attack is called off.
+
+@3084.1
+The castle the {v0336} were building, our target, is complete, so I will call off the attack order.
+
+@3085
+{v0b32} is next to enemy corps and cannot be repaired.
+
+@3086
+{v6f}'s defence is now at maximum!
+
+@3086.1
+{v6f}'s defence has been raised to maximum.
+
+@3087
+The demolition of {v6f} is finished!
+
+@3087.1
+The demolition of {v6f} has been finished.
+
+@3088
+Choose a staff officer.
+
+@3089
+There is no tile to move to; you cannot leave the castle.
+
+@3090
+Merge {v0232}'s corps into {v0132}'s corps?
+
+@3091
+Stop creating the corps?
+
+@3092
+No commander-in-chief has been chosen.
+
+@3093
+Choose a commander-in-chief.
+
+@3094
+I shall move towards the target.\n
+
+@3094.1
+I will move towards the target.\n
+
+@3095
+I shall move towards {v0b32}.
+
+@3095.1
+I will move towards {v0b32}.
+
+@3096
+I shall pursue the corps led by {v0332}.
+
+@3096.1
+I will pursue the corps led by {C14}.
+
+@3096.2
+I will pursue the corps led by {v0332}.
+
+@3097
+I shall go and hinder the castle works of {v0332} of the {v0336}.
+
+@3097.1
+I will go and hinder the castle works of {v0332} of the {v0336}.
+
+@3098
+I shall go and take {v0b32} of the {v0b34}.
+
+@3098.1
+I will go and take {v0b32} of the {v0b34}.
+
+@3099
+I shall go and take {v0b32}, held by the independent power {v0332}.
+
+@3099.1
+I will go and take {v0b32}, held by the independent power {v0332}.
+
+@3100
+I shall go and attack the Ikko led by {v0332}.
+
+@3100.1
+I will go and attack the Ikko led by {v0332}.
+
+@3101
+I shall go and attack the {v0336} corps led by {v0332}.
+
+@3101.1
+I will go and attack the {v0336} corps led by {v0332}.
+
+@3102
+I shall go and organise with the corps led by {C22}.
+
+@3102.1
+I will go and organise with the corps led by {C14}.
+
+@3102.2
+I will go and organise with the corps led by {C24}.
+
+@3103
+I shall go and split up at the target point.
+
+@3103.1
+I will go and split up at the target point.
+
+@3104
+I shall go and transport supplies to {v0b32}.
+
+@3104.1
+I will go and transport supplies to {v0b32}.
+
+@3105
+Our target, {v0b32}, has become our seat. The {v6f} is called off.
+
+@3105.1
+Our target, {v0b32}, has become our seat, so I will call off the {v6f} order.
+
+@3106
+So {v0232}'s corps, our target, has entered a castle... The {v6f} is called off.
+
+@3106.1
+{v0232}'s corps, our target, has entered a castle, so I will call off the {v6f} order.
+
+@3107
+A corps is on the adjacent target tile; this cannot be done.
+
+@3108
+There is only 1 staff officer; this cannot be done.
+
+@3109
+The target is the unit's own castle; this cannot be done.
+
+@3110
+Your own unit cannot be a target.
+
+@3111
+Shall I name this castle {v6f}...
+
+@3111.1
+{C14}, how about naming this castle {v6f}?
+
+@3112
+Do not split the corps?
+
+@3113
+Carry out flood control up to where?
+
+@3114
+Choose how far to carry out flood control.
+
+@3115
+Attack enemy castles and corps
+
+@3116
+Organise your own corps
+
+@3117
+Split your own corps
+
+@3118
+Deliver goods to your own castle
+
+@3119
+Pursue the target corps
+
+@3120
+Move the unit to the target
+
+@3121
+Adds rice every year in the 9th month
+
+@3122
+Adds gold every month
+
+@3123
+Adds rice every year in the 12th month
+
+@3124
+Adds gold every year in the 3rd month
+
+@3125
+Adds gold every year in the 4th month
+
+@3126
+Adds rice every year in the 11th month
+
+@3127
+Adds rice every year in the 1st month
+
+@3128
+Adds gold every year in the 10th month
+
+@3129
+Adds rice every year in the 7th month
+
+@3130
+Adds gold every year in the 9th month
+
+@3131
+Adds gold every year in the 2nd month
+
+@3132
+Adds rice every year in the 7th month
+
+@3133
+Adds rice every year in the 5th month
+
+@3134
+Adds gold every year in the 5th month
+
+@3135
+Adds rice every year in the 3rd month
+
+@3136
+Adds gold every year in the 8th month
+
+@3137
+Adds rice every year in the 11th month
+
+@3138
+Adds rice every year in the 2nd month
+
+@3139
+Adds rice every year in the 8th month
+
+@3140
+Adds rice every year in the 6th month
+
+@3141
+Adds gold every year in the 12th month
+
+@3142
+Adds gold every year in the 2nd month
+
+@3143
+Adds rice every year in the 10th month
+
+@3144
+Adds rice every year in the 9th month
+
+@3145
+Adds rice every year in the 4th month
+
+@3146
+Adds rice every year in the 12th month
+
+@3147
+Adds rice every year in the 5th month
+
+@3148
+Adds gold every year in the 1st month
+
+@3149
+Adds gold every year in the 11th month
+
+@3150
+Adds gold every year in the 6th month
+
+@3151
+Adds troops every month
+
+@3152
+Adds guns every month
+
+@3153
+Adds many troops every month
+
+@3154
+Erase 1 planned terrain
+
+@3155
+Erase all planned terrain
+
+@3156
+Build a branch castle
+
+@3157
+Raise a castle's defence
+
+@3158
+Build levees on rivers
+
+@3159
+Build roads
+
+@3160
+Demolish built terrain
+
+@3161
+Move the unit to the target
+
+@3162
+Stop the current work?
+
+@3163
+There is no clan to conduct diplomacy with.
+
+@3164
+There is no clan to target.
+
+@3165
+There is no clan to plot against.
+
+@3166
+{v0b32} is next to enemy corps and cannot be demolished.
+
+@3167
+Building a castle costs 2000 gold, so work cannot start at once. Continue? (Work period: {v6f})
+
+@3168
+Demolish {v6f}? It costs 2000 gold.
+
+@3169
+Demolishing a branch castle costs 2000 gold, so work cannot start at once. Continue?
+
+@3170
+This month's work is already finished.
+
+@3171
+Is this all right? (Work period: %s)
+
+@3172
+We shall now move towards {v0b32}. Wait a while until everyone has moved.
+
+@3172.1
+We will now move towards {v0b32}. Please wait a while until everyone has moved.
+
+@3173
+Everyone seems to have reached {v0b32} safely.
+
+@3173.1
+All have reached {v0b32} safely, it seems.
+
+@3174
+Discard the plan?
+

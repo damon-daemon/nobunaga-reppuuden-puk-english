@@ -1,0 +1,459 @@
+@2000.1
+you
+
+@2000.2
+you
+
+@2000.3
+you
+
+@2000.4
+you
+
+@2000.5
+you
+
+@2001
+The battle ended in a draw.
+
+@2002
+Victory for the Ikko.
+
+@2003
+The {v0133} army has held {v0b32}.
+
+@2004
+The {v0133} army has held {v0b32}.
+
+@2005
+The {v0133} army has taken {v0b32}.
+
+@2006
+Victory for the {v0133} army.
+
+@2007
+Lord {v0132}, decide what to do with the prisoners.
+
+@2008
+I missed my chance during the battle, but as promised, please take me, {v0134}, into your service.
+
+@2009
+To think that {C15} and I would face each other like this...
+
+@2009.1
+If you think me a disgrace to the {v0233} clan, then... {C215}...
+
+@2009.2
+What is it, {C15}... Have you not come to laugh at {C2}?...
+
+@2009.3
+This is {C2}'s last request... {C7}, cut me down with your own hand.
+
+@2009.4
+Blood kin or not, I want no mercy. Deal with me as you see fit.
+
+@2010
+{C15}, you are a woman too. Surely you understand how I feel...
+
+@2010.1
+Gloating over a captured woman... How petty of you.
+
+@2011
+Taken by a woman... I, {v0134}!
+
+@2011.1
+A prisoner of the {v0233}... A lifelong shame for {v0134}...
+
+@2011.2
+I have nothing to say. Quickly... {C215}...
+
+@2011.3
+......I have nothing to say now...
+
+@2011.4
+Well, {v0234}! Boil me or roast me, as you please!
+
+@2011.5
+It seems my fortunes in war have run out...
+
+@2011.6
+I, {v0134}, bound with rope... I know not whether to rage or weep.
+
+@2011.7
+I fear no blade... but first, may I wash my face?
+
+@2011.8
+Take this head as a deed for the ages. Come, be quick.
+
+@2011.9
+Better to die than live in shame. Be quick... {C215}.
+
+@2011.10
+Heh... laugh if you like. Soon {C2000} will share my fate.
+
+@2012
+{C15}... do you think I would serve you?
+
+@2012.1
+{C184}, {C15}, soft as ever... You will never win the realm like that.
+
+@2012.2
+{C15}, why do you hesitate? I want no mercy. {C215}!
+
+@2012.3
+So it is fate that you and I, {C7}, cannot live under the same sky...
+
+@2012.4
+With what face could I serve you now, {C7}?...
+
+@2013
+I want no mercy. I have no wish for such pity.
+
+@2013.1
+I was born a woman, but I resolved to die like a samurai.
+
+@2014
+Absurd... I have not the slightest wish to serve a {C19} like you.
+
+@2014.1
+Nothing galls me more than being made to stand below others...
+
+@2014.2
+Me, become your vassal?... {C184}, what a joke!
+
+@2014.3
+I, {v0134}, once aspired to rule the realm... I cannot live on another clan's stipend now.
+
+@2014.4
+{C215}. I have lost all wish to live...
+
+@2015
+One who seeks the realm must spare neither parent nor child!
+
+@2015.1
+This is too much! Did you think I would serve the likes of you!
+
+@2015.2
+I will never take the {v0233} clan's stipend...
+
+@2015.3
+"A loyal man serves no second lord," say the ancients. Do you not know?
+
+@2015.4
+What drivel, {C19}! I would never serve you!
+
+@2015.5
+I must decline... Even I have my pride.
+
+@2015.6
+As there are not two suns in the sky, I have but one lord.
+
+@2015.7
+I will not live as a captive... Quickly... {C215}...
+
+@2015.8
+If I alone survive, I could not face those who fell in battle.
+
+@2015.9
+A warrior is most beautiful as the blossom falls.
+
+@2015.10
+Lord {v0234}, as a samurai, let me, {v0134}, keep my loyalty.
+
+@2016
+So the {v0233} clan has no need for a useless one like me?
+
+@2017
+{C15}, you are soft... Ha... now my nose is running with my tears... ha...
+
+@2017.1
+{C15}... I thank you. But I will show no mercy in the future!
+
+@2017.2
+I hate to say it, but {C2} is beaten this time... Next time will be different!
+
+@2017.3
+One day, {C15}, your kindness will be the death of you!
+
+@2017.4
+You tell me to go?... That {C15} should say such a thing...
+
+@2018
+Let us meet again on the battlefield one day. Farewell...
+
+@2018.1
+For today, I thank you. Farewell...
+
+@2019
+Shown mercy by a woman... what a wretched man I am...
+
+@2019.1
+Soft, {v0234}... That softness will be your death one day!
+
+@2019.2
+My thanks... Could you spare me a horse to ride home?
+
+@2019.3
+{v0232}... not the outlaw the rumours say, it seems...
+
+@2019.4
+Lord {v0233} knows a samurai's heart. My thanks... Farewell!
+
+@2019.5
+Lord {v0233} is quite a man after all, it seems... Farewell!
+
+@2019.6
+......I will not thank you. I will not...
+
+@2019.7
+...Farewell, Lord {v0234}! We will meet again in battle!
+
+@2019.8
+Next time {C15} will wear the rope. Be ready!
+
+@2019.9
+For today, {C15}, I accept your mercy.
+
+@2019.10
+Living on in shame is not my wish, but... I take my leave...
+
+@2020
+{v0132} has been released.
+
+@2021
+{C15}! I will wait for you in the next world... {C185}
+
+@2021.1
+Cut down by {C15}'s own hand... my thanks... {C185}
+
+@2021.2
+My vengeful ghost will take {C15} with me... {C185}
+
+@2021.3
+{C15}... I leave the rest to you... {C185}
+
+@2021.4
+{C15}, I will watch you from beyond the grave... {C185}
+
+@2022
+If I fall to a woman's hand, I have no regrets... Ah...
+
+@2022.1
+When I am born again, I want to be born a woman... Ah...
+
+@2023
+Man's fifty years... set against the realm below, are but a dream and illusion... {C185}
+
+@2023.1
+Like dew I fell, like dew I vanish... so ends my life... {C185}
+
+@2023.2
+"Only the Taira could fell the Taira." Only {v0134} could fell {v0134}... {C185}
+
+@2023.3
+One who cares for a great cause holds life dear until the head falls... {C185}
+
+@2023.4
+A life with no rest... Next time I want a carefree life, like a sparrow... {C185}
+
+@2023.5
+"The way of the samurai is found in death"... {C185}
+
+@2023.6
+Cut down by a woman, eh? {C184}... That will do as well... {C185}
+
+@2023.7
+Strange... everything around me looks so clear... {C185}
+
+@2023.8
+Paradise, or down to hell... which will it be?... {C185}
+
+@2023.9
+Behold the death of a true samurai! Ugh, {C185}...
+
+@2023.10
+Even this insect on my face seems strangely dear to me now... {C185}
+
+@2023.11
+...It was a bloodstained road after all... and now it ends... {C185}
+
+@2023.12
+Comrades! I am coming to join you now... {C185}
+
+@2023.13
+Heh... {C216} at war... like a dre... {C185}
+
+@2023.14
+{C184}, death on the battlefield suits me after all... {C185}
+
+@2023.15
+Thanks to {C15}, I did not miss my place to die. My thanks... {C185}
+
+@2023.16
+Cut me down, then. If you fail to win the realm, I will come back to haunt you... {C185}
+
+@2024
+{v0132} has been beheaded by {v0232}.
+
+@2025
+The uprising has been crushed.
+
+@2026
+From this day I, {v0132}, will work for the {v0233} clan.
+
+@2026.1
+I feel I have finally found my true lord. I will gladly serve you.
+
+@2026.2
+My heart already belonged to the {v0236}. Watch what I, {v0132}, can do.
+
+@2027
+{C192}, {C15}... will you forget all that has passed?...
+
+@2027.1
+{C15}, from now on I am your faithful retainer!
+
+@2027.2
+I misjudged you, {C15}. I am ashamed of my own blindness...
+
+@2027.3
+...Perhaps it is fate that brought us together again like this...
+
+@2027.4
+...Very well! I will work my hardest for you, {C7}.
+
+@2028
+...Let us build together a world where women need not fight as samurai!
+
+@2028.1
+...It cannot be helped. I give my life to Lord {v0234}...
+
+@2029
+Unwilling as I am... it cannot be helped. I yield.
+
+@2029.1
+...Very well... It cannot be helped now...
+
+@2029.2
+I will cast off the past and serve the {v0233} clan.
+
+@2029.3
+I threw this life away once... I entrust it to the {v0233} lord.
+
+@2029.4
+I worry for the family I left at home, but it cannot be helped now.
+
+@2029.5
+Very well... and now, some food... I am starving...
+
+@2029.6
+If a man who failed to die will do, I will gladly be of use.
+
+@2029.7
+...Even if I am branded a traitor, I will live on for now...
+
+@2029.8
+...{C15}, you have won me! For you I would toil like a packhorse.
+
+@2029.9
+To join the famed {v0233} clan as a vassal... what an honour.
+
+@2029.10
+So be it... I will lend my strength to {C15}'s dream.
+
+@2030
+{v0132} has been recruited by the {v0233} clan.
+
+@2031
+One who seeks the realm must not look back on parent or child!
+
+@2031.1
+This is too much! Did you think I would serve a woman!
+
+@2031.2
+I could never bring myself to take the {v0233} clan's stipend...
+
+@2031.3
+"A loyal retainer serves no second lord," the ancients said... Have you not heard?
+
+@2031.4
+What drivel, {C19}! I would never serve the likes of you!
+
+@2031.5
+I must decline... Even I have my pride.
+
+@2031.6
+As there are not two suns in the sky, I have but one lord.
+
+@2031.7
+I will not live to suffer the shame of capture... Be quick... {C215}...
+
+@2031.8
+A warrior is most beautiful as the blossom falls.
+
+@2031.9
+Lord {v0234}, you are a samurai too. Let me, {v0134}, stay true to my loyalty.
+
+@2032
+Man's fifty years... set against the realm below, are but a dream and illusion... {C185}
+
+@2032.1
+Like dew I fell, like dew I vanish... so ends my life... {C185}
+
+@2032.2
+"Only the Taira could fell the Taira." Only {v0134} could fell {v0134}... {C185}
+
+@2032.3
+One who cares for a great cause holds life dear until the head falls... {C185}
+
+@2032.4
+A life with no rest... Next time I want a carefree life, like a sparrow... {C185}
+
+@2032.5
+"The way of the samurai is found in death"... {C185}
+
+@2032.6
+Cut down by a woman, eh? {C184}... That will do as well... {C185}
+
+@2032.7
+Strange... everything around me looks so clear... {C185}
+
+@2032.8
+Paradise, or down to hell... which will it be?... {C185}
+
+@2032.9
+Behold the death of a true samurai! Ugh, {C185}...
+
+@2032.10
+Even this insect on my face seems strangely dear to me now... {C185}
+
+@2032.11
+...It was a bloodstained road after all... and now it ends... {C185}
+
+@2032.12
+Comrades! I am coming to join you now... {C185}
+
+@2032.13
+Thanks to {C15}, I did not miss my place to die. My thanks... {C185}
+
+@2032.14
+Cut me down, then. If you fail to win the realm, I will come back to haunt you... {C185}
+
+@2033
+Please choose a new commander-in-chief.
+
+@2034
+So {v0b32} has fallen... {v0c32} cannot hold either. I shall open the gates...
+
+@2035
+This battle has shown how fearsome our {v0233} clan is; the branch castles have surrendered, it seems.
+
+@2035.1
+Lord {v0234}, fearing this battle, the branch castles have surrendered.
+
+@2036
+My heart already belonged to the {v0236}. From today I, {v0132}, serve Lord {v0232}.
+
+@2037
+I missed my chance during the battle, but as promised, from today I, {v0132}, serve Lord {v0234}.
+

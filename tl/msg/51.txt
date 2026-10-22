@@ -1,0 +1,492 @@
+@51001
+Age of chaos or not, I think one cannot win the realm by doing nothing but wage war. What do you all think?
+
+@51002
+Just as you say, my lord. I believe the key is first to build up the land and govern well.
+
+@51003
+No one has ever won the realm through tyranny, after all.
+
+@51004
+But our clan still seems to lack people skilled in government.
+
+@51005
+Then let us search far and wide for such people.
+
+@51006
+Yes, by all means bring in wise and able men. Go and find people who can be the bedrock of our clan.
+
+@51008
+And so the {v0136} clan set itself the goal of recruiting officers of fine Politics by month {v66} of {v65}.
+
+@51009
+Age of chaos or not, one cannot win the realm by doing nothing but wage war...
+
+@51010
+But our clan lacks people skilled in government. Then I shall search far and wide for such people.
+
+@51013
+You have all served the {v0136} clan well.
+
+@51014
+But for the {v0136} clan to win mastery of the realm, we still lack able people.
+
+@51015
+True... The more talent, the better, no doubt.
+
+@51016
+And so I wish to promote anyone, famed or unknown, who is worthy to support the {v0136} clan.
+
+@51017
+What kind of people does {C14} desire?
+
+@51018
+In a world of feints and ruses, men versed in intrigue and stratagem would serve best.
+
+@51018.1
+In a world of feints and ruses, men versed in intrigue and stratagem will serve best.
+
+@51019
+Then we shall see to it that men of keen intellect are taken into service.
+
+@51020
+Please see to it. I am counting on you.
+
+@51020.1
+Good. I count on you.
+
+@51021
+And so the {v0136} clan set itself the goal of recruiting officers of fine Intellect by month {v66} of {v65}.
+
+@51022
+At this rate the realm is far off... I need someone who can show me the path to take...
+
+@51025
+{C14}, all your vassals are assembled. Has some grave matter arisen?
+
+@51026
+No... The truth is, I have been pondering a step on the road to unifying the realm.
+
+@51027
+I wanted to hear all your opinions on it.
+
+@51027.1
+I wanted to hear what you all think of it.
+
+@51028
+And what might that be?
+
+@51029
+To make our clan's name known throughout the land, I intend to hold a tea ceremony.
+
+@51030
+A tea ceremony...?
+
+@51031
+Yes, a tea ceremony. Force of arms is not the only path to mastery.
+
+@51032
+I see... In an age when the realm is in turmoil and hearts grow coarse, a tea ceremony has its meaning.
+
+@51033
+A splendid idea. None of us has any objection.
+
+@51034
+Then let us welcome tea masters far and wide, seek out the finest tea utensils, and hold the greatest tea ceremony of our age!
+
+@51036
+And so the {v0136} clan set itself the goal of holding a tea ceremony by month {v66} of {v65}.
+
+@51037
+True, this is an age of chaos. But force of arms is not the only path to mastery.
+
+@51038
+In an age when the realm is in turmoil and hearts grow coarse, a tea ceremony has its meaning.
+
+@51041
+To win mastery of the realm, we must make our clan's glory known far and wide.
+
+@51042
+Has anyone a good idea for that?
+
+@51043
+{C14}, if I may humbly say so, I have an idea.
+
+@51044
+{C13}, is it... Do not hold back. Speak.
+
+@51044.1
+{C13}, is it... Go on, speak.
+
+@51045
+Why not hold a tournament at your castle, my lord?
+
+@51046
+A tournament...?
+
+@51047
+Gather the swordsmen of the land and have them match their skills... Our clan's martial fame would then ring throughout the realm.
+
+@51048
+I see, a fine idea. Well then, {C13}...
+
+@51049
+Yes, my lord.
+
+@51050
+Invite swordsmen to our clan and arrange a tournament as soon as possible.
+
+@51051
+Yes, my lord. Understood.
+
+@51052
+And so the {v0136} clan set itself the goal of holding a tournament by month {v66} of {v65}.
+
+@51053
+To win mastery of the realm, we must make our clan's glory known far and wide. Is there no good way...
+
+@51054
+Gather the swordsmen of the land and have them match their skills... Our martial fame might then ring throughout the realm.
+
+@51057
+What must the {v0136} clan do first to win mastery of the realm?
+
+@51058
+If I may humbly say so, to win the realm, building up the land is essential.
+
+@51059
+Building up the land... True, in a world where the strong eat the weak, we must store up as much strength as any other clan.
+
+@51060
+Yes, my lord. Not only in our domain, but all over {v6f}, there is land lying idle and wasted.
+
+@51061
+I think {C14} should take these lands and develop them to the full.
+
+@51062
+I see. If we develop every last piece of land in {v6f}, our clan's strength will match any power.
+
+@51063
+Then the road to ruling the realm will reveal itself.
+
+@51064
+And so the {v0136} clan set itself the goal of developing all its territory in {v6f} by month {v66} of {v65}.
+
+@51065
+Precisely because the strong eat the weak, we must store up as much strength as any other clan.
+
+@51066
+All over {v6f}, there is land lying idle and wasted.
+
+@51067
+If we develop every last piece of land in {v6f}, our clan's strength will match any power.
+
+@51070
+The realm is in turmoil and warlords vie on every side. What should the {v0136} clan do now?
+
+@51071
+If I may humbly say so, precisely because this is an age of war, the key is to till the fields and secure rice.
+
+@51072
+Securing rice... I see.
+
+@51073
+Yes, my lord. We should store plenty of food against war and famine.
+
+@51074
+What you say is quite right. With ample food, we can deal with anything.
+
+@51075
+Just as you say. Defeating enemies in battle alone will not see us through this warring age.
+
+@51076
+Then let us till the fields of our domain and encourage new cultivation in the lands we gain.
+
+@51077
+Yes, my lord. Then we can build a rich land that knows no hunger.
+
+@51078
+And so the {v0136} clan set itself the goal of raising its rice output by month {v66} of {v65}.
+
+@51079
+Defeating enemies in battle alone will not see us through this warring age. But with ample food, we can deal with anything.
+
+@51082
+For our clan to win mastery of the realm, we must find a way forward at sea as well.
+
+@51083
+For that we must strengthen our navy. I would hear your thoughts.
+
+@51084
+If I may humbly say so...
+
+@51085
+{C13}, is it? Go ahead, speak.
+
+@51086
+With ships that carry cannon and are clad in iron, defeating the enemy navy would be easy, I believe.
+
+@51087
+What! Such ships exist?
+
+@51088
+Yes, my lord. They are called ironclads.
+
+@51089
+Ironclads, you say... I must have these ironclads, whatever it takes... Could our clan build them too?
+
+@51090
+Building ironclads is no easy matter, but if our clan needs them, we shall find a way.
+
+@51091
+Good. I am counting on you.
+
+@51091.1
+Good. I count on you.
+
+@51092
+And so the {v0136} clan set itself the goal of building ironclads by month {v66} of {v65}.
+
+@51094
+For that we must build the iron-clad ships with cannon that rumour speaks of.
+
+@51097
+I would like to raise an army so that the {v0136} clan may win mastery of the realm, but...
+
+@51098
+If I may humbly say so, they say haste makes waste.
+
+@51099
+I believe the key is first to build up our forces and gather our strength.
+
+@51100
+You mean I should not be hasty, but build up the land for now?
+
+@51101
+Yes, my lord. I suggest we first build villages below our castles to ensure a steady supply of troops.
+
+@51102
+Then, if we wait a while, our clan's forces will be second to none.
+
+@51103
+And then we can overwhelm them with numbers and win as surely as we should, is that it?
+
+@51104
+Yes, my lord. Just as you say.
+
+@51105
+And so the {v0136} clan set itself the goal of increasing its troops by month {v66} of {v65}.
+
+@51106
+I would like to raise an army to win mastery of the realm, but...
+
+@51107
+Haste makes waste, they say. Perhaps the key is first to build up our forces and gather our strength...
+
+@51110
+This warring age rewards true strength, but one cannot neglect the good name of one's house either.
+
+@51111
+Just as you say, my lord. If our house has a poor name, our vassals' unity will slacken and other clans will scorn us.
+
+@51112
+Yet if our clan's fame resounds through the realm, it will sap the others' will to fight, and we may even make them submit.
+
+@51113
+The art of war speaks of "winning without fighting". If we can cow the enemy into surrender, there is no better plan.
+
+@51113.1
+The art of war speaks of "winning without fighting". If we can cow the enemy into surrender, there is no better plan!
+
+@51114
+Yes, my lord. Then we must raise our clan's name at all costs.
+
+@51115
+Then I too shall strive never to sully our house's name. You must all bear it firmly in mind.
+
+@51115.1
+Then I too shall strive never to sully our house's name. You must all bear it firmly in mind!
+
+@51116
+Yes, my lord!
+
+@51117
+And so the {v0136} clan set itself the goal of raising its Prestige by month {v66} of {v65}.
+
+@51118
+This warring age rewards true strength, but one cannot neglect the good name of one's house either.
+
+@51119
+The art of war speaks of "winning without fighting". If we can cow the enemy into surrender, there is no better plan...
+
+@51119.1
+The art of war speaks of "winning without fighting". If I can cow the enemy into surrender, there is no better plan...
+
+@51120
+Then we must raise our clan's name at all costs.
+
+@51123
+What must the {v0136} clan do to win mastery of the realm?
+
+@51124
+If I may humbly say so, to win the realm we must first secure our own footing.
+
+@51125
+Our own footing?
+
+@51125.1
+Our footing, you say?
+
+@51126
+{v6f} is, of course, our clan's foothold. Yet other powers still nest here.
+
+@51127
+True, they are an eyesore.
+
+@51127.1
+True, they are an eyesore.
+
+@51128
+First let us drive them out and unify {v6f}. Ruling the realm comes after that.
+
+@51129
+I see. If our footing is swept from under us, the realm is out of the question. Let us first aim to unify {v6f}.
+
+@51129.1
+I see. If our footing is swept away, the realm is out of the question. We shall first aim to unify {v6f}.
+
+@51131
+To win the realm, we must first secure our own footing. Yet other powers still nest in {v6f}...
+
+@51132
+If our footing is swept from under us, the realm is out of the question. I shall first aim to unify {v6f}.
+
+@51132.1
+If my footing is swept away, the realm is out of the question. I shall first aim to unify {v6f}...
+
+@51135
+For the {v0136} clan to win mastery of the realm, the {v0333} power stands in our way.
+
+@51136
+The Ikko followers show every sign of defying us.
+
+@51137
+We cannot leave them be, but {v0332} is a formidable foe...
+
+@51137.1
+We cannot leave them be, but {v0333} is a formidable foe...
+
+@51138
+{C14}, news by fast horse!
+
+@51139
+What is it? Read it out.
+
+@51140
+Yes, my lord. Well... {v0333} has sent a call to arms to the Ikko followers everywhere, ordering them to crush our clan.
+
+@51141
+What!! Is that true?
+
+@51143
+Curse you, {v0333}! Striking first, the insolent wretch!
+
+@51144
+{C14}, what will you do?
+
+@51145
+Sparks that fall upon us must be brushed away.
+
+@51145.1
+Sparks that fall upon us must be brushed away!
+
+@51146
+{C13}, tell everyone: {v0333} is our mortal enemy. We will crush them utterly!
+
+@51148
+And so the {v0136} clan set itself the goal of destroying the {v0236} by month {v66} of {v65}.
+
+@51149
+For me to win mastery of the realm, the {v0233} power is truly in the way...
+
+@51150
+The Ikko followers show every sign of defying me.
+
+@51151
+I cannot leave them be, but {v0233} is a formidable foe...
+
+@51151.1
+I cannot leave them be, but {v0233} is a formidable foe...
+
+@51152
+But if {v0233} is sending a call to arms to Ikko followers everywhere, ordering them to crush us, that changes things.
+
+@51153
+Sparks that fall upon us must be brushed away.
+
+@51153.1
+Sparks that fall upon me must be brushed away!
+
+@51154
+{v0233} is my mortal enemy. I shall crush them utterly.
+
+@51157
+It is a shameful thing, but our clan has yet to receive any court title from the Imperial Court.
+
+@51158
+The Court's authority is now a mere name. I think a court title would be of no use.
+
+@51159
+No, no. The Court's authority still has its uses.
+
+@51160
+Besides, it would be rather shameful to claim mastery of the realm without a single court title.
+
+@51160.1
+Besides, it would be a little shameful to claim mastery of the realm without a single court title.
+
+@51161
+I see. Then we shall cultivate the Court's favour and arrange for a court title to be granted.
+
+@51162
+Make sure His Majesty thinks well of us.
+
+@51162.1
+Yes. Make sure His Majesty thinks well of us.
+
+@51163
+And so the {v0136} clan set itself the goal of receiving the court title of {v6f} or higher by month {v66} of {v65}.
+
+@51164
+To claim mastery of the realm without a single court title might be rather shameful...
+
+@51164.1
+To claim mastery of the realm without a single court title would be a little shameful.
+
+@51165
+But I have yet to receive any court title from the Imperial Court.
+
+@51166
+Then I shall cultivate the Court's favour and arrange for a court title to be granted.
+
+@51169
+I already hold the court title of {v6f} from the Imperial Court, but...
+
+@51170
+I feel that so low a rank is not enough to claim mastery of the realm.
+
+@51171
+If I may humbly say so, the Court's authority is now a mere name. I think a higher title would be of no use.
+
+@51173
+Besides, with a high court title, other clans will treat us with respect. It will be by no means wasted.
+
+@51174
+I see. Then we shall cultivate the Court's favour and arrange for a new court title to be granted.
+
+@51178
+I feel that so low a rank is not enough to claim mastery of the realm.
+
+@51179
+With a high court title, other clans will treat me with respect. It will be by no means wasted.
+

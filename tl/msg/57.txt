@@ -1,0 +1,357 @@
+@57000
+Month {v66}, {v65}: the {v3d32} clan achieved its goal of taking on men of military talent.
+
+@57001
+Congratulations. The men you sought have finally gathered.
+
+@57002
+Mm, at last my wish has come true.
+
+@57003
+It was in month {v66} of {v65} that our clan resolved to recruit men of military talent...
+
+@57004
+To survive these warring times, we needed as many brave generals as we could get.
+
+@57005
+A wise idea. However many troops you gather, without leaders they are but a rabble.
+
+@57006
+But now things are different. With {v0334}, {v0434} and others, we have more men we can trust with troops.
+
+@57006.1
+Mm... but now things are different. With {v0334}, {v0434} and others, we have more men we can trust with troops!
+
+@57007
+We too look forward to their feats with the spear.
+
+@57008
+Then call the two of them.
+
+@57010
+I have come as summoned.
+
+@57011
+I am here.
+
+@57012
+Our clan has many obstacles to remove. I will entrust troops to you both, and I want you to fight like raging lions.
+
+@57013
+That is why I entered your service. Leave it to me. I will surely live up to your hopes.
+
+@57014
+Have no fear. I will win the greatest glory in the {v0136} clan.
+
+@57015
+Most reassuring. I expect great things.
+
+@57018
+It was in month {v66} of {v65} that I resolved to recruit men of military talent...
+
+@57019
+At last my wish has come true. {v0234}, let us summon {v0334}.
+
+@57020
+Month {v66}, {v65}: the {v3d32} clan achieved its goal of taking on men skilled in governance.
+
+@57021
+Congratulations. The talent you sought has finally gathered.
+
+@57023
+It was in month {v66} of {v65} that our clan resolved to recruit men skilled in governance...
+
+@57024
+I truly needed wise men to assist my rule.
+
+@57025
+Indeed. Whether governing our domain or negotiating with other clans, we need men skilled in governance.
+
+@57026
+Mm, and at last our clan has men we can entrust with governance, led by {v0334} and {v0434}.
+
+@57027
+You searched well, all of you. Now, call the two of them.
+
+@57031
+Mm. From now on you two must serve in many ways: not only in government, but in negotiations with other clans and the Imperial Court.
+
+@57032
+At times you may have to go alone into an enemy castle, but serve our clan well. I am relying on you.
+
+@57033
+Such gracious words. I will work myself to the bone.
+
+@57034
+Have no fear. Leave it to me. I will surely live up to your hopes.
+
+@57038
+It was in month {v66} of {v65} that I resolved to recruit men skilled in governance...
+
+@57040
+Month {v66}, {v65}: the {v3d32} clan achieved its goal of taking on men of keen intellect.
+
+@57042
+Mm, at last my wish has come true. {C184}, it is as if I had gained Zhang Liang on top of Taigong Wang!
+
+@57043
+It was in month {v66} of {v65} that our clan resolved to recruit men of keen intellect...
+
+@57044
+I believed that to survive in a world of feints and deceptions, men of cunning were absolutely necessary.
+
+@57045
+Just so. In these cut-throat times, relying on strength alone will never bring the realm within reach.
+
+@57046
+Mm, and at last our clan has men we can entrust with stratagems, led by {v0334} and {v0434}.
+
+@57051
+Mm. I want you both to weave your schemes far and wide and bring victory to our army. I am counting on you.
+
+@57052
+Such gracious words. I will work myself to the bone.
+
+@57053
+Leave it to me. I will surely live up to your hopes.
+
+@57057
+It was in month {v66} of {v65} that I resolved to recruit men of keen intellect...
+
+@57059
+Month {v66}, {v65}: the {v3d32} clan held a grand tea ceremony.
+
+@57060
+Congratulations, {C14}. This day has come at last. Looking back, so much has happened...
+
+@57060.1
+Congratulations, {C14}. At last this day has come. Looking back, there was much along the way...
+
+@57061
+It was in month {v66} of {v65} that our clan set the goal of holding a tea ceremony...
+
+@57062
+Men's hearts had grown coarse in these days of war, so I wanted our clan to hold a grand tea ceremony and show the world the fragrance of culture.
+
+@57063
+Your intent, {C14}, spread far, and at last, in month {v66} of {v65}, as many as 7 tea masters gathered around you.
+
+@57064
+Yes. You searched well, {C183}. Thanks to you, we can hold a grand tea ceremony.
+
+@57064.1
+Mm... so it is. Thank you for finding so many tea masters, {C183}.
+
+@57065
+Gracious words. But this is thanks to the virtue of {C14}, who cherished the heart even in this age of chaos.
+
+@57066
+So you understand. Precisely because the world is like this, we must not rely on force alone. Now, let us begin at once.
+
+@57066.1
+So you understand. In a world like this, force alone will not do. Now, let us begin at once.
+
+@57067
+...\nYes...\n...Please.
+
+@57067.1
+...\nMm...\n...Please.
+
+@57068
+...A fine serving. Just as I would expect of {C13}.
+
+@57068.1
+Mm, good tea... As expected of {C13}.
+
+@57069
+Quite so... It enriches the spirit. Now, my turn.
+
+@57070
+Yes. Then I shall partake.
+
+@57070.1
+Mm. Then I shall have some.
+
+@57071
+And so time passed gently at the tea ceremony held by the {v0136} clan.
+
+@57072
+That must have been a welcome change. Keep serving the {v0136} clan well! Next time, I count on you on the battlefield.
+
+@57072.1
+That was a fine change of air. Keep serving the {v0136} clan well! Next time, I count on you on the battlefield!
+
+@57074
+Month {v66}, {v65}: the {v3d32} clan held a tournament.
+
+@57076
+It was in month {v66} of {v65} that our clan set the goal of holding a tournament...
+
+@57077
+To take many master swordsmen into my service and hold a tournament renowned throughout the realm was my long-cherished wish.
+
+@57078
+And at last, as many as 4 master swordsmen gathered around {C14}.
+
+@57079
+So it was. You searched well, {C183}. Thanks to you, we can hold a grand sword tournament.
+
+@57079.1
+Mm... so it was. You searched well, {C183}. You have my thanks.
+
+@57080
+Gracious words. But this too is owed entirely to the virtue of {C14}.
+
+@57081
+{C184}, I shall try not to betray your trust. Now, let the bouts begin at once.
+
+@57081.1
+{C184}, I must not betray that trust. Now, let the bouts begin at once.
+
+@57082
+Here I come!
+
+@57082.1
+I come...
+
+@57082.2
+Have at you! Hah! Take that!
+
+@57083
+Come at me! Yaah!!
+
+@57083.1
+Hmph...
+
+@57083.2
+Come, have at me! Hmph! Taah!
+
+@57084
+Oh, just what I would expect of {C15}...
+
+@57084.1
+Ohh, just what I would expect of {C15}...
+
+@57085
+Mm, splendid...
+
+@57086
+And so the tournament held by the {v0136} clan came to a close amid great acclaim.
+
+@57087
+Now our clan's martial might will be known. Keep serving the {v0136} clan well! I am counting on you.
+
+@57087.1
+Now our clan's martial might will be known. Keep serving the {v0136} clan well! I am counting on you!
+
+@57089
+Month {v66}, {v65}: the {v0136} clan finished developing all the land it holds in {v6f}.
+
+@57090
+{C14}, congratulations. At last you have achieved your goal.
+
+@57091
+For some time now I have put all my effort into developing our lands, and it has been worth it.
+
+@57092
+It was in month {v66} of {v65} that our clan set the goal of developing {v6f}...
+
+@57093
+So it was. Rather than start wars rashly, we were first to build up our own lands properly.
+
+@57094
+In those days our lands still had much ground left untouched.
+
+@57095
+But we tilled the fields and built towns, and now we have grown quite prosperous.
+
+@57096
+Indeed. Thanks to your hard work, {v6f} Province is now hardly recognisable.
+
+@57096.1
+Just so. Thanks to your hard work, {v6f} Province is now hardly recognisable.
+
+@57097
+Surely no other province is as prosperous as this.
+
+@57098
+Still, I cannot be content with making only {v6f} prosperous.
+
+@57098.1
+But making {v6f} alone prosperous is not enough for me.
+
+@57099
+I want to rule many more provinces and build them up so the people may live in ease.
+
+@57100
+Just as you say, my lord. For the sake of a people worn out by war, someone like {C14} must rule Japan.
+
+@57101
+Indeed. To that end I mean to do my very best. I am counting on you all.
+
+@57101.1
+Just so. To that end I mean to do my utmost. I am counting on you all.
+
+@57104
+For some time now I have put all my effort into developing our lands, and it has been worth it.
+
+@57105
+Month {v66}, {v65}: the {v3d32} clan's rice stores passed {v67}.
+
+@57106
+{C14}, our clan's stores of provisions have grown quite plentiful.
+
+@57107
+The storehouses are overflowing with rice!
+
+@57108
+This too is thanks to the hard work of you, my vassals.
+
+@57109
+You are too kind. It is entirely the fruit of your wise rule, {C14}.
+
+@57110
+It was in month {v66} of {v65}, I believe, that {C14} ordered us to secure ample rice.
+
+@57111
+A truly wise decision. Now the people can live without fear of hunger.
+
+@57112
+Preparation prevents trouble. Neglect your rice stores, and you will not survive this age of chaos.
+
+@57112.1
+Be prepared and you need not worry. Neglect your rice stores, and you will not survive this age of chaos.
+
+@57113
+Just as you say, my lord. Wage war day after day with no reserves, and ruin will follow of itself.
+
+@57114
+As they say, no one fights well on an empty stomach.
+
+@57115
+At any rate, we need not worry about rice for a while. We may march out, or work further on building up our lands...
+
+@57115.1
+Mm, at any rate, we need not worry about rice for a while. We may march out, or build up our lands further.
+
+@57116
+We vassals too intend to strive ever harder for the {v0236} clan.
+
+@57117
+I am counting on you from now on, {C183}.
+
+@57117.1
+I am counting on you from here on, {C183}!
+
+@57120
+Goal achieved. Preparation prevents trouble. Neglect your rice stores, and you will not survive this age of chaos.
+
+@57120.1
+Goal achieved! Be prepared and you need not worry. Neglect your rice stores, and you will not survive this age of chaos.
+
+@57121
+At any rate, we need not worry about rice for a while. We may march out, or work further on building up our lands...
+
+@57121.1
+At any rate, no worries about rice for a while. We may march out, or build up our lands further.
+

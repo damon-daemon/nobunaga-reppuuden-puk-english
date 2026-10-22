@@ -1,0 +1,417 @@
+@48000
+this humble monk
+
+@48001
+Lord {v0134}, further fighting among Suruga, Kai and Sagami brings no profit to the {v0133} clan.
+
+@48002
+If I may say so, I, {v0434}, have some confidence in my powers of persuasion.
+
+@48003
+I shall reason with Lord {v0233} and Lord {v0333}, and put an end to this strife without fail.
+
+@48004
+Lord {v0134}, I beg you, leave it to {C48000}!
+
+@48005
+Entrust the negotiations to {v0432}?
+
+@48006
+You speak truly. I leave it all to you. See that you bring it off!
+
+@48007
+I am most grateful! Then I shall leave at once for the {v0233} clan.
+
+@48008
+Ah, Lord {v0434}. Is Lord {v0134} in good health? And what brings you here today?
+
+@48009
+Lord {v0234}, if Kai, Sagami and Suruga fight on, none of us will gain anything.
+
+@48010
+Will you not agree to an alliance of the three houses: {v0233}, {v0333} and {v0133}?
+
+@48011
+Agree with {v0434} and form the alliance?
+
+@48012
+You are right. I, {v0234}, agree to your proposal.
+
+@48013
+Most gracious words! Then I shall go at once to Lord {v0334}.
+
+@48014
+Ah, Lord {v0434}. Is Lord {v0134} well? And what is your business today?
+
+@48015
+Lord {v0334}, if Sagami, Kai and Suruga fight on, none of us will profit.
+
+@48016
+Will you not agree to an alliance of the three houses: {v0333}, {v0233} and {v0133}?
+
+@48017
+Agree with {v0434} and form the alliance?
+
+@48018
+You are quite right. I, {v0334}, agree to it.
+
+@48019
+Most gracious words! Now the alliance of the three provinces is made. I must report to my lord at once.
+
+@48020
+My lord, the alliance is splendidly concluded. Now our land need not be worn down by war.
+
+@48021
+{v0134}'s daughter wed into the {v0233}, {v0234}'s into the {v0333}, {v0334}'s into the {v0133}: the Sagami-Kai-Suruga alliance was made.
+
+@48022
+I will not be taken in by your glib tongue. Tell Lord {v0134} his designs are plain to see.
+
+@48023
+What...... I never thought Lord {v0334} so deaf to reason......
+
+@48024
+My lord, forgive me. Lord {v0334} has refused.
+
+@48025
+Your tongue is nimble indeed. Tell Lord {v0134} his designs are plain to see.
+
+@48026
+What...... I never thought Lord {v0234} so deaf to reason......
+
+@48027
+My lord, forgive me. Lord {v0234} has refused.
+
+@48028
+What nonsense is this? Ally myself with such men... I will have none of it.
+
+@48029
+What...... My lord, can you not see how this strife is wearing down our land...? ......It cannot be helped.
+
+@48030
+One day... {v0432} gathered his sons {v0134}, {v0232} and {v0332} at {v0438}.
+
+@48031
+Thank you for coming. Now listen well, and take what I am about to say as my last will.
+
+@48033
+Yes, Father!!
+
+@48034
+As you wish.
+
+@48035
+{v0134}... Try to break this single arrow.
+
+@48036
+? ...Very well. Nothing could be easier.
+
+@48037
+Now... {v0234}, break these two arrows.
+
+@48038
+...Yes! I shall.
+
+@48039
+...{v0334}, and what of three...?
+
+@48040
+Very well. Haaah!!
+
+@48041
+Hnnngh!...... ...No good. They will not break.
+
+@48042
+{v0134}, {v0234}, you try too.
+
+@48043
+Hyaah!...... I cannot either.
+
+@48044
+Hnnn... rraagh...... I am afraid not......
+
+@48045
+My sons, do you understand what this means......
+
+@48046
+??.........
+
+@48047
+One arrow or two is easily broken. But three together cannot be broken so easily.
+
+@48048
+...The same is true of our {v0433} clan.
+
+@48049
+...Listen. Like these three arrows, you brothers must stand together, none missing, and protect the {v0433} clan.
+
+@48050
+Yes! We will take it to heart.
+
+@48051
+{v0234}, help {v0134}... and do it well.
+
+@48052
+...Y-yes! I, {v0234}, will surely...
+
+@48053
+I count on you too, {v0334}.
+
+@48054
+Your words are graven on my heart.
+
+@48055
+Thereafter the three stood as one. Even after Takamoto's death they supported his son Terumoto, and fought with all their might for the survival of the {v0433} clan.
+
+@48056
+In month {v66} of {v65}, the Ten Braves at last gathered under {v0132}.
+
+@48057
+All gathered here are warriors worth a thousand men, masters of ninjutsu, the spear, the bow, the gun and more.
+
+@48058
+Each of you, use your own art and serve our {v0133} clan well! I count on you!!
+
+@48059
+We Ten Braves will serve you, Lord {v0134}, at the risk of our lives.
+
+@48060
+From then on the Ten Braves were {v0132}'s shadow and won many feats of arms. Their devoted service became legend, told for generations to come.
+
+@48061
+At the funeral of his father Nobuhide, {v0134} scorned all custom, and more and more in the house came to resent him.
+
+@48062
+His guardian, {v0232}, urged him strongly to mend his strange ways, but {v0134} would not listen. Then a small incident occurred.
+
+@48063
+Ah, Nagamasa. I have a favour to ask. Will you give me your horse? I have never seen so fine a steed.
+
+@48064
+Forgive me, but I must decline. Keeping a fine horse is only what a samurai ought to do...
+
+@48065
+What... You refuse? Hmph, a good horse alone does not win glory on the battlefield. Enough, withdraw.
+
+@48066
+...Yes, my lord.
+
+@48067
+After this, all of {v0234}'s sons turned against {v0134}, and {v0234} was driven into a corner. Then, one day...
+
+@48068
+...It seems this is the end. Lord {v0134} heeds nothing I say. And what is more...
+
+@48069
+...now that even my sons have turned against Lord {v0134}... the blame must be mine to bear.
+
+@48070
+Lord {v0134}... I, {v0234}, shall watch over you from the grave...
+
+@48071
+What!? Gramps cut his belly!?...
+
+@48071.1
+Bring my horse! To Gramps' house!!
+
+@48072
+When {v0134} rushed to {v0234}'s house, {v0234} was already dead. On the desk lay a letter addressed to {v0134}, and he began to read it.
+
+@48073
+Gramps... Fretting over such a small thing... The only man in this world who was on my side...
+
+@48074
+...Gramps!! Cutting your belly on your own like that... You fool! You great fool!!... Ugh...
+
+@48075
+So {v0234} himself brought down the curtain on his life. Later, {v0134} built a temple named after {v0234} to pray for his soul...
+
+@48076
+Ever since losing his adopted heir in battle, {v0134}, head of the {v0133} clan, had buried himself in learning and the arts, and was steadily losing his vassals' trust.
+
+@48077
+My lord, open your eyes! {v0333} is a menace to our house -- you must not favour him! Do you mean to destroy the {v0133} clan?
+
+@48078
+Enough, be quiet! I shall do as I please. I do not even want to see your face! Withdraw!
+
+@48079
+... Is this the end of the {v0133} clan...
+
+@48080
+Then the feud between {v0232} of the warrior faction and {v0332} of the civil faction grew fierce, and the great {v0133} clan faced its gravest crisis.
+
+@48081
+My lord... There are rumours that Lord {v0233} is plotting rebellion... What do you intend to do?
+
+@48082
+Ha ha ha, {v0234} of all men would never rebel. The {v0233} have served our {v0133} clan for generations.
+
+@48083
+My lord, all is ready for the linked-verse gathering.
+
+@48084
+Ah, good. I am coming.
+
+@48086
+And at last the rumour came true. The army led by {v0234} raced towards {v0138} to strike down its lord, {v0134}...
+
+@48087
+M-my lord! Word has come that Lord {v0233}'s army is marching on {v0138}!
+
+@48088
+Wh-what!? {v0234}'s army!? B-but why!
+
+@48089
+All is lost. I, {v0434}, will buy time, so please take your own life with all speed. This is farewell in this world!
+
+@48090
+Wh... why... {v0234}...
+
+@48091
+...And so the {v0133} clan was destroyed by {v0232}'s rebellion.
+
+@48092
+{v0134}, who had inherited the {v0133} clan, was sickly and lacked leadership, and his vassals' hearts slowly drifted away. Then one day...
+
+@48093
+Thank you for coming. I have an important matter to discuss with you today... none other than the headship of the {v0133} clan.
+
+@48094
+...That again? I have only one answer! Now, if you will excuse me.
+
+@48095
+Wait, Lord {v0134}! Today you will hear me out. Your vassals' hearts have already left you.
+
+@48096
+At this rate you will destroy the {v0133} clan. Is that what you want!
+
+@48098
+Agreed, then. You will leave everything to Lord {v0234}. I shall tell him firmly myself not to treat you ill.
+
+@48099
+...I understand. I shall do as you say, Lord Sadazane...
+
+@48100
+And so {v0234} became the adopted son of his elder brother {v0134}, and succeeded to the headship of the {v0233} clan.
+
+@48101
+No one could have imagined that he would one day be feared as "the Dragon of Echigo".
+
+@48102
+{v0332}, whose fame in war rang out around {v0338}, could not overcome illness, and at last passed from this world in month {v66} of {v65}.
+
+@48103
+Days later a grand funeral was held, but the seat of {v0134} -- heir and chief mourner -- remained empty...
+
+@48104
+Lord {v0433}! Where has Lord {v0134} gone?
+
+@48104.1
+Without the chief mourner, the old lord's funeral cannot begin!
+
+@48105
+Ah... Forgive me... But I have no idea at all where Lord {v0134} might be...
+
+@48106
+...What a shocking thing to say. And you call yourself Lord {v0134}'s guardian?
+
+@48107
+Forgive me. Please wait a little longer...
+
+@48108
+...We can wait no longer. Let Lord {v0234} begin offering incense. Please, Lord {v0234}.
+
+@48109
+Very well... My brother is a trial...
+
+@48110
+Just as {v0234} rose, {v0134} finally appeared. But he was dressed as he always was -- every inch the "fool".
+
+@48111
+!... Wh-what... Lord {v0134}...
+
+@48112
+How could he... To appear dressed like that... Do not let Lord {v0134} in! Stop him!
+
+@48113
+Out of my way! Move, or I'll cut you down!!
+
+@48114
+{v0134} strode in and stood before {v0334}'s memorial tablet, his face full of anger and grief. Everyone fell silent...
+
+@48115
+Father... You left us too soon... From now on, I must protect the {v0133} clan...
+
+@48116
+Father... Watch over me!! Hah!!!
+
+@48117
+Ah!
+
+@48118
+What has he done...
+
+@48119
+!... Lord {v0134}...
+
+@48120
+Having offered incense in his own outrageous way, {v0134} swiftly left. From then on, some among the vassals began to turn against him.
+
+@48121
+What fate awaits {v0134} now...
+
+@48122
+One day, while the feud between father and son, {v0132} and {v0234}, was at a stalemate, {v0432}, a vassal of the {v0333} house, came to see {v0134}.
+
+@48123
+Why, Lord {v0432}, it has been a long time. Is His Highness in good health?
+
+@48124
+...His Highness is grieved by the strife between you and your son. That is why I have come today.
+
+@48125
+...Hear me, Lord {v0134}. These are His Highness's words: make peace with Lord {v0234}.
+
+@48126
+He cannot bear to watch father and son fight on... The war is now going against you. Stop clinging to foolish pride.
+
+@48127
+...I understand. If those are His Highness's words, there is nothing else for it...
+
+@48128
+And so {v0134} retired and {v0234} became head of the {v0233} clan, ending a civil war of 6 years.
+
+@48129
+But this civil war, later called the Tenbun War, left the {v0233} clan in steady decline.
+
+@48130
+One day... {v0132}, a swordsman serving the {v0136} clan, invited {v0232} to his home.
+
+@48131
+I mean to set out on a journey... Before I go, I wish to pass my sword art on to you, {C15}...
+
+@48132
+{C15}, I am truly glad to be taught by you... But what shall we tell our lord...?
+
+@48133
+He will simply have to understand... Serve him well, for my share too. That is why I chose you, {C15}, to receive my sword art.
+
+@48134
+I see how you feel. It seems there is no use stopping you. Then, I am in your hands.
+
+@48135
+{C15}, is that all you have? Come at me in earnest!
+
+@48136
+Not yet! Hyaah! Taah!
+
+@48137
+Oh! A fine stroke... You have improved.
+
+@48138
+Haah, haah... Thank you.
+
+@48139
+What, he has gone off to wander the land!? And passed his art on to his pupil... Then there is no use chasing him...
+

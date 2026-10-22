@@ -1,0 +1,300 @@
+@30000
+Arima Toyoji 1569-1642
+
+@30001
+Noriyori's heir. Served Toyotomi Hideyoshi, then Tokugawa Ieyasu. Distinguished himself at Sekigahara and Osaka; held Kurume in Chikugo, 210,000 koku. Also fought in the Shimabara Rebellion.
+
+@30002
+Miyoshi Masanaga ?-1549
+
+@30003
+A vassal of the Hosokawa Kanrei; lord of Enami Castle in Settsu and a close aide of Harumoto. Beat Miyoshi Chokei when he rose in arms, but later lost at Eguchi in Settsu and died in battle.
+
+@30004
+Iwanari Tomomichi ?-1575
+
+@30005
+One of the Miyoshi Triumvirate, treated as one of the Miyoshi kin. Submitted to Oda Nobunaga, but answered the Shogun Ashikaga Yoshiaki's call to arms and held Yodo Castle in Yamashiro. Died fighting Nobunaga's army.
+
+@30006
+Matsunaga Hisamichi ?-1577
+
+@30007
+Hisahide's heir; lord of Tamonyama Castle in Yamato. Murdered the Shogun Ashikaga Yoshiteru and later submitted to Oda Nobunaga. In the end he rebelled with his father at Shigisan Castle in Yamato and killed himself.
+
+@30008
+Hatakeyama Masakuni ?-1550
+
+@30009
+Head of the Kawachi Hatakeyama; succeeded his brother Tanenaga. Based at Takaya Castle in Kawachi, he fought Miyoshi Yoshikata and others as Constable of Kawachi. Died at Iwamuro Castle in Kii.
+
+@30010
+Yusa Naganori ?-1551
+
+@30011
+A vassal of the Kawachi Hatakeyama and Deputy Constable of Kawachi; his daughter married Miyoshi Chokei. Trusted by Hatakeyama Akitaka, he betrayed him, forced him to kill himself and took power. Later murdered.
+
+@30012
+Yusa Nobunori ?-1572
+
+@30013
+A Hatakeyama vassal and Deputy Constable of Kawachi. Banished his lord Takamasa to Kii and made Takamasa's brother Akitaka head. Later killed Akitaka too, but was struck down by Oda Nobunaga.
+
+@30014
+Tsutsui Junsho 1523-1550
+
+@30015
+Head of the Tsutsui, a local house of Yamato. Sided with the Kizawa in their feud with the Kawachi Hatakeyama. When the Kizawa lost he promptly changed sides, and with Hatakeyama help expanded his power.
+
+@30016
+Matsukura Shigenobu ?-1593
+
+@30017
+A Tsutsui vassal; held 2,500 koku under Junkei. After Junkei's death, when his adopted son Sadatsugu was moved to Ueno in Iga, he built Nabari Castle in Iga and held 8,300 koku.
+
+@30018
+Matsukura Shigemasa ?-1630
+
+@30019
+Shigenobu's son. After the Tsutsui's fall he served Tokugawa Ieyasu; after Osaka, lord of Shimabara Castle in Hizen. His harsh rule, heavy taxes and persecution of Christians caused the Shimabara Rebellion.
+
+@30020
+Hashio Takaharu ?-?
+
+@30021
+A Tsutsui vassal, trusted by Junkei, whose sister he married. Did not follow the Tsutsui to Iga but served Toyotomi Hideyoshi in Yamato. Lost his lands after Sekigahara and became a ronin.
+
+@30022
+Araki Mataemon 1599-1638
+
+@30023
+Real name Yasutomo; fencing instructor of Koriyama domain in Yamato. His help in his brother-in-law's revenge later became the "36 men cut down" scene of the tale "Kagiya no Tsuji".
+
+@30024
+Tsuchibashi Morishige ?-1582
+
+@30025
+A local samurai leading the Saika band of Kii. When Oda Nobunaga attacked the Ishiyama Honganji, he allied with the Ikko, raised a relief force and fought Nobunaga. Later submitted, but was killed by Suzuki Shigetomo.
+
+@30026
+Isshiki Yoshiyuki ?-?
+
+@30027
+Head of the Isshiki. Fought his ancestral foe, the Wakasa Takeda, for control of Tango. Without any great success, he handed the house to his son Yoshimichi and retired.
+
+@30028
+Isshiki Yoshisada ?-1582
+
+@30029
+Yoshimichi's son. After his father killed himself when his vassals betrayed him, he held Yumiki Castle in Tango against Hosokawa Fujitaka. Akechi Mitsuhide arranged peace, but he defied Fujitaka and was murdered.
+
+@30030
+Isshiki Yoshikiyo ?-1582
+
+@30031
+An Isshiki vassal. When Hosokawa Fujitaka murdered his nephew Yoshisada, he took over the Isshiki at Yumiki Castle in Tango. Besieged by Hosokawa Tadaoki, he charged into the enemy and died.
+
+@30032
+Inatomi Sukehide ?-?
+
+@30033
+An Isshiki vassal; lord of Shinoki Castle in Tango and Sukenao's grandfather. Served Yoshisada. Invited the gunner Sasaki Yoshikuni and studied gunnery, later teaching it to his grandson Sukenao.
+
+@30034
+Kakiya Tsugunari 1482-1570
+
+@30035
+A Yamana vassal. When Yamana Okitoyo became Constable of Tajima, he became deputy and ran the province. Later fell out with Tainosho Koreyoshi, a Tajima local lord; attacked by surprise, he killed himself.
+
+@30036
+Kakiya Mitsunari ?-1592
+
+@30037
+Tsugunari's son. Served the Yamana, but surrendered when attacked by Hashiba Hideyoshi. Fought in the main force against Tottori Castle in Inaba and was given 10,000 koku in Inaba.
+
+@30038
+Kakiya Tsunefusa ?-1600
+
+@30039
+Said to be Mitsunari's son. Served Toyotomi Hideyoshi at Odawara and in the Korean campaign. Joined the West at Sekigahara and attacked Otsu Castle in Omi. After the war he killed himself on Mt. Koya.
+
+@30040
+Tainosho Koreyoshi ?-1575
+
+@30041
+One of the Four Heavenly Kings of the Yamana; lord of Tsuru Castle in Tajima. Urged submission to the Oda, against the Kakiya, who leant to the Mori. Killed Kakiya Tsugunari, but was slain by his son Mitsunari.
+
+@30042
+Yoshioka Sadakatsu 1532-1606
+
+@30043
+A Yamana vassal. Held Tsuzurao Castle in Inaba against Hashiba Hideyoshi's great army. Defended skilfully with the Mori and troubled Hideyoshi, but starved out by siege, he lost his men and was beaten.
+
+@30044
+Nanjo Munekatsu 1498-1575
+
+@30045
+7th head of the Nanjo; lord of Ueshi Castle. Lost his castle to the Amago invasion and became a ronin. Later took service with the Yamana and won back Ueshi Castle.
+
+@30046
+Nanjo Mototsugu ?-1591
+
+@30047
+Lord of Ueshi Castle in Hoki; succeeded on his father Munekatsu's death. Served Toyotomi Hideyoshi in the Kyushu campaign. Ill, he left the government to his brother Motokiyo, but still went to Odawara.
+
+@30048
+Nanjo Mototada ?-1614
+
+@30049
+Mototsugu's son; succeeded on his father's death. Stripped of his domain for siding with the West at Sekigahara. Later served Toyotomi Hideyori, but was killed for secretly dealing with the Tokugawa in the winter siege of Osaka.
+
+@30050
+Amago Yoshihisa 1540-1610
+
+@30051
+Haruhisa's heir. Held Gassan-Toda Castle in Izumo against Mori Motonari, but undone by Motonari's divisive schemes, he surrendered. Confined in Aki with his brothers.
+
+@30052
+Uyama Hisakane ?-1566
+
+@30053
+Chief elder of the Amago. In the siege of Gassan-Toda Castle in Izumo he bought food with his own money for the garrison. Later killed by his lord Yoshihisa, who fell for Mori Motonari's divisive scheme.
+
+@30054
+Sase Kiyomune ?-?
+
+@30055
+An Amago vassal; an elder since Haruhisa's time, he joined the attack on the Mori at Yoshida-Koriyama. Fought hard in the siege of Gassan-Toda, but submitted to the Mori just before it fell.
+
+@30056
+Sase Motoyoshi 1546-1620
+
+@30057
+An Amago vassal. Surrendered with his father Kiyomune to Mori Motonari's invasion of Izumo. Then served the Mori in government; kept Hiroshima Castle during the Korean campaign and Sekigahara.
+
+@30058
+Akana Morikiyo 1529-1595
+
+@30059
+An Amago vassal. Gained land for his father's merits, but when the feud with the Mori grew fierce he left the fast-declining Amago and joined Mori Motonari.
+
+@30060
+Honjo Tsunemitsu ?-1562
+
+@30061
+An Amago vassal. Briefly followed the Ouchi after a defeat, then returned to the Amago. Holding Yamabuki Castle by the Iwami Silver Mine, he troubled Mori Motonari, but submitted for more land.
+
+@30062
+Yoshimi Hiroyori 1535-1613
+
+@30063
+Masayori's son. His wife died before him, and his heir Motoyori was killed in the Korean campaign. He lost his second wife and his daughters too, and spent his last years alone.
+
+@30064
+Masuda Fujikane 1529-1596
+
+@30065
+Lord of Masuda Castle in Iwami. Served the Ouchi; after their fall he followed the Mori and kept his lands. Among his men was Shinagawa Daizen, who fought a duel with Yamanaka Shikanosuke.
+
+@30066
+Masuda Motonaga 1558-1640
+
+@30067
+Fujikane's son. Served the Mori, with merit in the conquest of Chugoku. When the Mori's lands were cut after Sekigahara, he took charge of rebuilding their finances and did so brilliantly.
+
+@30068
+Bessho Nariharu 1502-1563
+
+@30069
+Lord of Miki Castle in Harima. Allied with the Uragami against the Akamatsu. Lost his seat to the Uragami but soon returned, and expanded as the Akamatsu declined. Later joined Miyoshi Chokei.
+
+@30070
+Bessho Yasuharu 1532-1570
+
+@30071
+A Miyoshi vassal; lord of Miki Castle in Harima, son of Nariharu. Submitted to Oda Nobunaga, master of the capital region, and steadily expanded in east Harima. The house peaked under his son Nagaharu.
+
+@30072
+Bessho Shigemune ?-1591
+
+@30073
+Nariharu's son. After his brother Yasuharu died, he aided his nephew Nagaharu and served Oda Nobunaga. A ronin after Nagaharu's death; served Toyotomi Hideyoshi for 15,000 koku and went on the Kyushu campaign.
+
+@30074
+Bessho Yoshiharu ?-?
+
+@30075
+Shigemune's son; held Sonobe in Tanba, 15,000 koku. Joined the West at Sekigahara and attacked Tanabe Castle in Tango. Kept his lands, but was later stripped of them for neglect of duty.
+
+@30076
+Uragami Masamune ?-1566
+
+@30077
+An Akamatsu vassal, more powerful than his lords. Married his son Kiyomune to Kuroda Mototaka's daughter to ally with Mototaka's lord Odera Masamoto. Killed by Akamatsu Masahide on the wedding day.
+
+@30078
+Odera Masamoto ?-?
+
+@30079
+Lord of Gochaku Castle in Harima; Kuroda Kanbei's first lord. Allied with the Harima clans against Oda Nobunaga's western campaign, but was beaten. What became of him after is unknown.
+
+@30080
+Akamatsu Harumasa 1513-?
+
+@30081
+Inherited from his father Yoshimura, but was held as a puppet by Uragami Muramune. Later struck down Muramune with Hosokawa Harumoto's help, but attacked anew by the Amago, he could not restore his house.
+
+@30082
+Akamatsu Norifusa ?-1598
+
+@30083
+Yoshisuke's son. Joined Toyotomi Hideyoshi and kept Oshio in Harima, 10,000 koku. Served at Shizugatake, Komaki-Nagakute and in the Shikoku campaign, then received 10,000 koku more at Sumiyoshi in Awa.
+
+@30084
+Akamatsu Masahide ?-1570
+
+@30085
+Lord of Tatsuno Castle in Harima. Killed the arrogant Uragami Masamune; allied with Bessho Yasuharu, fought Odera Masamoto and Kuroda Mototaka. Strove to restore the Akamatsu, but died suddenly; poisoned, it is said.
+
+@30086
+Saimura Masahiro 1562-1600
+
+@30087
+Akamatsu Masahide's son, versed in Chinese learning. At Sekigahara he went from the West to the East and joined the attack on Tottori Castle. For burning the castle town, Tokugawa Ieyasu ordered him to kill himself.
+
+@30088
+Nakayama Nobumasa ?-1559
+
+@30089
+An Uragami vassal; lord of Kameyama Castle in Bizen. His daughter married Ukita Naoie. Suspected of planning revolt, he was murdered by Ukita Naoie on Uragami Munekage's orders.
+
+@30090
+Shimamura Kanami ?-1559
+
+@30091
+An Uragami vassal of the Shimamura, who shared power in the house with the Ukita. Murdered his rival Ukita Yoshiie at Toishi Castle and seized power alone. Later killed by Yoshiie's grandson Naoie.
+
+@30092
+Oka Toshikatsu ?-1592
+
+@30093
+An Ukita vassal; one of the "Three Ukita Elders". A warrior skilled with sword and spear who fought in over 40 battles. Rebuilt Okayama Castle in Bizen and its town. Died of illness on campaign in Korea.
+
+@30094
+Osafune Sadachika ?-1588
+
+@30095
+An Ukita vassal; one of the "Three Ukita Elders". Fought in many places, helping his lord Naoie build the house. Ran the government after Togawa Hideyasu retired. Later killed by his sister's husband.
+
+@30096
+Osafune Tsunanao ?-1598
+
+@30097
+Sadachika's son. Governed with Toyotomi Hideyoshi's backing, surveying the land and building up the castle town. Favoured by his lord Hideie, he wielded great power; said to have been poisoned by rival vassals.
+
+@30098
+Togawa Michiyasu 1567-1627
+
+@30099
+Hideyasu's heir. Served the Ukita, distinguishing himself in the Korean campaign. A Nichiren believer, he clashed with the Christian Osafune Tsunanao. Fell from Hideie's favour and fled.
+

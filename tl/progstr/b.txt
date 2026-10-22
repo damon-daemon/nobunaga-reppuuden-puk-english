@@ -1,0 +1,455 @@
+# chunk b: PROG:800d9654 - PROG:800de17c
+# map features (development map)
+PROG:800d9654	Gold Mine Lv2
+PROG:800d9660	Gold Mine Lv3
+PROG:800d966c	Village Lv1
+PROG:800d9674	Village Lv2
+PROG:800d967c	Village Lv3
+PROG:800d9684	Free Market
+PROG:800d968c	Main Castle
+PROG:800d9694	Branch Castle
+PROG:800d969c	Levee
+PROG:800d96a4	Speciality
+PROG:800d96ac	Battlefield
+PROG:800d96b4	Horse Pasture
+PROG:800d96bc	Gold Mine 1
+PROG:800d96c4	Gold Mine 2
+PROG:800d96cc	Gold Mine 3
+PROG:800d96d4	Main Castle Lv1
+PROG:800d96e0	Main Castle Lv2
+PROG:800d96ec	Main Castle Lv3
+PROG:800d96f8	Azuchi Castle
+PROG:800d9700	Osaka Castle
+PROG:800d9708	Odawara Castle
+PROG:800d9714	Levee 1
+PROG:800d971c	Levee 2
+PROG:800d9724	Levee 3
+PROG:800d972c	Levee 4
+PROG:800d9734	Levee 5
+PROG:800d973c	Levee 6
+PROG:800d9744	Levee 7
+PROG:800d974c	Levee 8
+PROG:800d9754	Levee 9
+PROG:800d975c	Levee 10
+PROG:800d9768	Levee 11
+PROG:800d9774	Levee 12
+PROG:800d9780	Levee 13
+PROG:800d978c	Levee 14
+# specialties
+PROG:800d9798	Radishes
+PROG:800d97a0	Swords
+PROG:800d97a8	Sulphur
+PROG:800d97b0	Cotton
+PROG:800d97b8	Perilla
+PROG:800d97c0	Farm Tools
+PROG:800d97c8	Silk
+PROG:800d97d0	Mandarins
+PROG:800d97d8	Somen
+PROG:800d97e0	White Cloth
+PROG:800d97e8	Grapes
+PROG:800d97f0	Natto
+PROG:800d97f8	Konjac
+PROG:800d9800	Soy Sauce
+PROG:800d9808	Timber
+PROG:800d9810	Candles
+# historical battlefields
+PROG:800d9818	Ozawahara
+PROG:800d9820	Azukizaka
+PROG:800d9828	Daishoji
+PROG:800d9830	Eguchi
+PROG:800d9838	Gongenyama
+PROG:800d9840	Iidagawara
+PROG:800d984c	Itsukushima
+PROG:800d9854	Kawanakajima
+PROG:800d985c	Kizakibaru
+PROG:800d9864	Konodai
+PROG:800d986c	Kumeda
+PROG:800d9874	Mikatagahara
+PROG:800d9880	Mimase Pass
+PROG:800d9888	Mimikawa
+PROG:800d9890	Moribe
+PROG:800d9898	Nagahama
+PROG:800d98a0	Nagamorihara
+PROG:800d98a8	Nagashino
+PROG:800d98b0	Okehazama
+PROG:800d98b8	Osakabe
+PROG:800d98c0	Oshikibata
+PROG:800d98c8	Anegawa
+PROG:800d98d0	Saikagawa
+PROG:800d98d8	Seibagahara
+PROG:800d98e4	Shiojiri Pass
+PROG:800d98ec	Tadenawate
+PROG:800d98f4	Tedorigawa
+PROG:800d98fc	Uedahara
+PROG:800d9904	Watarigawa
+PROG:800d990c	Yanagare
+PROG:800d9914	Yasugawa
+# development errors
+PROG:800d991c	No paddies on sea, mountains or ports.
+PROG:800d993c	Cannot build on a castle.
+PROG:800d9954	The level cannot be raised further.
+PROG:800d9978	Paddies need a river nearby.
+PROG:800d999c	Paddies need plains or marsh.
+PROG:800d99c0	No fields on sea, mountains or ports.
+PROG:800d99e0	No fields next to a river.
+PROG:800d9a04	Fields need plains or hills.
+PROG:800d9a28	There is already a field here.
+PROG:800d9a48	No flood control on sea, mountains or ports.
+PROG:800d9a68	Flood control is already done.
+PROG:800d9a7c	Flood control needs a river.
+PROG:800d9a98	No roads on sea, mountains or ports.
+PROG:800d9ab8	The level cannot be raised further.
+PROG:800d9adc	No villages on sea, mountains or ports.
+PROG:800d9afc	Villages need plains or hills.
+PROG:800d9b20	There is already a speciality here.
+PROG:800d9b38	Specialities need plains or hills.
+PROG:800d9b60	A road cannot be built here.
+PROG:800d9b80	No bridge can be built next to a bridge.
+PROG:800d9ba0	There is already a road here.
+PROG:800d9bb8	Roads need plains, hills or a river.
+PROG:800d9be4	Province data is corrupted.
+PROG:800d9bfc	No more castles can be built in this province.
+PROG:800d9c1c	Cannot build in another castle's domain.
+PROG:800d9c40	Castles need plains or hills.
+PROG:800d9c64	A castle's domain cannot cross a province border.
+PROG:800d9c90	Battlefields cannot be demolished.
+PROG:800d9ca8	There is nothing to demolish.
+PROG:800d9cc4	Not next to a castle: cannot repair.
+PROG:800d9cec	There is already a gunsmith village.
+PROG:800d9d08	Gunsmith villages need plains.
+PROG:800d9d2c	There is already a free market.
+PROG:800d9d44	Free markets need plains.
+PROG:800da4f8	-
+PROG:800da504	-
+PROG:800da510	-
+PROG:800dabc0	-
+# buttons
+PROG:800dac74	OK
+PROG:800dac7c	Go
+PROG:800dac84	Cancel
+PROG:800dac8c	Load
+PROG:800dac94	New
+PROG:800daf70	Failed to load the sequence data.
+# Overview list footer plates (64 px, "◀ 1/4 ▶" below): the renderer drops labels over 8 bytes
+# (uipatch.PATCHES PROG 0x80081798), so these stay nouns.
+PROG:800daf94	Officer
+PROG:800dafa0	Daimyo
+PROG:800dafac	Castle
+PROG:800dafb4	Province
+PROG:800dafbc	Title
+PROG:800dafc8	Treasure
+PROG:800dafd4	Post
+PROG:800dafe0	Unit
+PROG:800dafec	Princess
+PROG:800daff4	No castles.
+PROG:800db004	No officers.
+PROG:800db014	No princesses.
+PROG:800db024	No units.
+PROG:800db03c	No treasures.
+PROG:800dbeb0	%d mo.
+PROG:800dbeb8	%dyr
+PROG:800dbec0	Unknown
+PROG:800dbec8	Not set
+# full-width char[3] tables (digits, aptitude letters E..S, compass points): Japanese glyphs draw blank in list cells
+PROG:800dbed0	0
+PROG:800dbed3	1
+PROG:800dbed6	2
+PROG:800dbed9	3
+PROG:800dbedc	4
+PROG:800dbedf	5
+PROG:800dbee2	6
+PROG:800dbee5	7
+PROG:800dbee8	8
+PROG:800dbeeb	9
+PROG:800dbef0	E
+PROG:800dbef3	D
+PROG:800dbef6	C
+PROG:800dbef9	B
+PROG:800dbefc	A
+PROG:800dbeff	S
+PROG:800dbf04	N
+PROG:800dbf07	E
+PROG:800dbf0a	S
+PROG:800dbf0d	W
+# ○ / × marks (4-byte slots, not progstr candidates): bool table 0x800b3e84 [×, ○] and TL 801a1500.. tables
+PROG:800ddb9c	Yes
+PROG:800ddba0	No
+PROG:800ddd88	No
+PROG:800ddd8c	Yes
+PROG:800dc01c	-
+PROG:800dc028	-
+# castle data fields (data editor / castle info)
+PROG:800dc7c0	Castle
+PROG:800dc7c8	Ruler
+PROG:800dc7d4	Lord
+PROG:800dc7dc	Officers
+PROG:800dc7e4	Not Acted
+PROG:800dc7ec	Def.
+PROG:800dc7f4	Gold
+PROG:800dc7fc	Rice
+PROG:800dc804	Horses
+PROG:800dc80c	Guns
+PROG:800dc814	Ironclads
+PROG:800dc81c	Cannon
+PROG:800dc824	Troops
+PROG:800dc82c	Control
+PROG:800dc834	Gold Balance
+PROG:800dc840	Gold Income
+PROG:800dc84c	Gold Expense
+PROG:800dc858	Rice Balance
+PROG:800dc864	Rice Income
+PROG:800dc870	Rice Expense
+PROG:800dc87c	Trader
+PROG:800dc884	Empty Castle
+PROG:800dc88c	Wounded
+PROG:800dc894	Castle Type
+PROG:800dc89c	Rice Month
+PROG:800dc8a8	Officers In
+PROG:800dc8b4	Units
+PROG:800dc8bc	DW Data
+PROG:800dc8c4	Province
+PROG:800dc8cc	Main Castle
+PROG:800dc8d4	Delegation
+PROG:800dc8e0	Troop Income
+PROG:800dc8ec	Horse Income
+PROG:800dc8f8	Gun Income
+PROG:800dc904	Recovered
+PROG:800dc90c	Towers
+PROG:800dc914	Max Towers
+PROG:800dc920	Ronin
+PROG:800dc928	Troop Cap
+PROG:800dc934	Cannon Used
+PROG:800dc948	Aggressive
+PROG:800dc954	Cautious
+PROG:800dc960	Domestic
+PROG:800dc968	Support
+PROG:800dc970	Unit
+# battle
+PROG:800dcde4	Foot
+PROG:800dcdec	Pikes
+PROG:800dcdf4	Rattle
+PROG:800dcdfc	Taunt
+PROG:800dce04	None
+PROG:800dce0c	Crane
+PROG:800dce14	Scale
+PROG:800dce1c	Geese
+PROG:800dce24	Moon
+PROG:800dce2c	Yoke
+PROG:800dce34	Snake
+PROG:800dce3c	Arrow
+PROG:800dce44	Circle
+PROG:800dce4c	Crescent/Yoke
+PROG:800dce58	Crane Wing/Geese
+PROG:800dce64	Arrowhead/Long Snake
+PROG:800dce70	Yoke/Circle
+PROG:800dce7c	Mound
+PROG:800dce84	Attack
+PROG:800dce8c	Guard
+PROG:800dce94	Retire
+PROG:800dce9c	Join
+PROG:800dcf3c	Arson
+PROG:800dcf50	Morale
+PROG:800dcf64	Feud
+PROG:800dcf78	Hinder
+PROG:800dcf8c	Form
+PROG:800dcfa0	Rally
+PROG:800dcfb4	Parley
+PROG:800dcfc8	Inspire
+PROG:800dcfdc	Sortie
+PROG:800dcff0	Incite
+PROG:800dd01c	Wreck
+PROG:800dd030	Climb
+PROG:800dd098	Ruse
+PROG:800dd0ac	Rider
+PROG:800dd0c0	Ploy
+PROG:800dd0d4	Arms
+PROG:800dd0e8	Policy
+# unit data fields
+PROG:800dd1a4	Name
+PROG:800dd1ac	Leader
+PROG:800dd1b8	Direction
+PROG:800dd1c0	Corps
+PROG:800dd1c8	Works
+PROG:800dd1d0	Task
+PROG:800dd1d8	Target
+PROG:800dd1e0	Time Left
+PROG:800dd1e8	Troops
+PROG:800dd1f0	Type
+PROG:800dd1f8	Ofcrs.
+PROG:800dd200	Daimyo
+PROG:800dd20c	Castle
+PROG:800dd214	Target Pos.
+PROG:800dd220	Position
+PROG:800dd228	Province
+PROG:800dd230	Gold
+PROG:800dd238	Rice
+PROG:800dd240	Horses
+PROG:800dd248	Guns
+PROG:800dd250	Rice Months
+PROG:800dd25c	Movement
+PROG:800dd264	DW Data
+PROG:800dd26c	Escorts
+PROG:800dd274	Action
+PROG:800dd27c	Building
+PROG:800dd284	Develop
+PROG:800dd2b8	Wait and see?
+PROG:800dd320	Shogunate Post
+PROG:800dd32c	Clan Name
+PROG:800dd338	Level
+PROG:800dd340	DW Data
+PROG:800dd378	Details
+PROG:800dd380	Recruit
+PROG:800dd388	Free
+PROG:800dd390	Behead
+PROG:800dd398	Kin
+PROG:800dd3a0	Independents
+PROG:800dd3ac	Indep.
+PROG:800dd430	-
+PROG:800dd450	-
+# main menu (system)
+PROG:800dd5b8	Setup
+PROG:800dd5c4	Drop Out
+PROG:800dd5d0	All Drop Out
+PROG:800dd5dc	Overview
+PROG:800dd5e8	Goal
+PROG:800dd5f0	Settings
+PROG:800dd5fc	Save
+PROG:800dd604	Load
+PROG:800dd60c	Quit
+PROG:800dd614	Editor
+PROG:800dd620	Clans
+PROG:800dd628	Ofcrs.
+PROG:800dd630	Units
+PROG:800dd638	Titles
+PROG:800dd640	Items
+PROG:800dd648	Posts
+PROG:800dd650	Goods
+PROG:800dd98c	OK
+PROG:800dd994	Sort
+# small-data strings (gp area): editor fields, flags, tabs
+PROG:800dda14	Family
+PROG:800dda18	Given
+PROG:800dda1c	Female
+PROG:800dda20	Male
+PROG:800dda24	Gold
+PROG:800dda28	Princess
+PROG:800dda50	Cas
+PROG:800dda5c	Ladies
+PROG:800dda68	No
+PROG:800dda6c	Yes
+PROG:800ddaa0	Family
+PROG:800ddaa4	Given
+PROG:800ddaa8	Female
+PROG:800ddaac	Male
+PROG:800ddab0	Father
+PROG:800ddab4	Husband
+# princess names list (0x800b3200, HIMEDATA portraits: compared with the record?) - keep
+PROG:800ddab8	-
+PROG:800ddabc	-
+PROG:800ddac0	-
+PROG:800ddac4	-
+PROG:800ddac8	-
+PROG:800ddacc	-
+PROG:800ddad0	-
+PROG:800ddad8	Hawk
+PROG:800ddaf8	Sea
+PROG:800ddafc	Temple
+PROG:800ddb00	Sakai
+PROG:800ddb04	Port
+PROG:800ddb08	River
+PROG:800ddb0c	Lake
+PROG:800ddb10	Field
+PROG:800ddb14	Taro
+PROG:800ddb18	Sake
+PROG:800ddb1c	Salt
+PROG:800ddb20	Oil
+PROG:800ddb24	Cattle
+PROG:800ddb28	Vinegar
+PROG:800ddb2c	Tea
+PROG:800ddb30	Melons
+PROG:800ddb34	Koji
+PROG:800ddb38	Pears
+PROG:800ddb3c	Purple Dye
+PROG:800ddb40	Lacquer
+PROG:800ddb48	Yes
+PROG:800ddb4c	No
+PROG:800ddba4	Yes
+PROG:800ddba8	No
+PROG:800ddbac	Male
+PROG:800ddbb0	Female
+PROG:800ddbe4	Bows
+PROG:800ddbe8	Palisade
+PROG:800ddbf0	?
+PROG:800ddbf4	Yes
+PROG:800ddbf8	No
+PROG:800ddc00	
+PROG:800ddc08	Provs
+PROG:800ddc0c	Castle
+PROG:800ddc10	Ladies
+PROG:800ddc38	Bows
+PROG:800ddc5c	?
+PROG:800ddc78	Castle
+PROG:800ddc7c	Provs
+PROG:800ddccc	D
+PROG:800ddcd0	E
+PROG:800ddce4	Lady
+PROG:800ddcf4	B
+PROG:800ddd10	B
+PROG:800ddd30	Vil
+PROG:800ddd54	Field
+PROG:800ddd58	Off
+PROG:800ddd5c	Yes
+PROG:800ddd60	No
+PROG:800ddd74	Sort
+PROG:800dde64	B
+PROG:800dde68	D
+PROG:800dde6c	Bows
+PROG:800dde70	Palisade
+PROG:800dde74	Bows
+PROG:800dde84	-
+PROG:800dde88	Hirai
+PROG:800dde8c	 Province
+PROG:800dde90	-
+# SALO memory card particles: "Slot %s%s" (kara / ni / wo)
+PROG:800ddea8	
+PROG:800ddeac	
+PROG:800ddf2c	-
+PROG:800ddf30	-
+PROG:800ddf34	-
+PROG:800ddf38	-
+PROG:800ddf3c	-
+PROG:800ddf40	-
+PROG:800ddf44	-
+PROG:800ddf48	-
+PROG:800ddf4c	-
+PROG:800ddf50	-
+PROG:800ddf5c	-
+PROG:800ddf60	-
+# STUP clan select: prestige / provinces / castles / officers
+PROG:800ddf68	Prov
+PROG:800ddf6c	Cstl
+PROG:800ddf70	Ofcr
+PROG:800ddf84	-
+PROG:800ddfa0	-
+PROG:800ddfe4	
+PROG:800ddfe8	Spring
+PROG:800ddfec	Summer
+PROG:800ddff0	Autumn
+PROG:800ddff4	Winter
+PROG:800de018	Castle
+PROG:800de02c	Lady
+PROG:800de030	Castle
+PROG:800de050	-
+PROG:800de060	Father
+PROG:800de064	Husband
+PROG:800de0c8	-
+PROG:800de0e0	-
+PROG:800de0e4	Family
+PROG:800de0e8	Given
+PROG:800de118	yrs
+PROG:800de11c	Castle
+PROG:800de12c	Yes
+PROG:800de130	No
+PROG:800de138	Bow
+PROG:800de164	-
+PROG:800de17c	Fnc

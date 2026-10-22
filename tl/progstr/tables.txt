@@ -1,0 +1,109 @@
+# packed char[5] tables relocated to 16-byte entries (progstr.STRIDE_TABLES): up to 15 bytes
+PROG:800b2998	None
+PROG:800b299d	Attack
+PROG:800b29a2	Organise
+PROG:800b29a7	Transport
+PROG:800b29ac	Pursue
+PROG:800b29b1	Split
+PROG:800b29b6	Hinder
+PROG:800b29bb	Cultivate
+PROG:800b29c0	Build Town
+PROG:800b29c5	Build Village
+PROG:800b29ca	Build Smithy
+PROG:800b29cf	Speciality
+PROG:800b29d4	Free Market
+PROG:800b29d9	Flood Control
+PROG:800b29de	Build Castle
+PROG:800b29e3	Repair
+PROG:800b29e8	Build Road
+PROG:800b29ed	Demolish
+PROG:800b29f2	Incite
+PROG:800b29f7	Rebellion
+PROG:800b29fc	Rumours
+PROG:800b2a01	Sway
+PROG:800b2a06	Assassinate
+PROG:800b2a0b	Ploy
+PROG:800b2a10	Alliance
+PROG:800b2a15	Marriage
+PROG:800b2a1a	Absorb
+PROG:800b2a1f	Demand
+PROG:800b2a24	Tribute
+PROG:800b2a29	Break Pact
+PROG:800b2a2e	Aid
+PROG:800b2a33	Court Title
+PROG:800b2a38	Imp. Permit
+PROG:800b2a3d	Punish
+PROG:800b2a42	Enemy of Court
+PROG:800b2a47	Pardon
+PROG:800b2a4c	Recommend
+PROG:800b2a51	Present
+PROG:800b2a56	Slander
+PROG:800b2a5b	Move
+PROG:800b2a60	Return
+PROG:800b2a65	Corps
+PROG:800b2a6a	Develop
+PROG:800b2a6f	Build
+PROG:800b2a74	Diplomacy
+PROG:800b2a79	Court
+PROG:800b2a7e	Spy
+PROG:800b2a83	Move
+PROG:800b2a88	Delegate
+PROG:800b2a8d	Daimyo
+PROG:800b2a92	Recruit
+PROG:800b2a97	Trade
+PROG:800b2a9c	Betroth
+PROG:800b2aa1	Adopt
+PROG:800b2aa6	Retire
+PROG:800b2aab	Reward
+PROG:800b2ab0	Info
+PROG:800b2ab5	Alliance
+PROG:800b2aba	Prestige
+PROG:800b2b10	None
+PROG:800b2b15	Ninja
+PROG:800b2b1a	Tea Master
+PROG:800b2b1f	Swordsman
+PROG:800b2b24	Monk
+PROG:800b2b2c	None
+PROG:800b2b31	Low
+PROG:800b2b36	High
+PROG:800b2b3b	Absolute
+PROG:800bfefc	Crane Wing
+PROG:800bff01	Fish Scale
+PROG:800bff06	Geese
+PROG:800bff0b	Crescent
+PROG:800bff10	Yoke
+PROG:800bff15	Long Snake
+PROG:800bff1a	Arrowhead
+PROG:800bff1f	Circle
+PROG:800dc97c	 Castle
+PROG:800dc981	 Hall
+PROG:800dc986	 Gobo
+PROG:800dc98b	 Palace
+PROG:800dc990	ji
+PROG:800dc995	 Fort
+PROG:800dc99a	
+
+# court ranks (char[9] table at 0x800c380c, entry 0 = none): 正八位下 ... 正一位, Sr./Jr. = 正/従, Upper/Lower = 上/下
+PROG:800c3815	Sr. 8th Lower
+PROG:800c381e	Sr. 8th Upper
+PROG:800c3827	Jr. 7th Lower
+PROG:800c3830	Jr. 7th Upper
+PROG:800c3839	Sr. 7th Lower
+PROG:800c3842	Sr. 7th Upper
+PROG:800c384b	Jr. 6th Lower
+PROG:800c3854	Jr. 6th Upper
+PROG:800c385d	Sr. 6th Lower
+PROG:800c3866	Sr. 6th Upper
+PROG:800c386f	Jr. 5th Lower
+PROG:800c3878	Jr. 5th Upper
+PROG:800c3881	Sr. 5th Lower
+PROG:800c388a	Sr. 5th Upper
+PROG:800c3893	Jr. 4th Lower
+PROG:800c389c	Sr. 4th Lower
+PROG:800c38a5	Sr. 4th Upper
+PROG:800c38ae	Jr. 3rd Rank
+PROG:800c38b7	Sr. 3rd Rank
+PROG:800c38c0	Jr. 2nd Rank
+PROG:800c38c9	Sr. 2nd Rank
+PROG:800c38d2	Jr. 1st Rank
+PROG:800c38db	Sr. 1st Rank

@@ -1,0 +1,474 @@
+@49000
+Play as a registered new officer?
+
+@49001
+Choose the officers to join the rebellion.
+
+@49002
+Make registered new officers your retainers?
+
+@49003
+Choose the officers to make your retainers.
+
+@49004
+Bring registered new officers into the game?
+
+@49005
+Bring registered new treasures into the game?
+
+@49006
+Some main castles have no ruling daimyo. Assign daimyo automatically?
+
+@49007
+Choose the castle to move the officer to.
+
+@49008
+Move to {v0b32}. Is that all right?
+
+@49009
+Choose the ruling daimyo of {v0b32}.
+
+@49010
+Take over the castles {v0132} rules?
+
+@49011
+All changes will be erased. Is that all right?
+
+@49012
+Unify {v2932} under {v3d32}. Is that all right?
+
+@49013
+Make {v0b32} an independent power. Is that all right?
+
+@49014
+{v0132} is using this face. Swap faces?
+
+@49015
+Choose the officer who is the father.
+
+@49016
+Delete {v0132}. Is that all right?
+
+@49017
+Delete {v6f}. Is that all right?
+
+@49018
+The age gap is under 16 years, so the father setting will be cleared. Is that all right?
+
+@49019
+This is before the father's birth year, so the father setting will be cleared. Is that all right?
+
+@49020
+This is after the father's death, so the father setting will be cleared. Is that all right?
+
+@49021
+The father setting of the officers whose father is this officer will be cleared. Is that all right?
+
+@49022
+{v0132} had been seeking closer ties with the {v0333} clan.
+
+@49023
+But many {v0133} vassals were unhappy with {v0134}'s policy, and the clan was in danger of splitting. It was then...
+
+@49024
+{C15}... What do you make of our lord's conduct of late?
+
+@49025
+He does whatever {v0336} says... I can hardly believe he truly seeks to rule the realm...
+
+@49026
+Yes... That worries me too. At this rate the {v0133} clan will be made to bow to {v0333}.
+
+@49027
+It seems we have no choice but to ask {C24} to take the lead.
+
+@49028
+Some days later... {v0434} and {v0534} called on {v0234}.
+
+@49029
+...That is how matters stand. At this rate the {v0133} clan is as good as {v0333}'s vassal. We cannot bear it!
+
+@49030
+{C15}! You are the only one left we can rely on! Please, about the {v0333} clan...
+
+@49031
+Hmm... I understand what you are saying. But I too think we should keep up friendly ties with the {v0236}...
+
+@49032
+Friendship and submission are not the same. As things are, {v0333} merely uses us as he pleases... while the powers around us gather strength.
+
+@49033
+Hmm... Is that so... But if I were to take the lead, would there not be some who resent it?
+
+@49034
+Have no fear. No one would question all you have achieved, {C14}.
+
+@49035
+Hmm... Better that than let time slip away. It cannot be helped: we must ask our lord to retire.
+
+@49036
+I shall persuade our lord myself, so no rash action. Understood?
+
+@49038
+Sensing unrest among his vassals, {v0134} at once summoned {v0234}.
+
+@49039
+{v0234}, it seems you are plotting something behind my back. What do you mean by it? Have you forgotten all I have done for you?
+
+@49040
+I have never forgotten... But, {C14}... we ask that you retire. This is the wish of all your vassals. I beg you, grant it.
+
+@49041
+Wh-what are you saying, {C13}! Why should I have to retire!?
+
+@49042
+All your vassals are unhappy with your attitude to {v0333}, {C14}. Only your retirement can save the situation.
+
+@49043
+Grr... Then what will you do if I say I will not retire?
+
+@49044
+All is for the sake of the house... Please understand.
+
+@49045
+...V-very well. I shall retire and hand the headship to you... Do as you please.
+
+@49046
+{v0234} took over the headship and became head of the {v0233} clan. Now {v0234}'s quest to rule the realm begins...
+
+@49047
+Some years had passed since {v0234} entered {v0132}'s service, and {v0234} was well thought of by those below. Then one day...
+
+@49048
+{C13}... There is a serious matter I wish to discuss with you.
+
+@49049
+?... What might it be?
+
+@49050
+You have served me a long time. By now you must know all there is to know about this house.
+
+@49051
+You are too kind. I have done all I could, small as my powers are. But what has that to do with...
+
+@49052
+Yes, I am glad to hear it... Now, what I wish to say is this: I mean to hand the headship to you and retire.
+
+@49053
+What!? What did you say? B-but why...
+
+@49054
+No, I am tired... It is time.
+
+@49055
+What are you saying... You are still in fine health.
+
+@49056
+I believe I know when to step down.
+
+@49057
+But...
+
+@49058
+We have no time to waste on such talk. My mind is made up.
+
+@49059
+Hmm... Very well. I, {v0134}, will unite the realm in your place, {C14}!
+
+@49060
+Oh! That is the {C13} I know!
+
+@49061
+{v0132} retired and {v0234} took over the headship. Now {v0234}'s quest to rule the realm begins...
+
+@49062
+Some years had passed since {v0234} entered {v0132}'s service, and {v0234} was well thought of by those below. Then one day...
+
+@49063
+{C13}... There is a serious matter I wish to discuss with you.
+
+@49064
+?... What might it be?
+
+@49065
+You have served me a long time. By now you must know all about this house.
+
+@49066
+You are too kind. I have done all I could, small as my powers are. But what has that to do with...
+
+@49067
+Yes, I am glad to hear it... Now, what I wish to say is this: I mean to hand the headship to you and retire.
+
+@49068
+What!? What did you say? B-but why...
+
+@49069
+No, I am tired... It is time.
+
+@49070
+What are you saying... You are still in fine health. Besides, the other vassals would never accept someone like me.
+
+@49071
+I believe I know when to step down. And I have spoken to the others. {v0434}, {v0534}, come in.
+
+@49072
+{C15}, I trust you are in good health.
+
+@49073
+Never mind the greetings. Stop our lord, I beg you.
+
+@49074
+We too have begged him time and again, but his mind is made up.
+
+@49075
+So there it is. Will you not grant this, my last request?
+
+@49076
+But...
+
+@49077
+We will serve you just as before. Such hesitation breeds strife in the house and gives other clans an opening. I beg you...
+
+@49078
+Hmm... Very well. I, {v0134}, will unite the realm in your place, {C14}!
+
+@49079
+Oh! That is the {C13} I know! {v0434}, {v0534}, I count on you both.
+
+@49081
+{v0132} retired and {v0234} took over the headship. Now {v0234}'s quest to rule the realm begins...
+
+@49082
+{v0132}, who served {v0232}, harboured a secret ambition: one day he would surely be a daimyo himself...
+
+@49083
+He waited patiently for his chance. Then one day... {v0232} was to leave the castle.
+
+@49084
+What fine weather today. Let us go hawking. What do you say, {C13}? Will you come too?
+
+@49085
+Forgive me. I am not feeling well today, so I shall stay and guard the castle.
+
+@49086
+Hmm... I see. Then we shall go without you. Take care of yourself.
+
+@49087
+Yes, my lord. You are very kind.
+
+@49088
+Well, I am off.
+
+@49089
+As soon as {v0134} saw {v0234} depart, he set to work.
+
+@49090
+Close every gate! Raise every banner we have! Cut down any who resist!
+
+@49091
+Oh, at last the time has come. Leave it to us.
+
+@49092
+What is this? Can it be rebellion? You there, wait... Ugh!... How...
+
+@49093
+Hear me well, all of you! I, {v0134}, have taken this castle! From here I shall make my bid for the realm!
+
+@49094
+Anyone unhappy, speak up. You are free to go to {C14}; I will not stop you. But in the next battle we will be enemies.
+
+@49095
+Now it has come to this, there is no helping it. Let us stake our lot on Lord {v0134}'s dream...
+
+@49096
+Meanwhile {v0234}, absorbed in hawking, had no idea what was happening at the castle. But on his return...
+
+@49097
+Hm? Is that not {C13}'s banner? What has happened?
+
+@49098
+{v0134} has taken this castle. Leave at once! Or we shall treat you to our arrows!
+
+@49099
+What!? What is the meaning of this?
+
+@49100
+Just what I said. With this castle as a foothold, I too shall make my bid for the realm.
+
+@49101
+Grr, the gall of it... There is no help for it. It seems I must withdraw... You will pay for this...
+
+@49102
+Ha ha ha, farewell.
+
+@49103
+So {v0132} took {v0238} and at last became lord of his own castle. His bid to rule the realm begins.
+
+@49104
+{v0132}, who served {v0232}, harboured a secret ambition: one day he would surely be a daimyo himself...
+
+@49105
+He waited patiently for his chance. And at last...
+
+@49106
+Close every gate! Raise every banner we have! Cut down any who resist!
+
+@49107
+Oh, at last the time has come. Leave it to us.
+
+@49108
+What is this? Can it be rebellion? You there, wait... Ugh!... How...
+
+@49109
+Hear me well, all of you! I, {v0134}, have taken this castle! From here I shall make my bid for the realm!
+
+@49110
+Anyone unhappy, speak up. You are free to go to {C14}; I will not stop you. But in the next battle we will be enemies.
+
+@49111
+Now it has come to this, there is no helping it. Let us stake our lot on {C15}'s dream...
+
+@49112
+Now it has come to this, there is no helping it. Let us stake our lot on Lord {v0134}'s dream...
+
+@49113
+Hmm... I must report this to {C14}...
+
+@49114
+{C14}, forgive me. {v0b32} has been taken.
+
+@49115
+What happened? Calm down and tell me.
+
+@49116
+{v0134} rebelled, seized {v0b32} and declared his independence...
+
+@49117
+What!? And you came running back in disgrace?
+
+@49118
+Ah, no...
+
+@49119
+Well, never mind. But the one I cannot forgive is {C13}. Grr...
+
+@49120
+.........
+
+@49121
+{C14}! {v0334} has raised the banner of revolt at {v0b32}!
+
+@49122
+Lord {v0132}! {v0234} has raised the banner of revolt at {v0b32}!
+
+@49123
+What!? Is this true? {C13}, the wretch, I will not forgive him...
+
+@49124
+So {v0132} took {v0b32} and at last became lord of his own castle. His bid to rule the realm begins.
+
+@49125
+Nobunaga Comes of Age
+
+@49126
+Battle of Okehazama
+
+@49127
+Encircling Nobunaga
+
+@49128
+The Honnoji Incident
+
+@49129
+Nobunaga Takes Over
+
+@49130
+Battle of Tedorigawa
+
+@49131
+Battle of Shizugatake
+
+@49132
+Komaki-Nagakute
+
+@49133
+Kyushu Campaign
+
+@49134
+Odawara Campaign
+
+@49135
+Choose the daimyo you will play.
+
+@49136
+Japan has been unified, so the short scenario's goal is cleared.
+
+@49137
+This marks the end of a chapter. On this occasion, I shall style myself {v6f}...
+
+@49138
+{v0132} has taken the title of {v6f}.
+
+@49139
+There is no new officer born in or before {v65} who has not passed his lifespan, so you cannot play as a new officer.
+
+@49140
+Register or edit new officers.
+
+@49141
+Register or edit new treasures.
+
+@49142
+Choose the officer who is the father.
+
+@49143
+Stop Short Play and switch to normal play (unifying Japan). Is that all right?
+
+@49144
+The officer editor cannot be used while playing a short scenario.
+
+@49145
+The daimyo editor cannot be used while playing a short scenario.
+
+@49146
+The castle editor cannot be used while playing a short scenario.
+
+@49147
+You cannot add player daimyo while playing a short scenario.
+
+@49148
+Leave {v3d32} as it is and create a new {v0133} clan at {v0138}?
+
+@49149
+A daimyo cannot be moved to another power's castle. Move the other officers to {v0b32}?
+
+@49150
+Choose the new officer to place in {v0b32}.
+
+@49151
+Give the officer at least one formation.
+
+@49152
+The Honnoji Incident has occurred, so the chronology is cleared once.
+
+@49153
+The ruling daimyo cannot be changed in a castle where the daimyo is present.
+
+@49154
+A daimyo can only move to his own power's main castles.
+
+@49155
+Registering New Officers 5
+
+@49156
+[Setting the Birth Year]\nA new officer appears in the game 16 years after his birth year. To have him as a retainer from the start in New Daimyo mode, set his birth year at least 16 years before the scenario's starting year. If you set a father, choose a birth year when the father is still alive and at least 16 years younger than him.
+
+@49157
+Short Play Mode 3
+
+@49158
+[Changing the Goal]\nChoose "Change Goal" under the function command [Goal] to change your current goal. But changing it counts as failing the current goal, and your officers' duty falls. "Change Goal" is not possible until 1 year after the goal was set.
+
+@49159
+A daimyo cannot be moved to a branch castle. Move the other officers to {v0b32}?
+

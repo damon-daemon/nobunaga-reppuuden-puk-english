@@ -1,0 +1,411 @@
+@38000
+Give my regards to Lord {v0237}.
+
+@38000.1
+Never forget to revere His Majesty.
+
+@38000.2
+Never, ever forget your loyalty to the Court.
+
+@38000.3
+Keep this feeling, and continue your loyal service.
+
+@38001
+I rejoice to find His Majesty in good health. It is the greatest of blessings.
+
+@38001.1
+I am %s {v0133} {v0134}. I am deeply honoured to be granted this audience.
+
+@38002
+I am %s {v0133} {v0134}, vassal of the {v0137}. I am deeply honoured to be granted this audience.
+
+@38002.1
+I come to the Palace as envoy of {v0332}. I am %s {v0133} {v0134}.
+
+@38003
+Oh, Lord {v0234}! Welcome. We are glad to see you well. Be at ease, come closer.
+
+@38003.1
+Oh, Lord {v0334}'s envoy! Welcome. Is Lord {v0334} well? Be at ease, come closer.
+
+@38004
+Lord {v0232}, is it? Welcome, all the way from the provinces. Be at ease, come closer.
+
+@38004.1
+Lord {v0332}'s envoy, is it? Welcome, all the way from the provinces. Be at ease, come closer.
+
+@38005
+Your words are only right. Regrettably, I shall take my leave for today.
+
+@38006
+Thank you. I will go on working for His Majesty's sake.
+
+@38006.1
+I am most grateful. I will spare no effort for the Court.
+
+@38007
+Know your place. We need not hear such a request from one of your low rank.
+
+@38007.1
+Oh, these bumpkins! Look at your master's title. It is far too low to bring such a matter before His Majesty.
+
+@38007.2
+Insolence! Consider your master's title. Even in these troubled times, we will not hear those who lack manners.
+
+@38008
+This cannot be done to your own daimyo.
+
+@38009
+You are already allied with this daimyo. This cannot be done to an ally.
+
+@38010
+What, an envoy of His Majesty from the capital? Show him in at once.
+
+@38011
+I come in His Majesty's name... You are Lord {v0232}?
+
+@38012
+Yes! I am %s {v0133} {v0134}. I rejoice that His Majesty is in good health.
+
+@38013
+I bring His Majesty's decree to Lord {v0237}. Listen with care.
+
+@38015
+Might I be granted a title worthy of my loyalty and service to His Majesty?
+
+@38015.1
+That my master may serve His Majesty all the better, we humbly ask a new title for him. Will you grant it?
+
+@38015.2
+My lord laments that his title is far too humble for his power.
+
+@38016
+Know your place, Lord {v0234}. Be content with your present rank.
+
+@38016.1
+How vulgar... It shows your contempt for the Court. As if we would grant a higher rank!
+
+@38016.2
+What shameless gall... You should be content just to hold your present rank...
+
+@38016.3
+A bumpkin after all. Tell your master to know his place.
+
+@38017
+We appoint you {v6f}. {C38000}
+
+@38017.1
+We grant you the title {v6f}. {C38000}
+
+@38018
+A higher title is not possible. Yet sending you home empty-handed would be unseemly. We grant you the right to appoint a {v6f}.
+
+@38018.1
+A higher title is not possible... but if you go home empty-handed, Lord {v0334} will be angry. So we grant the right to appoint a {v6f}.
+
+@38019
+There are no more vacant titles.
+
+@38020
+For the peace of Japan, we ask leave to pacify our neighbours.
+
+@38020.1
+I have come to ask leave to punish the traitors who run rampant near our lands, troubling Japan.
+
+@38021
+By my lord's command, I have come to ask leave to punish the traitors who run rampant near the {v0136}, troubling Japan.
+
+@38021.1
+For the peace of Japan, we ask the loan of His Majesty's authority.
+
+@38022
+We cannot permit you to act as you please. Be gone at once.
+
+@38022.1
+We cannot permit the {v0236} to act as they please. Be gone at once.
+
+@38022.2
+Do you think the likes of you may use His Majesty's name? Be gone at once.
+
+@38022.3
+Do not overstep yourself. We will not hear so selfish a request.
+
+@38022.4
+How do you differ from these "traitors" of yours? Look to yourself before others.
+
+@38023
+We understand well your devotion to Japan. Permission is granted. We count on you for the peace of the realm.
+
+@38023.1
+We understand well the {v0236}'s devotion to Japan. Permission is granted. We count on you for the peace of the realm.
+
+@38023.2
+We know well the {v0236}'s loyalty to the Court. Ask whatever you wish.
+
+@38023.3
+Understood. Work to spread the Court's authority throughout the land.
+
+@38023.4
+Your spirit pleases us. Be His Majesty's hands and feet and strike down the traitors.
+
+@38024
+There is one who will surely trouble His Majesty's heart. We beg an imperial permit to punish them.
+
+@38024.1
+{v0332} is said to show disrespect to His Majesty. We beg an order to punish the {v0333}.
+
+@38024.2
+{v0332} is a lawless rogue who needlessly disturbs the peace of Japan. We beg an order to punish the {v0333}.
+
+@38025
+Choose the clan against which to seek a punitive order.
+
+@38026
+A punitive order has already been issued against this daimyo.
+
+@38027
+There is no reason to order the punishment of the {v0336}.
+
+@38027.1
+{v0332} is most loyal to His Majesty. There must be some mistake.
+
+@38027.2
+{v0332} is most loyal to His Majesty. We will not tolerate clumsy slander.
+
+@38027.3
+What are you plotting? We will not let you use His Majesty's name for your own gain.
+
+@38028
+The {v0336}? Indeed, we hear suspicious rumours. Very well, it shall be done.
+
+@38028.1
+Indeed... ill rumours of the {v0336} have reached the Palace too. Very well, it shall be done.
+
+@38028.2
+Understood. We doubt you are lying. Very well, it shall be done.
+
+@38028.3
+Indeed, His Majesty is troubled by the {v0336}. Well spoken. Work hard for His Majesty's sake.
+
+@38029
+As those who trouble His Majesty's heart, the {v0237} shall be punished by order of the Court.
+
+@38030
+The Court has issued a decree to punish the {v0137}.
+
+@38031
+This daimyo is already an enemy of the Court.
+
+@38032
+{v0332} is a traitor who disturbs the peace of the realm. We beg a decree naming them an enemy of the Court.
+
+@38032.1
+{v0332} is said to show disrespect to His Majesty. We beg a decree naming {v0334} an enemy of the Court.
+
+@38032.2
+{v0332} is a lawless rogue who needlessly disturbs the peace of Japan. We beg a decree naming them an enemy of the Court.
+
+@38032.3
+{v0332} is an insolent foe of His Majesty. We beg a decree naming them an enemy of the Court.
+
+@38033
+Choose the clan to be named an enemy of the Court.
+
+@38034
+What are you saying? Make the {v0337} enemies of the Court? Lord {v0234} forgets his place.
+
+@38034.1
+What are the {v0237} saying? They are in no position to ask that the {v0337} be made enemies of the Court!
+
+@38034.2
+Make the {v0337} enemies of the Court? That is no business of the {v0237}. Show some restraint.
+
+@38034.3
+What are you plotting? We will not let you use His Majesty's name for your own gain.
+
+@38035
+Indeed, the {v0336} have been acting suspiciously. Very well, it shall be done.
+
+@38035.1
+Indeed... ill rumours of the {v0336} have reached the Palace too. Very well, it shall be done.
+
+@38035.2
+Understood. We doubt you are lying. Very well, it shall be done.
+
+@38035.3
+Indeed, His Majesty is troubled by the {v0336}. Well spoken. Work hard for His Majesty's sake.
+
+@38036
+For the {v0237} to disturb Japan needlessly is to draw a bow against His Majesty. The {v0237} are hereby enemies of the Court.
+
+@38037
+Wh-what... We, enemies of the Court...
+
+@38037.1
+We, enemies of the Court!? On what grounds...
+
+@38037.2
+We, enemies of the Court!? Why? We have done nothing!
+
+@38038
+To perish as enemies of the Court, or to soften His Majesty's displeasure... That is for Lord {v0237} to decide.
+
+@38039
+The Court has named the {v0137} enemies of the Court.
+
+@38040
+You surely know my loyalty to His Majesty... I have done nothing to deserve this stain. In your wisdom, please revoke it.
+
+@38040.1
+You surely know our loyalty to His Majesty. We have done nothing to deserve this stain. In your wisdom, please revoke it.
+
+@38041
+You should not even be allowed in the Palace; we gave you a hearing as a special favour. Be content with that for today.
+
+@38041.1
+What nonsense is this? We have long heard rumours of you. His Majesty is furious. Give up for today.
+
+@38041.2
+No. You have no sincerity. If you want forgiveness, first show your sincerity to the Palace.
+
+@38042
+Indeed, Lord {v0234}'s loyalty to His Majesty is deep... Very well. From today the {v0237} are no longer enemies of the Court.
+
+@38042.1
+Indeed, the {v0237}'s loyalty to His Majesty is deep... Very well. From today the {v0237} are no longer enemies of the Court.
+
+@38043
+Choose the clan to recommend.
+
+@38044
+You are not allied with this daimyo.
+
+@38045
+This daimyo has already been recommended.
+
+@38046
+You cannot recommend a clan whose title is higher than ours.
+
+@38047
+I believe Lord {v0432} is a fine man of wisdom and valour, and wish to recommend him.
+
+@38047.1
+My master wishes to recommend Lord {v0432}, a fine man of wisdom and valour.
+
+@38048
+{v0432} hardly seems a person of note...
+
+@38048.1
+We have never heard anything good of {v0432}. Is there not some mistake?
+
+@38048.2
+{v0432}...? Never heard the name. We cannot accept a nobody from who knows where.
+
+@38049
+Since it is Lord {v0334} who asks, we accept the recommendation of {v0432}.
+
+@38049.1
+If your master speaks so highly of them, {v0432} must be a person of note. We accept the recommendation.
+
+@38049.2
+Understood. We doubt you are lying. Very well, it shall be done.
+
+@38050
+Enter the amount to present.
+
+@38051
+It is a mere {v65} gold, but please accept it as a small token.
+
+@38051.1
+Mere filthy coin, and it may not please you... but please accept {v65} gold.
+
+@38051.2
+I regret showing my devotion to the throne in goods, but I have brought {v65} gold. Please accept it.
+
+@38051.3
+I have brought {v65} gold, hoping to show some small part of my loyalty to the Court. Please accept it.
+
+@38052
+His Majesty must have many expenses. A small token from my lord: please accept {v65} gold.
+
+@38052.1
+This {v65} gold is proof of my lord's loyalty to the Court. Please accept it...
+
+@38052.2
+My lord grieved to hear of the Palace's hardship and sent me... Please accept {v65} gold.
+
+@38053
+Oh, how kind. We shall hold your loyalty to the Court in our heart.
+
+@38053.1
+Oh, how welcome! Our coffers were nearly empty. We thank you, {v0334}.
+
+@38053.2
+Most kind. We shall surely tell His Majesty of your care for the Palace. We count on you.
+
+@38053.3
+Hohoho... Since you insist, we shall take it. We will put in a good word with His Majesty, never fear.
+
+@38054
+Oh, how kind. We well understand Lord {v0333}'s loyalty to the Court.
+
+@38054.1
+Oh, how welcome... Our coffers were nearly empty. Lord {v0334} is most thoughtful.
+
+@38054.2
+Most kind. We shall surely tell His Majesty of Lord {v0334}'s care for the Palace. We count on you.
+
+@38055
+Court friendship rose by {v65} to the maximum.
+
+@38055.1
+Court friendship rose by {v65} to {v66}.
+
+@38056
+Choose the clan to slander.
+
+@38057
+This clan's Court friendship cannot be lowered further.
+
+@38058
+I often hear that the {v0336} are acting suspiciously towards His Majesty. Please take care.
+
+@38058.1
+I heard a strange rumour of late: that the {v0336} are acting suspiciously towards His Majesty...
+
+@38058.2
+Watch the {v0336} closely. They seem to be plotting disloyalty to the Palace.
+
+@38058.3
+They say that {v0332} has been slighting the Court of late... Please do not trust them.
+
+@38059
+{v0332} is most loyal to the Court. There must be some mistake.
+
+@38059.1
+Hohoho... What are you saying? Not {v0334}. If you must lie, lie better.
+
+@38059.2
+That is a lie. His Majesty knows best of all how loyal {v0334} is. Say no more.
+
+@38060
+Indeed... {v0332}'s slighting of His Majesty displeases us.
+
+@38060.1
+So it is true... We thought {v0332} had been acting oddly of late.
+
+@38060.2
+What! Is that so? You have told us something worth hearing. We thank you, {v0234}.
+
+@38060.3
+What! {v0332} harbours treachery against His Majesty? Unforgivable!
+
+@38061
+{v0132} of the {v3d32} seems to have taken a wife. The marriage to the {v3d32} is cancelled.
+
+@38062
+The {v3d32} have been recommended.
+
+@38063
+The Court believed the slander. The {v3d32}'s Court friendship is now {v65}.
+

@@ -1,0 +1,363 @@
+@42000
+One day... {v0232}, a vassal of the {v0133}, called on his lord {v0134}.
+
+@42001
+My lord... I would like a word.
+
+@42002
+What is it, {v0234}? Has something happened?
+
+@42003
+Might you hold back a little on your donations to the temples? It would be wiser to keep the gold as war funds...
+
+@42004
+...Nonsense. I am a follower of every sect... Of course I make donations.
+
+@42005
+I know that well, my lord... but raising the {v0133} banner over the realm will take war funds. That is why...
+
+@42006
+{v0234}... listen well. I give to the temples precisely because I wish to raise the {v0133} banner over the realm.
+
+@42007
+To govern the realm, I need the cooperation of the monks... Without donations I cannot win their hearts... unless I were to become a monk myself...
+
+@42008
+......! {v0234}! Bring my horse! I am going to see Abbot Gishu at Chozenji!
+
+@42009
+Oh, Lord {v0134}! Please, come in. What brings you here so suddenly?
+
+@42010
+Abbot... I would like you to preside over my tonsure.
+
+@42011
+M-my lord! Why take the tonsure... It is far too early to retire!
+
+@42012
+Abbot, {v0234}, hear me. I, {v0134}, wish to become a disciple of the Buddha and face this age of war with a fresh heart.
+
+@42013
+It is a tonsure to be born anew, so to speak... It is no retirement. Rest easy, {v0234}.
+
+@42014
+I understand your feelings, Lord {v0134}. Then let us prepare at once... ...Now, are you ready...
+
+@42015
+...Then from this day, {v0132} shall be no more... I grant you the Buddhist name "Tokueiken Shingen".
+
+@42016
+{v0133} Shingen... Everyone! From this day I am {v0133} Shingen!
+
+@42017
+Thus {v0132} took the tonsure and changed his name to "Shingen".
+
+@42018
+One day... a messenger came to {v0132}. This messenger would set off an incident that shook the {v0133} clan...
+
+@42019
+I have something to tell you all today. My father Nobutora, who was staying with the {v0633} clan, has been banished from {v0638}...
+
+@42020
+They say Lord {v0634} spends his days playing kemari instead of avenging his father... It seems my father tried to win over retainers who had given up on their lord.
+
+@42021
+The {v0633} clan seems on the verge of collapse. So I mean to beat the other provinces to it and take {v0638}. What say you all?
+
+@42022
+I am against it. The {v0633} clan is my wife's family, and so related to our house! Such a deed would betray our good faith.
+
+@42023
+{v0234}! This is an age of war. To survive, there are times one must cast good faith aside. Your attachment to it is naive!
+
+@42024
+Father! Is it not because this is an age of war that we must honour good faith! I am firmly against it!
+
+@42025
+...If you still insist on sending troops to {v0638}... then you will have to cut me, {v0234}, down first!
+
+@42026
+!!... Do not talk nonsense! Enough! Leave!
+
+@42027
+A few days later... saying he was going to watch the lantern floating, {v0234} left his house and went to the house of his guardian {v0332}...
+
+@42028
+{v0334}... nothing Father does these days makes sense to me... Surely Father does not mean to pass the headship to {v0534} instead of me...
+
+@42029
+Lord {v0234}! What are you saying! You are Lord {v0134}'s eldest son. There is no way that could be...
+
+@42030
+...No! It must be so! Attacking my wife's family as though I did not even exist... That deed is proof enough!
+
+@42031
+With Father's ways, who knows what will become of the {v0133} clan... So why not... Father... {v0334}, will you help me?
+
+@42032
+!... Please wait, Lord {v0234}!
+
+@42033
+Do not stop me, {v0334}! Did Father not banish Grandfather? Are you saying I may not do what Father did!?
+
+@42034
+Besides, when Grandfather was banished, they say you helped Father along with Lord Itagaki and the others! Will you not help me!?
+
+@42035
+!!...
+
+@42036
+Father succeeded in banishing Grandfather only with the help of Lord Itagaki, his senior elder. You are all I can rely on. Please, lend me your strength!
+
+@42037
+...I understand your resolve, Lord {v0234}... I will help you...
+
+@42038
+{v0234} and {v0334} began plotting to banish {v0134}. But...
+
+@42039
+My lord, there is something I must tell you at once...
+
+@42040
+...What is it, at this hour of the night?
+
+@42041
+...It seems Lord {v0234} and my brother are plotting rebellion against you, my lord. This letter is the proof...
+
+@42042
+This is {v0234}'s hand without a doubt! It sets out a plan to banish me from {v0138}... And {v0334} is part of it too?
+
+@42043
+Even if he is my own brother, rebellion cannot be forgiven. All the blame lies with my brother, so please forgive Lord {v0234}.
+
+@42044
+{v0234}'s rebellion came to {v0134}'s ears. A few days later...
+
+@42045
+Hm! Who goes there!!
+
+@42046
+{v0332}! Forgetting all our lord has done for you and plotting rebellion is an outrage! I, {v0432}, have come to punish you!
+
+@42047
+Hmm... So it was a hopeless scheme after all. Saburobei! Is Lord {v0234} safe? If I die, will Lord {v0234} be forgiven!?
+
+@42048
+B-brother!... Do not worry. Our lord has said he will forgive Lord {v0234}...
+
+@42049
+I see... That is a relief. Then, Saburobei, I take the blame and will commit seppuku. Be my second. Give our lord my apologies...
+
+@42050
+Brother... ...! Forgive me!!
+
+@42051
+Guh!!...
+
+@42052
+{v0334} took all the blame for the rebellion on himself and died by his own hand. And then...
+
+@42053
+Father... Why, Father... Why do you shun me so...?
+
+@42054
+...Why...
+
+@42055
+{v0234} died at Tokoji, where he was confined, by his own hand or from illness, it is said... The incident was settled, but ill feeling lingered among the vassals...
+
+@42056
+Ever since acting as second when his brother Obu Toramasa took his own life, {v0232} had spent his days in anguish.
+
+@42057
+His own brother had joined the rebellion of Yoshinobu, his lord's heir, and for that he had had to kill his brother with his own hands...
+
+@42058
+My lord... I have a request. I beg you, grant me, {v0234}, death...
+
+@42059
+What are you saying? ...! What is wrong, {v0234}? You look so worn... What has happened?
+
+@42060
+Some years ago my brother plotted rebellion against you, my lord... For me, {v0234}, his younger brother, to go on living on the {v0133} stipend is worse than death.
+
+@42061
+Stop, {v0234}! The true ringleader of your brother's rebellion was my own son Yoshinobu! If you are to atone for your brother's crime...
+
+@42062
+...then of course I must die too. And then what would become of the {v0133} clan? You are guilty of nothing!
+
+@42063
+M-my lord... You think so highly of me...
+
+@42064
+...But I understand your anguish. Why not change your family name? There is a name in the {v0133} family, now without heirs: "Yamagata".
+
+@42065
+Will you take the new name "Yamagata" and go on serving me as a man reborn? What do you say?
+
+@42066
+I-I am deeply grateful! From now on I will call myself Yamagata {v0234} and serve you with a fresh heart, my lord!
+
+@42067
+Thus {v0232} changed his name to Yamagata {v0234}. From then on he served with such distinction that he was counted among the "Four Great Retainers of the {v0133}".
+
+@42068
+{v0138}, the seat of {v0132}... {v0134} was deeply troubled.
+
+@42068.1
+On the surface, the domain was at peace.
+
+@42069
+In truth, the vassals were at odds and quarrelled daily over trifles. Then one day... a letter reached {v0134}'s tutor, Tenshitsu Koiku.
+
+@42070
+What? A letter from Lord {v0134}? Let me see... "Since I became lord of the province at a young age, I have worked as hard as I could..."
+
+@42071
+"...I have worked as hard as I could until now. However, my vassals will not truly submit to me. If this goes on..."
+
+@42072
+"...I cannot fulfil my duties as lord, so I have decided to retire. Happily, I have restored the {v0133} clan and been received at court..."
+
+@42073
+"...I wish to follow the old saying, 'withdraw once your work is done and your name made'. There are many able hereditary vassals, so there is no need to worry."
+
+@42074
+"I will take the tonsure and watch over the future of the {v0133} clan from afar. I pray you understand my feelings..."
+
+@42075
+Hmm... This will not do. I must go to {v0138} at once...
+
+@42076
+A few days later... Koiku hurried to {v0138}.
+
+@42077
+Why, Master Koiku, welcome. Lord {v0134} is attending to affairs of state in his chambers. Please wait a moment...
+
+@42078
+Do not lie to me. Has Lord {v0134} not fled from {v0138}?
+
+@42079
+!?... How do you know that...
+
+@42080
+I received this letter from Lord {v0134}.
+
+@42081
+!!... Allow me to read it...
+
+@42081.1
+...This is...
+
+@42082
+Will you leave it so? Can all be well without Lord {v0134}? The {v0133} clan stands only by Lord {v0134}. If this goes on...
+
+@42083
+...I understand! I will find our lord without fail and bring him back to {v0138}!
+
+@42084
+Moved by Abbot Tenshitsu's words, {v0234} went after {v0134}. {v0134} was soon found.
+
+@42085
+At last... I have found you...
+
+@42086
+Whatever you may say, Lord {v0234}, I have no intention of going back.
+
+@42087
+That will not do... My lord, the {v0133} clan cannot do without you...
+
+@42088
+{v0234} desperately tried to persuade {v0134}. And some hours passed...
+
+@42089
+...Very well! If you insist so strongly, Lord {v0234}, I will return to {v0138}.
+
+@42090
+Truly! You will reconsider! Then the {v0133} clan is safe.
+
+@42091
+But I want every vassal to submit a sworn oath of loyalty to me.
+
+@42092
+That is no trouble at all. Leave it to me.
+
+@42093
+In the end, {v0134} remained lord of the province. From then on the vassals swore greater loyalty to {v0134} than before...
+
+@42094
+One day... {v0232}, the Kanto Kanrei, who had taken refuge with {v0132}, visited {v0134}'s residence...
+
+@42095
+Lord {v0134}... In truth, there is something I must ask of you.
+
+@42096
+?... What might that be?
+
+@42097
+I want you to become my adopted son and inherit the {v0233} name and the post of Kanto Kanrei.
+
+@42098
+What!? B-but why...
+
+@42099
+Of course you would not know, but some time ago, this happened...
+
+@42100
+Lord {v0334}, your ancestors came from the {v0233} clan... In other words, the same blood flows in you as in me: {v0233} blood.
+
+@42101
+So there is nothing to stop you taking the post of Kanto Kanrei and the {v0233} name, is there?
+
+@42102
+I cannot accept that offer. I understand what you say, Lord {v0234}... but I am now head of the {v0333} clan.
+
+@42103
+I cannot simply cast aside the noble {v0333} name, handed down unbroken from Lord Shinra Saburo Yoshimitsu. I am sorry, but please withdraw your offer...
+
+@42104
+...I see. So that is what happened...
+
+@42105
+You are the only one I can rely on. I beg you to inherit the {v0233} name and the post of Kanto Kanrei. What do you say?
+
+@42106
+Such words are more than someone like me deserves. I accept with pleasure!
+
+@42107
+{v0132} became Kanto Kanrei, and changed his name to Uesugi Kenshin.
+
+@42108
+One day... a messenger came to {v0138}, the seat of {v0132}.
+
+@42109
+Forgive me for interrupting your meal, my lord. Word has come that Takeda Shingen has died.
+
+@42110
+What!? Lord Shingen is dead!... ...Ugh... He was my rival for many years, but...
+
+@42111
+He was truly a great general... A great loss... Ugh... Listen, {v0234}. Tell every commander this.
+
+@42112
+Lord Shingen was a hero of the realm. For three days from today, music is forbidden in the samurai houses of the castle town. The common people are exempt.
+
+@42113
+This is to honour Lord Shingen and also to pay respect to the god of war, so see that it is strictly obeyed... Understood?
+
+@42114
+My lord... forgive me, but now that Lord Shingen is gone, is this not the perfect chance to conquer the {v0333} clan?
+
+@42115
+Do not talk nonsense! Taking advantage of another's weakness is not my way!
+
+@42116
+Say such a thing again and I will have your head!! Now stop dawdling and take my orders to the commanders!!
+
+@42117
+...Yes, my lord! Forgive me for speaking out of turn. I go at once.
+
+@42118
+Shingen and {v0134}, who fought five deadly battles at Kawanakajima... At some point, it seems, a feeling one might call friendship had grown between them...
+

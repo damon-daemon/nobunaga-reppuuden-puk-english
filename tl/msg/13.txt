@@ -1,0 +1,543 @@
+@13000
+This happened one winter morning, not long after {v0232} had entered the service of {v0132}...
+
+@13001
+Monkey! Where is Monkey! I am going riding. Bring my sandals!
+
+@13002
+Yes, my lord!... Here you are, my lord.
+
+@13003
+Well done!! ...Hm? Monkey! These sandals are warm. You have been sitting on them, you wretch! I will cut you down!
+
+@13004
+N-never, my lord! In this cold season I feared your feet would freeze, so I warmed them inside my robe.
+
+@13005
+Hmph... You talk an amusing tale. Very well, I praise you. You shall lead my horse on today's ride. Follow me!
+
+@13006
+A very famous tale, handed down since olden times. Whether it is true, no one knows...
+
+@13007
+{v0232}, who served {v0132} as sandal bearer, won the lord's favour and rose steadily. Then one day...
+
+@13008
+You called for me? ...My lord? What is the matter? You look troubled.
+
+@13009
+The repairs to the collapsed wall at {v0138} are going nowhere. A month has passed and they have barely moved...
+
+@13010
+My lord!! Please give that task to me, {v0234}. Give me three days, and I shall have the wall repaired.
+
+@13011
+What!? ...Hahaha. Big words, Monkey! And what if you fail within three days?
+
+@13012
+I am a samurai, however lowly... I know the proper form of seppuku.
+
+@13013
+Very well! I leave it all to you. Finish it within three days without fail!
+
+@13014
+Yes, my lord! Then... I have a request. Please entrust me with all the labourers' wages in advance.
+
+@13015
+Very well. Do it however you like.
+
+@13016
+Everyone, listen! I am {v0232}, appointed magistrate of works from today! All foremen and above, gather here!
+
+@13017
+What's all this?
+
+@13018
+What's goin' on?
+
+@13019
+From today the way we work changes completely, so listen well! First, the workers and the site are split ten ways. And from now on, you get paid by the day.
+
+@13020
+On top of that, any gang that works well gets a reward besides its wages. But any gang I find slacking gets only half pay.
+
+@13021
+You all know how to mend a wall better than I do. Each gang, think it out and get to work. Now, start at once!
+
+@13022
+Oho, a reward if we do good work? Right then, let's get to it!
+
+@13023
+Oi, lads! That reward's ours! Get to work!!
+
+@13024
+Good, good. Everyone seems keen now.
+
+@13025
+The gangs worked in competition, and just as {v0234} had boasted, the repairs were done in three days.
+
+@13026
+This tale of {v0234}, later known as the divided labour of {v0138}, has been handed down ever since.
+
+@13027
+One day... {v0132} asked his wife Nene a question.
+
+@13028
+Say, Nene, who are the greatest retainers of our house? Name me two.
+
+@13029
+Hm?... Our house's greatest retainers? Why, surely Lord {v0233} and Lord {v0333}.
+
+@13030
+Hm... I thought as much. And if those two led armies against each other, who would win?
+
+@13031
+Lord {v0333}, I should think. Lord {v0233} is hot-blooded... But, husband, why ever do you ask such a thing?
+
+@13032
+Well... I mean to change my family name. I was torn between "Shibaha" and "Hashiba", but your words have settled it. From today my name is "Hashiba".
+
+@13033
+My... Whatever next... But why change your name?
+
+@13034
+I rose from sandal bearer to where I stand now. Many of the elders do not think well of me.
+
+@13035
+So if I take one character each from Lord {v0233} and Lord {v0333}, our greatest retainers, it will sound well to the whole house.
+
+@13036
+Ho ho... What a reasonable argument. What you mean is, you alone do the work of both Lord {v0233} and Lord {v0333}, husband.
+
+@13037
+Don't say such things so loudly! You know me too well, wife. That is so. Now listen, never tell anyone what you just said.
+
+@13038
+Yes, dear. I understand.
+
+@13039
+And so {v0132} changed his name to Hashiba {v0134}.
+
+@13040
+One day... on the way back from falconry, {v0132} stopped at a certain temple.
+
+@13041
+Why, Lord {v0134}, welcome. Please, come in.
+
+@13042
+No, I only stopped because the hunt made me thirsty. The veranda will do. More to the point, could I have a cup of tea?
+
+@13043
+Ah... how thoughtless of me. Hey! Sakichi! Bring our lord some tea!
+
+@13044
+Yes! Right away... Here you are.
+
+@13045
+Ah, here it is. Gulp, gulp, gulp... Phew. I feel alive again. Sorry, but another cup.
+
+@13046
+Certainly. Please wait a moment... Here you are.
+
+@13047
+Good, good. Gulp... phew... gulp... Ah, that's better. Sakichi, was it? One more cup, if you would.
+
+@13048
+Hm... let's see... Sip... ahh... sip... Ah, fine tea... Abbot! Give me this boy.
+
+@13049
+What!? This is a sudden request. What is the matter?
+
+@13050
+For the first cup he served lukewarm tea, easy for me to gulp. For the second, slightly hotter tea, so I could taste it a little...
+
+@13051
+...and the third hot, to be savoured slowly... Such care in the mere serving of tea! Remarkable!
+
+@13052
+This boy has what it takes to help run the realm. He is wasted as a temple acolyte. What do you say? Will you come with me?
+
+@13053
+B-but... Abbot...
+
+@13054
+Go, Sakichi. This may be the Buddha's guidance. Follow our lord, and help rid this world of war as soon as you can.
+
+@13055
+Hahaha! I knew it, Abbot, you are a man of sense. Right, Sakichi! Let's go!
+
+@13056
+Y-yes! I am in your hands, my lord!
+
+@13057
+And so the acolyte Sakichi, later known as {v0232}, entered the service of {v0134}.
+
+@13058
+Some time after {v0132} had been proclaimed Regent, the court noble Kikutei Harusue, who was close to {v0134}, came to visit.
+
+@13059
+Lord {v0134}, congratulations on becoming Regent.
+
+@13060
+Yes, you have been a great help. And there is one more thing I would have you help me with.
+
+@13061
+Hm...? What might that be?
+
+@13062
+Well... I mean to change my family name. I have thought of this one. Will you take a look?
+
+@13063
+"Toyotomi"...? But Lord {v0134}, do you not bear the Fujiwara name now...?
+
+@13064
+This name carries the wish "Heaven and earth eternal, joy for all the people". As Regent, I am master of the realm in name and in fact...
+
+@13065
+My wish is to make a world without war. If I bear an old name like Minamoto, Taira, Fujiwara or Tachibana, my purpose will not reach the people...
+
+@13066
+So through the name "Toyotomi", I want to tell everyone what I wish for. Do you understand?
+
+@13067
+I understand! I shall work to obtain an imperial permit granting the name "Toyotomi".
+
+@13068
+Some time later, the imperial permit granting the name "Toyotomi" came down to {v0134}, and {v0132} changed his name to Toyotomi {v0134}.
+
+@13069
+Some time after {v0132} had begun life as a hostage of the {v0233}, {v0134} was summoned by {v0234}.
+
+@13070
+Ah, {v0134}. I have something to tell you today.
+
+@13071
+What might it be, my lord?
+
+@13072
+You are of an age to take a wife. My sister is married to Sekiguchi Gyobu-shoyu Chikanaga; I mean to give you their daughter, {v0334}... Any objection?
+
+@13073
+...I gratefully accept your kindness, Lord {v0234}.
+
+@13074
+Good, hahaha! From now on you are my nephew. Keep that firmly in mind.
+
+@13075
+...Yes, my lord.
+
+@13076
+And so {v0334} was married to {v0134}.
+
+@13077
+Hahaha, a fine pair! What a good day this is, hahaha.
+
+@13078
+...Why must I marry a homeless boy... What can Lord {v0234} be thinking...
+
+@13079
+...Now I am kin of the {v0233}... When Lord {v0234} marches on Kyoto, I must lead the vanguard... What on earth am I to do...
+
+@13080
+{v0134} took {v0334} as wife and became kin of the {v0233}. For {v0134}, who sought a way to stand alone, it was an agonising choice.
+
+@13081
+Even after his father Yoshimoto fell to {v0132}, {v0334} made no move to avenge him, living an elegant, carefree life of kickball and pastimes.
+
+@13082
+{v0234} gave up on {v0334} and resolved to break free of the {v0333}.
+
+@13083
+From now on I, {v0232}, shall make {v0238} my base and set my sights on the realm!
+
+@13084
+{v0234}! Y-you, you would b-betray me!?
+
+@13085
+Having declared independence, {v0234} took the name "Tokugawa Ieyasu", cut all ties with the {v0333}, and went to visit {v0134}.
+
+@13086
+Lord {v0134}, {v0232} has come to visit. Will you see him?
+
+@13087
+Oh, Takechiyo! Good of you to come! Come, come in quickly.
+
+@13088
+It has been so long, Lord Kipposhi... No, it is Lord {v0134} now, is it not.
+
+@13089
+Kipposhi will do, Kipposhi. After all we have been through? Don't be so formal! Hahaha.
+
+@13090
+...Lord Kipposhi, do you remember the promise we made as boys...?
+
+@13091
+Listen, Takechiyo! You and I will join forces, end this age of war as soon as we can, and bring the people happiness!
+
+@13092
+Yes!!
+
+@13093
+Yes, I remember. How could I forget?
+
+@13094
+Now is the time to keep that promise. I shall hold the east, so you, Lord {v0134}, must subdue the west.
+
+@13095
+Hahaha! Very well, I leave the east to you, Takechiyo! With this, the {v0133}-{v0233} alliance is made!
+
+@13096
+With Takechiyo and me together, there is nothing in Japan to fear! A truly good day! Is it not, Takechiyo!
+
+@13097
+A good day indeed, my lord.
+
+@13098
+Thus the Kiyosu Alliance was made. From then on, {v0134} and {v0234} pressed forward hand in hand toward uniting the realm.
+
+@13099
+So Lord {v0134} would not see me... Very well. Then I shall end this age of war by my own strength!
+
+@13100
+Some years after the Kiyosu Alliance, the day came for {v0334}'s daughter {v0434} to marry {v0134}'s son {v0234}.
+
+@13101
+Listen, {v0434}. Today you marry {v0234}, son of Lord {v0134}. Do not forget what your father tells you now.
+
+@13102
+Yes, Father. I understand.
+
+@13103
+We are now allied with Lord {v0134}. Know that your marriage is meant to strengthen that alliance. But in this age of war...
+
+@13104
+...no one knows when the alliance may break... If Lord {v0134} or {v0234} make any suspicious move, let me know at once.
+
+@13105
+Yes, Father. I shall remember your words.
+
+@13106
+Good! {v0434} is a good girl, hahaha.
+
+@13107
+And so Princess {v0434} was married to {v0234}.
+
+@13108
+Like a pair of festival dolls! A fine match indeed... You must both be tired. Go and play.
+
+@13109
+Lord {v0234}.
+
+@13110
+What is it, Princess?
+
+@13111
+Shall we play house?
+
+@13112
+Yes, let's.
+
+@13113
+Such small children, married off for their parents' ends... What a sad thing this age of war is...
+
+@13114
+Some years after this wedding the two would suffer a sad parting, but at the time they were only {v023b} and could not have known...
+
+@13115
+At this time, {v0132}'s position was complex: his wife {v0234} was the adopted daughter of Imagawa Yoshimoto, and his son's wife {v0434} was the daughter of {v0734}.
+
+@13116
+{v0234} bitterly resented that her husband had allied with their mortal foe and taken the foe's daughter as wife for their son {v0334}, and was harsh to {v0434}.
+
+@13117
+Why, my lady, I am glad to see you in good health.
+
+@13118
+I hear you are going to {v0738}. I have a favour to ask, {v0534}. Would you deliver this letter to my father at {v0738}?
+
+@13119
+Certainly! Leave it to me, {v0534}. I shall be on my way.
+
+@13120
+Take care on the road...
+
+@13121
+A single letter written by {v0434} would later bring the {v0133} clan to the brink of ruin.
+
+@13122
+Good work, {v0534}. How was Lord {v0734}?
+
+@13123
+My lord!! ...A-a grave matter! Lord {v0734} says... that the young lord and Lady Tsukiyama... that both must be put to death...
+
+@13124
+What!? ...What is the meaning of this!?
+
+@13125
+Before I set out, the young lord's wife gave me a letter for Lord {v0734}... It seems the letter listed crimes of the young lord and Lady Tsukiyama...
+
+@13126
+...... Tell me these so-called crimes.
+
+@13127
+Pale-faced, {v0534} counted off the crimes. With each one, {v0134}'s despair grew deeper...
+
+@13128
+That Lady Tsukiyama is in secret league with the {v0833}, plotting to destroy both the {v0133} and the {v0733}...
+
+@13129
+...Enough. Did Lord {v0734} say anything else?
+
+@13130
+That if Lady Tsukiyama's hatred of the {v0733} joins with {v0334}'s rashness, harm to the {v0133} is certain... So for the future, they must be put to death at once...
+
+@13131
+I see... So that is what Lord {v0734} said...
+
+@13132
+Obey {v0732}'s order and put {v0332} and {v0234} to death?
+
+@13133
+We have a mission to end this age of war. I cannot spare traitors, even my own wife and son... Ready the troops! We go to {v0334}!!
+
+@13134
+What is happening, Father? Why have you brought troops to {v0338}...
+
+@13135
+...You are under suspicion. I order you banished from {v0338}! Leave this castle at once and confine yourself. Is that clear!
+
+@13136
+B-but why!? What suspicion can there be of me, {v0334}... I beg you to tell me the reason.
+
+@13137
+Silence! Who wallowed in decadent dances and killed a dancer for dancing badly? Do you not recall killing an innocent monk on the way back from falconry!
+
+@13138
+B-but I have already made amends for all of that!
+
+@13139
+Do you not recall beating Princess {v0434}? Killing her lady-in-waiting? And worst of all...
+
+@13140
+...joining your mother in secret league with the {v0833}, plotting to kill me, {v0134}... Do you still claim there is no suspicion! Someone take this scoundrel away!
+
+@13141
+W-wait, Father! I have no dealings with the {v0833}! It is a misunderstanding! Father, Father!
+
+@13142
+A few days later... as {v0134} sat in grief, {v0334}, who should have been in confinement, suddenly appeared.
+
+@13143
+!? ...Wh-why are you here!
+
+@13144
+Hear me, Father! At last I understand your pain. I, {v0334}, am ready to die.
+
+@13145
+But hear just one thing. The plot with the {v0833} is a misunderstanding. Clear me of that alone, or I cannot die in peace.
+
+@13146
+...Unseemly, {v0334}! If you are a samurai, you know shame. Do you not see that this one plea is itself shameful? Go back!
+
+@13147
+Father! Do you truly believe I dealt with the {v0833}? Would you send me to my grandfather as a son who turned on his father!?
+
+@13148
+Enough!! Stay quietly in confinement!
+
+@13149
+Father... I understand. I shall go back...
+
+@13150
+Meanwhile, news of "{v0334}'s banishment" threw {v0234} into turmoil. Just as she was seeking a way to explain herself, an envoy came from {v0134}...
+
+@13151
+The great lord wishes to speak with you about the young lord.
+
+@13152
+I see. I shall make ready at once. Please wait a moment...
+
+@13153
+Princess {v0234} fearfully boarded her palanquin. The party rested not far from {v0138}. The moment Princess {v0234} stepped down...
+
+@13154
+My lady... forgive me!
+
+@13155
+Ah! I-is... this... Lord {v0134}'s order... or {v0434}'s...
+
+@13156
+It is for the {v0133} clan. My lady, forgive me!
+
+@13157
+Urgh!... As long as... the {v0133} house... endures... I shall... curse it...
+
+@13158
+Thus Princess {v0234} departed this world. She too was a sad victim of the age of war.
+
+@13159
+{v0632} went as envoy to {v0334}, who was in confinement...
+
+@13160
+I see... Then I, {v0334}, must follow my mother... {v0634}, I shall now take my life. I ask you to be my second.
+
+@13161
+Young lord...
+
+@13162
+Tell Father just this: {v0334} never dealt with the {v0833}... No, that is a lingering regret... Father must know I am innocent.
+
+@13164
+{v0634}, tell him only that {v0334} died bravely by his own hand... Now... ready? Do not botch it and make me suffer...
+
+@13165
+!... Young lord!! Forgive me!!
+
+@13166
+Urgh!...
+
+@13167
+Young lord!! Why! Why did it have to come to this... Ohh...
+
+@13168
+So the affair was settled. {v0134} had proven loyalty to {v0734}, even at the cost of driving {v0334} and {v0234} to their deaths.
+
+@13169
+Even if {v0334} were at fault... I cannot put {v0334} to death. Everyone! We break with Lord {v0734}! Each of you, secure your lands!
+
+@13170
+A few days later... {v0134}, {v0234} and {v0334} gathered together for the first time in a long while...
+
+@13171
+I believed Lord {v0734} was the one to end this age of war, and bore it all until now... But I have reached my limit... {v0334}, my dear... I, {v0134}...
+
+@13172
+...mean to break with Lord {v0734} and do battle. Will you both lend me your strength?
+
+@13173
+Do not be so formal! I shall follow you, Father.
+
+@13174
+My dear... I have caused you nothing but hardship. Forgive me.
+
+@13175
+I am so happy... I feel as if all my hardships have blown away.
+
+@13176
+We shall send Princess {v0434} back to Lord {v0734}... I cannot bring myself to kill her.
+
+@13177
+I agree. It is best to shed no needless blood...
+
+@13178
+All shall be as you wish...
+
+@13179
+Until now I have spent my days watching Lord {v0734}'s every mood... From today, the {v0133} family shall fight on as one!
+
+@13181
+Yes!
+
+@13182
+{v0134} at last declared a break with {v0734}, who meddled in other houses' affairs. What would become of the {v0133} clan...
+

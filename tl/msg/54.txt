@@ -1,0 +1,534 @@
+@54000
+{v0138} of the {v0136} clan opened its gates without a fight, overawed by the might of the {v0236}.
+
+@54001
+{v0138}, an independent power, opened its gates without a fight, overawed by the might of the {v0236}.
+
+@54002
+We will not fight a battle we cannot win. We hand over this {v0138} and surrender to the {v0236}.
+
+@54002.1
+Against so great a host, my {v0138} would not last a moment. I surrender.
+
+@54002.2
+Against so great a host, even my {v0138} cannot hold out. It seems we have no choice but to surrender.
+
+@54002.3
+Please, stay your attack. I will open {v0138} to you here and now.
+
+@54003
+{v0334}... So the wretch feared me and surrendered...
+
+@54003.1
+{C14}, listen! {v0334} feared our army and has surrendered. Your renown must be spreading.
+
+@54003.2
+{C14}, {v0332} fears our army and has offered to surrender.
+
+@54003.3
+{C14}, {v0332} of {v0338}, our target, fears our army and has offered to surrender.
+
+@54004
+Give up on {v6f} and choose a new goal. Are you sure?
+
+@54005
+A new goal is chosen once every daimyo has ended this month's turn. Please end your turn as usual.
+
+@54006
+It cannot be helped... A pity we failed the goal, but so be it. Next time I will achieve it!
+
+@54006.1
+It cannot be helped... To spread the {v0136} name across the realm, I will achieve the next goal.
+
+@54006.2
+A pity... We shall surely achieve the next goal and show the realm the might of the {v0136}.
+
+@54007
+Officers unhappy that the goal was not achieved have lost loyalty.
+
+@54008
+Now then, let us set the {v0136} clan's next goal...
+
+@54008.1
+{C14}, please decide the {v0136} clan's next goal.
+
+@54008.2
+{C14}, what shall be the {v0136} clan's next goal?
+
+@54009
+Set the name.
+
+@54010
+Set the portrait.
+
+@54011
+Set the sex.
+
+@54012
+Set the officer who is the birth father.
+
+@54013
+Set the birth year.
+
+@54014
+Set the approximate age at which the officer will die.
+
+@54015
+Set Merit.
+
+@54016
+Set the year joined.
+
+@54017
+Set the Politics stat.
+
+@54018
+Set the War stat.
+
+@54019
+Set the Command stat.
+
+@54020
+Set the Intellect stat.
+
+@54021
+Set Infantry aptitude. S is the best, E the worst.
+
+@54022
+Set Cavalry aptitude. S is the best, E the worst.
+
+@54023
+Set Gunner aptitude. S is the best, E the worst.
+
+@54024
+Set Navy aptitude. S is the best, E the worst.
+
+@54025
+Gain the Farming skill.
+
+@54026
+Discard the Farming skill.
+
+@54027
+Gain the Commerce skill.
+
+@54028
+Discard the Commerce skill.
+
+@54029
+Gain the Building skill.
+
+@54030
+Discard the Building skill.
+
+@54031
+Gain the Recruit skill.
+
+@54032
+Discard the Recruit skill.
+
+@54033
+Gain the Diplomacy skill.
+
+@54034
+Discard the Diplomacy skill.
+
+@54035
+Gain the Volley skill.
+
+@54036
+Discard the Volley skill.
+
+@54037
+Gain the Fire Pots skill.
+
+@54038
+Discard the Fire Pots skill.
+
+@54039
+Gain the Cavalry Charge skill.
+
+@54040
+Discard the Cavalry Charge skill.
+
+@54041
+Gain the Mounted Gunners skill.
+
+@54042
+Discard the Mounted Gunners skill.
+
+@54043
+Gain the Ninja calling.
+
+@54044
+Discard the Ninja calling.
+
+@54045
+Gain the Tea Master calling.
+
+@54046
+Discard the Tea Master calling.
+
+@54047
+Gain the Swordsman calling.
+
+@54048
+Discard the Swordsman calling.
+
+@54049
+Gain the Monk calling.
+
+@54050
+Discard the Monk calling.
+
+@54051
+Gain the Crane Wing formation.
+
+@54052
+Discard the Crane Wing formation.
+
+@54053
+Gain the Fish Scale formation.
+
+@54054
+Discard the Fish Scale formation.
+
+@54055
+Gain the Geese formation.
+
+@54056
+Discard the Geese formation.
+
+@54057
+Gain the Crescent formation.
+
+@54058
+Discard the Crescent formation.
+
+@54059
+Gain the Yoke formation.
+
+@54060
+Discard the Yoke formation.
+
+@54061
+Gain the Long Snake formation.
+
+@54062
+Discard the Long Snake formation.
+
+@54063
+Gain the Arrowhead formation.
+
+@54064
+Discard the Arrowhead formation.
+
+@54065
+Gain the Circle formation.
+
+@54066
+Discard the Circle formation.
+
+@54067
+Set the manner of speech.
+
+@54068
+Set compatibility. Officers with close values get on well.
+
+@54069
+Set duty. The higher it is, the less likely the officer is to betray.
+
+@54070
+Set Max Duty.
+
+@54071
+Set whether the officer's outlook is conservative or progressive.
+
+@54072
+Set the officer's attitude to prestige.
+
+@54073
+Set the officer's understanding of Christianity.
+
+@54074
+Set the officer's desire to march on Kyoto.
+
+@54075
+Quit the officer editor. Are you sure?
+
+@54076
+Set the clan's Fame.
+
+@54077
+Set the clan's friendship with the Imperial Court.
+
+@54078
+Set the friendship with your clan.
+
+@54079
+Set the number of cannon the clan owns.
+
+@54080
+Set the number of ironclads the clan owns.
+
+@54081
+Set the castle's defence.
+
+@54082
+Set the amount of gold stored in the castle.
+
+@54083
+Set the amount of rice stored in the castle.
+
+@54084
+Set the number of troops in the castle.
+
+@54085
+Set the number of guns stored in the castle.
+
+@54086
+Set the number of horses stored in the castle.
+
+@54087
+I shall unify {v6f} and proclaim the {v0136} name to all the land!
+
+@54087.1
+{C14}, let us unify {v6f} and proclaim the {v0136} name to all the land.
+
+@54088
+Destroying our sworn enemy, the {v3d32}, matters more to the {v0136} than anything.
+
+@54088.1
+{C14}, destroying our sworn enemy, the {v3d32}, must come before all else.
+
+@54088.2
+{C14}, until we destroy the {v3d32}, who threaten our neighbours, our long-held wish cannot be fulfilled.
+
+@54089
+I shall take {v0b32}, said to be impregnable, and make it my home base.
+
+@54089.1
+{C14}, let us take {v0b32}, said to be impregnable, and make it our home base.
+
+@54090
+I shall seek an audience with the Shogun to convey our views.
+
+@54090.1
+{C14}, why not seek an audience with the Shogun to convey our views?
+
+@54091
+I shall enter Kyoto, pacify the Kinai and support the Shogun.
+
+@54091.1
+{C14}, let us enter Kyoto and pacify the Kinai to support the Shogun.
+
+@54092
+The Shogun's house has lost its authority and has no reason to exist. I shall march on Kyoto, sweep the capital and wipe out the old order with my own hands!
+
+@54092.1
+{C14}, a shogunate that has lost its authority is worth nothing now. Let us enter Kyoto and show them our strength.
+
+@54093
+The {v3d32} threaten the Shogun. I can ignore it no longer. We shall form an encirclement!
+
+@54093.1
+{C14}, we cannot ignore the {v3d32}'s threats to the Shogun any longer. Let us form an encirclement and destroy them.
+
+@54094
+To raise the {v0136} name, I shall seek a court title from the Imperial Court.
+
+@54094.1
+{C14}, to raise the {v0136} name, why not seek a court title from the Imperial Court?
+
+@54095
+We lack officers fit to lead armies. I shall bring in men of military talent and prepare for battle.
+
+@54095.1
+{C14}, we lack officers fit to lead our armies. We should bring in men of military talent and prepare for battle.
+
+@54096
+To govern my lands well, it seems I must seek men of political talent across the land.
+
+@54096.1
+{C14}, to govern our lands well, let us seek men of political talent across the land.
+
+@54097
+With men skilled in intrigue, we could use stratagems in our strategy too...
+
+@54097.1
+{C14}, to broaden the {v0136} clan's strategy, let us bring in men skilled in intrigue.
+
+@54098
+Fighting alone will not win men's hearts. I shall gather fine tea ware and hold a tea ceremony.
+
+@54098.1
+{C14}, fighting alone will not win men's hearts. Why not gather fine tea ware and hold a tea ceremony?
+
+@54099
+I shall hold a tournament and make my clan's martial fame ring throughout the land!
+
+@54099.1
+{C14}, why not hold a tournament to show the realm the martial fame of the {v0136}?
+
+@54100
+{v2932} seems to have much wasteland. First, I shall clear this land.
+
+@54100.1
+{C14}, {v2932} has much wasteland. Developing it is our first priority...
+
+@54101
+We have little rice for our number of troops. It seems we must secure more rice.
+
+@54101.1
+{C14}, if I may speak: we seem to have little rice for our number of troops.
+
+@54101.2
+{C14}, our present rice is not enough. We should secure rice against war and famine.
+
+@54102
+Build ironclads, and command of the seas will belong to the {v0136}.
+
+@54102.1
+{C14}, why not build ironclads to command the seas and gain the upper hand in naval battles?
+
+@54103
+To keep winning in these warring times, we still lack troops. I shall build many villages to raise them.
+
+@54103.1
+{C14}, to keep winning wars we need many troops. Let us build villages for that.
+
+@54104
+To advance our strategy with the upper hand, we must first raise our prestige.
+
+@54104.1
+{C14}, with high prestige we could force other domains to surrender without a fight.
+
+@54105
+I shall unify {v2932} and make it my foundation for ruling the realm.
+
+@54105.1
+{C14}, {v2932} is our foundation. Let us first unify this province.
+
+@54106
+Short Play Mode 1
+
+@54107
+Besides the main goal, "Unify Japan", this mode sets smaller goals (short scenarios) such as "Unify Region" or "Defeat the X Clan". Clearing a short scenario shows its ending, and you can then choose the next short scenario.
+
+@54108
+Short Play Mode 2
+
+@54109
+[How to Play]\nOn the start menu, choose "Short Play Mode", then pick the scenario, daimyo and short scenario.\n\n[Checking the Goal]\nChoose the system command [Goal] to see the current goal.
+
+@54110
+Short Play Mode 4
+
+@54111
+[Time Limit]\nShort scenarios have a time limit. If you fail to achieve the goal in time, you will not see the short scenario ending. Achieving the goal after the time limit still lets you choose the next short scenario.
+
+@54112
+New Daimyo Mode 1
+
+@54113
+Start the game with any officer you like as daimyo. Officers registered under "Register Officers & Treasures" on the start menu can also be daimyo. To start with registered officers as daimyo or retainers, create the new officers beforehand.
+
+@54114
+New Daimyo Mode 2
+
+@54115
+[How to Play]\nOn the start menu, choose "New Daimyo Mode", then choose Fictional Start, Rebellion Start or Successor Start.\n\n[Fictional Start]\nFreely edit where officers are, which clans rule the castles, where registered officers are placed and more, then start the game.
+
+@54116
+New Daimyo Mode 3
+
+@54117
+The edit commands are:\nMove Officers: move an officer to any castle. Choose the source castle, the destination and the officer.\nCreate Clan: make an ordinary officer a daimyo. Choose the home castle and the officer.\nChange Ruling Clan: change the clan ruling a castle. Choose the castle and the new ruling clan.
+
+@54118
+New Daimyo Mode 4
+
+@54119
+Place Officers: place a registered officer in any castle. Choose the officer and the castle.\nUnify or Free Provinces: change who controls castles. Choosing a main castle puts every castle in its province under that castle's daimyo; choosing a branch castle makes it independent.\nDaimyo Info: view a clan's info. Choose a crest on the map.
+
+@54120
+New Daimyo Mode 5
+
+@54121
+[Rebellion Start]\nThe chosen officer rebels right after the game starts and becomes daimyo. You can also set which officers join the rebellion and which registered officers become retainers.\n\n[Successor Start]\nThe chosen officer inherits the headship right after the game starts and becomes daimyo. You can also set registered officers as retainers.
+
+@54122
+Registering Officers 1
+
+@54123
+Register new officers to make them appear in the game. In Normal, Short and New Daimyo play alike, you can choose at the start of a game whether new officers appear. In New Daimyo play, registered officers can be retainers from the start.
+
+@54124
+Registering Officers 2
+
+@54125
+[How to Register Officers]\nUnder "Register Officers & Treasures" on the start menu, choose "Register New Officer". Follow the on-screen instructions to set the name, face, stats and so on.
+
+@54126
+Registering Officers 3
+
+@54127
+[Officer Register Screen]\nMove the cursor to an item to change it. L1/R1 switch pages. L2 sets every item to its maximum, R2 to its minimum. Press the X button to leave the editor.
+
+@54128
+Registering Officers 4
+
+@54129
+[Saving Registered Data]\nRegistered data applies only to newly started games. Save it to a MEMORY CARD to use it in later games as well.
+
+@54130
+Registering Officers 6
+
+@54131
+[Compatibility]\nCompatibility is a value from 0 to 99; the closer two officers' values, the better they get on. After 99 comes 0 again. Compatibility affects loyalty, whether an officer can be recruited, and so on.
+
+@54132
+Registering Officers 7
+
+@54133
+Compatibility of major officers:\nOda Nobunaga ... 0\nToyotomi Hideyoshi ... 10\nUesugi Kenshin ... 15\nSanada Masayuki ... 20\nMori Motonari ... 36\nHonganji Kennyo ... 50\nTakeda Shingen ... 62\nAzai Nagamasa ... 72\nTokugawa Ieyasu ... 90
+
+@54134
+Registering Treasures 1
+
+@54135
+Register new treasures to make them appear in the game. In Normal, Short and New Daimyo play alike, you can choose on the settings screen at the start of a game whether new treasures appear.
+
+@54136
+Registering Treasures 2
+
+@54137
+[How to Register Treasures]\nUnder "Register Officers & Treasures" on the start menu, choose "Register New Treasure". Move the cursor to each item to set the treasure's type, name, the stats it changes and so on.
+
+@54138
+Registering Treasures 3
+
+@54140
+Editor 1
+
+@54141
+In Normal Play and New Daimyo Mode you can freely edit daimyo, officer and castle info during play. Edits apply only to the scenario in progress.
+
+@54142
+Editor 2
+
+@54143
+[Using the Editor]\nChoose [Officer], [Daimyo] or [Castle] from the system command [Editor], then choose the info to edit to open the editor screen. Pressing the Square button while individual info is shown, e.g. by the strategy command [Info] or the system command [Overview], also opens the editor.
+
+@54144
+Editor 3
+
+@54145
+However, the editor cannot be used during battle, when deciding a prisoner's fate, or during [Recruit].
+
+@54146
+Editor 4
+
+@54147
+[Editor Screen]\nMove the cursor to an item to change it. L2 sets every item to its maximum, R2 to its minimum. In the officer editor, L1/R1 switch pages. Press the X button to leave the editor.
+

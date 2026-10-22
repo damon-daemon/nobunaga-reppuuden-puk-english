@@ -1,0 +1,186 @@
+@53000
+{v0132} has found the famed Horyuji Incense in {v2932}.
+
+@53001
+{C192}! This is surely the famed Horyuji Incense, brought from India and offered to Horyuji by Prince Shotoku himself!
+
+@53002
+I must report this to {C14} at once...
+
+@53003
+...Horyuji Incense, is it? This could serve to show the Prestige of my {v0136} clan.
+
+@53004
+Thanks to the Horyuji Incense, the {v0136} clan's Prestige has risen.
+
+@53005
+{v0132} has found the famed Kojin Incense in {v2932}.
+
+@53006
+{C192}, could this be some precious incense wood!? Perhaps I should report it to {C14}...
+
+@53007
+!?...... Is this not the famed Kojin Incense, said to have been presented in the reign of Emperor Shomu!!
+
+@53008
+{C13}, well done! Now we can raise the {v0136} clan's Prestige!
+
+@53009
+Thanks to the Kojin Incense, the {v0136} clan's Prestige has risen.
+
+@53010
+{v0132} has found a new gold vein in {v2932}.
+
+@53011
+{C190}, could that be gold dust glinting over there!? Let me look into it...
+
+@53012
+{C192}! ...This is gold indeed. Let us open a gold mine here at once.
+
+@53012.1
+{C192}! ...This is gold indeed. I must report it to {C14}.
+
+@53013
+This will fill the {v0136} clan's coffers!
+
+@53013.1
+{C13}, well done! This will fill the {v0136} clan's coffers!
+
+@53014
+The new gold mine looks set to enrich the {v0136} clan's coffers.
+
+@53015
+The {v2932} gold mine has been worked out; its gold is exhausted.
+
+@53016
+{C14}! The {v2932} gold mine seems to be worked out.
+
+@53017
+{C191}... Money will be tight from now on, but it cannot be helped...
+
+@53018
+The {v2932} gold mine has been closed.
+
+@53019
+main
+
+@53019.1
+second
+
+@53019.2
+third
+
+@53020
+The {C53019} bailey has been set on fire!? {v0138} is as good as defenceless...
+
+@53020.1
+Fire has reached the {C53019} bailey!? If the enemy attacks now, we are finished!
+
+@53021
+{v0132} held a tea ceremony.
+
+@53022
+{C14}, it is the greatest honour to be invited to such a tea gathering.
+
+@53023
+Let us do without such stiff greetings. Today, {C218}, forget the war and take your ease.
+
+@53024
+Mm... This is truly fine...
+
+@53024.1
+Gentlemen, a splendid serving indeed. Allow me... {C192}... I feel my heart washed clean...
+
+@53025
+The Politics of the officers who took part has risen.
+
+@53026
+{v0132} held a tournament.
+
+@53027
+I cannot let a day like this slip by. It is a fine chance to win {C14}'s recognition.
+
+@53028
+{C184}, that's the spirit! No holding back, {C218}!
+
+@53029
+As expected of {C15}. But the real contest starts now. I will not lose!
+
+@53030
+You seem short of breath. I can see your sword clearly now. I will not lose to {C15} yet! Hya! There!
+
+@53031
+{C184}, {C218}, well done today. I expect great things of your spears from tomorrow on!
+
+@53032
+The War of the officers who took part has risen.
+
+@53033
+{v0132} of the {v0136} clan has defected to the {v0236}.
+
+@53034
+I will not throw my life away for a castle like this! From now on my troops will fight for {C14}!
+
+@53034.1
+Further resistance will only waste our soldiers' lives. I can serve Lord {v0334} no longer if he cannot see that...
+
+@53035
+{C192}! An enemy officer has come over to us! Now is the time to attack, {C183}!
+
+@53035.1
+With that officer on our side, this castle is as good as fallen. Attack in one great push!
+
+@53036
+{v0132}, lord of {v0138}, has decided to surrender the castle.
+
+@53037
+{C14}... I come with a request. I will hand over the castle... but in exchange, please give my men time to withdraw.
+
+@53038
+Accept {v0132}'s offer and let the enemy withdraw in exchange for the castle?
+
+@53039
+{v0132} has handed over {v0138} and withdrawn.
+
+@53040
+Then there is no choice... We of the {v0136} will fight with all our might to the last soldier.
+
+@53041
+{v0132}, lord of {v0138}, has decided to commit seppuku.
+
+@53042
+The battle is decided... I cannot sacrifice any more soldiers... My death alone is enough.
+
+@53043
+{C14}... I come with a request. I will cut my belly and hand over the castle... In exchange, please give my men time to withdraw.
+
+@53044
+Accept {v0132}'s offer and let the enemy withdraw in exchange for the castle and {v0132}'s head?
+
+@53045
+{v0132} took their own life, and the soldiers handed over the castle and withdrew. {v0138} now belongs to the {v0236}.
+
+@53046
+{v0132} has charged straight at {v0232}'s position.
+
+@53047
+Follow me, {C218}! Our target is {v0234}'s head! Yaah!
+
+@53048
+Wait, {C14}! It can't be helped... Follow, {C183}!
+
+@53049
+{v0234} charging in in person? Bold indeed! I, {v0134}, will be your opponent!
+
+@53049.1
+Do not panic, {C183}! As long as our lines hold, there is nothing to fear. Meet them head-on!
+
+@53049.2
+? Is that {v0234} over there? {C193} Coming straight at us! Do something!
+
+@53050
+{C14}, there may be an untapped gold mine near {v0b32} in {v6f}.
+
+@53050.1
+{C14}, rumour has it that gold lies sleeping near {v0b32} in {v6f}.
+

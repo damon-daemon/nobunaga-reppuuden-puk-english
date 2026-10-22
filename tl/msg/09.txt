@@ -1,0 +1,264 @@
+@9000
+To arms, to arms! An intruder! Seize them!
+
+@9000.1
+Like a moth flying into the flame! An intruder! To arms, to arms!
+
+@9000.2
+My eyes are not so easily fooled! An intruder! To arms, to arms!
+
+@9000.3
+An intruder! Seize them at all costs!
+
+@9000.4
+Guards! An intruder!
+
+@9001
+To be caught in a place like this... the worst blunder of my life.
+
+@9001.1
+H-How bitter...
+
+@9001.2
+Caught here and not on a battlefield... how bitter.
+
+@9001.3
+Such tight security... I misjudged the enemy's strength.
+
+@9001.4
+Now that it has come to this... there is nothing to be done...
+
+@9002
+To escape from {C219}... a skilled one indeed... It can't be helped... Let's turn back.
+
+@9002.1
+Ugh... they got away. When they show up next time, {C219} will catch them for sure!
+
+@9003
+Not bad.
+
+@9003.1
+Not bad at all.
+
+@9004
+Not bad.
+
+@9004.1
+Not bad at all.
+
+@9005
+To think I would fail... It can't be helped. I'll withdraw to {v0138}.
+
+@9005.1
+A blunder... Now it has come to this, there is no choice. I'll withdraw to {v0138}.
+
+@9005.2
+They're quite good... I'll make myself scarce for now.
+
+@9006
+A daimyo cannot be targeted.
+
+@9007
+This officer has already promised to defect. They cannot be targeted.
+
+@9008
+This officer has already promised to rebel. They cannot be targeted.
+
+@9009
+Spreading more rumours about this officer will have no effect.
+
+@9010
+Will you side with the {v0136}, led by {C2}, in this coming battle?
+
+@9010.1
+Will you promise to side with the {v0136}, whom {C2} serves, in this coming battle?
+
+@9010.2
+The {v0236} have no future. Side with us, the {v0136}, in the coming battle, and serve me.
+
+@9010.3
+We will not treat you badly. Would you lend your strength, {C15}, to my lord?
+
+@9010.4
+Serving the {v0236}, you will never raise the {v0233} name. Will you come over to us in the coming battle?
+
+@9010.5
+In this battle our {v0136} will surely win. We will not treat you badly; will you side with the {v0136}?
+
+@9010.6
+{C15}, side with us in the coming battle and the highest honours in the attack on the {v0237} will be yours.
+
+@9011
+{v0132} seems to have been invited to defect by another clan.
+
+@9012
+{v0132}, who has already promised {v6f}, seems to have been invited to defect by another clan.
+
+@9013
+{C184}! My chance has come at last. From this moment my heart belongs to the {v0236}. Look forward to the coming battle.
+
+@9013.1
+{C184}! My chance has come at last. From this moment my heart belongs to the {v0236}. Until the battle, {C214}.
+
+@9013.2
+I was sick of my pointless days with the {v0136}. I, {v0132}, will side with the attackers.
+
+@9013.3
+I understand. From the next battle, I, {v0132}, will show what {v0134} of the {v0236} can do.
+
+@9014
+{C192}! We are counting on you. Join the {v0136} and win great glory in battle.
+
+@9014.1
+{C192}! We are counting on you. Then keep this secret until the battle...
+
+@9015
+So {v0332} has taken the bait. It seems this battle is already decided.
+
+@9015.1
+Well done, {v0234}. Now we can attack the {v0336} without a care.
+
+@9016
+When your master changes, blood ties no longer matter. Whatever you may say, {C15}, I cannot accept such an offer.
+
+@9016.1
+I cannot believe Lord {v0234} is better than my lord. Is it not the {v0236} whose end is in sight?
+
+@9016.2
+I would never betray the {v0136}.
+
+@9016.3
+Shall we end this idle chatter? Then I must ask you to leave.
+
+@9016.4
+What nonsense is this? You want me to change sides? {C184}, how ridiculous.
+
+@9016.5
+Foolishness... I will not listen to such a shameful proposal.
+
+@9017
+It seems {v0234}'s loyalty will not be easily shaken. I had better leave at once.
+
+@9018
+We are of the same family, after all. Will you not come over to the {v0136}, as {C2} has?
+
+@9018.1
+I have come today for one reason only. The {v0236} have no future. Will you serve me, {v0134}, from now on?
+
+@9018.2
+We will not treat you badly. Would you lend your strength, {C15}, to my lord?
+
+@9018.3
+Serving the {v0236}, you will never raise the {v0233} name.
+
+@9018.4
+We will not treat you badly. Would you lend your strength, {C15}, to my lord?
+
+@9018.5
+Serving the {v0236} will do you no good, {C15}.
+
+@9019
+{v0132} seems to have been invited to rebel by another clan.
+
+@9020
+{v0132}, who has already promised {v6f}, seems to have been invited to rebel by another clan.
+
+@9021
+We may be related by blood, but when your master changes you are as good as strangers. I decline such an offer.
+
+@9021.1
+However kindly I look at it, I cannot believe Lord {v0234} is better than my lord.
+
+@9021.2
+At least the {v0136} is a far more comfortable place than the {v0236}.
+
+@9021.3
+{C184}! Your master is not nearly of a calibre to match me.
+
+@9021.4
+There is no comparing my lord with your master, a lowborn like {v0334}.
+
+@9021.5
+Stay? I am what I am only because of the {v0136}.
+
+@9021.6
+It is useless, whatever you say. I happen to be the most loyal servant of the {v0136}.
+
+@9021.7
+What nonsense is this? You want me to change sides? {C184}, how ridiculous.
+
+@9021.8
+{C184}, you jest... Even comparing my lord with your master is presumptuous.
+
+@9021.9
+Foolishness... I will not listen to such a shameful proposal.
+
+@9022
+It seems {v0234}'s loyalty will not be easily shaken. I had better leave at once.
+
+@9023
+I shall leave the {v0136} at once, so please guide me.
+
+@9023.1
+Now that it is settled, the sooner the better. I shall go to Lord {v0237} at once.
+
+@9023.2
+I have no duty and no regret left for the {v0136}. I shall set out at once.
+
+@9024
+{C192}! I am truly grateful for your resolve, {C15}.
+
+@9025
+So {v0232} agreed to change sides... {v0332} did well, as expected.
+
+@9026
+From now on Lord {v0237} is my master. Until the appointed day, {C214}.
+
+@9026.1
+I understand. I shall pick my moment and slip away.
+
+@9026.2
+...Very well... One day I shall surely come to the {v0236}.
+
+@9027
+{C15}, I hear rumours that Lord {v0334} has been slighting you of late. Does anything come to mind?
+
+@9027.1
+I know well your loyalty to {v0334}, {C15}. But {v0334} is not one to value such loyalty.
+
+@9027.2
+{C15}... Say nothing and look at this. You will see what Lord {v0334} thinks of you.
+
+@9028
+Lord {v0237}, {v0232} seems to have begun spreading rumours about {v0132}.
+
+@9029
+{C184}! My lord and I are of one heart. There could never be such a rift between us.
+
+@9029.1
+It is useless trying to drive a wedge between my lord and me. The unity of the {v0136} cannot be shaken by mere slander.
+
+@9029.2
+{C15}, do you mean to mock my lord? Depending on your answer, you will not leave unharmed... Answer, {C15}...
+
+@9030
+To say nothing comes to mind... would be a lie... What can my lord be thinking...?
+
+@9030.1
+Now that you mention it, my lord has been rather cold to me lately... It does worry me.
+
+@9030.2
+Heh... No, that's absurd... It can't... no... wait... now that you mention it...
+
+@9031
+Lord {v0234}, the rumours have worked. {v0132} now seems to distrust the {v0137}, whom they serve.
+
+@9032
+{C192}, {v0234}'s rumours have worked. Well done indeed.
+
+@9033
+Someone seems to have slipped into {v0b32}.
+
+@9034
+{v0132} of {v0b32} seems to be holding secret talks with someone.
+

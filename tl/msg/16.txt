@@ -1,0 +1,300 @@
+@16000
+Oda Nobunaga 1534-1582
+
+@16001
+Won fame by defeating Imagawa Yoshimoto at Okehazama, then crushed one great daimyo after another. With the realm almost in hand, fell to Akechi Mitsuhide's treason at Honnoji.
+
+@16002
+Shibata Katsuie 1522-1583
+
+@16003
+Oda vassal; the fiercest warrior of the clan. Given charge of the Hokuriku campaign. After Honnoji vied with Hashiba Hideyoshi for power; lost at Shizugatake and killed himself at Kitanosho.
+
+@16004
+Maeda Toshiie 1538-1599
+
+@16005
+Oda vassal. Called "Matazaemon of the Spear" in youth; fought in many battles and marched on Hokuriku under Shibata Katsuie. Served Hashiba Hideyoshi after Nobunaga, becoming one of the Five Elders.
+
+@16006
+Akechi Mitsuhide 1528-1582
+
+@16007
+Oda vassal, favoured by Nobunaga for his talent and learning. Suddenly rebelled and killed Nobunaga at Honnoji, but failed to win allies afterwards; slain by Hashiba Hideyoshi at Yamazaki.
+
+@16008
+Niwa Nagahide 1535-1585
+
+@16009
+Oda vassal; directed the building of Azuchi Castle. Named general of the Shikoku campaign, called off by the Honnoji Incident. Later sided with Hashiba Hideyoshi and helped him unify the realm.
+
+@16010
+Hashiba Hideyoshi 1536-1598
+
+@16011
+The greatest self-made man of the age. Rose in Oda Nobunaga's service by charm and cunning. After Honnoji defeated Akechi Mitsuhide, Shibata Katsuie and others, and became master of the realm.
+
+@16012
+Ishida Mitsunari 1560-1600
+
+@16013
+Toyotomi vassal; Hideyoshi's sharp right hand. After Hideyoshi's death led the Western Army against Tokugawa Ieyasu at Sekigahara, but could not hold the lords together; beheaded in Kyoto.
+
+@16014
+Saito Dosan 1494-1556
+
+@16015
+"The Viper", a ruthless schemer. A monk of Myokakuji in Kyoto turned oil merchant who rose to rule all Mino. Lost a war with his son Yoshitatsu and died in battle.
+
+@16016
+Tokugawa Ieyasu 1542-1616
+
+@16017
+Founder of the Edo shogunate. Broke from the Imagawa after Okehazama; grew through an Oda alliance and submission to the Toyotomi. After victory at Sekigahara became Shogun.
+
+@16018
+Honda Tadakatsu 1548-1610
+
+@16019
+One of Tokugawa's Four Heavenly Kings, praised as "too good for Ieyasu". With his famed spear Tonbogiri fought in over 50 battles, it is said without a single scratch.
+
+@16020
+Date Masamune 1567-1636
+
+@16021
+Terumune's heir, "the One-Eyed Dragon". Head of the clan at 18, swiftly subdued his neighbours and ruled Oshu by 24. Survived the Toyotomi and Tokugawa regimes by cunning.
+
+@16022
+Nanbu Nobunao 1546-1599
+
+@16023
+Son of Ishikawa Takanobu. Backed by Kita Nobuchika, became head of the Nanbu. Beset by Kunohe Masazane's revolt and local risings, drew close to Toyotomi Hideyoshi and unified his domain.
+
+@16024
+Mogami Yoshiaki 1546-1614
+
+@16025
+Yoshimori's heir, "the Brave General of Dewa". Retired his father and killed his brother to take power. Through secret pacts and murdering enemy retainers, built the Mogami's widest domain.
+
+@16026
+Ashina Moriuji 1521-1580
+
+@16027
+16th head of the Ashina, who restored the clan and made it a great power of Oshu equal to the Date. By shrewd alliances won lands from all Aizu to northern Echigo.
+
+@16028
+Satake Yoshishige 1547-1612
+
+@16029
+18th head of the Satake. Fulfilled his father Yoshiaki's wish and unified Hitachi. Fighting the Hojo to the south and the Date to the north, leading from the front, he was feared as "Demon Yoshishige".
+
+@16030
+Uesugi Norimasa 1523-1579
+
+@16031
+Lord of Hirai Castle in Kozuke. Lost his power at Kawagoe; driven by the Hojo, fled to Echigo and gave the Uesugi name and the post of Kanto Kanrei to Nagao Kagetora. Killed by Kagekatsu in the Otate War.
+
+@16032
+Yuki Harutomo 1533-1614
+
+@16033
+17th head of the Yuki. Adopted by his uncle Masakatsu and took over the clan. Gained standing by aiding the Koga Kubo. Adopted Tokugawa Ieyasu's second son Hideyasu as his heir.
+
+@16034
+Satomi Yoshitaka 1512-1574
+
+@16035
+Defeated his cousin Yoshitoyo, who had killed his father Sanetaka, and became head of the Satomi. Lost to Hojo Ujiyasu at Konodai, yet kept expanding in Boso and fighting the Hojo.
+
+@16036
+Hojo Ujiyasu 1515-1571
+
+@16037
+3rd head of the Hojo. Fought mighty foes such as Takeda Shingen and Uesugi Kenshin while building a great Hojo realm in Kanto. Wise and brave, famed as the finest administrator of the age.
+
+@16038
+Takeda Shingen 1521-1573
+
+@16039
+Nobutora's heir. Opposed his father's harsh rule, banished him and took his place. Led matchless cavalry and plagued Oda Nobunaga with flexible strategy. Known as "the Tiger of Kai".
+
+@16040
+Takeda Katsuyori 1546-1582
+
+@16041
+Shingen's fourth son; head of the clan after his death. Expanded by force, but the rout at Nagashino broke his retainers. Beaten by the Oda, killed himself at Mt. Tenmoku in Kai.
+
+@16042
+Yamagata Masakage 1530-1575
+
+@16043
+One of Takeda's Four Great Retainers; brother of Obu Toramasa. Won fame leading a unit clad all in red. Shone at Mikatagahara and elsewhere; killed at Nagashino.
+
+@16044
+Baba Nobufusa 1515-1575
+
+@16045
+One of Takeda's Four Great Retainers. Never wounded in over 70 battles; called "the Immortal Demon of Mino". Died in the rearguard at Nagashino, covering Katsuyori's escape.
+
+@16046
+Sanada Masayuki 1547-1611
+
+@16047
+Yukitaka's third son; a peerless schemer Toyotomi Hideyoshi called "a slippery one". With a few thousand men tied down Tokugawa Hidetada's 38,000 in Shinano on the way to Sekigahara.
+
+@16048
+Sanada Yukimura 1567-1615
+
+@16049
+Masayuki's second son. Left his exile at Kudoyama in Kii for Osaka Castle; in the Osaka campaigns fought the huge Tokugawa host with few men, hailed as "the finest warrior in Japan".
+
+@16050
+Murakami Yoshikiyo 1503-1573
+
+@16051
+Lord of Katsurao Castle in Shinano. Twice repulsed Takeda Shingen, winning renown. Lost his castle to Sanada Yukitaka's plot and took refuge with Nagao Kagetora of Echigo.
+
+@16052
+Uesugi Kenshin 1530-1578
+
+@16053
+"The Dragon of Echigo", hailed as the strongest of the age. Given the post of Kanto Kanrei by Uesugi Norimasa, took the Uesugi name. Charging under his banner, he was feared as a god of war.
+
+@16054
+Uesugi Kagekatsu 1555-1623
+
+@16055
+Son of Nagao Masakage, adopted by Uesugi Kenshin. After Kenshin's death destroyed Uesugi Kagetora to win the succession. Joined the West at Sekigahara, fighting the Mogami and Date in Aizu.
+
+@16056
+Naoe Kanetsugu 1560-1619
+
+@16057
+Uesugi vassal; Kagekatsu's elder. Favoured by Toyotomi Hideyoshi, he held 300,000 koku at Yonezawa in Dewa though only a rear vassal. Defied Tokugawa Ieyasu, siding with the West at Sekigahara.
+
+@16058
+Honganji Kennyo 1543-1592
+
+@16059
+11th abbot of Honganji. Resisting warlords who sought full control of their lands, raised Ikko believers across Japan. Branded Oda Nobunaga "the enemy of the Buddha" and fought him bitterly.
+
+@16060
+Imagawa Yoshimoto 1519-1560
+
+@16061
+Lord of Mikawa, Totomi and Suruga. Made a triple alliance with the Takeda and Hojo, then set out to march on Kyoto with his rear secure, but was killed on the way in an Oda surprise attack.
+
+@16062
+Azai Nagamasa 1545-1573
+
+@16063
+Hisamasa's heir; head of the clan after his father retired. Married Nobunaga's sister Ichi in alliance, but betrayed him for the sake of the Asakura. Entrusted Ichi and his daughters to Nobunaga and killed himself.
+
+@16064
+Asakura Yoshikage 1533-1573
+
+@16065
+5th head of the Asakura. Turned against Oda Nobunaga when Ashikaga Yoshiaki left Echizen for him. Lost to the Oda-Tokugawa army at Anegawa; at last betrayed by kin, killed himself.
+
+@16066
+Kitabatake Tomonori 1528-1576
+
+@16067
+Governor of Ise, 8th head of the Kitabatake. Held out at Okawachi Castle against the Oda, then yielded on adopting Nobunaga's second son Nobukatsu. Later murdered by Nobukatsu.
+
+@16068
+Rokkaku Yoshikata 1521-1598
+
+@16069
+Main line of the Sasaki of Omi; strong in southern Omi. Sheltered Ashikaga Yoshiharu and Yoshiteru, driven out by the Miyoshi, and went to Kyoto to mediate. Resisted Oda Nobunaga and lost his lands.
+
+@16070
+Miyoshi Chokei 1523-1564
+
+@16071
+Hosokawa vassal. Seized power from his masters, banished his lord Harumoto and took control of the Kinai. After the deaths of his heir Yoshioki and his brothers, broke in body and mind and died of illness.
+
+@16072
+Matsunaga Hisahide 1510-1577
+
+@16073
+Seized power from the Miyoshi and dominated the Kinai. Submitted to Oda Nobunaga but joined Ashikaga Yoshiaki's league against him. Besieged by Nobunaga, blew himself up with his famed kettle Hiragumo.
+
+@16074
+Mori Motonari 1497-1571
+
+@16075
+Lord of Yoshida-Koriyama Castle in Aki. A peerless schemer who became master of ten provinces. At Itsukushima outwitted Sue Harukata and beat 20,000 with 4,000 men.
+
+@16076
+Kikkawa Motoharu 1530-1586
+
+@16077
+Mori Motonari's second son. Heir of the Kikkawa of Aki; led the San'in campaigns. Famed as an unbeaten warrior, yet is said to have copied all 40 volumes of the Taiheiki while on campaign.
+
+@16078
+Kobayakawa Takakage 1533-1597
+
+@16079
+Mori Motonari's third son. Heir of the Kobayakawa of Aki; led the San'yo campaigns. After Honnoji drew close to Toyotomi Hideyoshi to save the Mori and became one of the Five Elders.
+
+@16080
+Kuroda Kanbei 1546-1604
+
+@16081
+Toyotomi vassal; served Hideyoshi as strategist and did much to win him the realm. Later Hideyoshi feared his wits and daring, keeping him to 120,000 koku at Nakatsu in Buzen.
+
+@16082
+Ukita Naoie 1529-1581
+
+@16083
+Lord of Okayama Castle in Bizen; a matchless schemer who spent his life on betrayal and plots. Rose serving Uragami Munekage, then banished him and took all of Bizen.
+
+@16084
+Amago Haruhisa 1514-1560
+
+@16085
+Lord of Gassan-Toda Castle in Izumo; Constable of eight provinces. Tricked by Mori Motonari into destroying his own Shingu clique, weakening his clan. Died suddenly while at war with the Mori.
+
+@16086
+Ouchi Yoshitaka 1507-1551
+
+@16087
+Built the Ouchi's widest domain. After his adopted heir Harumochi died, turned to the arts of peace and made Yamaguchi a centre of culture. Killed himself in Nagato after Sue Harukata's revolt.
+
+@16088
+Chosokabe Motochika 1539-1599
+
+@16089
+Kunichika's heir. So frail as a boy he was called "the Little Princess", yet after taking over unified Shikoku in little more than ten years. Known as "the Prodigy of Tosa".
+
+@16090
+Otomo Sorin 1530-1587
+
+@16091
+21st head of the Otomo. With able retainers ruled six provinces of northern Kyushu. His faith in Christianity and his vices angered his vassals. Crushed by the Shimazu at Mimikawa, lost his power.
+
+@16092
+Ryuzoji Takanobu 1529-1584
+
+@16093
+19th head of the Ryuzoji, "the Bear of Hizen". Destroyed the Shoni and, as the Otomo declined, took five provinces and two isles of Kyushu. Killed in defeat by the Shimazu at Okitanawate.
+
+@16094
+Shimazu Yoshihisa 1533-1611
+
+@16095
+Takahisa's heir. With fierce retainers ruled almost all Kyushu. Submitted to Toyotomi Hideyoshi, preserving the Shimazu. A man of learning, initiated in the Kokin Denju begun by Sogi.
+
+@16096
+Shimazu Yoshihiro 1535-1619
+
+@16097
+Takahisa's second son; the fierce general who crushed the Ito and Otomo and raised the Shimazu high. In Korea routed a great Ming army and scattered the turtle ships, famed as "Demon Shimazu".
+
+@16098
+Ashikaga Yoshiteru 1536-1565
+
+@16099
+13th Muromachi Shogun. Strove to restore the shogunate's lost power, but was attacked by Matsunaga Hisahide and others and killed himself after a lone fight. Taught the secrets of Shinkage-ryu by Kamiizumi Nobutsuna.
+

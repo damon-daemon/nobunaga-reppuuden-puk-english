@@ -1,0 +1,432 @@
+@60000
+Hmm, where am I...? What has happened to me?
+
+@60001
+Ah! Now I remember. Surrounded by the enemy at Yashan, I knew it was the end and threw myself into the sea with His Majesty...
+
+@60002
+The Battle of Yashan in 1279 was when the Mongols destroyed the Southern Song. The loyal Lu Xiufu took his own life, leaping into the sea with the boy emperor on his back.
+
+@60003
+What has become of His Majesty? Your Majesty! If you are near, please answer me!
+
+@60004
+His Majesty is safe, Xiufu.
+
+@60005
+Y-you are Wen Tianxiang! Ah! Your Majesty, you are safe too!
+
+@60006
+Xiufu, I am glad you are safe.
+
+@60007
+Your Majesty! Forgive me for failing to protect you at Yashan.
+
+@60008
+No, the fault was mine.
+
+@60009
+Oh, General Zhang! You are safe too!
+
+@60010
+Your Majesty, and Xiufu... It was my weakness that brought defeat at Yashan. I know not how to apologise.
+
+@60011
+Shijie, raise your head. You all served me well.
+
+@60012
+Y-Your Majesty, I am unworthy of such words.
+
+@60013
+In any case, the three of us called the Three Heroes of the Southern Song are together again.
+
+@60014
+That is well, but where are we? I have never seen this land.
+
+@60015
+From what I have learnt, this is not China but the land of Wa.
+
+@60016
+Wa! The island nation in the east? Why would we be there?
+
+@60017
+I do not know why. It seems that we died and were born again in this land.
+
+@60018
+So what do we do now? I wonder what has become of our homeland...
+
+@60019
+From what I have heard here, China is ruled by a Han dynasty called the Ming. And I have heard something else...
+
+@60020
+It seems that the Mongols have also appeared in this land of Wa.
+
+@60021
+Wh-what, the Mongols! Then we cannot stand idly by!
+
+@60022
+So we stay in this land and fight the Mongols? Your Majesty, what is your wish?
+
+@60023
+I too wish to wipe away the shame of Yashan. Surely this is a chance granted by Heaven.
+
+@60024
+Yes, Your Majesty! We shall gather an army in this land and crush the Mongols!
+
+@60025
+Very well.
+
+@60026
+But the Mongol army is a mighty foe. Can we really win on our own?
+
+@60027
+Then let me join you in that fight.
+
+@60028
+Oh! You are General Yue, the famed general who fought the Jin!
+
+@60029
+My strength is small, but I too shall lend a hand.
+
+@60030
+Ah! You are Wang Anshi, renowned as the great chancellor of Emperor Shenzong!
+
+@60031
+Will you both lend us your strength?
+
+@60032
+We are all subjects of Song. Of course we will aid His Majesty.
+
+@60033
+Oh! Now we have men of talent in both war and letters. With them, even the Mongols are nothing to fear!
+
+@60034
+Indeed, it gives me heart. All of you, strive for a new Song.
+
+@60035
+Yes, Your Majesty!
+
+@60036
+And so Zhao seized Oyama Gobo and raised his banner as a daimyo in the age of warring states.
+
+@60037
+Hmm... where am I? It seems I have wandered into a foreign land.
+
+@60038
+Where is this... Why am I in such a place...
+
+@60039
+Excuse me, sir!
+
+@60040
+Hm? Do you mean me?
+
+@60041
+I do. Forgive me, but are you not of the blood of the House of Han?
+
+@60042
+Indeed. I am Liu Xiu, descended from a prince of the sixth emperor, Emperor Jing.
+
+@60043
+That regal grace and bearing... I thought so... I am Zhang Liang, who served the founder, Liu Bang.
+
+@60044
+Oh, so you are Zhang Liang, the peerless strategist who brought victory in the war of Chu and Han!
+
+@60045
+This is a foreign land called Wa. To think I would meet a descendant of Liu Bang here... how strange.
+
+@60046
+Strange things do happen...
+
+@60047
+But, Lord Liu Xiu, since you have been given life again, why not strive for the realm once more in this land?
+
+@60048
+No, this is not our country. With nothing to rely on, there is nothing I can do.
+
+@60049
+No, it is Heaven's will that you were born again here. And this land is in chaos, its people in the depths of hardship.
+
+@60050
+To take the realm and bring peace to this land is surely your duty as a king, Lord Liu Xiu.
+
+@60051
+...If you say so much, then I shall rise. But we cannot take the realm on our own.
+
+@60052
+Rest assured. I shall go and find men of promise. Give me a few days...
+
+@60053
+And so Zhang Liang travelled from place to place in search of talent. A few days later...
+
+@60054
+Lord Liu Xiu, forgive me for keeping you waiting.
+
+@60055
+Oh, Zhang Liang. How did it go?
+
+@60056
+I have brought men of rare talent. Now, everyone, greet Lord Liu Xiu.
+
+@60057
+I am Gao Changgong, born of the royal house of Northern Qi. I am confident in my valour; look to my spear in battle.
+
+@60058
+Oh, a fearless young man. I expect great deeds from him in battle.
+
+@60059
+I am Wanyan Chenheshang, a general of the Jin. I won some renown in the war against the Mongols.
+
+@60060
+Indeed, another bold warrior, it seems. I should like to give him command of the cavalry.
+
+@60061
+I am Zheng He, a general of the Ming. By order of the Yongle Emperor I made seven voyages. Leave sea battles to me.
+
+@60062
+Indeed, there can be no more reliable commander for our navy. While you are with us, we shall never lose at sea.
+
+@60063
+I am Cao Bao, a general of Xu Province. Leave battles and everything else to me! Hahaha!
+
+@60064
+Y-yes, Cao Bao, is it... Do your best.
+
+@60065
+In any case, I thank you all for gathering under me.
+
+@60066
+I do not raise this army out of selfish greed. This is a war to bring peace to this land.
+
+@60067
+Lord Liu Xiu, we all understand. And to that end we will follow any order.
+
+@60068
+Indeed, that is most reassuring. I look forward to your deeds.
+
+@60070
+And so Liu Xiu seized Minowa Castle and raised his banner as a daimyo in the age of warring states.
+
+@60071
+Ujizane succeeded Yoshimoto as head of the Imagawa after his death, but caught between Takeda Shingen and Tokugawa Ieyasu, his house fell. Now he was a wanderer.
+
+@60072
+Alas... Once head of the Imagawa, and now a mere ronin... How pitiful.
+
+@60073
+Shingen and Ieyasu both ganged up on me. What grudge could they possibly have against me?
+
+@60074
+And my retainers abandoned me without a thought and went to serve other houses. Heartless wretches...
+
+@60075
+This is not the end of me! I will restore the Imagawa and make my name known across the realm!
+
+@60076
+First I must gather new retainers. I may not look it, but I have a keen eye for people.
+
+@60077
+Hm... A curiously dressed fellow... He seems to have promise. You there!
+
+@60078
+Hm? Do you mean me?
+
+@60079
+(Hmm, this man... From his looks and bearing, he is no ordinary man. My eyes do not deceive me.)
+
+@60080
+Who are you? What are you doing here? Do you belong to some house?
+
+@60081
+I just found myself here. I have no idea what is going on either...
+
+@60082
+Oho... Then, if I may be so sudden, would you not strive for the realm with me here in Japan?
+
+@60083
+The realm? What a bother. I am no good at quarrels.
+
+@60084
+What are you saying? Rule the realm and you can indulge in every pleasure you like!
+
+@60085
+Is that so, is that so! Then I shall follow you. I am Liu Shan. And your name?
+
+@60086
+I am Imagawa Ujizane. Lord Liu Shan, I think we shall get along famously. I am in your hands.
+
+@60087
+And I in yours. By the way, Lord Ujizane, have you any other companions?
+
+@60088
+I would like more companions, but men of real talent are hard to find...
+
+@60089
+What about that fellow?
+
+@60090
+Hmm... What a peculiar figure... He does not seem to be from Japan... You there, sir!
+
+@60091
+Do you mean me?
+
+@60092
+(Hmm, this man... He has the same air as me. Surely he is no ordinary man.)
+
+@60093
+Who are you? What are you doing here?
+
+@60094
+I am John, called the greatest king in English history. I found myself in this land and have nowhere to go.
+
+@60095
+Oho... If I may be so sudden, would you not strive for the realm with us here in Japan?
+
+@60096
+The realm? That sounds amusing. Domestic affairs or battle, leave it all to me.
+
+@60097
+Splendid, now I have a reliable retainer too. I will restore the Imagawa and take the realm, you shall see!
+
+@60098
+And so Imagawa Ujizane seized Sunpu Castle and raised his banner as a daimyo in the age of warring states.
+
+@60099
+...So you are awake.
+
+@60100
+Oh... is that you, Jia...? Hm... where is this!?
+
+@60101
+I only just woke myself... I have no idea why we are in this land or what has happened.
+
+@60102
+Waking in a foreign land, Cao Cao and Jia were stunned by what had befallen them. Then a man came up to them.
+
+@60103
+...!! Y-you are!?
+
+@60104
+I see you are both awake.
+
+@60105
+G-Guo Jia! Why are you alive? What does this mean?
+
+@60106
+...Let me explain as far as I can. It seems this land is not our own country.
+
+@60107
+And we, who should have lived out our fated span, are here perhaps because Heaven wants us to end the wars of this land.
+
+@60108
+You mean Heaven has judged that this land needs us!
+
+@60109
+Just so.
+
+@60110
+Good, then let us obey Heaven and become king in this land! First we need a castle as our base...
+
+@60111
+Have no fear... Good news should arrive any moment... Ah, here he comes now.
+
+@60112
+My lord, it has been too long. I have just taken a castle in this land.
+
+@60113
+Oh! Xiahou Dun!! You are here too! How glad I am...!!
+
+@60114
+You are too kind... Now, if you will come this way at once. Everyone is waiting for you, my lord.
+
+@60115
+Led by Xiahou Dun, Cao Cao entered Himeji Castle, where many of the generals who had served him were waiting.
+
+@60116
+...Xun Yu. You served me so well, and I treated you so... You must surely bear me a grudge...
+
+@60117
+What are you saying? The posthumous name of Marquis Jing that you gave me afterwards told me all I needed to know.
+
+@60118
+...Dian Wei. When my quarters were attacked, you protected me well even without your weapons.
+
+@60119
+Not at all... You gave a lowly man like me such a funeral; I was deeply moved.
+
+@60120
+My lord, enough greetings for now... Everyone is waiting.
+
+@60121
+Oh... forgive me. So many memories came back.
+
+@60122
+Now... everyone! We have been given life here once more. This is what Heaven wished...
+
+@60123
+As Heaven wishes, I shall lead this country! All of you, lend me your strength and seize mastery of this land!!
+
+@60124
+And so Cao Cao seized Himeji Castle and raised his banner as a daimyo in the age of warring states.
+
+@60125
+And here in Suo too, Sun Jian, Sun Ce and Sun Quan, the father and sons famed in the Three Kingdoms era, had come back to life.
+
+@60126
+Father, Brother... What has happened to us? Where are we?
+
+@60127
+Hmm, this seems to be a different country from ours.
+
+@60128
+Indeed, even the buildings are shaped differently. What a strange place we have strayed into.
+
+@60129
+It seems this land too is overrun by war...
+
+@60130
+A land at war... For me, who fell with my ambition unfulfilled, nothing could be better.
+
+@60131
+I will make my name as a warrior thunder across this land!
+
+@60132
+Lord Sun Ce, if we join forces, we can seize mastery of this land.
+
+@60133
+Hm... Zhou Yu!? It's Zhou Yu! You were brought back to life in this land too!
+
+@60134
+Not only I. Huang Gai, Taishi Ci and Gan Ning are here as well!
+
+@60135
+All the mightiest warriors of our country! With them I cannot imagine losing any battle!!
+
+@60136
+But we lack civil officials to govern. If only Zhang Zhao were here, we could leave domestic affairs to him...
+
+@60137
+I am grateful that you have need of me.
+
+@60138
+...Hm! Oh... Zhang Zhao, you are here too!
+
+@60139
+Lu Su and Lu Meng are here, and Lu Xun too, who later upheld our country.
+
+@60140
+...
+
+@60141
+Lord Sun Quan, the times you rebuked me are in the past... Please forget them. We have been given life again here and must work together.
+
+@60142
+Lu Xun is right! From now on we shall join forces and rule supreme in this land!! Is that not so, Father?
+
+@60143
+Indeed... Then, all of you, join forces under me to seize mastery of this land!
+
+@60144
+And so Sun Jian seized Konomine Castle and raised his banner as a daimyo in the age of warring states.
+

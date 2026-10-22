@@ -1,0 +1,453 @@
+# chunk c: ALGO:801b6fac .. CMD3:801a8028 (ALGO BEAF BL CLOW CMD CMD2 CMD3)
+ALGO:801b6fac	No castle set.
+ALGO:801b770c	Invalid target position.
+# BEAF: sortie / battle setup
+BEAF:80181280	Staff
+BEAF:80181288	Max
+BEAF:80181290	OK
+BEAF:80181298	Cancel
+BEAF:801816dc	Sortie
+BEAF:801816e4	Strat.
+BEAF:801816ec	Rice
+BEAF:801816f4	Aide
+BEAF:801816fc	Go
+BEAF:80181704	C-in-C
+BEAF:8018170c	 Units
+BEAF:80181730	Choose %2d officers.
+BEAF:8018182c	-
+BEAF:801818f4	%s's Prestige\nhas fallen.
+BEAF:8018190c	Capt. %s
+BEAF:80181918	Captain
+BEAF:80181920	No more units can be formed: cannot sortie.
+BEAF:80181958	Lord %s, choose a daimyo to ask for aid.
+# BL: fixed slots (7 bytes)
+BL:8018ae2c	Daimyo
+BL:8018ae64	Crest
+BL:8018ae6c	Ally
+BL:8018ae74	Hazards
+BL:8018ae7c	Map
+BL:8018ae84	Switch
+BL:8018ae94	Snow
+BL:8018ae9c	Typhoon
+BL:8018aea4	Blight
+BL:8018aeac	Famine
+BL:8018aeb4	Bumper
+BL:801a9284	Staff
+BL:801a928c	Max
+BL:801a9294	OK
+BL:801a929c	Cancel
+BL:801a96e4	Sortie
+BL:801a96ec	Strat.
+BL:801a96f4	Rice
+BL:801a96fc	Aide
+BL:801a9704	Go
+BL:801a970c	C-in-C
+BL:801a9714	 Units
+BL:801a9934	Captain
+BL:801a993c	No more units can be formed: cannot sortie.
+# CLOW: command checks
+CLOW:801a1a44	The castle is under siege.
+CLOW:801a1a5c	No merchant here.
+CLOW:801a1abc	No officer set.
+CLOW:801a1ad0	Already acted.
+CLOW:801a1ae8	In confusion.
+CLOW:801a1b44	No officer set.
+CLOW:801a1b58	Already acted.
+CLOW:801a1b70	In confusion.
+CLOW:801a1b7c	Invalid target castle.
+CLOW:801a1b90	Not your own castle.
+CLOW:801a1ba8	Incite
+CLOW:801a1bb0	Revolt
+CLOW:801a1c08	Outlaw
+CLOW:801a1c10	Yamashina
+CLOW:801a1c18	Tokitsugu
+CLOW:801a1c20	Punish
+CLOW:801a1c28	Outlaw
+CLOW:801a1d00	Creation state error.
+CLOW:801a1f64	Out of memory.
+CLOW:801a2000	No daimyo set.
+CLOW:801a2014	Invalid daimyo officer.
+CLOW:801a2118	No retainers.
+CLOW:801a212c	No officers to reward.
+CLOW:801a2198	No retainers.
+CLOW:801a21fc	Ask Alliance
+CLOW:801a2208	Ask Aid
+CLOW:801a2214	Demand
+CLOW:801a221c	Ask Marriage
+CLOW:801a2278	Invalid target.
+CLOW:801a22dc	No corps set.
+CLOW:801a22f0	Already acted.
+CLOW:801a2308	On %s orders
+CLOW:801a2368	No corps set.
+CLOW:801a237c	Already acted.
+CLOW:801a2394	Invalid target.
+CLOW:801a23a4	No castle is being built there.
+CLOW:801a23c0	Cannot hinder an ally's building.
+CLOW:801a23e0	Invalid target position.
+CLOW:801a23f4	Invalid destination.
+CLOW:801a2408	Cannot transport to its own castle.
+CLOW:801a2424	Needs two or more officers.
+CLOW:801a243c	No more corps units can be formed.
+CLOW:801a2464	No castle set.
+CLOW:801a24c4	No more castles can be built here.
+CLOW:801a24e8	Invalid target position.
+CLOW:801a24fc	No more branch castles can be built in this province.
+CLOW:801a2578	Cannot work here.
+CLOW:801a2588	Invalid target position.
+CLOW:801a25f0	A corps is adjacent: cannot command.
+CLOW:801a2618	No free adjacent tile.
+CLOW:801a2634	Cannot repair another clan's castle.
+CLOW:801a2654	Defence cannot be raised further.
+CLOW:801a2674	Not next to a castle.
+CLOW:801a268c	Invalid target position.
+CLOW:801a26a0	Not your own castle.
+CLOW:801a270c	Invalid target position.
+CLOW:801a2774	No domestic unit set.
+CLOW:801a2790	Already acted.
+CLOW:801a27fc	No castle set.
+CLOW:801a288c	No ronin here.
+CLOW:801a291c	Move
+CLOW:801a2924	Leader
+CLOW:801a292c	Reassign
+CLOW:801a2938	Reset
+CLOW:801a2940	Join Up
+CLOW:801a2948	Change
+CLOW:801a2950	Go
+CLOW:801a29c8	A corps cannot have 25 or more officers.
+# CMD: main-map commands
+CMD:801ca458	Name
+CMD:801ca467	Harvest
+CMD:801ca730	Smithy
+CMD:801ca735	Town
+CMD:801ca73a	Village
+CMD:801ca73f	Market
+CMD:801ca744	Paddy
+CMD:801ca749	Special
+CMD:801ca74e	Field
+CMD:801ca753	Cancel
+CMD:801cab90	From
+CMD:801cab98	To
+CMD:801caba0	Officer
+CMD:801caba8	Update
+CMD:801cabb0	Go
+CMD:801cabb8	Cancel
+CMD:801cac20	In Castle
+CMD:801cac28	Away
+CMD:801caca8	Switch
+CMD:801cacb0	%2d months away
+CMD:801cafec	Period 
+CMD:801caff4	Officer
+CMD:801caffc	Go
+CMD:801cb004	Cancel
+CMD:801cb15c	Gold
+CMD:801cb1d4	Period 
+CMD:801cb1dc	Officer
+CMD:801cb1e4	Target
+CMD:801cb1ec	Go
+CMD:801cb1f4	Cancel
+CMD:801cb58c	Snow
+CMD:801cb594	Main
+CMD:801cb59c	Rice
+CMD:801cb5a4	Horses
+CMD:801cb5ac	Guns
+CMD:801cb5b4	Supply
+CMD:801cb5bc	Growth
+CMD:801cb5c4	Price
+CMD:801cb5cc	Goods
+CMD:801cb5d4	%s
+CMD:801cb5dc	%3d
+CMD:801cb61c	Speciality List
+CMD:801cb628	%M
+CMD:801cb630	Gold Income
+CMD:801cb63c	Rice Income
+CMD:801cb974	Betroth
+CMD:801cb97c	Officer
+CMD:801cb984	Go
+CMD:801cb98c	Cancel
+CMD:801cb9a8	Recruit
+CMD:801cb9b0	Ronin
+CMD:801cbe08	Prest.
+CMD:801cbe10	Court
+CMD:801cbe18	Post
+CMD:801cbe20	Title
+CMD:801cbe28	Amity
+CMD:801cbe30	Allies
+CMD:801cbe38	Officer
+CMD:801cbe40	Map
+CMD:801cc13c	Ofcr.
+CMD:801cc144	Loyal
+CMD:801cc14c	Grant
+CMD:801cc154	Seize
+CMD:801cc15c	Title
+CMD:801cc164	Appoint
+CMD:801cc16c	Go
+CMD:801cc174	Cancel
+CMD:801cc18c	%3d
+CMD:801cc4a4	Period 
+CMD:801cc4ac	Officer
+CMD:801cc4b4	Target
+CMD:801cc4bc	Go
+CMD:801cc4c4	Cancel
+CMD:801cc4cc	Bride
+CMD:801cc4d4	Item
+CMD:801cc6a4	Move
+CMD:801cc6ac	Attack
+CMD:801cc6b4	Split
+CMD:801cc6bc	Pursue
+CMD:801cc6c4	Officer
+CMD:801cc6cc	Reorg.
+CMD:801cc6d4	Supply
+CMD:801cc6dc	Cancel
+CMD:801cc758	Wait
+CMD:801cc760	On %s orders
+CMD:801cc9c8	Move
+CMD:801cc9d0	Period 
+CMD:801cc9d8	Officer
+CMD:801cca20	Map
+CMD:801cca28	Ikko
+CMD:801cca30	On %s orders
+CMD:801cce24	Total Prestige
+CMD:801cce30	Domain
+CMD:801cce38	Main
+CMD:801cce40	Branch
+CMD:801cce48	Fame
+CMD:801cce50	Title
+CMD:801cce58	Post
+CMD:801cce60	Marriage
+CMD:801cce68	Kyoto
+CMD:801cce70	Court
+CMD:801cce78	Outlaw
+CMD:801cce80	Prestige halved
+CMD:801cd340	Lead
+CMD:801cd348	Officer
+CMD:801cd350	Clear All
+CMD:801cd358	Plan
+CMD:801cd360	Recall
+CMD:801cd368	Go
+CMD:801cd370	Cancel
+CMD:801cd3a0	Gold
+CMD:801cd3a8	Terrain
+CMD:801cd3b4	Switch
+CMD:801cd52c	Staff
+CMD:801cd560	Period 
+CMD:801cd57c	Terrain
+CMD:801cd584	Gold %d
+CMD:801cd598	Next Officer
+CMD:801cd864	Castle
+CMD:801cd86c	Levee
+CMD:801cd874	Demolish
+CMD:801cd87c	Officer
+CMD:801cd884	Repair
+CMD:801cd88c	Road
+CMD:801cd894	Move
+CMD:801cd89c	Cancel
+CMD:801cd8bc	On %s orders
+CMD:801cd8cc	Period 
+CMD:801cdab4	Lead
+CMD:801cdabc	Officer
+CMD:801cdac4	Go
+CMD:801cdacc	Cancel
+CMD:801cdcac	No more domestic units can be formed.
+CMD:801cdcd0	Choose a castle to command.
+CMD:801cdcf0	Failed to get the commanding daimyo.
+CMD:801cdd18	Not your own castle.
+CMD:801cdd30	No officer can carry this out.
+CMD:801cde1c	Switch
+CMD:801cde24	List
+CMD:801cdf58	%s
+CMD:801cdf6c	Next Castle
+CMD:801cdf74	Next Daimyo
+CMD:801ce058	Price
+CMD:801ce060	Trade
+CMD:801ce068	Item
+CMD:801ce070	Officer
+CMD:801ce078	Rice
+CMD:801ce080	Horses
+CMD:801ce088	Guns
+CMD:801ce090	Go
+CMD:801ce098	Cancel
+CMD:801ce0f0	You can hold at most 50000 gold.\nIs that all right?
+CMD:801ce12c	%3d
+CMD:801ce134	Sell
+CMD:801ce13c	Buy
+CMD:801ce4b4	Lord
+CMD:801ce4bc	Held
+CMD:801ce4c4	Gain
+CMD:801ce4cc	Cost
+CMD:801ce4d4	Gold
+CMD:801ce4dc	Rice
+CMD:801ce4e4	Horses
+CMD:801ce4ec	Guns
+CMD:801ce4f4	Troops
+CMD:801ce4fc	Hurt
+CMD:801ce504	Map
+CMD:801ce50c	Independent
+CMD:801ce518	%s
+CMD:801ce520	Main
+CMD:801ce528	Branch
+CMD:801ce538	Yearly
+CMD:801ce540	Monthly
+CMD:801ce548	Year
+CMD:801ce558	Next Mo.
+CMD:801ce958	Go
+CMD:801ce960	Cancel
+CMD:801ce968	Change
+CMD:801ce970	Target
+CMD:801ce978	Delegate
+CMD:801ce9f0	Aggressive
+CMD:801ce9fc	Cautious
+CMD:801cea08	Domestic
+CMD:801cea14	Support
+CMD:801cea20	None
+CMD:801cecb8	No castle set.
+CMD:801cecc8	Pick Target
+CMD:801cee0c	Choose a castle to command.
+CMD:801cee2c	Not your castle.
+CMD:801cee48	Incite
+CMD:801cee50	Revolt
+CMD:801cee58	Gossip
+CMD:801cee60	Sway
+CMD:801cee68	Slay
+CMD:801cee70	Plots
+CMD:801ceec8	Title
+CMD:801ceed0	Outlaw
+CMD:801ceed8	Pardon
+CMD:801ceee0	Gift
+CMD:801ceee8	Smear
+CMD:801cf010	Make %s your heir?
+CMD:801cf118	Choose a castle to command.
+CMD:801cf138	Not your castle.
+CMD:801cf154	Ally
+CMD:801cf15c	Marriage
+CMD:801cf164	Annex
+CMD:801cf16c	Submit
+CMD:801cf174	Tribute
+CMD:801cf17c	Break
+CMD:801cf184	Aid
+CMD:801cf2e4	You rule only one castle,\nso you cannot move.
+CMD:801cf30c	You rule only one castle,\nso you cannot summon.
+CMD:801cf334	No officers can be dispatched.
+CMD:801cf350	No officers can be summoned.
+# CMD2: officer editor (registered officers / treasures), name entry
+CMD2:801bcdc8	Taciturn
+CMD2:801bcdd0	Polite
+CMD2:801bcdd8	Rough
+CMD2:801bcde0	Noble
+CMD2:801bcde8	Cocky
+CMD2:801bcdf0	Dignified
+CMD2:801bcdf8	Talkative
+CMD2:801bce00	Normal
+CMD2:801bce08	To Kyoto
+CMD2:801bce10	Unify Region
+CMD2:801bce1c	Very Cons.
+CMD2:801bce28	Conservative
+CMD2:801bce34	Progressive
+CMD2:801bce40	Very Prog.
+CMD2:801bce4c	Hostile
+CMD2:801bce54	Wary
+CMD2:801bce5c	Neutral
+CMD2:801bce64	Open
+CMD2:801bce98	Taciturn
+CMD2:801bcea0	Polite
+CMD2:801bcea8	Rough
+CMD2:801bceb0	Noble
+CMD2:801bceb8	Cocky
+CMD2:801bcec0	Dignified
+CMD2:801bcec8	Talkative
+CMD2:801bced0	Normal
+CMD2:801bced8	Very Cons.
+CMD2:801bcee4	Conservative
+CMD2:801bcef0	Progressive
+CMD2:801bcefc	Very Prog.
+CMD2:801bcf08	Ignores
+CMD2:801bcf10	Low
+CMD2:801bcf18	High
+CMD2:801bcf20	Utmost
+CMD2:801bcf28	To Kyoto
+CMD2:801bcf30	Unify Region
+CMD2:801bcf3c	Hostile
+CMD2:801bcf44	Wary
+CMD2:801bcf4c	Neutral
+CMD2:801bcf54	Open
+CMD2:801bcfbc	Page
+CMD2:801bcfc4	Choose Type
+CMD2:801bcfd0	Go to Page
+CMD2:801bd014	Reppuuden Historical
+CMD2:801bd024	Reppuuden New (M)
+CMD2:801bd034	Sangokushi Historical
+CMD2:801bd044	Sangokushi New (F)
+CMD2:801bd054	Genghis Khan (F)
+CMD2:801bd068	Reppuuden Princess
+CMD2:801bd074	Reppuuden New (F)
+CMD2:801bd084	Sangokushi New (M)
+CMD2:801bd094	Genghis Khan (M)
+CMD2:801bd0a8	Other
+CMD2:801bd118	-
+CMD2:801bd1b4	-
+CMD2:801bd320	Next Officer
+CMD2:801bd32c	No registered data.
+CMD2:801bd344	Registered data is not loaded.\nLoad the registered data saved\non the MEMORY CARD?
+CMD2:801bd3a4	The data has changed.\nSave the registered data?
+CMD2:801bd600	Quit the officer editor.\nAre you sure?
+CMD2:801bd6cc	%4d
+CMD2:801bd6d4	%4d
+CMD2:801bd82c	Stats
+CMD2:801bd834	Unit Aptitude
+CMD2:801bd910	Domestic Skills
+CMD2:801bd91c	Battle Skills
+CMD2:801bda1c	Calling
+CMD2:801bda24	Formation
+CMD2:801bdb70	Is this all right?\n      Execute   Cancel
+CMD2:801bdbac	Next Officer
+CMD2:801bfdb8	ABC
+CMD2:801bfdc0	Hira.
+CMD2:801bfdc8	Kata.
+CMD2:801bfdd0	Delete
+CMD2:801bfdd8	OK
+CMD2:801bfde0	Cancel
+CMD2:801bfe28	Enter Name
+CMD2:801bfe34	Page
+CMD2:801bfe50	Name
+CMD2:801bfed4	%s %s\nIs that right?
+CMD2:801bfeec	%s\nIs that right?
+CMD2:801c0b1c	Reppuuden New (M)
+CMD2:801c0b2c	Reppuuden Historical
+CMD2:801c0b3c	Sangokushi New (M)
+CMD2:801c0b4c	Sangokushi Historical
+CMD2:801c0b5c	Genghis Khan (F)
+CMD2:801c0b70	Reppuuden New (F)
+CMD2:801c0b80	Reppuuden Princess
+CMD2:801c0b90	Sangokushi New (F)
+CMD2:801c0ba0	Genghis Khan (M)
+CMD2:801c0bb4	Other
+CMD2:801c0bc8	Choose Face Set
+CMD2:801c0d6c	Treasure Type
+CMD2:801c0fc0	-
+CMD2:801c1394	Stats
+CMD2:801c139c	Unit Type
+CMD2:801c13a4	Effect
+CMD2:801c13ac	Calling
+CMD2:801c13b4	Skills
+CMD2:801c13d0	Lv%2d
+CMD2:801c13d8	%s +%2d
+CMD2:801c13e0	Get %s
+CMD2:801c1484	Next Officer
+CMD2:801c1868	-
+CMD2:801c1c10	Lifespan
+CMD2:801c1cf4	Daimyo
+CMD2:801c1cfc	Officer
+CMD2:801c1d14	Next Daimyo
+CMD2:801c1d20	No castles.
+CMD2:801c1d30	Next Castle
+CMD2:801c1d38	No officers.
+CMD2:801c1d48	Next Officer
+# CMD3: regions (goal selection)
+CMD3:801a7fe8	Kyushu
+CMD3:801a7ff0	Shikoku
+CMD3:801a7ff8	Chugoku
+CMD3:801a8000	Kinai
+CMD3:801a8008	Koshinetsu
+CMD3:801a8010	Tokai
+CMD3:801a8018	Kanto
+CMD3:801a8020	Tohoku
+CMD3:801a8028	Unify Japan

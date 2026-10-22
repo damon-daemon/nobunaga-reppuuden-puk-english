@@ -1,0 +1,243 @@
+@56000
+Month {v66}, {v65}: the {v3d32} clan unified the Kinai.
+
+@56006
+I knew the {v0236} would grant my wish. You have done well. I, {v0134}, thank you from the heart.
+
+@56007
+I am deeply honoured. Such words from you, my liege, bring me, {v0134}, the greatest joy.
+
+@56008
+I must reward you all for your service... {v0234}, is there anything you desire?
+
+@56009
+Protecting you, my liege, is only our duty as your vassals. To wish for a reward would be presumptuous.
+
+@56010
+What are you saying? I want you to keep helping me from now on.
+
+@56011
+...Then I shall think of a reward myself within a few days. Do not dare refuse it. That is an order, understood?
+
+@56012
+...Very well. Since you insist, I humbly accept.
+
+@56013
+...Good! Keep helping me from now on.
+
+@56016
+The Shogun was greatly pleased with our deeds this time.
+
+@56017
+From now on we must be the Shogun's support. We will be busier than ever, so lend me your strength, {v0234}.
+
+@56017.1
+From now on we must back the Shogun. We will be busier than ever, so lend me your strength, {v0234}.
+
+@56019
+Month {v66}, {v65}: the {v3d32} clan marched on Kyoto and overthrew the shogunate.
+
+@56020.1
+Congratulations, {C14}. At last we have achieved the goal. Looking back, there was much along the way...
+
+@56021
+It was in month {v66} of {v65} that our clan set the goal of overthrowing the shogunate...
+
+@56022
+So it was. When our lord said we would march on Kyoto and overthrow the shogunate, I confess I trembled.
+
+@56023
+It was a war against the shogunate, head of all warrior houses. I too knew there was no turning back.
+
+@56023.1
+It was a war against the shogunate, head of all warrior houses. I too knew there was no going back.
+
+@56024
+Yes, but now we have overthrown the shogunate and taken the capital into our clan's hands.
+
+@56025
+{v6f}, who gave us so much trouble, is no longer of this world...
+
+@56026
+{v6f}, who gave us so much trouble... who knows where they are now...
+
+@56027
+{v6f}, who gave us so much trouble, came to understand your ideals, my lord, and is now one of the {v0136} clan.
+
+@56030
+Now that we hold the heart of Japan, unifying the realm is no longer a dream. I expect even more loyal service from you all.
+
+@56030.1
+Now that we hold the heart of Japan, unifying the realm is no dream. I expect still more loyal service from you all!
+
+@56033
+Goal achieved! We hold the heart of Japan!
+
+@56034
+Month {v66}, {v65}: at the shogunate's request, the {v3d32} clan drove {v6f} to ruin.
+
+@56035
+{C14}! Th-the Shogun has come to {v0138} in secret!
+
+@56036
+Wh-what! Why are you dawdling? Show the Shogun in at once!
+
+@56036.1
+Wh-what! What are you dawdling for? Show the Shogun in, now!
+
+@56037
+That you should visit so humble a place... I, {v0132}, am truly honoured.
+
+@56038
+{v0234}, no need for ceremony. Today I have come to talk of old times. You did fine work in punishing {v6f}.
+
+@56039
+Words of thanks from the Shogun himself... I, {v0132}, am deeply moved.
+
+@56040
+It was in month {v66} of {v65} that I gave you the secret order to defeat {v6f}...
+
+@56041
+At the time your strength already overwhelmed {v6f}. I thought my wish would soon be granted.
+
+@56042
+At the time you were weaker than {v6f}. I was frankly uneasy whether my wish would ever be fulfilled...
+
+@56043
+At the time you were about equal to {v6f}... I thought anything might happen.
+
+@56044
+So it was. But {v6f} was an insolent rogue who defied you, my liege...
+
+@56045
+I, {v0134}, fought ready to bring them down even at the cost of my own life.
+
+@56046
+Mm. Your loyalty gladdens me.
+
+@56048
+{v6f}, who tormented me, is no longer of this world... Perhaps that is the reward for tormenting me so.
+
+@56049
+{v6f}, who tormented me, has fled somewhere, I hear. Where might they be now...
+
+@56050
+{v6f}, who tormented me, is now one of the {v0236}. It seems they finally saw their error.
+
+@56051
+Everyone truly worked hard. Surely it is because your will reached them all, my liege.
+
+@56052
+Mm... that gladdens me. But the wars are not over. Troublemakers still run rampant everywhere.
+
+@56053
+I may need your strength again. When that time comes, I am counting on you. You alone are my support.
+
+@56054
+Yes, my liege! I shall go on sparing no effort in your service.
+
+@56055
+Month {v66}, {v65}: the {v3d32} clan destroyed the shogunate and broke the {v6f} encirclement.
+
+@56057
+So many memories come back.
+
+@56058
+It was in month {v66} of {v65} that our clan set the goal of overthrowing the shogunate to break the encirclement...
+
+@56059
+An encirclement had been formed... When I heard that report, a chill ran down my spine at the thought of what would become of our clan.
+
+@56060
+Indeed, at the time one could not help but feel uneasy.
+
+@56061
+Yes. That encirclement was the hardest trial our clan had ever faced.
+
+@56061.1
+Mm, that encirclement was the worst ordeal our clan had ever faced.
+
+@56062
+But when {C14} ordered the shogunate's overthrow without flinching, we too steeled ourselves.
+
+@56063
+And after fierce fighting, we broke one corner of the encirclement...
+
+@56064
+At last, in month {v66} of {v65}... we destroyed the shogunate, the root of the encirclement.
+
+@56065
+{v6f}, who tormented us by sending secret letters to every province, is no longer of this world...
+
+@56066
+{v6f}, who tormented us by sending secret letters to every province, has fled somewhere...
+
+@56067
+{v6f}, who tormented us by sending secret letters to every province, is now one of the {v0236}.
+
+@56068
+...Yes, it was. And that is because you, my vassals, stood united behind me.
+
+@56068.1
+Mm... so it was. And that is because you, my vassals, stood united behind me.
+
+@56069
+You have served me well, {C183}.
+
+@56069.1
+You have my thanks, {C183}.
+
+@56074
+At last I have cut out the root of the encirclement. The {v0136} clan's time begins now!
+
+@56075
+Month {v66}, {v65}: {v0132} was appointed {v6f}, {v70}, by the Imperial Court.
+
+@56076
+I am {v0132}. I am most grateful for your efforts on my behalf in my appointment as {v6f}.
+
+@56077
+Oh, Lord {v0233}! You honour me by coming all this way. I am glad to see you in good health.
+
+@56078
+Since you are here, let us talk over old times. When was it now...
+
+@56079
+It was in month {v66} of {v65} that I heard your wish to be recommended for a title such as {v6f}, was it not...
+
+@56080
+I remember it well. You pleaded most earnestly.
+
+@56081
+I am quite ashamed. But in these chaotic times I hoped to rely on His Majesty's authority.
+
+@56082
+Mm, a commendable attitude.
+
+@56083
+Yet I never imagined I would be appointed so soon, only {v65} months later.
+
+@56084
+Still, after {v65} months, the wait was worth it.
+
+@56085
+Yet {v65} months... Once two years had passed, I did grow uneasy.
+
+@56086
+In any case, being appointed {v6f} means you have won His Majesty's trust.
+
+@56087
+You must never betray that trust. Continue your loyal service.
+
+@56088
+Yes, sir! From now on I shall serve so as not to shame the name of {v6f}.
+
+@56091
+To set the Shogun's mind at ease, we must all strive our hardest. {v0234}, lend me your strength.
+
+@56091.1
+We must all strive our utmost to set the Shogun's mind at ease. {v0234}, lend me your strength!
+
+@56092
+Yes, my lord!!
+

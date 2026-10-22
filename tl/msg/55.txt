@@ -1,0 +1,324 @@
+@55000
+Month {v66}, {v65}: the {v3d32} clan unified {v6f}.
+
+@55001
+Congratulations, {C14}. You have finally achieved your goal. Looking back, so much has happened...
+
+@55001.1
+Congratulations, {C14}. At last you have achieved your goal. Looking back, there was much along the way...
+
+@55002
+Yes, indeed. I have put you to much trouble as well, {C13}...
+
+@55002.1
+So it was. I put you to much trouble too, {C13}...
+
+@55003
+In month {v66} of {v65}, our clan set itself the goal of unifying {v6f}.
+
+@55004
+Yes.
+
+@55004.1
+Mm.
+
+@55005
+By then the {v0236} clan was already on the verge of unifying {v6f}, and it set out to take the {v70} remaining castles.
+
+@55006
+Most of {v6f} already belonged to us, the {v0136}, but now we have unified {v6f} completely.
+
+@55006.1
+In {v6f} there was already no power that could stand against us, the {v0136}... but now {v6f} is wholly unified.
+
+@55007
+By then the {v0236} clan was already a house of renown in {v6f}, and it set out to take the {v70} remaining castles.
+
+@55008
+Our clan was already the mightiest power in {v6f}, but now {v6f} is wholly unified.
+
+@55008.1
+Our clan was already the mightiest in {v6f}, and now {v6f} is wholly unified.
+
+@55009
+The {v0236} clan was by no means strong in {v6f}, but it set out to seize the {v70} remaining castles.
+
+@55010
+Our clan steadily extended its power in {v6f}, and now none oppose us. A truly joyous thing.
+
+@55011
+...Yes, it was. You have served me well, {C183}.
+
+@55011.1
+Mm... so it was. Thank you for following me this far, {C183}.
+
+@55012
+Gracious words. Now that {C14} is master of {v6f}, I could ask for nothing more.
+
+@55013
+But unifying {v6f} is only a step along the way. I am not satisfied with this.
+
+@55013.1
+But unifying {v6f} is only a step on the road. I am far from satisfied!
+
+@55014
+Ah, that is {C14} for you! Even after so great a feat, you do not let your guard down.
+
+@55015
+Our lord is truly a person of great stature.
+
+@55016
+Then we too shall strive for your still greater ambitions, my lord. Command us as you will.
+
+@55017
+Then keep serving the {v0136} clan well from now on! I am counting on you.
+
+@55017.1
+Good. Keep serving the {v0136} clan well! I am counting on you!
+
+@55018
+Good! Goal achieved. Now, what shall the next goal be?
+
+@55020
+Congratulations, {C14}. Looking back, much has happened, but at last the goal is achieved.
+
+@55020.1
+Congratulations, {C14}. Looking back, there was much along the way, but at last you have achieved the goal.
+
+@55021
+It was in month {v66} of {v65}, I believe, that our clan set itself the goal of unifying {v6f}.
+
+@55022
+{v65} months to achieve the goal... I think I acted swiftly, if I say so myself.
+
+@55023
+Just as you say, my lord. We never thought unification would come in so short a time.
+
+@55024
+This too is thanks to your fine command, {C14}.
+
+@55025
+No, no. It was achieved only through all your efforts.
+
+@55026
+Gracious words, my lord.
+
+@55027
+Keep serving the {v0136} clan well from now on! I am counting on you.
+
+@55027.1
+Keep serving the {v0136} clan well! I am counting on you!
+
+@55029
+It took {v65} months to achieve the goal... One could call it long, yet it also seems short.
+
+@55030
+I believe one could say it went smoothly.
+
+@55031
+Yes, but with more skilful use of troops and stratagems, I think we could have unified it sooner.
+
+@55031.1
+Mm, but had we used troops and stratagems more skilfully, we could have unified it sooner.
+
+@55032
+Is that so? Then that is a task for the future.
+
+@55033
+Indeed. I am counting on you from now on, {C183}.
+
+@55033.1
+Just so. I am counting on you from here on, {C183}.
+
+@55035
+{v65} months to achieve the goal... That took a good long while.
+
+@55036
+Indeed. Perhaps we spent a little too much time...
+
+@55037
+True... Perhaps I went about things too leisurely.
+
+@55037.1
+True... perhaps I took things too easy.
+
+@55038
+Haste is unwise, but they say speed is the soul of war. When you see a chance of victory, it is vital to move the troops at once...
+
+@55039
+It is as {C13} says. A drawn-out war makes the people suffer. I must learn to move swiftly...
+
+@55039.1
+{C13} is right. Long wars make the people suffer. I must learn to act swiftly...
+
+@55040
+There is still much ahead of us.
+
+@55041
+True enough. Then keep serving the {v0136} clan well from now on! I am counting on you.
+
+@55041.1
+True enough. Then keep serving the {v0136} clan well! I am counting on you!
+
+@55043
+Month {v66}, {v65}: the {v3d32} clan unified {v6f}, the last region still remaining.
+
+@55044
+{C14}, first of all, congratulations on achieving your goal.
+
+@55045
+It was in month {v66} of {v65} that our clan set itself the goal of unifying {v6f}.
+
+@55046
+And pacifying this land was the crowning touch to my conquest.
+
+@55047
+Just so, my lord. And at last...
+
+@55048
+Month {v66}, {v65}: the {v3d32} clan drove the {v6f} to ruin.
+
+@55049
+Congratulations, {C14}. You have finally achieved your goal. Looking back, so much has happened...
+
+@55049.1
+Congratulations, {C14}. At last you have achieved your goal. Looking back, there was much along the way...
+
+@55050
+It was in month {v66} of {v65} that our clan set the goal of defeating the {v6f}...
+
+@55051
+So it was. Back in those days...
+
+@55052
+At the time, our clan already had the strength to overwhelm the {v6f}.
+
+@55053
+So it was. We won this war as we were bound to.
+
+@55053.1
+So it was. We were bound to win this war.
+
+@55054
+Our clan was far weaker than the {v6f}.
+
+@55055
+So it was. We did well to turn the tide and win.
+
+@55055.1
+So it was. We did well to overcome the odds and win.
+
+@55056
+Our clan was nearly equal to the {v6f}... The outcome could not be foreseen.
+
+@55057
+So it was. It began as an even contest, but we managed to win.
+
+@55057.1
+So it was. We began evenly matched, yet we won through.
+
+@55058
+{v70}, who gave us so much trouble, is no longer of this world...
+
+@55059
+{v70}, who gave us so much trouble... who knows where they are now...
+
+@55060
+{v70}, who gave us so much trouble, was moved by your ideals, my lord, and is now one of the {v0136} clan.
+
+@55061
+Yes... at any rate, winning the war against the {v6f} is cause for celebration.
+
+@55061.1
+Mm... at any rate, victory over the {v6f} is a happy thing.
+
+@55062
+But this does not guarantee our clan's safety. We still have many enemies.
+
+@55062.1
+But our clan's safety is not yet assured. Enemies remain aplenty.
+
+@55063
+Just as you say, my lord.
+
+@55066
+Good! A hard foe destroyed and the goal achieved. Riding this momentum, what shall we take on next?
+
+@55067
+Month {v66}, {v65}: the {v3d32} clan succeeded in taking {v70} in {v6f}.
+
+@55069
+It was in month {v66} of {v65} that our clan set the goal of taking {v70} in {v6f}...
+
+@55070
+{v70} in {v6f}... it was known for its strong defences.
+
+@55071
+Yes... but taking {v70} to hold {v6f} in check was absolutely necessary.
+
+@55071.1
+Mm... but we had to take {v70} and hold {v6f} in check, whatever the cost.
+
+@55072
+And finally, in month {v66} of {v65}, we brought {v6f} into our hands...
+
+@55073.1
+This too is thanks to your work, {C183}. Well done.
+
+@55075
+From now on I want to use this castle as a foothold to spread our clan's power further into the lands around it.
+
+@55078
+Leave it to us.
+
+@55079
+At last {v6f} has fallen! Goal achieved.
+
+@55080
+Month {v66}, {v65}: the {v3d32} clan entered Kyoto and was granted an audience with the {v3e32} Shogun.
+
+@55081
+The audience will begin shortly, my lord.
+
+@55082
+I have waited for this moment. Well then, I shall be off.
+
+@55082.1
+Mm... I have waited for this. Well then, I go.
+
+@55083
+Take care.
+
+@55084
+So you are {v0232}. I am glad you answered my call.
+
+@55085
+I am {v0132}, my liege. It is a great joy to find you in good health.
+
+@55086
+As you surely know, Japan is in utter turmoil. This is due to my own lack of virtue.
+
+@55087
+I wish to end this age of chaos and restore peace. {v0234}, will you lend me your strength?
+
+@55088
+Such gracious words! I, {v0134}, am overjoyed. Humble as my strength is, I wish to be of service to you, my liege.
+
+@55089
+Good. I rely on you. I am counting on you!
+
+@55090
+Welcome back. How did the Shogun seem?
+
+@55091
+His Highness grieves over this turmoil, and he seemed somewhat weary.
+
+@55092
+As I feared...
+
+@55093
+To set the Shogun's mind at ease, we must all strive our hardest. Lend me your strength, {C218}.
+
+@55093.1
+We must all strive our utmost to set the Shogun's mind at ease. Lend me your strength, {C218}!
+

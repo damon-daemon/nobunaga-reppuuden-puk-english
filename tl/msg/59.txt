@@ -1,0 +1,498 @@
+@59000
+In the age of warring states, as rival lords fought over the land, heroes of old who had made their names in history were about to rise again...
+
+@59001
+Ugh... Where am I? What has happened to me...?
+
+@59002
+Brother!? Pull yourself together!
+
+@59003
+Oh!! You are Guan Yu! And Zhang Fei and Kongming are here too!
+
+@59004
+Brother! Are you all right?
+
+@59005
+Yes, I am fine. But what is all this...?
+
+@59006
+It seems the four of us have been reborn in a foreign land...
+
+@59007
+What! But I am certain I fell ill and died at Baidi Castle...
+
+@59008
+And I met a bitter death in Jing Province, yet when I came to, I was in this foreign land...
+
+@59009
+Hmm... It is hard to believe... but with all of you beside me, I can rest easy for now.
+
+@59010
+...Brother, I cannot apologise enough for failing to hold Jing Province...
+
+@59011
+Let it be, Guan Yu. I too tried to avenge you, only to be beaten by Wu and die in bitter defeat.
+
+@59012
+Ah, of course! I left all affairs to my Chancellor. Kongming, you must have destroyed Wei splendidly for me, did you not?
+
+@59013
+Well...
+
+@59014
+Hm? What is it, Kongming?
+
+@59015
+I beg your forgiveness. The northern campaigns never succeeded. The fault lies in my own want of virtue...
+
+@59016
+No, if you could not do it, Kongming, no one could have. Do not let it trouble you.
+
+@59017
+Brother, what do we do now?
+
+@59018
+Since we have been given life in this world once more, this time I shall restore the House of Han without fail!
+
+@59019
+Restoring the Han... You still haven't given up on that?
+
+@59020
+They say more than a thousand years have passed since the fall of the Han.
+
+@59021
+A thousand years or two thousand, it makes no difference. Restoring the House of Han is my lifelong wish.
+
+@59022
+Well, as long as I get to raise some hell, I don't mind. Brother, let's start by conquering this country!
+
+@59023
+Indeed. That's the spirit, Zhang Fei.
+
+@59024
+And so Liu Bei seized Kumamoto Castle and raised his banner as a daimyo in the age of warring states.
+
+@59025
+Tokimasa... Compared with the days when I founded the shogunate, Japan seems to have changed completely.
+
+@59026
+So it does, my lord.
+
+@59027
+Back then the warriors of every province swore loyalty to the shogun, and Japan was united as one...
+
+@59028
+Now it is truly a land of rival warlords.
+
+@59029
+What! The man who rules Kamakura is one Hojo Ujiyasu! Tokimasa, he must be your descendant!
+
+@59030
+N-not at all, my lord! Those people merely took the Hojo name for themselves.
+
+@59031
+I have my doubts. I know all about it, you see.
+
+@59032
+I know you murdered my son Yoriie at Shuzenji and seized power for yourself.
+
+@59033
+Now, now, my lord. Let bygones be bygones.
+
+@59034
+How dare you! You are a truly shameless rogue.
+
+@59035
+Well... never mind. I shall once more lead the warrior houses and unify the realm. But the two of us alone are hardly enough.
+
+@59036
+Quite so. You never were much good at war, my lord.
+
+@59037
+Mind your own business.
+
+@59038
+Oh, my lord! Look, Lord Yoshitsune is over there!
+
+@59039
+What!? Why, so he is! Kuro, what a chance to meet you in a place like this.
+
+@59040
+...
+
+@59041
+I mean to raise an army here once more and unify the realm. Will you not lend me your aid as in the old days?
+
+@59042
+...How dare you! Have you forgotten how you attacked me, innocent as I was, and drove me to kill myself at Hiraizumi!?
+
+@59043
+Now, now. Let us let bygones be bygones.
+
+@59044
+...
+
+@59045
+...Very well. This is no time for kinsmen to quarrel, so I shall follow you one more time, Brother.
+
+@59046
+Oh, splendid!
+
+@59047
+Then I shall lead my men and take a castle at once. Come, Benkei!
+
+@59049
+Ah, Kuro, how reassuring you are.
+
+@59050
+And so Minamoto no Yoritomo seized Kururi Castle and raised his banner as a daimyo in the age of warring states.
+
+@59051
+Hmm, it seems that after many years I have been born into Japan once again.
+
+@59052
+Yet to think that my Ashikaga shogunate has fallen so low, a mere local power ruling the lands around Kyoto. How lamentable.
+
+@59053
+But alone there is nothing I can do. What am I to do...?
+
+@59054
+Lord Takauji!
+
+@59055
+Hm? Who are you?
+
+@59056
+I am your grandson, Yoshimitsu.
+
+@59057
+Oh! You are Yoshimitsu, son of Yoshiakira?
+
+@59058
+I am, Lord Takauji.
+
+@59059
+I see. So you were reborn too. Hm? And who is that with you?
+
+@59060
+This is my retainer, Ikkyu. Ikkyu, pay your respects.
+
+@59061
+I am Ikkyu Sojun, in the service of Lord Yoshimitsu.
+
+@59062
+He is a clever one. When it comes to witty riddles, no one can match him.
+
+@59063
+Oh... witty riddles, eh? But being good at riddles hardly...
+
+@59064
+Master Ikkyu!
+
+@59065
+Ah! Mr Shinemon! So you came too, Mr Shinemon!
+
+@59066
+I, Shinemon, will follow you to the ends of the earth, Master Ikkyu!
+
+@59067
+Yoshimitsu, who is that samurai?
+
+@59068
+Yes, my lord. He is a retainer of mine, Ninagawa Chiun.
+
+@59069
+Hmm. Your retainers seem a little unreliable.
+
+@59070
+I am ashamed, my lord...
+
+@59071
+In any case, I must strive once more for a realm under the Ashikaga. Yoshimitsu, have you any good ideas?
+
+@59072
+Unify the realm, my lord? That is easier said than done... Hmm...
+
+@59073
+Blast it, Ikkyu! Use your wits and do something!
+
+@59074
+Don't ask the impossible!
+
+@59075
+My lord, why not first go and meet the present head of the Ashikaga?
+
+@59076
+A fine idea. Then, Lord Takauji, let us go to the Muromachi Palace.
+
+@59077
+Very well.
+
+@59078
+My liege, someone is asking for an urgent audience. What shall I do?
+
+@59079
+An urgent audience? Who is it?
+
+@59080
+Well, it seems... he claims to be a distant ancestor of yours, my liege.
+
+@59081
+Out of my way, out of my way!
+
+@59082
+Wh-what!? Who are you people?
+
+@59083
+What outrage before His Highness! Guards! Throw these men out!
+
+@59084
+N-no, wait. This man is...
+
+@59085
+Are you Ashikaga Yoshiaki, head of the Ashikaga? I am Takauji, the first shogun.
+
+@59086
+Wh-what nonsense... And yet, somehow I feel it is true...
+
+@59087
+Ashikaga Yoshiaki! The decline of the Muromachi shogunate today is too painful to behold!
+
+@59088
+Yes, my lord! I beg your forgiveness!
+
+@59089
+Therefore, from now on I shall be head of the house and strive to reunite the realm under the Ashikaga. Is that clear!
+
+@59090
+Y-yes, my lord!
+
+@59091
+And so Ashikaga Takauji entered the Muromachi Palace and set out once more to win the realm for the Ashikaga.
+
+@59092
+Oh... I was captured by the English and burned at the stake... So what has happened to me?
+
+@59093
+And this is a land I have never seen... Oh, excuse me, sir!
+
+@59094
+Yes?
+
+@59095
+Where on earth are we? I am completely lost.
+
+@59096
+What, you too? In truth, neither I nor Lord Vlad here knows where we are.
+
+@59097
+Indeed. When I came to my senses, I was in this strange land.
+
+@59098
+You as well...
+
+@59099
+And your name?
+
+@59100
+I am Joan of Arc, the knight who led the French army in the Hundred Years' War.
+
+@59101
+Oh, is that so! I see, then this is...
+
+@59102
+Hm? What is it, Lord Robin?
+
+@59103
+It seems that people who left their names in history are appearing again in this land.
+
+@59104
+Then you two must also be people who left your names in history?
+
+@59105
+I am Robin Hood, famed as the noble outlaw of Sherwood.
+
+@59106
+Oh my! Robin Hood, the master archer...
+
+@59107
+Indeed.
+
+@59108
+...who shot an apple off a child's head, right?
+
+@59109
+That was William Tell!
+
+@59110
+Ahaha, so it was. And who is this gentleman?
+
+@59111
+I am Vlad, once ruler of the Principality of Wallachia in Romania.
+
+@59112
+Lord Vlad is the man later ages would tell of as Dracula, the vampire.
+
+@59113
+Oh my, Dracula, the monster from European legend...
+
+@59114
+Indeed.
+
+@59115
+...who turns into a wolf on the night of the full moon, right?
+
+@59116
+...Robin, may I drink this woman's blood...?
+
+@59117
+Calm yourself, Lord Vlad...
+
+@59118
+Ahaha... Well, anyway, you are both famous people.
+
+@59119
+Yes. And though all three of us are Europeans, somehow we are in this unknown land.
+
+@59120
+So we are... Hm? Oh, Lord Vlad! There is someone lying over there!
+
+@59121
+...Let us go and see.
+
+@59122
+Sir! Pull yourself together!
+
+@59123
+Ugh, ugh...
+
+@59124
+Are you all right? Pull yourself together!
+
+@59125
+Ugh... Et tu, Brute...
+
+@59126
+Brutus? What is this man saying?
+
+@59127
+He seems to be having a nightmare.
+
+@59128
+Ah! Where am I? What has happened to me?
+
+@59129
+Oh, you have come round!
+
+@59130
+Hmm... I am the one called Caesar. And who are you?
+
+@59131
+Oh! Are you Caesar, the hero of Rome? I am Robin Hood.
+
+@59132
+Robin, you say... And where on earth are we?
+
+@59133
+I do not know either. Just like you, we found ourselves here when we came to.
+
+@59134
+What! You too?
+
+@59135
+In any case, it seems we have been cast into an unknown land.
+
+@59136
+Lord Caesar, this too must be fate. Shall we not all band together to protect ourselves?
+
+@59137
+Protect ourselves? Who do you take me for? In whatever age I live, I am the man who must stand above all the people!
+
+@59138
+You mean to raise an army in this land? If we join forces, we have nothing to fear!
+
+@59139
+Then first let us take a stronghold of our own.
+
+@59140
+And so Caesar and his companions seized Yuzuki Castle and raised their banner as a daimyo in the age of warring states.
+
+@59141
+To wake suddenly in such a strange land... What is going on?
+
+@59142
+Chucai, do you not know where we are either?
+
+@59143
+Forgive me, I have not the faintest idea.
+
+@59144
+Hmm, what is to be done...
+
+@59145
+Great Khan!
+
+@59146
+Oh! It is you!
+
+@59147
+I am Kublai, your grandson, fifth Khan of the Mongol Empire.
+
+@59148
+Oh, Kublai! How you have grown. So you were in this land too. ...And who is that with you?
+
+@59149
+This is a man in my service named Marco. He is from the West, and famous as a traveller.
+
+@59150
+I am honoured to meet you, Great Khan. My name is Marco Polo.
+
+@59151
+A traveller, are you? Then do you know where we are?
+
+@59152
+This is a country called Zipangu, an island nation far to the east of Mongolia, across the sea.
+
+@59153
+Oh, Zipangu...
+
+@59154
+But Marco, you told us every house in Zipangu was covered in gold leaf. That is not so at all!
+
+@59155
+Hahaha... So it seems.
+
+@59156
+Great Khan, now that we know, there is no reason to linger. Let us find ships and return to Mongolia.
+
+@59157
+No, wait. I shall stay here for a while.
+
+@59158
+Why, my lord?
+
+@59159
+This land seems to have many brave and clever generals. The wolf's blood flowing in my veins tells me so.
+
+@59160
+I have a great wish to throw myself into the strife of this land and fight to my heart's content.
+
+@59161
+In truth, I once sent troops to conquer this country, but failed. Its soldiers are stronger than they look.
+
+@59162
+It would be no fun otherwise! Kublai! You will follow me and fight in this land. Is that clear!
+
+@59163
+Yes, my lord! As you command.
+
+@59164
+Then first let us take a castle to serve as our base.
+
+@59165
+Very well.
+
+@59166
+And so Genghis Khan seized Minato Castle and raised his banner as a daimyo in the age of warring states.
+

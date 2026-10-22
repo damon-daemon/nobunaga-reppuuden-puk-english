@@ -1,0 +1,543 @@
+@4000
+It has been a long time! I, {v0132}, have come to serve {C14} once more!
+
+@4001
+You honour me! I, {v0132}, will serve you with my life!
+
+@4002
+...Is that so... Then the bond between {C14} and me ends here... Farewell!
+
+@4003
+I am {v0132}, who once served {C23}. I have come to serve you, {C14}!
+
+@4004
+Yes! I am most grateful! I will serve {C14} with the same loyalty I gave {C23}!
+
+@4005
+So {C14} is not {C23} after all... A bitter pity... Farewell!
+
+@4006
+{C192}, to meet {C20} in a place like this! Shall I invite them to join our clan?
+
+@4006.1
+{C192}, to meet {C20} in a place like this! Shall I invite them to join our clan?
+
+@4006.2
+{C192}, to run into {C20} here! Shall I ask them to join our clan?
+
+@4006.3
+Here is a ronin of real promise. Shall I ask them to join our clan?
+
+@4007
+{C14}, {v0332}, one of your kin, is said to be near as a ronin. Shall we persuade them to serve?
+
+@4007.1
+{C14}, one of my kin, {v0332}, is here. Shall we invite them to serve?
+
+@4007.2
+{C14}, I hear a promising ronin named {v0332} is nearby. Shall we invite them to serve?
+
+@4007.3
+{C14}, I would like to persuade a ronin named {v0332} to serve our clan.
+
+@4007.4
+{C14}, I have found a ronin named {v0332}. I would like to win them over before another clan does.
+
+@4008
+There are no ronin in the castle town.
+
+@4009
+No ronin has been chosen.
+
+@4010
+Recruit them as an officer of our clan?
+
+@4011
+My name is {v0132}! From now on, {v0b32} is mine to rule!
+
+@4011.1
+I am sick of a wanderer's life. I, {v0132}, have taken {v0b32}.
+
+@4011.2
+How lucky, an empty castle. From {v0b32}, I, {v0132}, will aim for the realm!
+
+@4012
+{C14}! {v0b32} has been seized by a ronin named {v0332}!
+
+@4013
+What! {v0b32} taken! Who is this {v0232}? The impudence...
+
+@4014
+{C7}, {v0b32} has been seized by a ronin named {v0332}, it seems!
+
+@4015
+Oho, so {v0b32} was taken. {v0332} grew careless, it seems. But who is this {v0232}...
+
+@4016
+Heaven has seen my many trials. We welcome Lord {v0234} to {v0b32} and restore the {v0233} clan!
+
+@4016.1
+I have waited for this moment. We welcome Lord {v0234} to {v0b32}, and here the {v0233} clan is restored!
+
+@4016.2
+The {v0233} name shall not die. From {v0b32}, the {v0233} clan rides out for the realm once more!
+
+@4017
+{C14}! {v0332} has raised troops at {v0b32} under the banner of restoring the {v0433} clan!
+
+@4017.1
+{C14}! {v0332} has welcomed {v0432} to {v0b32}, raised a banner and plans to restore the {v0433} clan!
+
+@4018
+Restoring the {v0333} clan at {v0b32}, is it... That {C19}, the impudence...
+
+@4018.1
+Is {v0234} possessed by a demon?... Dragging out a ghost like the {v0333} clan...
+
+@4018.2
+That {C19}, playing the loyal retainer... If dying for the old house is the wish, I will grant it!
+
+@4019
+{C14}, {v0332} has welcomed {v0432} to {v0b32}, raised a banner and restored the {v0433} clan, I hear.
+
+@4019.1
+{C14}, with the help of {v0332}, remnants of the {v0433} clan have seized {v0b32}, it seems!
+
+@4020
+{v0232} is loyal indeed. Keeping faith with the {v0333} clan and restoring it at last...
+
+@4020.1
+{C184}, the {v0333}, you say? Must we fight ghosts now? What a bother, {C184}.
+
+@4020.2
+Dragging out an antique like the {v0333} clan... {v0232} is an odd one.
+
+@4021
+{C184}, you were careless, {C7}! From now on, {v0138} belongs to Lord {v0332}!
+
+@4021.1
+I am done with {C14}! I will bring {v0138} as a gift and go to {C20}!
+
+@4021.2
+I have waited for this moment! From now on, we and {v0138} belong to Lord {v0332}!
+
+@4021.3
+The chance to leave the {v0236} has come! From now on, the lord of {v0138} is Lord {v0332}!
+
+@4021.4
+The time to settle old scores has come! We and {v0138} now join Lord {v0332}!
+
+@4022
+{C14}, {v0332} of {v0338} has come over to our side!
+
+@4022.1
+{C14}, good news! {v0332} of {v0338} has rebelled and left the {v0336} for our side!
+
+@4022.2
+{C14}, a letter from {v0332} of {v0338}... "For good reason I leave the {v0336} and side with the {v0136}."
+
+@4023
+What, {C7}, you join me with {v0238} as a gift? {C184}, just like you!
+
+@4023.1
+{C184}, I can just picture {v0332} in a panic.
+
+@4023.2
+Thanks to {v0232}, we have gained {v0238} without losing a single soldier!
+
+@4023.3
+Betrayed by {v0232}... The {v0336} clan's luck has run out.
+
+@4024
+{C14}, a rebellion! {v0432} of {v0438} has defected to {v0332}!
+
+@4024.1
+{C14}! A courier from {v0438}! {v0432} has rebelled and defected to the {v0336}!
+
+@4024.2
+Terrible news! {v0432} of {v0438} has rebelled and defected to the {v0336}!
+
+@4025
+What, {C13}?... There must be some mistake. I cannot believe it.
+
+@4025.1
+What! {v0238} has gone over to {v0332}! Grr... {v0232}... You will pay for this...
+
+@4025.2
+Damn you, {C19}... damn you, {v0332}... Making a fool of me...
+
+@4025.3
+That {C19}, that idiot... Taken in so easily by {v0332}'s shallow scheme...
+
+@4026
+{v0138} of the {v0236} has defected to the {v0336}.
+
+@4027
+For good reason, I, {v0132}, now side with the {v0236}!
+
+@4027.1
+These troops are gift enough! Men! From now on, I, {v0132}, belong to the {v0236}!
+
+@4027.2
+At last the time to give {v0332} a shock has come! From now on, the master of my army is Lord {v0232}!
+
+@4028
+{C14}, {v0332} of the {v0336} has come over to us, bringing troops as a gift!
+
+@4028.1
+{C14}, good news! The army of {v0332} of the {v0336} has come over to us!
+
+@4028.2
+{C14}, part of the {v0336} army seems to have come over to us. It seems to be the army led by {v0332}.
+
+@4029
+As expected of {C7}. I thought you would not come empty-handed, but bringing troops...
+
+@4029.1
+{C192}, {v0232} has brought troops to our clan! I can just picture {v0332} in a panic, {C184}.
+
+@4029.2
+Leaving the {v0336} for us with troops in tow... {v0232}, what a fine fellow.
+
+@4029.3
+{v0232} has come over to us, and with a whole corps! Well done, {v0232}!
+
+@4030
+{C14}! {v0332}, out on campaign, has defected to the {v0436}!
+
+@4030.1
+{C14}! {v0332}, out on campaign, has rebelled to side with the {v0436}! Defected to the {v0436}!
+
+@4030.2
+{C7}! {v0332} has rebelled and defected to the {v0436}, troops and all!
+
+@4032
+{C7}, out on campaign, has rebelled! Curse you, disgrace of the {v0136}, defecting to the likes of the {v0336}!
+
+@4032.1
+What! {v0232} has defected to the {v0336} with the troops! ...Is this {v0332}'s scheme?...
+
+@4032.2
+{v0232} to the {v0336}... That {C19}... I was a fool to trust such a one with troops...
+
+@4032.3
+{v0232} has run to {v0332} with our troops as a gift... Curse that {C19}...
+
+@4033
+The {v0236} corps led by {v0132} has defected to the {v0336}.
+
+@4034
+I can hardly face you now... but blood is thicker than water. Let me join the {v0236}...
+
+@4034.1
+I am utterly sick of the {v0336}. Let me serve Lord {v0234}.
+
+@4034.2
+I have fled the {v0336}. I beg you, add me to the ranks of the {v0236}.
+
+@4034.3
+Hearing of Lord {v0232}'s fame, I fled the {v0336}, hoping to serve under you.
+
+@4035
+Blood is thicker than water, is it... {C184}, just as {C7} says. I gladly welcome you.
+
+@4035.1
+Well come! See for yourself how the {v0136} differ from the {v0336}.
+
+@4035.2
+I have long wanted someone like {C13} as a retainer. Please lend me your help.
+
+@4035.3
+I have often heard of you. Welcome to the {v0136}. I expect great things!
+
+@4036
+{C14}! A courier brings word: {v0332} has fled our clan and defected to the {v0436}!
+
+@4036.1
+{C14}! Someone has fled our clan and defected to the {v0436}. It seems to be {v0332}.
+
+@4036.2
+{C14}! Someone has fled our clan and defected to the {v0436}... The castle rumour says {v0332}...
+
+@4037
+{C7}, you say {v0332} is better than {C2}?...
+
+@4037.1
+{v0232} has gone to {v0332}... Damn them! {v0334} and {v0234} alike, making a fool of me...
+
+@4037.2
+{v0232} has fled! And to {v0332} of all people! Mocking me like this... You will regret it!
+
+@4038
+{v0132} has betrayed the {v0236} and defected to the {v0336}.
+
+@4039
+{C184}, at last the time has come. I, {v0132}, rise here to claim mastery of this warring age.
+
+@4039.1
+My name is {v0132}! I raise troops here to claim mastery of the realm!
+
+@4039.2
+My name is {v0132}! The perfect chance to take my first step towards the realm has come.
+
+@4040
+{C14}! {v0332} of {v0338} seems to have rebelled!
+
+@4040.1
+{C14}, terrible news! {v0332} of {v0338} has broken away from our clan!
+
+@4040.2
+{C14}! A courier from {v0338}! The report says {v0332} has rebelled!
+
+@4041
+{C7}, what is it about {C2} that displeases you?... Do you hate me that much?...
+
+@4041.1
+What! {v0232} has rebelled... So that {C19}'s loyal face was an act for this day... Curses...
+
+@4041.2
+{v0232}... So you were waiting at {v0238} for this chance... The blunder of my life.
+
+@4041.3
+{C191}... {v0232}, making a fool of me... You will pay for this!
+
+@4042
+{v0132} has broken away from the {v0136}.
+
+@4043
+It seems {C7} has no need of me. Then I can only leave...
+
+@4043.1
+I will take no more orders from a {C19}. From now on I do as I please.
+
+@4043.2
+Stiff service does not suit me. Roaming the realm freely is more my style.
+
+@4043.3
+{v0232} is not for me. Until the day I meet my true lord, I shall travel the provinces.
+
+@4044
+{C14}! {v0332} of {v0338} has fled!
+
+@4045
+What, a note from {C7}... So you mean to abandon {C2} and leave our clan...
+
+@4045.1
+What, {v0232} has fled... Abandoning me, {v0132}? What a fool.
+
+@4045.2
+Throwing away all that rank and honour, {v0232} has left our clan... How foolish...
+
+@4045.3
+What, {v0232} has fled... So being a ronin beats being a vassal of the {v0136}?...
+
+@4046
+{v0132} has fled the {v0236} and become a ronin.
+
+@4047
+Troops have deserted for lack of rice... Let them go if a little hunger makes them run.
+
+@4047.1
+Troops have deserted... With the rice gone, it cannot be helped... But something must be done...
+
+@4047.2
+...The rice has finally run out... The troops have begun to flee... Something must be done soon...
+
+@4048
+The rice is gone and all the troops have fled... I must go back to {v0138} for now.
+
+@4048.1
+At last I am all alone. Even back at {v0138}, I could not face my lord...
+
+@4048.2
+Short of rice or not, leaving me here alone... Once I am back at {v0138}, they will pay...
+
+@4048.3
+At last no one is left... I would only be a burden. I can only return to the castle.
+
+@4049
+An army marches on its stomach... My corps is finished...
+
+@4050
+{v0132} has gained the {v6f} skill.
+
+@4051
+All the planned development at {v0138} is finished!
+
+@4051.1
+All the planned development at {v0138} has been completed!
+
+@4052
+{v0b32} is surrounded by the enemy and has no rice or gold income.
+
+@4053
+{v0b32} is short of rice and cannot pay stipends; troops are deserting.
+
+@4054
+{v0b32} is short of gold and cannot pay stipends; retainers are grumbling.
+
+@4055
+Bowing to the strong to survive is the way of war. From now on {v0b32} follows the {v0236}!
+
+@4055.1
+The tide is turning from the {v0336} to the {v0236}... {v0b32} will ride it and side with the {v0236}!
+
+@4056
+{v0132}, lord of {v0b32} of the {v0336}, has defected with the castle to the {v0236}.
+
+@4057
+{v0b32} of the {v0236} has switched its allegiance to the {v0136}.
+
+@4058
+The {v0136} clan has unified Japan, and the age of war has come to an end!
+
+@4059
+Shogun {v0132} has brought every clan to heel, and the age of war has come to an end!
+
+@4060
+No one unified Japan, but the age of war has come to an end.
+
+@4061
+Set the princess's name to {v6f}?
+
+@4062
+The maximum number of uprising corps are already out. No more can be created.
+
+@4063
+There is no tile where new Ikko can be placed.
+
+@4064
+The Ikko of {v6f} Province are ready to rise. Start an Ikko uprising?
+
+@4065
+Ikko faithful! The time to rise has come! Let the Buddha's punishment fall on {v0232}, enemy of the Buddha!
+
+@4066
+A Honganji castle cannot be an Ikko target.
+
+@4067
+A castle of a daimyo allied with the Honganji cannot be an Ikko target.
+
+@4068
+An independent power's castle cannot be an Ikko target.
+
+@4069
+The branch castle {v0132} was building in {v6f} Province is complete.
+
+@4070
+{v6f} would be a fitting name.
+
+@4070.1
+{C14}, how about {v6f} for this castle's name?
+
+@4071
+Name this castle {v6f}?
+
+@4072
+At last the confusion is over. Men, always keep calm on the battlefield, understood?
+
+@4072.1
+An enemy attack now would have crushed us, but somehow the confusion has settled.
+
+@4072.2
+Somehow the confusion has settled. We nearly became easy prey for the enemy.
+
+@4073
+Is the confusion still not over! We are easy prey for the enemy!
+
+@4073.1
+What is wrong, men! What if the enemy attacks now! Calm down, calm down!
+
+@4073.2
+{C191}... the troops have all lost their heads... This cannot go on. Something must be done...
+
+@4074
+The corps led by {v0132} is in confusion and cannot act this month.
+
+@4075
+The princess to be wed has died, so the marriage with the {v0233} clan is called off. {v0132} returns to the castle.
+
+@4076
+Heavy snow has fallen in some provinces.
+
+@4077
+The snow is melting. No province is snowed in any more.
+
+@4078
+A typhoon seems to be approaching Japan.
+
+@4079
+The typhoon seems to have burst the levees in some provinces.
+
+@4080
+A flood has struck the castle town of {v0b32}.
+
+@4081
+Some provinces seem to have had a poor harvest.
+
+@4082
+Famine seems to have broken out in some provinces.
+
+@4083
+Some provinces seem to have had a good harvest.
+
+@4084
+The siege of {v0b32} could not be lifted, so the {v3d32} clan's Prestige fell by {v65}.
+
+@4085
+{v0b32} lacked rice for stipends, so the {v3d32} clan's Prestige fell by {v65}.
+
+@4086
+Famine has halved the troops and wounded of {v0b32}.
+
+@4087
+No work can be done here until the waters recede. We can only wait for autumn.
+
+@4087.1
+{C7}, the flood has left everything under water. No work can be done this month!
+
+@4087.2
+{C14}, this land is flooded, so no work can be done this month. Please wait for the waters to recede.
+
+@4088
+I have just arrived at {v0b32}!
+
+@4088.1
+{C15}, I have just arrived at {v0b32}.
+
+@4089
+I have just arrived at {v0b32}!
+
+@4089.1
+{C15}, I have just arrived at {v0b32}.
+
+@4090
+The daimyo has entered {v0b32}, so its delegation is cancelled.
+
+@4091
+Lord {v0132}, we were able to make cannon this month, so we present them to Lord {v0134}.
+
+@4092
+Lord {v0132}, this month trade ship bring cannon, so we present to Lord {v0134}.
+
+@4093
+{C14}, I would like to try building ironclads. It will need 5000 gold. What say you?
+
+@4094
+Accept {v0232}'s proposal?
+
+@4095
+{C14}, the ironclad is complete!
+
+@4096
+The {v0236} are truly on the rise. Missing this tide would be a disaster. From now on {v0b32} follows the {v0236}!
+
+@4096.1
+Standing alone, we are powerless before the {v0236}. Then there is one answer... {v0b32} joins the {v0236}!
+
+@4097
+{v0b32}, held by the independent power {v0132}, has joined the {v0236}.
+
+@4098
+The passing typhoon seems to have caused damage in some provinces.
+

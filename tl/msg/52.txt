@@ -1,0 +1,483 @@
+@52000
+Add 2 officers skilled in war to your ranks to prepare for battle.
+
+@52001
+Lord {v0134}, a fine military mind, has joined the {v0136} clan. {v65} more needed to reach our goal.
+
+@52002
+Princess {v0134}, a fine military mind, has entered service as an officer. {v65} more needed to reach our goal.
+
+@52003
+{v0132}, a fine military mind, has joined the {v0136} clan. {v65} more needed to reach our goal.
+
+@52004
+So the deadline has passed at last... Even so, I will bring fine military officers under my banner!
+
+@52005
+{C14}, there are no fine military men to be found anywhere. Why not give treasures to those with promise?
+
+@52005.1
+{C14}, skilled soldiers are hard to find. Why not give blades or military goods to develop their abilities?
+
+@52005.2
+{C14}, why not give blades or military goods to those with a gift for war and develop that gift?
+
+@52006
+{C14}, rumour has it that in {v2932} there is an officer of fine military skill named {v0332}!
+
+@52006.1
+{C14}, {v0332} of {v2932} is someone the {v0136} clan should welcome by all means...
+
+@52006.2
+{C14}, if {v0332} of {v2932} joined the {v0136} clan, we would fear nothing.
+
+@52007
+{C14}, gather {v65} more officers of fine military skill and our goal is achieved.
+
+@52007.1
+{C14}, {v65} more people are needed to reach our goal.
+
+@52007.2
+{C14}, I long to bring in skilled warriors soon and ride the battlefields with them.
+
+@52008
+Add 2 officers skilled in government to your ranks to build up your land.
+
+@52009
+Lord {v0134}, a fine administrator, has joined the {v0136} clan. {v65} more needed to reach our goal.
+
+@52010
+Princess {v0134}, a fine administrator, has entered service as an officer. {v65} more needed to reach our goal.
+
+@52011
+{v0132}, a fine administrator, has joined the {v0136} clan. {v65} more needed to reach our goal.
+
+@52012
+So the deadline has passed at last... Even so, I will bring fine administrators under my banner!
+
+@52013
+{C14}, there are no fine administrators to be found anywhere. Why not give treasures to those with promise?
+
+@52013.1
+{C14}, able administrators are hard to find. Why not give Learning Books and such to develop their abilities?
+
+@52013.2
+{C14}, why not give Learning Books to those with a gift for government and develop that gift?
+
+@52014
+{C14}, rumour has it that in {v2932} there is an officer of fine political skill named {v0332}!
+
+@52014.2
+{C14}, if {v0332} of {v2932} joined the {v0136} clan, our castle towns would surely prosper.
+
+@52015
+{C14}, gather {v65} more officers of fine political skill and our goal is achieved.
+
+@52015.2
+{C14}, I long to bring in skilled administrators soon and make our castle towns flourish.
+
+@52016
+Add 2 officers of keen intellect to your ranks to widen your strategic options.
+
+@52017
+Lord {v0134}, a keen intellect, has joined the {v0136} clan. {v65} more needed to reach our goal.
+
+@52018
+Princess {v0134}, a keen intellect, has entered service as an officer. {v65} more needed to reach our goal.
+
+@52019
+{v0132}, a keen intellect, has joined the {v0136} clan. {v65} more needed to reach our goal.
+
+@52020
+So the deadline has passed at last... Even so, I will bring officers of keen intellect under my banner!
+
+@52021
+{C14}, there are no keen minds to be found anywhere. Why not give treasures to those with promise?
+
+@52021.1
+{C14}, shrewd minds are hard to find. Why not give Strategy Books and such to develop their abilities?
+
+@52021.2
+{C14}, why not give Strategy Books to those with a gift for scheming and develop that gift?
+
+@52022
+{C14}, rumour has it that in {v2932} there is an officer of keen intellect named {v0332}!
+
+@52022.2
+{C14}, if {v0332} of {v2932} joined the {v0136} clan, our strategic options would surely widen.
+
+@52023
+{C14}, gather {v65} more officers of keen intellect and our goal is achieved.
+
+@52023.2
+{C14}, I long to bring a keen mind into our ranks soon and talk of the {v0136} clan's future.
+
+@52024
+Summon 10 tea masters to the daimyo's seat and hold a tea ceremony.
+
+@52025
+So the deadline has passed at last... Even so, I will hold a tea ceremony, you will see!
+
+@52026
+{C14}, gather {v65} more people versed in the Way of Tea at this castle and our goal is achieved.
+
+@52026.1
+{C14}, once {v65} more masters of tea have gathered, we can hold the tea ceremony.
+
+@52026.2
+{C14}, I long to gather many tea masters and hold a grand tea ceremony.
+
+@52027
+Summon 5 officers of the Swordsman calling to the daimyo's seat and hold a tournament.
+
+@52028
+So the deadline has passed at last... Even so, I will hold a tournament, you will see!
+
+@52029
+{C14}, gather {v65} more swordsmen at this castle and our goal is achieved.
+
+@52029.1
+{C14}, to hold the tournament we must gather {v65} more swordsmen.
+
+@52029.2
+{C14}, I long to gather more swordsmen and hold a grand tournament.
+
+@52030
+Develop the land of {v2932} and make it a mighty producer.
+
+@52031
+So the deadline has passed at last... Even so, I will develop {v2932}, you will see!
+
+@52032
+{C14}, once {v2932} is fully developed, our supplies will be secure for some time.
+
+@52032.1
+{C14}, so that we never run short of supplies, let us develop {v2932} and make it our source.
+
+@52032.2
+{C14}, let us press on with developing {v2932} and bring joy to the people!
+
+@52033
+Secure ample rice for your forces and prepare for battle and famine.
+
+@52034
+So the deadline has passed at last... Even so, I will store up ample rice, you will see!
+
+@52035
+{C14}, with ample rice secured, our land will never suffer from hunger.
+
+@52035.1
+{C14}, let us store up ample rice so that our land never suffers from hunger.
+
+@52035.2
+{C14}, let us secure ample rice so we can send out our corps at any moment without missing a chance!
+
+@52036
+Secure ample troops for your forces and prepare for battle.
+
+@52037
+So the deadline has passed at last... Even so, I will raise ample troops, you will see!
+
+@52038
+{C14}, with ample troops secured, we can fight without missing a chance.
+
+@52038.1
+{C14}, let us raise ample troops, if only to resist invasion by other lands.
+
+@52038.2
+{C14}, let us raise ample troops so we can send out our corps at any moment without missing a chance!
+
+@52039
+Obtain officers skilled with guns and navies, and a port, then build ironclads.
+
+@52040
+So the deadline has passed at last... Even so, I will build ironclads, you will see!
+
+@52041
+{C14}, rumour has it that in {v2932} there is an officer skilled in naval warfare named {v0332}!
+
+@52041.1
+{C14}, they say {v0332} of {v2932} has a fine knowledge of navies.
+
+@52041.2
+{C14}, if {v0332} of {v2932} joined the {v0136} clan, building ironclads would surely go well.
+
+@52042
+{C14}, rumour has it that in {v2932} there is an officer versed in guns named {v0332}!
+
+@52042.1
+{C14}, they say {v0332} of {v2932} is skilled in the use of guns.
+
+@52042.2
+{C14}, if {v0332} of {v2932} joined the {v0136} clan, building ironclads would surely go well.
+
+@52043
+{C14}, with ironclads we would have nothing to fear in naval battle.
+
+@52043.1
+{C14}, let us use ironclads to show the other clans the might of the {v0136}!
+
+@52043.2
+{C14}, let us rule the seas with ironclads as a foothold to the realm!
+
+@52044
+Raise your Prestige to claim mastery of the realm.
+
+@52045
+So the deadline has passed at last... Even so, I will raise the {v0136} clan's Prestige and claim mastery of all Japan!
+
+@52046
+{C14}, let us raise the {v0136} clan's Prestige and make our clan known throughout the realm!
+
+@52046.1
+{C14}, if we raise our Prestige, some will feel threatened and submit to us.
+
+@52046.2
+{C14}, victories in field battles will surely raise our clan's name!
+
+@52046.3
+{C14}, using the Imperial Court's authority is one way to raise our Prestige.
+
+@52046.4
+{C14}, let us borrow the might of a great power. A marriage alliance would raise our Prestige easily.
+
+@52047
+Unify the province of {v2932} as a foundation for unifying the realm.
+
+@52048
+So the deadline has passed at last... Even so, I will unify {v2932} as my first step to ruling the realm!
+
+@52049
+{C14}, let us unify the province of {v2932} and secure the {v0136} clan's footing!
+
+@52049.1
+{C14}, as a first step to unifying the realm, let us unify {v2932} and show our might!
+
+@52049.2
+{C14}, if we unify the province of {v2932}, its people too will rejoice!
+
+@52050
+Destroy the {v0136}, who stand in the way of ruling the realm by force.
+
+@52051
+So the deadline has passed at last... Even so, I will destroy the hated {v0236}!
+
+@52052
+{C14}, let us drive our sworn enemy, the {v3d32}, to ruin without fail!
+
+@52052.1
+{C14}, the {v3d32} sow unrest among the people. Let us destroy them with our own might!
+
+@52052.2
+{C14}, let us teach those {v3d32} monks the strength of our arms.
+
+@52053
+Destroy the {v0133} shogunate, which fears your growing power and secretly plots a coalition against you.
+
+@52054
+In this short scenario, you cannot form an alliance with the {v0136} clan.
+
+@52055
+The shogunate has fallen, so this scenario cannot continue. Please choose another short scenario.
+
+@52056
+In this short scenario, you cannot form a marriage alliance with the {v0136} clan.
+
+@52057
+To all the daimyo of the land: destroy the traitor {v0136}!
+
+@52058
+The {v0136} clan's Fame has fallen to 0.
+
+@52059
+{v0234}! How dare you defy the shogunate! Our alliance is over!! The {v0136} clan will destroy you!
+
+@52059.1
+We cannot stay allied with those who defy the shogunate!
+
+@52059.2
+{v0234}! Our alliance with the {v0236} ends today. Prepare yourself!!
+
+@52059.3
+We of the {v0136} can no longer deal with the {v0236}, who scorn the shogunate.
+
+@52059.4
+{v0234}! We of the {v0136} will not side with the {v0236}!
+
+@52059.5
+{v0234}! From today, we are enemies!
+
+@52060
+The {v0136} clan's Prestige rose by 100.
+
+@52061
+So the deadline has passed at last... Even so, I will destroy the {v0233} shogunate!
+
+@52062
+{C14}, let us destroy the shogunate that wrongs us, without fail!
+
+@52062.1
+{C14}, let us teach every daimyo that the {v0333} shogunate is a relic of the past!
+
+@52062.2
+{C14}, let us show everyone that we do not fear the {v0333} shogunate!
+
+@52063
+Receive a court title from the Imperial Court and raise your clan's fame.
+
+@52064
+So the deadline has passed at last... Even so, I will obtain a court title of {v6f} or higher!
+
+@52065
+{C14}, let us gain a higher court title and make our name known throughout the realm!
+
+@52065.1
+{C14}, a high court title will surely raise our Prestige.
+
+@52065.2
+{C14}, to raise the {v0136} clan's Prestige, let us make sure this goal succeeds!
+
+@52066
+Join the coalition against the {v3d32} plotted by the shogunate, and destroy the {v3d32}.
+
+@52067
+In this short scenario, you cannot break the alliance with the {v0136} clan.
+
+@52068
+In this short scenario, you cannot send demands to the {v0136} clan.
+
+@52069
+An alliance has been formed with the {v0136} clan.
+
+@52070
+The {v0136} clan's Prestige rose by 30.
+
+@52071
+So the deadline has passed at last... Even so, I will obey the shogunate and destroy the {v0236}!
+
+@52072
+{C14}, the {v0336} wrong the shogunate. Let us drive them to ruin with our own hands.
+
+@52072.1
+{C14}, let us destroy the {v0336} and show the Shogun our might!
+
+@52072.2
+{C14}, let us destroy the {v0336} and make our might known throughout the realm!
+
+@52073
+March on Kyoto to command the realm, destroy the shogunate and hold {v0b32}.
+
+@52074
+So the deadline has passed at last... Even so, I will destroy the shogunate!
+
+@52075
+{C14}, let us destroy the powerless shogunate and build a new age!
+
+@52075.1
+{C14}, let us destroy the {v0333} shogunate and show all Japan our might!
+
+@52075.2
+{C14}, a shogunate that has lost its authority is of no use in this age. Let us destroy it with our might!
+
+@52076
+{C14}, let us take the capital, Kyoto, and make it our new base!
+
+@52076.1
+{C14}, let us seize Kyoto, the heart of Japan, and show the whole land our might!
+
+@52077
+What! I have been appointed {v6f}!?
+
+@52077.1
+What! I have been appointed {v6f}, you say!?
+
+@52078
+{C14}, an envoy has come from the Imperial Palace. You have been appointed {v6f}!
+
+@52079
+I see... It seems taking Kyoto has already borne fruit.
+
+@52080
+Take every castle in the Kinai not held by the {v0133} shogunate and become its strong supporter.
+
+@52081
+The {v0133} shogunate has been driven from {v0b32}, so this scenario cannot continue. Please choose another short scenario.
+
+@52082
+The {v0133} shogunate has unified the Kinai, so this scenario cannot continue. Please choose another short scenario.
+
+@52083
+So the deadline has passed at last... Even so, I will unify the Kinai to support the shogunate!
+
+@52084
+Lead your corps to {v0b32} in person and have an audience with the Shogun.
+
+@52085
+So the deadline has passed at last... I give up on marching to Kyoto!
+
+@52086
+{C14}, the Shogun is waiting eagerly. Let us march on Kyoto soon!
+
+@52086.1
+{C14}, let us complete this march on Kyoto and show all Japan the might of the {v0136}.
+
+@52086.2
+{C14}, to show the realm the {v0136} clan's fame, let us make this march on Kyoto a success!
+
+@52087
+The {v3d32} clan's Prestige rose by 10.
+
+@52088
+Take every main castle in {v6f} and unify {v6f}.
+
+@52089
+So the deadline has passed at last... I give up on unifying {v6f}!
+
+@52090
+{C14}, {v65} more castles until {v6f} is unified!
+
+@52090.1
+{C14}, take {v65} more castles and {v6f} will be unified.
+
+@52090.2
+{C14}, {v65} more castles and {v6f} belongs to the {v0136}!
+
+@52091
+The deadline for the short scenario you are playing has passed.
+
+@52092
+Destroy the {v3d32}, who threaten your clan.
+
+@52093
+The target clan has fallen, so this scenario cannot continue. Please choose another short scenario.
+
+@52094
+So the deadline has passed at last... Even so, I will destroy the {v0236}!
+
+@52095.1
+{C14}, let us destroy the {v3d32} and make our might known throughout the realm!
+
+@52095.2
+{C14}, the {v3d32} stand in the way of our strategy. Let us bring them down without fail!
+
+@52096
+Take the mighty fortress {v0b32} as a foothold to unifying the realm.
+
+@52097
+So the deadline has passed at last... I give up on {v0b32}!
+
+@52098
+{C14}, let us take {v0b32} and make it the {v0136} clan's own!
+
+@52098.1
+{C14}, let us take the mighty fortress {v0b32} and make our might known throughout the realm!
+
+@52098.2
+{C14}, if we take the mighty fortress {v0b32}, the {v0136} clan's fame will ring through the realm!
+
+@52099
+Take every main castle in Japan and unify the whole land.\n(Ends short play and switches to normal play.)
+
+@52100
+Your court title has been lowered, so this scenario cannot continue. Please choose another short scenario.
+

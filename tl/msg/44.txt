@@ -1,0 +1,417 @@
+@44000
+Sunpu Castle... Imagawa Yoshimoto, who dreams of marching on Kyoto, was kept busy running his domain.
+
+@44001
+One day... Yoshimoto summoned his heir, Ujizane, to his chambers.
+
+@44002
+Ujizane! I hear you lose yourself in kickball and cockfighting, and neglect your letters and your arms!
+
+@44003
+You are a grown man now. What good comes of nothing but play?
+
+@44004
+Never mind your training -- has it never occurred to you to help your father in his great work?
+
+@44005
+Please don't scold me so. I, Ujizane, always wish to be of use to you, Father...
+
+@44006
+...But I have not the faintest idea what to do. And so, before I know it, I am at kickball or cockfighting...
+
+@44007
+You fool!! Mend your ways, or one day our domain will be overturned and the Imagawa clan destroyed!!
+
+@44008
+Truly... lamentable...
+
+@44009
+It cannot be helped... I shall teach you the secrets of ruling a domain that I learned from Taigen Sessai.
+
+@44010
+R-really? How very kind! Please, please do!
+
+@44011
+...Will he manage, I wonder? Very well, we start with the basic steps.
+
+@44012
+When the game begins, this screen appears. It is called the Strategy Screen.
+
+@44013
+On the Strategy Screen, as you see, each clan gets a turn (a chance to give orders) once a month.
+
+@44014
+When your turn comes, carry out strategy commands to develop your domain.
+
+@44015
+This is how you give a command.
+
+@44016
+Select one of your castles with the cursor and press the Circle button.
+
+@44017
+The strategy window and the strategy commands appear.
+
+@44018
+Choose the command you wish to carry out from these strategy commands.
+
+@44019
+To end your turn (hold back and watch), press the Cross button. You will be asked to confirm: press the Circle button.
+
+@44020
+Note also that strategy commands
+
+@44021
+have two rules: (1) they are given castle by castle; (2) each officer may carry out only one per turn.
+
+@44022
+Well? Do you understand how to give strategy commands?
+
+@44023
+...Y-yes. More or less...
+
+@44024
+Good. Next I shall explain the information shown in the strategy window.
+
+@44025
+This is the daimyo's Prestige. Prestige is a clan's might and standing. Put simply, it is the pressure a clan puts on other powers.
+
+@44026
+High Prestige brings these benefits: (1) plots abroad succeed more often; (2) your officers are more loyal; (3) officers and independent powers surrender more easily.
+
+@44027
+Prestige rises when you win battles, take castles, or through diplomatic ties with other clans.
+
+@44028
+So with high Prestige, strategy becomes much easier...?
+
+@44029
+Indeed. How to raise your Prestige and bring pressure to bear on other powers -- that is the key.
+
+@44030
+Next come gold, rice, troops and officers.
+
+@44031
+These show the gold and rice stored in that castle, and the number of troops and officers in it.
+
+@44032
+Naturally, the more of these, the better.
+
+@44033
+These show ronin and merchants present, a typhoon striking, and whether the castle is delegated. With no ronin or no typhoon, nothing is shown.
+
+@44034
+I see! So when the merchant marker is not shown, I cannot buy kickballs or dogs!
+
+@44035
+I shall be careful.
+
+@44036
+You fool! You need never buy kickballs or dogs again!
+
+@44037
+I may never buy them again...?
+
+@44038
+Of course not!
+
+@44040
+Father!! I, Ujizane, have fully mastered the controls of the Strategy Screen. Only...
+
+@44041
+Only?
+
+@44042
+I do not know which commands to give, or when to give them.
+
+@44043
+Ha ha ha! I knew you would say that, knowing you!!
+
+@44044
+The very first thing to do is secure an income. For that, you develop the land.
+
+@44045
+Develop the land?
+
+@44046
+Just so. The commands for developing the land are [Develop] and [Build].
+
+@44047
+[Develop] creates development terrain such as fields and towns within a castle's domain, so that it brings in income.
+
+@44048
+[Build] puts the province in order: building branch castles, repairing castles, flood control, and so on.
+
+@44049
+Income??? Domain??? Development terrain???
+
+@44050
+???????
+
+@44051
+Ujizane!! Calm yourself. I will take you through it step by step. Look at this!
+
+@44052
+Each province has exactly one main castle. Rule the main castle and you rule that province.
+
+@44053
+Each province has 0 to 3 branch castles. If a province you rule has 2 or fewer, you may build a new one.
+
+@44054
+So a main castle is a castle like this Sunpu Castle, Father!
+
+@44055
+Exactly. Now, main castles and branch castles each have a domain.
+
+@44056
+A main castle's domain reaches 5 tiles around it; a branch castle's reaches 3 tiles.
+
+@44057
+Use [Develop] to create development terrain in this domain -- fields, towns, villages and the like -- and gold and rice flow into the castle.
+
+@44058
+That sounds fun. Father, let me try it!
+
+@44059
+Now, wait! First, watch how I develop the land, and burn it into your memory.
+
+@44060
+I shall explain the Develop command with an example: developing the land around Sunpu Castle.
+
+@44061
+To develop, choose [Deploy] from the strategy commands.
+
+@44062
+When you choose [Deploy], the subcommands appear. Choose [Develop] here.
+
+@44063
+When you choose [Develop], the Develop command window appears.
+
+@44064
+First, choose the officers who will take part.
+
+@44065
+To choose officers, select [Join].
+
+@44066
+When the officer selection window appears, select [Officer].
+
+@44067
+Once the participating officers are set, a magistrate is chosen automatically.
+
+@44068
+...Magistrate? The one who runs the development?
+
+@44069
+Just so. If the magistrate lacks ability, the development will be done by halves.
+
+@44070
+Meaning what?
+
+@44071
+You see the icons beside the officers' names?
+
+@44072
+The Farming skill is needed to make high-level rice paddies.
+
+@44073
+The Commerce skill is needed to make high-level towns.
+
+@44074
+The Building skill is needed to make high-level villages.
+
+@44075
+If the magistrate lacks these skills, development cannot reach the highest level.
+
+@44076
+If the magistrate is not up to it, you may pick a better-suited one from among the participating officers.
+
+@44077
+But the daimyo is always the magistrate, and that cannot be changed.
+
+@44078
+Once the officers and the magistrate are set, choose [Plan].
+
+@44079
+Oh!? Is this not the land around Sunpu Castle?
+
+@44080
+Yes. It shows the castle's domain... in other words, the area where [Develop] can be carried out.
+
+@44081
+First press the Triangle button. This switches to domestic planning mode.
+
+@44082
+Next decide what development terrain to make in the domain.
+
+@44083
+Move the cursor to where you want to build, and press L1 or R1.
+
+@44084
+Each press of L1 or R1 changes the development terrain. When the one you want is shown, confirm with the Circle button.
+
+@44085
+Repeat this to draw up your domestic plan.
+
+@44086
+When you have entered everything, press the Triangle button to leave planning mode, then choose [Go].
+
+@44087
+Something is coming out of the castle.
+
+@44088
+A development unit. From now on it will carry on working by itself until the plan is complete.
+
+@44089
+I see! So there is no need to give orders every month! How very easy.
+
+@44090
+Ujizane! Now go and build a town yourself, quickly!
+
+@44091
+What?! Is this not just a tutorial?
+
+@44092
+Fool! In all things, the best way to learn is by doing!
+
+@44093
+...I shall do it, then.
+
+@44094
+Some months later...
+
+@44095
+Father!! The land development is complete. Now we can expect a larger income, I believe...
+
+@44096
+Good, well done... By the way, do you know the saying "People are the stone walls, people are the castle"?
+
+@44097
+N-no.
+
+@44098
+Find good men and use them well: the art of personnel is the secret of holding a domain. Those are the wise words of Lord Takeda.
+
+@44099
+The art of personnel...?
+
+@44100
+Judge your officers' abilities, give them a chance to shine, win their hearts... Personnel matters greatly.
+
+@44101
+The personnel commands are [Dispatch], [Summon], [Castle] and [Daimyo].
+
+@44101.1
+The personnel commands are [Dispatch], [Summon], [Castle] and [Daimyo].
+
+@44102
+[Dispatch] and [Summon] send officers to other castles or call them in from other castles. They are subcommands of [Deploy].
+
+@44103
+[Castle] recruits ronin in the castle town, trades with its merchants, or delegates the castle's rule to an officer.
+
+@44104
+[Castle] has 4 subcommands: [Recruit], [Buy], [Sell] and [Delegate].
+
+@44105
+[Daimyo] strengthens your bonds with your officers: giving them treasures or court titles, making them kin, and so on.
+
+@44106
+[Daimyo] has 4 subcommands: [Retire], [Betroth], [Reward] and [Banish].
+
+@44107
+Right! To win my officers' hearts, I shall shower them with rewards!
+
+@44108
+Idiot! What good is lavishing gifts for no reason!
+
+@44109
+I may not?
+
+@44110
+Of course not!
+
+@44111
+A few days later...
+
+@44112
+Ujizane! I hear you gave my Shiro to Nobuoki!
+
+@44113
+Shiro? Oh, that white hawk... Yes, I gave it away. Is something wrong?
+
+@44114
+Do not act on your own whims! That was a hawk I treasured!
+
+@44115
+What does it matter? It is only one hawk... If it wins an officer's heart, it comes cheap.
+
+@44116
+...Hmm. P-perhaps so... B-but...
+
+@44117
+More to the point, did you want me for something?
+
+@44118
+W-well, yes. The truth is...
+
+@44119
+I mean to marry my niece to Matsudaira Motoyasu of Okazaki Castle.
+
+@44120
+...Your niece? ...Princess Sena?
+
+@44121
+Motoyasu is the former lord of our vassal land Mikawa -- able in war, a born general. Whatever it takes, we must keep his heart bound to the Imagawa.
+
+@44122
+Now, watch.
+
+@44123
+Yes.
+
+@44124
+I shall explain personnel commands with an example: betrothing Matsudaira Motoyasu and Princess Sena.
+
+@44125
+For personnel, choose one of [Deploy] - [Dispatch]/[Summon], [Castle] or [Daimyo] from the strategy commands.
+
+@44126
+Then select the officer concerned and choose where he goes, which princess, or what to give him. That is the basic procedure.
+
+@44127
+Now I shall actually carry out a betrothal.
+
+@44128
+To betroth, choose [Daimyo].
+
+@44129
+When you choose [Daimyo], the subcommands appear. Choose [Betroth] here.
+
+@44130
+When you choose [Betroth], the Betroth command window appears.
+
+@44131
+When the Betroth command window appears, choose the officer and the princess to betroth.
+
+@44132
+Here we choose Motoyasu and Princess Sena. Sena is the only princess, so we need only choose Motoyasu.
+
+@44133
+Now press [Go], and the betrothal takes place.
+
+@44134
+For your sake, I will become one of the finest generals of the Imagawa clan.
+
+@44135
+I will serve you with all my heart, so that you may fulfil the Imagawa clan's ambitions.
+
+@44136
+Motoyasu! From now on you are my nephew. Mark that well!
+
+@44137
+Yes, my lord! (...So now I am kin of the Imagawa... At this rate the Matsudaira will never stand on their own... What am I to do?)
+
+@44138
+Ha ha ha, you make a fine couple! What a happy day this is, ha ha ha!
+

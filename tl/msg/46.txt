@@ -1,0 +1,390 @@
+@46000
+Late in the 5th month of Eiroku 3 (1560)... The great Imagawa army bound for Kyoto was suddenly attacked by the Oda near Okehazama in Owari.
+
+@46001
+Ha ha ha! Nobunaga dares to sally out against us? Has he lost his mind!
+
+@46002
+Ah-ah-ah, F-Father! Surely we won't lose here at Okehazama and change the course of history... will we?
+
+@46003
+Hmph, impossible!
+
+@46004
+By the way, Ujizane, how do you feel just now?
+
+@46005
+T-terrible. My heart is pounding.
+
+@46006
+Ha ha ha, is that so! Good. Then your mind must be sharp. I shall teach you the battle screen.
+
+@46007
+N-now?
+
+@46008
+When the council of war ends and battle begins, this screen appears. It is called the Battle Screen.
+
+@46009
+This is the weather and the wind direction. Mind that some commands cannot be used in certain weather.
+
+@46010
+On the left are the attacking corps' troops, and on the right the defending corps' troops.
+
+@46011
+This shows the corps whose turn it is.
+
+@46012
+These are the units. Tell friend from foe by the colour of their flags.
+
+@46013
+This is a formation marker. It appears when the commander-in-chief or a deputy has a formation.
+
+@46014
+It appears only in medium and large field battles.
+
+@46015
+This is the command range. In a large field battle, you can give orders directly only to units inside it.
+
+@46016
+It does not appear in small or medium field battles, nor in sieges.
+
+@46017
+By the way, Father, how can I learn about enemy officers, or a corps' morale?
+
+@46018
+A good question, for once. Press the Triangle button on the Battle Screen and the function commands appear.
+
+@46019
+Look at the Unit List or Corps Info and you can learn all manner of things.
+
+@46020
+W-well... But Father, when I try to give a unit orders, no commands appear.
+
+@46021
+This is how you give a command.
+
+@46022
+Select the unit to command with the cursor and press the Circle button.
+
+@46023
+The coloured terrain is the unit's movement range. Move the cursor onto terrain within it and press the Circle button, and the unit moves.
+
+@46024
+The mark above the enemy is an attack marker.
+
+@46025
+Move the cursor onto an enemy with the marker and press the Circle button to attack it.
+
+@46026
+When there is a choice of attacks, the ways of attacking are shown.
+
+@46027
+To carry out commands other than [Move] and [Attack]...
+
+@46028
+while the movement range is shown, move the cursor onto the unit and press the Circle button.
+
+@46029
+The battle commands then appear.
+
+@46030
+Choose from these to give the unit its orders.
+
+@46031
+To end your turn (hold back and watch), press the Cross button. You will be asked to confirm: press the Circle button.
+
+@46032
+Note also that battle commands...
+
+@46033
+(1) are given unit by unit; (2) each unit may carry out only one per turn;
+
+@46034
+(3) differ with the size of the battle; (4) in a large field battle, only units inside the command range can act. Those are the 4 rules.
+
+@46035
+Well? Do you understand?
+
+@46036
+I have mastered it completely.
+
+@46037
+Liar...
+
+@46038
+A little white lie... squeak!
+
+@46039
+Okehazama, Owari, the 5th month of Eiroku 3 (1560)... 2 in the afternoon... The Imagawa army engaged the Oda army.
+
+@46040
+You are amazing, Father. Are you not afraid of war?
+
+@46041
+Heh heh heh. Do you know what the neighbouring lands call me?
+
+@46042
+"The Finest Bowman of the Tokaido", I believe...
+
+@46043
+Ha ha ha! Just so! I say it myself, but I am skilled at war... I hardly remember ever losing.
+
+@46044
+Amazing! How do you do it?
+
+@46045
+I grasp the flow of battle. Know the flow and you can stay calm and unhurried... That composure is the secret of victory.
+
+@46046
+F-Father! Please, you must teach me this flow of battle!
+
+@46047
+Let me see. I shall teach you, with a review of what you know.
+
+@46048
+To fight a battle, first form a corps unit and set its attack target: a corps unit or a castle.
+
+@46049
+When the corps unit reaches its target, the council of war screen appears and the council is held. When it ends, the Battle Screen appears.
+
+@46050
+On the Battle Screen, you first deploy your units. Once they are deployed, the battle begins.
+
+@46051
+In battle, attacker and defender take turns. When your turn comes, carry out battle commands unit by unit.
+
+@46052
+This repeats until the attacker or the defender meets a victory condition, and the battle ends.
+
+@46053
+Well? Now that you know the flow of battle, do you not feel stronger?
+
+@46054
+Indeed! Suddenly I am full of fight.
+
+@46055
+I, Ujizane, will scatter the puny Owari corps!
+
+@46056
+I shall explain how a battle goes with an example: a large field battle.
+
+@46057
+First, deploying units.
+
+@46058
+Then let us place your unit right next to the enemy commander-in-chief, Father, and settle it at a stroke!
+
+@46060
+At first you may deploy only on the places shown in red.
+
+@46061
+And units are deployed in a set order.
+
+@46062
+First the attacker, then the defender, takes a turn to deploy.
+
+@46063
+When your turn comes, deploy in this order: commander-in-chief, deputies, strategist, supply unit, then the other units.
+
+@46064
+So first I shall deploy my unit, that of the commander-in-chief.
+
+@46065
+A blue frame around your unit, Father! How very stylish!
+
+@46066
+That is the formation marker. The formation chosen at the council of war is shown here.
+
+@46067
+A unit placed inside the formation marker joins that formation. Now let us deploy the other units too.
+
+@46068
+Now the battle begins. Move the cursor onto the unit you wish to command and press the Circle button.
+
+@46069
+The blue area around the unit is its movement range.
+
+@46070
+For [Move], move the cursor onto the destination within the movement range and press the Circle button.
+
+@46071
+Oh!? How mysterious! The units inside the formation marker moved together with your commander-in-chief's unit!?
+
+@46072
+Yes. When you move the commander-in-chief's or a deputy's unit that forms a formation...
+
+@46073
+the other units in that formation move with it. Now let us move the other units too.
+
+@46074
+A sword above the enemy units!? Is it ninja magic!?
+
+@46075
+That is the attack marker. Move the cursor onto it and press the Circle button to attack.
+
+@46076
+Here you choose the way of attacking. Which ways you can choose depends on the unit's situation and type.
+
+@46077
+Oh! The units in the formation all attacked at once!
+
+@46078
+That was a [Formation] attack. Its power is immense, though it varies with the type of formation.
+
+@46079
+Also, brute force alone does not always win a battle. That is when you use schemes.
+
+@46080
+Your lord cares nothing for his soldiers' lives. Do not throw yours away for nothing!
+
+@46081
+Do not falter! Why are you wavering? Do something!
+
+@46082
+Hayashi Michikatsu's unit is confused.
+
+@46083
+You used a scheme! Just like you, Father!
+
+@46084
+Yes, yes. Confuse the commander-in-chief's or a deputy's unit that forms a formation, and the formation breaks.
+
+@46085
+Right! Crush them in one push!
+
+@46086
+Ha ha ha, we will make you the dirt of the fields! Men, follow me!
+
+@46087
+Hayashi Michikatsu was captured by Okabe Motonobu.
+
+@46088
+The commander-in-chief's unit of Hayashi Michikatsu's corps has been wiped out.
+
+@46089
+Now they too will have learned the might of the Imagawa clan...
+
+@46090
+Victory to the Imagawa army!
+
+@46091
+Fight on like this: wipe out the enemy commander-in-chief's unit, or bring the enemy corps' morale to 0, and you win the battle.
+
+@46092
+The Oda run away, the cowards! Come at me in your tens of thousands, you'll never beat the great Ujizane! Serves you right!
+
+@46093
+... (Far too weak... Is it a trick to lure us deep into their land...?)
+
+@46094
+Ah, what fun! Father! A great victory for us! Let us feast at once...
+
+@46095
+Wait, wait. When you capture enemy officers in battle, you must decide what to do with the prisoners.
+
+@46096
+Decide what to do?
+
+@46097
+Yes. Whether to put them to death, persuade them to serve you, or set them free.
+
+@46098
+Ujizane, watch closely.
+
+@46099
+F-Father... Um, I have already prepared the feast...
+
+@46100
+Fool! The feast can wait!
+
+@46101
+Oh...
+
+@46102
+I shall explain the prisoner window with an example: deciding Hayashi Michikatsu's fate.
+
+@46103
+... I have no wish to speak just now...
+
+@46104
+When you win a battle this screen may appear. It is called the prisoner window.
+
+@46105
+In the prisoner window you decide what to do with the prisoners.
+
+@46106
+I don't like this one's face. Let us cut him down.
+
+@46107
+Fool! As our provinces grow, we shall run short of officers. Never hesitate to recruit able men.
+
+@46108
+...I understand... Now it has come to this, there is no help for it...
+
+@46109
+Hayashi Michikatsu has been recruited by the Imagawa clan.
+
+@46110
+Well, well, how good that Lord Hayashi has come over to us... Now, on to a grand feast! Everything is ready.
+
+@46111
+And I have prepared your favourite, Father...
+
+@46112
+Oh? My favourite, you say? What is it? Out with it, don't keep me waiting.
+
+@46113
+Hawk! I got your hawk back from Nobuoki, Father!
+
+@46114
+Why, how wonderful! That pleases me. Well, where is it, the hawk?
+
+@46115
+Right here! This grilled fowl! Please, eat your fill.
+
+@46116
+Grilled!? Y-you... You mean you grilled my beloved Shiro!?
+
+@46117
+Yes! You love hawk so much, Father, don't you?...
+
+@46118
+Y-you fool! One keeps hawks for hawking, not for eating!
+
+@46119
+H-how dare you do that to my Shiro... I never want to see your face again. Go home and stay confined!
+
+@46120
+... (And I wanted to play kickball to my heart's content in Kyoto...)
+
+@46122
+My lord, something does not sit right with me. The Oda are far too weak. Could this not be a trick?
+
+@46123
+Surely not. Come, ride our momentum all the way to the capital, Kyoto!
+
+@46124
+At once, my lord!
+
+@46125
+My lord, my unit will head for Marune Fort.
+
+@46126
+Ah, very well. I count on you.
+
+@46127
+Yes, my lord! (...No doubt they will meet a counterattack by Nobunaga's main Oda force, and the Imagawa army will collapse... Farewell, Lord Yoshimoto!)
+
+@46128
+Time to march on, I suppose.
+
+@46129
+The 5th month of Eiroku 3 (1560)... Having beaten the Oda at Okehazama, the Imagawa army resumed its advance in high spirits.
+
+@46130
+What fate awaits the Imagawa army ahead? No one knows...
+
+@46131
+Imagawa's Ambition -- The End
+

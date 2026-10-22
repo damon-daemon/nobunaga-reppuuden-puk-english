@@ -1,0 +1,423 @@
+@1000
+Lord {v0132}, your orders?
+
+@1001
+...My life ends here... Before it runs out, {C7}, there is something I must give you...
+
+@1002
+Do not say such things. We must keep working together for the clan's sake. Be strong!
+
+@1003
+Ugh... I am finished... I leave our clan's ancestral treasure, {v6f}, to you, {C13}... Serve the clan with all your strength...
+
+@1004
+{C7}, I, {v0132}, gladly accept this {v6f}... {C7}?... {C7}!...
+
+@1005
+Along with the headship of the {v0133} clan, I leave our ancestral treasure, {v6f}, to you, {C13}. Do your utmost for the clan.
+
+@1006
+{C7}, I, {v0134}, gladly accept this {v6f}.
+
+@1007
+Things being as they are, I cannot impose on the house of {v0233}. I, {v0134}, shall shave my head and follow the Buddha.
+
+@1007.1
+With Lord {v0234} gone, there is no reason left to live in this world. I, {v0134}, shall shave my head and follow the Buddha.
+
+@1007.2
+To pray for my husband's soul, I, {v0134}, shall shave my head and become a nun.
+
+@1008
+Now that Lord {v0234} has died, I cannot impose on the {v0233} clan. I mean to return to my family this very day.
+
+@1008.1
+Things being as they are, I cannot impose on the house of {v0233}. I mean to return to my family this very day.
+
+@1009
+Please choose a successor.
+
+@1010
+Lord {v0132}, please choose a successor.
+
+@1011
+Let {v0132} succeed?
+
+@1012
+{v0132} has succeeded {v0232} and become daimyo.
+
+@1013
+An envoy has arrived from the Imperial Court.
+
+@1014
+We wish to grant you {v6f}, the title held by the late daimyo. Please accept it.
+
+@1015
+Nothing could please me more. I gratefully accept.
+
+@1016
+Choose a new commander-in-chief for {v0132}'s corps.
+
+@1017
+{v6f}, led by {v0132}, has defected.
+
+@1018
+Me, stand in the shadow of {C13}? Never! I will show {v0234} a thing or two!
+
+@1018.1
+{v0234} as head of the clan... I cannot accept that! I will bring {C13} to heel!
+
+@1018.2
+Why is that {C13} the head of the clan and not me? I refuse, I utterly refuse!
+
+@1019
+Me, stand in the shadow of that {C19}? Never! I will show {v0234} a thing or two!
+
+@1019.1
+{v0234} as head of the clan... I will never accept that! I will bring that {C19} to heel!
+
+@1019.2
+Why is that {C19} the head of the clan and not me? I refuse, I utterly refuse!
+
+@1020
+{v0132}, discontented, has rebelled at {v0b32}.
+
+@1021
+{v0132} has rebelled and become an independent power at {v0138}.
+
+@1022
+{v0132} has rebelled and become a daimyo at {v0138}.
+
+@1023
+The {v3d32} clan has been destroyed.
+
+@1024
+Up to 8 players can play.
+
+@1025
+No daimyo has been chosen. Continue anyway?
+
+@1026
+Quit the game?
+
+@1027
+There is no save data.
+
+@1028
+A branch castle cannot be delegated alone. Delegating the main castle also delegates the province's branch castles.
+
+@1029
+Castles in other provinces cannot be delegated.
+
+@1030
+The main castle of the province with the daimyo's seat cannot be delegated.
+
+@1031
+\s\n      No delegation
+
+@1032
+Delegate to take the chosen castle. Castles of unallied daimyo and of independent powers can be targeted.
+
+@1033
+Delegate to weaken the chosen castle with plots. Castles of unallied daimyo can be targeted.
+
+@1034
+Delegate to develop actively as a supply base and send goods to the chosen castle. Your own castles can be targeted.
+
+@1035
+Delegate to send reinforcements when enemy corps near the chosen castle; otherwise build up arms. Your own castles can be targeted.
+
+@1036
+No target has been chosen. Choose a target, then execute.
+
+@1037
+Without delegation, there is no need to choose a target.
+
+@1038
+The {v3d32} clan's Prestige rose by {v65}.
+
+@1039
+The {v3d32} clan's Prestige fell by {v65}.
+
+@1040
+It seems {v6f} against the {v3d32} is no longer needed. I shall return to {v0138}.
+
+@1040.1
+It seems {v6f} against the {v3d32} is no longer needed. I will return to {v0138}.
+
+@1041
+It seems {v6f} against the {v3d32} is no longer needed.
+
+@1041.1
+It seems {v6f} against the {v3d32} is no longer needed, then.
+
+@1042
+Things seem to have changed. I shall call off the {v6f} at {v0b32}.
+
+@1042.1
+Things seem to have changed. I will call off the {v6f} at {v0b32}.
+
+@1043
+Things seem to have changed. I'll stop hindering the castle works of {v0232} of the {v0236}.
+
+@1043.1
+Things seem to have changed. I will stop hindering the castle works of {v0232} of the {v0236}.
+
+@1044
+Things seem to have changed. The {v6f} with {v0232}'s corps is called off.
+
+@1044.1
+Things seem to have changed. I will call off the {v6f} with {v0232}'s corps.
+
+@1045
+Things seem to have changed. I shall call off the {v6f}.
+
+@1045.1
+Things seem to have changed. I will call off the {v6f}.
+
+@1046
+It seems {v6f} against {v0232}'s corps is no longer needed.
+
+@1046.1
+It seems {v6f} against {v0232}'s corps is no longer needed, then.
+
+@1047
+{v6f} is no longer needed. I shall return to {v0138}.
+
+@1047.1
+{v6f} is no longer needed. I will return to {v0138}.
+
+@1048
+{v6f} for {v0232} is no longer needed. I shall return to {v0138}.
+
+@1048.1
+{v6f} for {v0232} is no longer needed. I will return to {v0138}.
+
+@1049
+Things seem to have changed. I'll call off the {v6f} at {v0b32} and return to {v0138}.
+
+@1049.1
+Things seem to have changed. I will call off the {v6f} at {v0b32} and return to {v0138}.
+
+@1050
+Things seem to have changed. I'll stop the move to {v0b32} and head for {v0b32}.
+
+@1050.1
+Things seem to have changed. I will stop the move to {v0b32} and head for {v0b32}.
+
+@1051
+{v0132} has died, so the planned {v6f} has been called off.
+
+@1052
+{v0134}, the wife, has taken holy vows.
+
+@1053
+Princess {v0134} has returned to her family.
+
+@1054
+I, {v0134}, am Lord {v0234}'s wife above all. Wherever Lord {v0234} goes, I will follow.
+
+@1054.1
+I, {v0134}, live for Lord {v0234}. I would gladly forsake my family. I will go with Lord {v0234}.
+
+@1055
+Princess {v0134} has cut ties with her family.
+
+@1056
+{v0132} has newly become {v6f}.
+
+@1057
+{v0132}'s {v6f} has been disbanded.
+
+@1058
+{v0b32} now belongs to the {v0133} clan.
+
+@1059
+{v0b32} has become independent.
+
+@1060
+{v0132} has become daimyo, so {v0132} is now commander-in-chief of {v0232}'s {v6f}.
+
+@1061
+There seems to be no point in attacking {v0b32} now. Let us send everyone back to their villages.
+
+@1062
+The Ikko targeting {v0b32} have disbanded.
+
+@1063
+Lord {v0134}... {v6f}... There is no point in continuing the uprising. Let us send everyone back to their villages.
+
+@1064
+With the head temple fallen... there is no point in continuing the uprising. Let us send everyone back to their villages.
+
+@1065
+The {v0136} clan has demolished {v0b32}.
+
+@1066
+So our target, {v0b32}, has fallen to the {v0236}... The {v6f} is called off.
+
+@1066.1
+Our target, {v0b32}, has fallen to the {v0236}, so I will call off the {v6f}.
+
+@1067
+So our target, {v0b32}, has fallen to {v0232}... The {v6f} is called off.
+
+@1067.1
+Our target, {v0b32}, has fallen to {v0232}, so I will call off the {v6f}.
+
+@1068
+So our target, {v0b32}, is now ungoverned... The {v6f} is called off.
+
+@1068.1
+Our target, {v0b32}, is now ungoverned, so I will call off the {v6f}.
+
+@1069
+So our target, {v0b32}, has been demolished... The {v6f} is called off.
+
+@1069.1
+Our target, {v0b32}, has been demolished, so I will call off the {v6f}.
+
+@1070
+Choose treasures to buy. Items %-3d Gold %5d
+
+@1071
+Choose treasures to sell. Items %-3d Gold %5d
+
+@1072
+The {v3d32} clan's Prestige rose by {v65}.
+
+@1073
+{C14}, rejoice! Our lands have had a good harvest this year!
+
+@1073.1
+{C14}, good news! Thanks to kind weather, some areas have reaped more than in a usual year.
+
+@1073.2
+{C14}, listen! Happily, some areas have had a good harvest, and the people have begun festivals to thank the land.
+
+@1074
+Oh, is that so! Then we can expect more rice. Splendid news.
+
+@1074.1
+{C192}, {C13}, that is cause for celebration. Heaven has blessed our {v0133} clan.
+
+@1074.2
+Good. The troops will eat their fill and be full of vigour.
+
+@1075
+Our lands have had a good harvest this year. We can expect more rice. Splendid.
+
+@1075.1
+The weather was kind and, happily, the crops were plentiful. What a joy...
+
+@1075.2
+Parts of our lands have had a good harvest, it seems. Wonderful! A rich harvest, truly a gift from Heaven.
+
+@1076
+{C14}, terrible news! Our lands seem to have suffered a poor harvest this year.
+
+@1076.1
+{C14}, foul weather has left the crops poor in some areas of our lands.
+
+@1076.2
+{C14}, {C14}! The people are suffering from the poor harvest!
+
+@1077
+{C192}, how dreadful! We can expect little in taxes. The {v0133} clan's very survival is at stake. Something must be done...
+
+@1077.1
+A poor harvest in our lands... When there is nothing to eat, nothing else can be done. We must take measures...
+
+@1077.2
+What! This is serious. Food is the foundation of people and of states. To keep the {v0133} clan standing, we must act.
+
+@1078
+Our lands seem to have had a poor harvest. We can expect little in taxes. The {v0133} clan's survival is at stake. Something must be done...
+
+@1078.1
+Some of our lands seem to have had a poor harvest. An army marches on its stomach. For our troops' sake, I must find a way...
+
+@1078.2
+In weather like this the crops grow poorly. Still, on the {v0133} name, I cannot let the troops starve...
+
+@1079
+{C14}, terrible news! Heavy snow has struck our lands!
+
+@1079.1
+{C14}, {C14}! A cold snap has hit our lands; some roads are almost impassable!
+
+@1079.2
+{C14}! Snow across our lands is causing serious damage, I hear.
+
+@1080
+{C192}, snow, snow! Come along, {C13}! Let us get ready for a snowball fight!
+
+@1081
+{C192}, how dreadful! We cannot move this winter. Then I shall wait calmly for spring.
+
+@1081.1
+{C13}, do not panic so. Resting and waiting is needed now and then.
+
+@1081.2
+Grr, the snow blocks my path... Perhaps Heaven is telling me to keep quiet this winter.
+
+@1082
+{C192}, snow, snow! Build snow huts, everyone! Build snowmen!
+
+@1083
+Heavy snow in our lands, is it? We cannot move this winter. Then I shall wait calmly for spring.
+
+@1083.1
+Our lands are buried in snow, are they? A good chance. I shall rest the troops until spring.
+
+@1083.2
+A cold snap has hit our lands, it seems. Sending troops out under these skies would be hard.
+
+@1084
+Leave strategy to the computer?
+
+@1085
+Leave the strategy of every daimyo to the computer?
+
+@1086
+Return to the starting settings?
+
+@1087
+Ending "%s".
+
+@1088
+Why must we break with {C24}?... Has {C14} no shred of honour?... I cannot serve such a lord!
+
+@1088.1
+{C14} seems to think anything is allowed for one's own gain... I cannot serve such a lord!
+
+@1088.2
+Break with {v0333}!? What did {C24} ever do? Such selfishness... I cannot serve such a lord!
+
+@1089
+I never thought
+
+@1089.1
+I never would have thought
+
+@1090
+{C1089} {C14} could be so selfish. Such a wretch must not be left to run free. I, {v0134}, will destroy this lord!
+
+@1090.1
+{v0333} has done no wrong. The wrong lies with our lord. Such a wretch must not run free. I, {v0134}, will send that lord to hell.
+
+@1090.2
+Betrayal is common in times of war, but this is beyond all feeling. Such a wretch must not run free. I, {v0134}, will bury that lord.
+
+@1091
+Choose a new magistrate to replace {v0132}.
+
+@1092
+There are no commands to carry out here, so it cannot be a target.
+
+@1093
+[Victory Conditions]\nControl every main castle\n\nOr meet all of the following:\n  Control 15 or more main castles\n  Become Shogun\n  Ally with every clan
+
+@1094
+[Victory Conditions]\nControl every main castle\n\nOr meet all of the following:\n  Control 20 or more main castles\n  Become Shogun\n  Ally with every clan
+

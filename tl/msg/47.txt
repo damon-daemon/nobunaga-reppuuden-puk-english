@@ -1,0 +1,246 @@
+@47000
+Victory and Defeat 1
+
+@47001
+You win when you meet one of these conditions.\n\n[Unification by Force]\nRule all 40 main castles in Japan.\n\n[Unification by Alliance]\nBecome Shogun, hold at least the set number of main castles (Beginner 15, Advanced 20), and be allied with every other clan.
+
+@47002
+Victory and Defeat 2
+
+@47003
+You lose when one of these happens.\n\n[Destruction]\nYour daimyo dies with no heir, or you lose every main castle.\n[Another Clan Unifies]\nAnother clan achieves unification by alliance.\n[Time Up]\nYou have not won by 1700.
+
+@47004
+Prestige 1
+
+@47005
+A daimyo's might and standing. It affects diplomacy and officers' loyalty. High Prestige brings these benefits:\n\n[Benefits of Prestige]\n- [Intrigue] and [Diplomacy] succeed more easily.\n- Officers are more loyal.\n- Other clans' officers and independent powers surrender more easily.
+
+@47006
+Prestige 2
+
+@47007
+Prestige is the sum of castles ruled, fame, posts, court titles, marriages, rule of Kyoto, and court relations.\n\n[Raising Prestige]\n- Take castles.\n- Win battles.\n- Receive high posts or court titles.\n- Marry into other clans.\n- Rule Nijo Castle or the Muromachi Palace.
+
+@47008
+Ranks and Troops 1
+
+@47009
+Every officer has a rank. There are 6 ranks. An officer rises in rank as he gains merit; merit is gained by carrying out commands. The higher the rank, the more troops he can lead in battle.
+
+@47010
+Ranks and Troops 2
+
+@47011
+Each rank's troop limit and the merit needed to reach it:\n\nRank: troops / merit\nCaptain: 500 / -\nGeneral: 600 / 100\nCommander: 700 / 300\nElder: 800 / 600\nSenior Elder: 900 / 999\nDaimyo: 1000 / -
+
+@47012
+Officer Traits 1
+
+@47013
+Officers have a personality, skills and a calling.\n\n[Personality]\nAffects loyalty and how well officers get on. By how much they value Prestige, they are "Ignores", "Low", "High" or "Absolute".
+
+@47014
+Officer Traits 2
+
+@47015
+[Skills]\nAffect related commands and ways of attacking. There are domestic skills and battle skills.\n\n- Domestic: Farming, Commerce,\n  Building, Diplomacy,\n  Recruit\n- Battle: Volley, Fire Pots,\n  Cav. Charge, Mtd. Gunners
+
+@47016
+Officer Traits 3
+
+@47017
+[Calling]\nAffects related commands. The callings are ninja, swordsman, tea master and monk.
+
+@47018
+Castles and Domains
+
+@47019
+There are main castles and branch castles. Each has a domain, and its development terrain brings in gold and rice regularly. Domain sizes:\n\n[Main castle] 5 tiles around it\n[Branch castle] 3 tiles around it
+
+@47020
+Development Terrain 1
+
+@47021
+Built in a domain, it brings in gold, rice and so on. Paddies, towns and villages have levels 1 to 3: the higher the level, the larger the income.
+
+@47022
+Development Terrain 2
+
+@47023
+Terrain types and their income:\n\nPaddy (LV1-3): rice (9th month)\nField: rice (9th month)\nTown (LV1-3): gold (monthly)\nSpeciality: rice or gold\nVillage (LV1-3): troops (monthly)\nFree Market: troops (monthly)\nGunsmith Village: guns (monthly)
+
+@47024
+Domestic Plan
+
+@47025
+When you carry out [Develop], the plan says which tiles of the domain get which development terrain, and in what order. One development unit can be given several jobs at once, and then develops the land by itself, following the plan.
+
+@47026
+Unit Types 1
+
+@47027
+The kind of troops in a unit. In battle, one officer plus his troops make one unit. The unit type decides attack, defence, movement and ways of attacking.
+
+@47028
+Unit Types 2
+
+@47029
+Mounted Gunners need an officer with the Mtd. Gunners skill or a Pistol treasure.\n\nType: Atk/Def/Move, attacks\nInfantry: 6/6/12, Joint, Cannon\nPikes: 3/8/10, Joint, Cannon\nBows: 3/4/12, Bows, Cannon\nCavalry: 10/5/20, Joint, Charge\nMtd. Gunners: 10/5/18, MF, Charge, Guns\nGunners: 2/3/8, Guns, Cannon
+
+@47030
+Unit Types 3
+
+@47031
+At sea, the type depends on rank and ironclads: General and below get Sekibune, Commander and above Atakebune; Ironclads only for officers who own one.\n\nType: Atk/Def/Move, attacks\nSekibune: 4/4/16, Bows, Joint\nAtakebune: 6/6/12, Bows, Joint\nIronclad: 8/10/8, Guns, MF, Cannon
+
+@47032
+Corps Size
+
+@47033
+Set by the number of units in a corps unit. The corps size decides the size of the battle.\n\n[Small] 5 units or fewer\n[Medium] 6 to 10 units\n[Large] 11 units or more
+
+@47034
+Small Field Battle 1
+
+@47035
+A skirmish between small forces. With no schemes or formations, strong units have the edge. Attacking or protecting the commander-in-chief decides the battle.\n\n[Occurs when]\nA small corps unit attacks a corps unit.
+
+@47036
+Small Field Battle 2
+
+@47037
+Battle commands in a small field battle (* = C-in-C only):\n\nMove\nAttack: Normal, Charge, Bows, Guns, Joint\nRider: Sortie*\nArms: Foot, Pikes, Bows\nRetire
+
+@47038
+Medium Field Battle 1
+
+@47039
+A typical field battle between daimyo, like Okehazama or Kawanakajima. The C-in-C has a formation; a strategist appears, and both can use [Ruse]. [Formation] attacks by the units in a formation are the key.\n\n[Occurs when]\nA medium corps unit attacks a corps unit.
+
+@47040
+Medium Field Battle 2
+
+@47041
+Battle commands in a medium field battle (* = C-in-C only, + = strategist only):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Formation*\nRuse: Rattle, Taunt, Arson, Morale+\n(continued)
+
+@47042
+Medium Field Battle 3
+
+@47043
+Rider: Form*, Rally*, Inspire*,\n  Sortie*, Incite*\nPloy: Palisade, Mound, Wreck\nArms: Foot, Pikes, Bows\nRetire\n* = C-in-C only, + = strategist only
+
+@47044
+Large Field Battle 1
+
+@47045
+A great pitched battle like Nagashino. Only units inside the C-in-C's command range can act. A supply unit and deputies appear; deputies have formations and can act outside the range. Chains of [Formation] attacks decide the battle.\n[Occurs when]\nA large corps unit attacks a corps unit.
+
+@47046
+Large Field Battle 2
+
+@47047
+Battle commands in a large field battle (only: * = C-in-C, + = strategist, # = deputy, ^ = all but the C-in-C):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Formation*#\n(continued)
+
+@47048
+Large Field Battle 3
+
+@47049
+Ruse: Rattle, Taunt, Arson, Morale+,\n  Feud+, Hinder+\nRider: Form*#, Rally*#,\n  Inspire*, Sortie*, Incite*\nPloy: Palisade, Mound, Wreck\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Join^, Retire^\nRetire\nOnly: * = C-in-C, + = strategist,\n  # = deputy, ^ = all but the C-in-C
+
+@47050
+Medium Siege 1
+
+@47051
+Like the siege of Tottori. The goal is to take or hold the inner keep. The gate must be broken to get in, so the fight at the gate decides it. Attackers do well to break it with strong, large units; defenders, to mass bows and guns.\n[Occurs when]\nThe castle has 5 towers at most, and both corps are medium or smaller.
+
+@47052
+Medium Siege 2
+
+@47053
+Battle commands in a medium siege (only: * = C-in-C, + = strategist, ^ = all but the C-in-C):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Cannon\nRuse: Rattle, Taunt, Arson, Morale+\n(continued)
+
+@47054
+Medium Siege 3
+
+@47055
+Rider: Rally*, Parley*, Inspire*,\n  Sortie*, Incite*\nPloy: Palisade, Mound, Wreck,\n  Climb\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Retire^\nRetire\n* C-in-C, + strategist, ^ not C-in-C only
+
+@47056
+Large Siege 1
+
+@47057
+A great siege, like that of Odawara. Same rules as a medium siege, but the wide castle and many units make taking or holding the keep costly. To win cheaply, bring the enemy corps' morale to 0: it falls when officers are beaten or towers taken.\n[Occurs when]\nThe castle has 6 towers or more, or either corps is large.
+
+@47058
+Large Siege 2
+
+@47059
+Battle commands in a large siege (only: * = C-in-C, + = strategist, ^ = all but the C-in-C):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Cannon\nRuse: Rattle, Taunt, Arson, Morale+\n(continued)
+
+@47060
+Large Siege 3
+
+@47061
+Rider: Rally*, Parley*, Inspire*,\n  Sortie*, Incite*\nPloy: Palisade, Mound, Wreck,\n  Climb\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Retire^\nRetire\n* C-in-C, + strategist, ^ not C-in-C only
+
+@47062
+Naval Battle
+
+@47063
+Like the battle of Kizugawaguchi. Comes in large, medium and small. Unit types depend on rank and ironclads. Same rules as a field battle, except no [Ploy], and ironclad units can use [Attack]-[Cannon]. Ironclads, strong in attack and defence, decide the battle.\n[Occurs when]\nA corps unit attacks one at sea, on a lake or in port.
+
+@47064
+Ending a Battle
+
+@47065
+You win the battle when you meet one of these conditions. If 30 turns pass with no result, it is a draw.\n- Kill the enemy C-in-C.\n- Capture the enemy C-in-C.\n- Make the enemy C-in-C retreat.\n- Bring the enemy corps' morale to 0.\n- Take the inner keep (siege).\n- Make them accept a demand (siege).
+
+@47066
+Officer Rankings 1
+
+@47067
+[Finest in Politics]\n1. Oda Nobunaga 98 (Oda, Commander)\n2. Hojo Ujiyasu 97 (Hojo, Daimyo)\n3. Mori Motonari 96 (Mori, Daimyo)\n4. Takeda Harunobu 95 (Takeda, Daimyo)\n5. Akechi Mitsuhide 90 (Saito, Ash. Capt.)\n5. Miyoshi Chokei 90 (Hosokawa, Ash. Capt.)\n* Data from scenario 0.
+
+@47068
+Officer Rankings 2
+
+@47069
+[Finest in War]\n1. Nagao Kagetora 101 (Nagao, Commander)\n2. Tachibana Dosetsu 96 (Otomo, Sam. Gen.)\n2. Kamiizumi Nobutsuna 96 (Yamanouchi Uesugi, Cmdr.)\n4. Takeda Harunobu 95 (Takeda, Daimyo)\n5. Kakizaki Kageie 93 (Nagao, Sam. Gen.)\n* Data from scenario 0.
+
+@47070
+Officer Rankings 3
+
+@47071
+[Finest in Command]\n1. Nagao Kagetora 105 (Nagao, Commander)\n2. Takeda Harunobu 99 (Takeda, Daimyo)\n3. Hojo Ujiyasu 95 (Hojo, Daimyo)\n4. Oda Nobunaga 94 (Oda, Commander)\n5. Mori Motonari 93 (Mori, Daimyo)\n5. Oda Nobuhide 93 (Oda, Daimyo)\n* Data from scenario 0.
+
+@47072
+Officer Rankings 4
+
+@47073
+[Finest in Intellect]\n1. Takeda Harunobu 104 (Takeda, Daimyo)\n2. Mori Motonari 102 (Mori, Daimyo)\n3. Matsunaga Hisahide 99 (Hosokawa, Ash. Capt.)\n4. Saito Dosan 98 (Saito, Daimyo)\n5. Ukita Naoie 97 (Uragami, Ash. Capt.)\n* Data from scenario 0.
+
+@47074
+Officer Rankings 5
+
+@47075
+[All Formations 1]\nTakeda Harunobu (Takeda, Daimyo)\nHonganji Shonyo (Honganji, Daimyo)\nHonganji Shokei (Honganji, Senior Elder)\nShimozuma Rairyu (Honganji, Sam. Gen.)\nSuzuki Sadayu (Honganji, Sam. Gen.)\n* Data from scenario 0.
+
+@47076
+Officer Rankings 6
+
+@47077
+[All Formations 2]\nShimozuma Raisho (Honganji, Ash. Capt.)\nShichiri Yoshichika (Honganji, Ash. Capt.)\nHattori Tomosada (Honganji, Ash. Capt.)\n* Data from scenario 0.
+
+@47078
+Officer Rankings 7
+
+@47079
+[All Domestic Skills]\nHojo Ujiyasu (Hojo, Daimyo)\nMori Motonari (Mori, Daimyo)\nOda Nobunaga (Oda, Commander)\nSaito Dosan (Saito, Daimyo)\n* Data from scenario 0.
+
+@47080
+Officer Rankings 8
+
+@47081
+[3 Battle Skills]\nOda Nobunaga (Oda, Commander)\nInatomi Sukehide (independent)\n* Data from scenario 0.
+

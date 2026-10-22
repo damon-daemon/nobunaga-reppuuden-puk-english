@@ -1,0 +1,444 @@
+@50000
+Month {v66}, {v65}. {v0132}, head of the {v0136} clan, gathered the vassals at {v0138}.
+
+@50001
+To end this long age of war, I mean to unify {v6f} within {v65} years. Will you all follow me?
+
+@50001.1
+Within {v65} years I shall unify {v6f}. Follow me, {C183}!
+
+@50001.2
+To claim mastery over {v6f}, I intend to unify it within {v65} years. Rise up, {C183}!
+
+@50002
+As you command!
+
+@50003
+And so the {v0136} clan set itself the goal of unifying {v6f} by month {v66} of {v65}.
+
+@50004
+My goal is to rule the realm. To that end, I shall unify {v6f} in {v65} years at the least.
+
+@50007
+What must the {v0136} clan do first to win mastery of the realm?
+
+@50008
+If I may humbly say so, the key is first to unify {v6f} and secure our footing.
+
+@50009
+Unify {v6f}... Yes, that is surely where we must begin.
+
+@50010
+Indeed. The people too must long to see this land united and the strife ended as soon as possible.
+
+@50011
+What you say is quite right.
+
+@50012
+I shall unify {v6f} within these {v65} years. I am counting on you all.
+
+@50012.1
+I shall unify {v6f} within these {v65} years. I count on you all.
+
+@50018
+Everyone, please listen well. As a first step towards ruling the realm, I wish to unify {v6f}.
+
+@50018.1
+Listen well, all of you. As a first step towards ruling the realm, I shall unify {v6f}.
+
+@50019
+If I may humbly say so, ours is a small domain. Perhaps we should avoid war and watch the other clans for now.
+
+@50020
+...True, the {v0136} clan has long been content to be a small domain.
+
+@50021
+But that ends today. I will make this clan a power renowned throughout the realm.
+
+@50021.1
+But that ends today. I shall make this clan a power renowned throughout the realm!
+
+@50022
+If {C14} shows such spirit, we cannot afford to lag behind.
+
+@50023
+We, your vassals, swear to spare no effort in aiding {C14} on the road to mastery.
+
+@50024
+Good. Everyone, I am counting on you.
+
+@50024.1
+Good. Men, I am counting on you.
+
+@50029
+To win mastery of the realm, we must take many castles and expand our lands.
+
+@50030
+Above all, I have long yearned to take {v0b32}.
+
+@50031
+{v0b32}, my lord!?
+
+@50032
+{v0b32} is famed throughout the realm. I want it for my own seat, whatever it takes.
+
+@50033
+If I may humbly say so, {v0b32} is among the strongest fortresses. Taking it will be extremely difficult.
+
+@50034
+True... and yet, by taking an impregnable castle, our clan's martial fame will ring throughout the realm.
+
+@50035
+I see. Yet as I said, {v0b32} is exceedingly strong.
+
+@50036
+A direct assault would cost us dearly.
+
+@50037
+Then a siege demands careful preparation. Do not neglect it.
+
+@50038
+Yes, my lord. We shall neglect nothing.
+
+@50039
+And so the {v0136} clan set itself the goal of taking {v0b32} by month {v66} of {v65}.
+
+@50040
+To win mastery of the realm, we must take many castles and expand our lands. We begin with {v0b32}.
+
+@50043
+Everyone, it goes without saying that my dearest wish is to unify the realm.
+
+@50043.1
+Men, it goes without saying that my dearest wish is to unify the realm.
+
+@50044
+But before that, there is something we must achieve at all costs. Do you know what it is?
+
+@50044.1
+But before that, there is something we must achieve at all costs. Do you know what it is?
+
+@50045
+To defeat our sworn enemy, the {v0336} clan?
+
+@50046
+Exactly. The {v0336} are a thorn in our side.
+
+@50047
+Indeed, our relations with the {v0336} could not be worse. Best to destroy them quickly.
+
+@50048
+I am resolved to settle our feud with the {v0336} once and for all. Please lend me your strength.
+
+@50048.1
+Yes, I mean to settle our feud with the {v0336} once and for all. Lend me your strength!
+
+@50050
+And so the {v0136} clan set itself the goal of destroying the {v0236} clan by month {v66} of {v65}.
+
+@50051
+My dearest wish is to unify the realm. To that end, I must first destroy my sworn enemy, {v0232}.
+
+@50053
+Month {v66}, {v65}. An envoy from the shogunate visited {v0132}, head of the {v0136} clan.
+
+@50054
+{C14}, I hear an envoy has come from the shogunate. What did he say?
+
+@50055
+It seems the Shogun wishes us to march on Kyoto.
+
+@50056
+What!? March on Kyoto? And what will you do?
+
+@50057
+It is an order from the shogunate. Naturally, I shall send our army up to Kyoto.
+
+@50058
+On the road to Kyoto, we may face all manner of hardships.
+
+@50059
+But if our army reaches Kyoto, our clan's fame will resound throughout the realm. It is worth any hardship.
+
+@50059.1
+But if our army reaches Kyoto, our clan's fame will resound throughout the realm. It is worth any hardship!
+
+@50060
+Quite so. Then let us do all in our power to see the march on Kyoto through.
+
+@50062
+And so the {v0136} clan set itself the goal of marching on Kyoto by month {v66} of {v65}.
+
+@50064
+You are Lord {v0232}, I take it. I have come from Kyoto as an envoy of the shogunate.
+
+@50065
+Ah, I am honoured that you have come so far. And what is your errand?
+
+@50066
+Well... The Shogun, Lord {v0332}, thinks highly of your loyalty to the shogunate.
+
+@50067
+And with that in mind, he has an order for you... He wishes you to march on Kyoto.
+
+@50068
+What...!? March on Kyoto?
+
+@50069
+Indeed. Advance your army to {v0b32} and lend your strength to Lord {v0334}.
+
+@50070
+That is a weighty charge.
+
+@50071
+Yet for a vassal of the shogunate, there could be no greater honour. You will do it, will you not?
+
+@50072
+Yes, sir! Unworthy as I, {v0132}, may be, I humbly accept the charge to march on Kyoto.
+
+@50073
+Good. The shogunate means to reward your loyalty richly. We count on you.
+
+@50074
+At your service!
+
+@50077
+{C14}, an envoy from the shogunate has arrived.
+
+@50078
+So I have heard. Show him in.
+
+@50079
+You are Lord {v0132}, I take it. I have come from Kyoto as an envoy of the shogunate.
+
+@50082
+And with that in mind, he has an order for you... He wishes you to march on Kyoto.
+
+@50084
+Indeed. Go up to Kyoto and wipe out the bandits who infest the Kinai.
+
+@50087
+Yes, sir. Unworthy as I, {v0132}, may be, I humbly accept the charge to march on Kyoto.
+
+@50090
+And so the {v0136} clan set itself the goal of marching on Kyoto by month {v66} of {v65}, defeating the daimyo of the Kinai and aiding the shogunate.
+
+@50105
+For our clan to win mastery of the realm, the devotion of you, my vassals, is absolutely essential.
+
+@50106
+If {C14} commands it, we vassals will obey in all things.
+
+@50107
+Then hear my command. At last I intend to advance on Kyoto. You must all prepare for it.
+
+@50107.1
+Good, then I command it. At last I mean to advance on Kyoto. Make ready, all of you.
+
+@50108
+Oh! At last you will march on Kyoto!
+
+@50109
+Without going up to Kyoto, one cannot win the realm. Before long our army will sweep through the capital.
+
+@50109.1
+Without taking Kyoto, one cannot win the realm. Before long our army will sweep through the capital!
+
+@50110
+And what of the shogunate?
+
+@50111
+The shogunate is now a mere name. We need only make it submit to our clan.
+
+@50112
+Then, once the Imperial Court grants me high rank, the whole realm will be mine.
+
+@50113
+To take part in so great an enterprise would be the greatest joy for us, your vassals.
+
+@50114
+This march on Kyoto must succeed at all costs. Everyone, I am counting on you.
+
+@50114.1
+Yes, this march on Kyoto must succeed at all costs. Men, I am counting on you.
+
+@50116
+And so the {v0136} clan set itself the goal of marching on Kyoto and destroying the shogunate by month {v66} of {v65}.
+
+@50117
+Without going up to Kyoto, one cannot win the realm. Before long our army will sweep through the capital, you will see.
+
+@50117.1
+Without taking Kyoto, one cannot win the realm. Before long my army will sweep through the capital, mark my words!
+
+@50122
+Everyone, please listen well. I have resolved to go up to Kyoto.
+
+@50122.1
+Listen well, all of you. I have resolved to go up to Kyoto.
+
+@50123
+Hmm? I have not heard of any summons from Kyoto.
+
+@50124
+Of course not. I have decided of my own will to advance on Kyoto.
+
+@50125
+What! You would send the army to Kyoto without an imperial decree?
+
+@50126
+Yes. I will go up to Kyoto and give orders to the whole realm.
+
+@50126.1
+That I will. I will go up to Kyoto and lay down the law for the whole realm!
+
+@50127
+{C14}! Please reconsider. That is far too reckless.
+
+@50128
+Be silent. I have decided. I will go up to Kyoto, overthrow the shogunate and receive rank from the Imperial Court.
+
+@50128.1
+Silence! I have decided. I will go up to Kyoto, overthrow the shogunate and receive rank from the Imperial Court.
+
+@50129
+And I will show those who scorned us as a petty daimyo! {C184}
+
+@50130
+Alas, this will be the end of the {v0236}.
+
+@50133
+Lord {v0132}, an envoy from the shogunate has arrived.
+
+@50136
+Ah, I am honoured that you have come so far. And what is your errand?
+
+@50137
+Hmm. What I am about to tell you must stay strictly secret. The truth is...
+
+@50138
+You must know that the {v0336} clan has grown mighty of late.
+
+@50139
+Yes, indeed.
+
+@50140
+Their head, {v0332}, has grown utterly arrogant. His contempt for the shogunate is beyond bearing...
+
+@50141
+What is more, he seems to be plotting to take the shogunate's place himself.
+
+@50142
+What...
+
+@50143
+The Shogun, Lord {v0132}, is deeply troubled by this.
+
+@50144
+I see... So you wish me, {v0132}, to raise troops to overthrow the {v0336} clan... Is that it?
+
+@50145
+You are quick. Exactly so. And we want you to set His Highness's mind at rest as soon as possible.
+
+@50146
+Understood. Give me {v65} years and I will destroy {v0332}.
+
+@50147
+Oh! How very reassuring.
+
+@50158
+The Shogun, Lord {v0132}, is deeply troubled by this.
+
+@50164
+Month {v66}, {v65}. Fearing the rise of the {v0236}, the Shogun {v0132} sent secret letters to the daimyo.
+
+@50165
+They called for a campaign against the {v0136} clan.
+
+@50166
+The daimyo around the {v0136} answered the call, and so a coalition against the {v0136} was formed.
+
+@50167
+{C13}, what news from our spies?
+
+@50168
+My lord, through the shogunate's schemes, all the neighbouring daimyo seem to have turned against us.
+
+@50169
+{C191}... To think the shogunate hates us so.
+
+@50170
+{C14}, we are surrounded by enemies. What will you do?
+
+@50171
+It has come to this, and it cannot be helped. We will drive off our neighbours and destroy the shogunate.
+
+@50171.1
+It has come to this, so be it. We will drive off our neighbours and destroy the shogunate.
+
+@50172
+Destroy the shogunate, my lord?
+
+@50173
+In an age of war, it is eat or be eaten... Better to strike out than sit and wait for death.
+
+@50174
+Yes, my lord! Then we vassals will face this ordeal as one.
+
+@50176
+And so the {v0136} clan set itself the goal of destroying the shogunate by month {v66} of {v65}.
+
+@50177
+Month {v66}, {v65}. Fearing the rise of the {v0236}, the Shogun {v0132} sent secret letters to the daimyo.
+
+@50178
+They called for a campaign against the {v0136} clan.
+
+@50179
+The daimyo around the {v0136} answered the call, and so a coalition against the {v0136} was formed.
+
+@50184
+In this age of war, we too would like to seize the initiative and attack other powers, but...
+
+@50185
+Strike first and win, as the art of war has it. {C14}, let us prepare for battle at once.
+
+@50186
+But... our clan lacks skilled warriors... I feel rather uneasy.
+
+@50186.1
+Yes, but... our clan lacks skilled warriors... It makes me uneasy.
+
+@50187
+I humbly beg your pardon.
+
+@50188
+We still lack brave generals in our ranks.
+
+@50188.1
+We still lack brave generals in our ranks!
+
+@50189
+Then let us first bring skilled warriors into our clan and prepare for the battles to come.
+
+@50190
+Yes. Our clan's prosperity rests on able vassals. I am counting on you.
+
+@50190.1
+Good. Our clan's prosperity rests on able vassals. I count on you.
+
+@50192
+And so the {v0136} clan set itself the goal of recruiting officers of fine War and Command by month {v66} of {v65}.
+
+@50193
+In this age of war, I too would like to seize the initiative and attack other powers, but...
+
+@50194
+But... our clan lacks skilled warriors... I feel uneasy...
+
+@50194.1
+But... our clan lacks skilled warriors... It makes me uneasy.
+
+@50195
+Then let us first bring skilled warriors into our clan and prepare for the battles to come.
+

@@ -1,0 +1,729 @@
+@6000
+The confusion in the unit led by {v0132} seems to have subsided.
+
+@6001
+The unit led by {v0132} seems to have come to its senses.
+
+@6002
+The grub's run out... We can't fight like this...
+
+@6002.1
+...I cannot move another step...
+
+@6002.2
+It seems our rice has run out... I do wish we could settle this quickly.
+
+@6002.3
+Our rice has run out... At this rate the men's discontent will only grow...
+
+@6002.4
+An army cannot fight on an empty stomach...
+
+@6002.5
+Without rice, the men's morale will only fall... We must settle this soon...
+
+@6003
+Don't run! We'll hold this place ourselves!
+
+@6003.1
+...This is getting us nowhere...
+
+@6003.2
+D-Don't run, {C218}! Don't you dare run!
+
+@6003.3
+{C191}... Even I cannot stop the men from deserting?
+
+@6004
+{v0132}'s {v6f} has risen to {v70}.
+
+@6005
+{v0132} has mastered the "{v6f}" skill.
+
+@6006
+Raise the victory cry!
+
+@6006.1
+{C184}! This tower is ours now!
+
+@6006.2
+The tower has fallen! Raise the victory cry, {C218}!
+
+@6006.3
+The tower has fallen! One more push, {C218}! Don't let your guard down!
+
+@6007
+We've retaken the tower! The fight has only just begun!
+
+@6007.1
+Use this as a foothold and drive the enemy back, {C218}!
+
+@6007.2
+We've retaken the tower! Counterattack, {C218}!
+
+@6008
+{v0132} has shaken off {v0232}'s pursuit.
+
+@6009
+{v0132} has been caught by {v0232}.
+
+@6010
+The supply unit of {v0132}'s corps has retreated.
+
+@6011
+The supply unit of {v0132}'s corps has been wiped out.
+
+@6012
+The Ikko commander-in-chief's unit has retreated.
+
+@6012.1
+The {v0136} commander-in-chief's unit has retreated.
+
+@6012.2
+The commander-in-chief's unit of {v0132}'s corps has retreated.
+
+@6013
+The Ikko commander-in-chief's unit has been wiped out.
+
+@6013.1
+The {v0136} commander-in-chief's unit has been wiped out.
+
+@6013.2
+The commander-in-chief's unit of {v0132}'s corps has been wiped out.
+
+@6014
+The commander-in-chief's unit of {v0132}'s corps has defected.
+
+@6015
+The main keep of {v0b32} has been captured.
+
+@6016
+The morale of the Ikko has fallen to 0.
+
+@6016.1
+The morale of the {v0136} corps has fallen to 0.
+
+@6016.2
+The morale of {v0132}'s corps has fallen to 0.
+
+@6017
+The battle ended without a decision.
+
+@6018
+{v0132} has learnt the {v6f} Formation.
+
+@6019
+Your orders, Lord {v0132}?
+
+@6020
+Direction / target:
+
+@6021
+Please choose.
+
+@6022
+Unit facing:
+
+@6023
+Please choose.
+
+@6024
+Even in an age of war... how sad this is.
+
+@6024.1
+If my foe shares the {v0133} blood, I shall have no regrets.
+
+@6024.2
+We may be kin, but on the battlefield I show no mercy! Attack!
+
+@6024.3
+This is a battlefield. I must think of nothing but victory...
+
+@6025
+
+
+@6025.1
+
+
+@6025.2
+
+
+@6025.3
+
+
+@6025.4
+
+
+@6025.5
+
+
+@6026
+What a creepy lot... In these chaotic times, who could rely on the power of Buddha?
+
+@6026.1
+Well? Do you see your Buddha yet? I'll show you how those who cling to the unseen end up! Die!
+
+@6026.2
+Corrupt monks, leading the people astray! Go to paradise, or wherever you please!
+
+@6026.3
+It's that monk over there who's to blame. If you must hate someone, hate him!
+
+@6026.4
+If you dislike this world so much, I'll send you to your Pure Land myself!
+
+@6027
+{C184}! Novices like you are no match for me!
+
+@6027.1
+Small fry! Don't get in {v0134}'s way!
+
+@6027.2
+{C184}! Go and spread my name in the next world!
+
+@6027.3
+You lot are no match for me!
+
+@6027.4
+Don't throw your lives away. Just make way!
+
+@6028
+{C184}! Go and spread my name in the next world!
+
+@6028.1
+Now! Press the attack! Not one of {v0234}'s men goes home alive!
+
+@6028.2
+{C184}! You'll regret living in the same age as me!
+
+@6028.3
+Attack, {C218}! Crush {v0234}'s army utterly!
+
+@6028.4
+What is {v0234}'s army to us? Attack, {C218}!
+
+@6029
+
+
+@6029.1
+
+
+@6030
+Those who use Buddha's name to deceive the people shall be cut down here and now!
+
+@6030.1
+Show no mercy to these sham monks, {C218}! Send them to their rest!
+
+@6030.2
+Sham monks! Chant your prayers all you like, you won't escape!
+
+@6030.3
+We'll surround them and crush them! Attack!
+
+@6031
+{C184}! There is no escape now. Prepare yourselves!
+
+@6031.1
+Small fry! Don't get in {v0134}'s way!
+
+@6031.2
+We'll surround them and crush them! Attack!
+
+@6031.3
+Make way! Foot soldiers like you are no match for me!
+
+@6032
+You are completely surrounded, Lord {v0234}! Prepare yourself!
+
+@6032.1
+There's no escape, {v0234}! Attack!
+
+@6032.2
+We'll surround them and crush them! Attack!
+
+@6032.3
+{v0234} is a rat in a trap now! Crush them!
+
+@6032.4
+Now! Don't let this chance slip! Seize {v0234}!
+
+@6033
+If the Buddha truly protects you, these arrows should never hit you!
+
+@6033.1
+If the Buddha truly protects you, then surely these arrows won't hit!
+
+@6033.2
+Sham monks! Try taking these arrows!
+
+@6034
+Loose arrows, {C218}! Rain arrows on the castle's defenders!
+
+@6034.1
+Shoot until your arrows run out, {C218}! The enemy is already wavering!
+
+@6034.2
+Loose arrows, {C218}! They're nothing but a rabble!
+
+@6035
+{C184}! Can you dodge this rain of arrows?
+
+@6035.1
+Loose arrows, {C218}! Rain arrows on {v0234}'s men!
+
+@6035.2
+{C184}, Lord {v0234}! Allow me to greet your men with bow and arrow.
+
+@6035.3
+Loose arrows! We'll break {v0234}'s lines in one go!
+
+@6036
+You lot are lucky to fall beneath the hooves of so splendid a horse!!
+
+@6036.1
+Onward, Matsukaze!! You and I are more than enough for that rabble!
+
+@6036.2
+Take this to the grave: burn into your eyes how a true warrior and his warhorse fight!
+
+@6037
+{v0234}... Take this to the grave: burn my Furinkazan banner into your eyes.
+
+@6038
+I'll scatter you beneath my beloved horse's hooves! Here I come!
+
+@6038.1
+{C184}! Chanting prayers is useless!
+
+@6039
+Foot soldiers, out of my way! This castle is ours for the taking!
+
+@6039.1
+"A rabble" is well said. With no officer of note among them, they're easy prey.
+
+@6040
+Follow close behind me, {C218}! Here we go!
+
+@6040.1
+{v0234}! Feel the righteous wrath of Bishamonten, my guardian god!
+
+@6040.2
+Outta my waaay!! Yer an eyesore!!
+
+@6040.3
+{v0234}... Take this to the grave: burn my Jiki Hachiman banner into your eyes.
+
+@6040.4
+You'll regret in the next world that you stood in {v0132}'s path!
+
+@6040.5
+Out of the way! I'll scatter anyone who gets in my way!
+
+@6040.6
+Charge, {C218}! Scatter every enemy who stands in our way!
+
+@6040.7
+{v0234}! Take this with you to the grave!
+
+@6040.8
+{C184}! I'll turn you into dirt in the wild fields! Follow me, {C218}!
+
+@6040.9
+Charge, {C218}! Follow my banner!
+
+@6041
+I'll show you the power of the gun, herald of a new age! First rank, forward! Fire!
+
+@6041.1
+They've wandered right in front of me without a clue... Fire!
+
+@6041.2
+Draw the enemy in a little closer... Don't rush, aim well... Yes... now! Fire!
+
+@6041.3
+Not yet... Let them come closer... Right, fire!
+
+@6041.4
+They've come all this way just to be targets... Fire as long as you have shot, {C218}!
+
+@6041.5
+We'll give them a storm of lead! Open fire!
+
+@6042
+Behold the power of our pride, the "Kunikuzushi"! Fire!
+
+@6042.1
+{C184}, I can see the enemy panicking! Fire!
+
+@6042.2
+This shot will herald our victory! Fire!
+
+@6042.3
+I'll hit them with everything we've got! Fire!
+
+@6043
+{C190}, the cannon's broken!? ...Do Nanban things really wear out this fast?
+
+@6043.1
+The cannon's broken already! It seems we've been sold some cheap rubbish.
+
+@6043.2
+{C190}, the cannon's broken!? At such a crucial moment... what a disaster...
+
+@6044
+Ohh... the ship's sinking! Curse you, {C19}! Not bad at all... blub blub...
+
+@6044.1
+Ah! My... my ship is sinking... How could this happen... glub glub...
+
+@6044.2
+Ah! The ship's sinking! Get out quickly, {C218}! Quick... glub...
+
+@6045
+Change the unit type to Infantry?
+
+@6046
+Change the unit type to Pikes?
+
+@6047
+Change the unit type to Bows?
+
+@6048
+A palisade has been completed on {v0132}'s unit's tile.
+
+@6049
+An earthwork has been completed on {v0132}'s unit's tile.
+
+@6050
+Open the castle gate?
+
+@6051
+Close the castle gate?
+
+@6052
+Target direction:
+
+@6054
+{v6f} Durability: {v65}
+
+@6055
+The castle gate has opened.
+
+@6056
+I, {v0132}, shall scatter the enemy units nearby.
+
+@6056.1
+Attacking nearby enemy units.
+
+@6057
+For now, we shall hold this position and strengthen our defences.
+
+@6057.1
+Holding this position and strengthening our defences.
+
+@6058
+Retreating from the battlefield.
+
+@6059
+Choose a unit to join the battle.
+
+@6060
+Add it to {v0132}'s unit's lines?
+
+@6061
+Joining {C15}'s lines.
+
+@6062
+...Let's go!
+
+@6062.1
+Gentlemen! We advance! Follow me closely!
+
+@6062.2
+We charge the enemy lines, {C218}! Don't fall behind!
+
+@6062.3
+Time to push forward, I think... Advance, {C218}!
+
+@6062.4
+Push on! Show the whole realm the might of the {v0133} clan!
+
+@6062.5
+We must not fall behind our allies. We advance too! Let's go!
+
+@6062.6
+We now march on the enemy lines, {C218}! Win all the glory you can!
+
+@6063
+Order {v0132}'s unit to retreat?
+
+@6064
+End orders?
+
+@6065
+Delegate all units. Is that all right?
+
+@6066
+Cancel delegation for all units. Is that all right?
+
+@6067
+Inspire the morale of the whole army?
+
+@6068
+Everyone! Every step is a step on the road to the Pure Land! Fight without flinching!
+
+@6068.1
+Hang in there, all of you! If we lose to them here, they'll take everything we have!
+
+@6068.2
+We cannot lose this battle, {C218}! Give it everything you've got!
+
+@6068.3
+We haven't lost yet, {C218}! The battle has only just begun!
+
+@6068.4
+Win glory, {C218}, and your reward is yours to name! Fight with all you have!
+
+@6068.5
+Once more, {C218}, just once more, lend me your strength!
+
+@6069
+Yes! We have the Buddha's protection! What is there to fear?
+
+@6069.1
+Looks like everyone's fired up! That's the spirit! Now we push them back!
+
+@6069.2
+Good! The men's morale seems to have risen.
+
+@6070
+It had no effect.
+
+@6071
+Pull yourselves together!!!
+
+@6072
+Without your strength I cannot hold this castle! Get a grip, {v0234}!
+
+@6073
+{C13}! You mustn't lose yourself on the battlefield! Pull yourself together!
+
+@6073.1
+Without you, {C13}, we have no chance of victory! Pull yourself together!
+
+@6073.2
+This battle depends on you, {C13}! Wake up!
+
+@6074
+{C15}! You mustn't lose yourself on the battlefield! Pull yourself together!
+
+@6074.1
+Without you, {C15}, we have no chance of victory! Pull yourself together!
+
+@6074.2
+This battle depends on you, {C15}! Wake up!
+
+@6075
+No, no... To lose myself on the battlefield... I must stay calm...
+
+@6075.1
+Huh! What on earth have I been doing all this time...?
+
+@6075.2
+To think I lost myself in the middle of a battle... But I'm all right now!
+
+@6076
+{C184}! My moment has come! From this moment on, I, {v0132}, side with the {v0236}!
+
+@6076.1
+I endured those days of humiliation only to wait for my chance to rise... I, {v0132}, now side with the {v0236}!
+
+@6077
+What! {v0232} has turned traitor!? Curse that {C19}... That one will be the first to die by my hand...
+
+@6077.1
+{v0232} has gone over to the enemy... I'll show that {C19} how traitors end up.
+
+@6078
+What! {v0232} has turned traitor!? Curse that {C19}... That one will be the first to die by my hand...
+
+@6078.1
+{v0232} has gone over to the enemy... I'll show that {C19} how traitors end up.
+
+@6078.2
+So this is the besiegers' confidence! But one traitor like {v0232} won't shake {v0138} in the least.
+
+@6079
+Choose a unit to sortie.
+
+@6080
+Send {v0132}'s unit into battle?
+
+@6081
+My name is {v0132}! I join the battle, late though I am!
+
+@6082
+No officer can carry this out.
+
+@6083
+Choose an officer to send as envoy.
+
+@6084
+Cancel?
+
+@6085
+The defenders' spirit in {v0b32} must be nearly spent. Let's try to persuade them to surrender the castle.
+
+@6085.1
+Having seen our strength, those in {v0b32} should agree to surrender it. Let's send an envoy.
+
+@6085.2
+{v0b32} has as good as fallen. No need to shed more blood: shall we send an envoy to demand its surrender?
+
+@6086
+Can you hear me, {v0232}? {v0238}'s luck has run out. Will you surrender the castle quietly?
+
+@6086.1
+Further resistance is pointless. {v0232}, will you hand over {v0238}?
+
+@6086.2
+{v0238} has as good as fallen. {v0232}, will you surrender to us quietly?
+
+@6087
+You in the castle, can you hear me? Further resistance is pointless. Surrender the castle quietly!
+
+@6087.1
+You in the castle, I understand your spirit well. Will you not surrender the castle now?
+
+@6087.2
+The fall of the castle is only a matter of time. You in the castle, stop this useless resistance and hand it over!
+
+@6088
+{v0132} has demanded that the castle surrender.
+
+@6089
+Lost your nerve, {v0232}? We and {v0138} are still standing strong!
+
+@6089.1
+{C184}! Unlike you {v0236} cowards, we will never surrender. Come and attack us fair and square!
+
+@6089.2
+Rather than meekly give up the castle, I intend to fight until I die in {v0138}!
+
+@6089.3
+Don't underestimate us! We will fight to the last man to defend this castle!
+
+@6090
+The defenders refused to surrender.
+
+@6091
+Are these all the men we have left... This is the end of {v0138}. It can't be helped... We surrender the castle.
+
+@6091.1
+Even {v0138} cannot hold off that great army with these few men... Tell {v0232} we surrender the castle...
+
+@6091.2
+It is bitter, but further resistance is pointless... Tell Lord {v0232} we surrender the castle...
+
+@6092
+The defenders accepted the demand to surrender.
+
+@6093
+Units will wait. Is that all right?
+
+@6094
+Really retreat?
+
+@6095
+Namu Amida Butsu...
+
+@6095.1
+So we are no match for samurai after all... How bitter...
+
+@6096
+Driven back by mere monks... It can't be helped. We retreat for now!
+
+@6096.1
+To think the Ikko have such power... They are not to be taken lightly.
+
+@6096.2
+You can't do anything if you're dead. We withdraw for now!
+
+@6097
+I ain't dying in a place like this... I'm running for it!
+
+@6097.1
+Well, for the likes of us, we fought pretty well... Maybe I'll try serving the enemy next time?
+
+@6097.2
+Damn! I've taken a deep wound... Nothing for it but to go home and rest up...
+
+@6098
+{C191}... To think I'd lose to foot soldiers...
+
+@6098.1
+I was careless, thinking them mere foot soldiers... We withdraw for now!
+
+@6098.2
+I'll not hand my head to mere foot soldiers! Fall back, {C218}!
+
+@6099
+Retreat, {C218}! ...Dear me, not even time for a cup of tea...
+
+@6099.1
+It seems this is as far as we go. In war, knowing when to withdraw is everything... Let us retreat this time.
+
+@6099.2
+I retreat for now, but one day I will have your head! Wait for it!
+
+@6099.3
+We regroup, {C218}! We retreat for now!
+
+@6099.4
+So this is the end... It's bitter, but we withdraw. Fall back, {C218}!
+
+@6099.5
+As the ancients said, of the 36 stratagems, running away is best. Retreat is no disgrace!
+
+@6099.6
+For the sake of all the men who died in this battle, next time I'll defeat them... Fall back!
+
+@6099.7
+You can't do anything if you're dead. We withdraw for now!
+
+@6099.8
+Ugh, it seems the tide has turned. We're pulling back, {C218}!
+
+@6100
+you
+
+@6100.1
+you
+
+@6100.2
+you
+
+@6100.3
+you
+
+@6100.4
+you
+
+@6100.5
+you
+
+@6101
+{v0132} has retreated.
+
+@6102
+{v0132} has been captured.
+
+@6103
+At last the main keep has fallen... Now {v0b32} belongs to the {v0136} as well.
+
+@6103.1
+{C184}! I, {v0132}, have taken {v0b32}!
+
+@6103.2
+We've taken the main keep! Raise the victory cry, {C218}!
+

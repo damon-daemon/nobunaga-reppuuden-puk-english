@@ -1,0 +1,582 @@
+@58000
+Month {v66}, {v65}: the {v3d32} clan's troops passed {v67}.
+
+@58001
+{C14}, congratulations. At last we have achieved the goal.
+
+@58002
+All this time spent building up our forces has been worth it.
+
+@58003
+It was in month {v66} of {v65}, I believe, that {C14} set our clan the goal of strengthening its forces.
+
+@58004
+So it was. The plan was to build up our forces fully until the right time came.
+
+@58005
+They say victory is not decided by numbers alone, but the best plan is still to win surely with a great army.
+
+@58005.1
+They say numbers alone do not decide a battle, but winning surely with a great host is still the best plan.
+
+@58006
+Indeed. And so we built many villages around the castle to draw in as many people as we could.
+
+@58007
+So it was... Thanks to that, we were able to raise many troops.
+
+@58007.1
+Mm, so it was... Thanks to that, we raised a great many troops.
+
+@58008
+With so many troops, we can hardly lose a war. Is it not time to march out?
+
+@58009
+I was thinking the same thing.
+
+@58009.1
+Mm, I was thinking the same.
+
+@58010
+The troops are ready. It seems the time has come at last to send out our army and claim mastery of the realm.
+
+@58010.1
+The troops are ready. The time has come at last to send out our army and claim mastery of the realm.
+
+@58011
+Yes, my lord! We vassals too mean to fight with all our might for {C14}'s conquest.
+
+@58012
+I am relying on you, {C183}.
+
+@58012.1
+Mm, {C183}, I am relying on you!
+
+@58013
+Goal achieved! All this time spent building up our forces has been worth it.
+
+@58014
+Now all is ready. At last I can send out my army to claim mastery of the realm.
+
+@58014.1
+Now all is ready... At last I can send out my army to claim mastery of the realm.
+
+@58015
+Month {v66}, {v65}: the {v3d32} clan at last built an ironclad.
+
+@58016
+{C14}, congratulations. At last we have an ironclad.
+
+@58017
+At last I can behold the ironclad in all its glory.
+
+@58018
+It was in month {v66} of {v65} that our clan set the goal of building ironclads to strengthen its navy...
+
+@58019
+Looking back, much happened before we obtained the ironclad.
+
+@58020
+Mm... it took a great deal of toil.
+
+@58021
+Indeed. Without skill in both seafaring and firearms, an ironclad cannot be built.
+
+@58022
+Yes... {v0232}, a seasoned naval hand, and {v0332}, skilled with guns.
+
+@58022.1
+Mm. {v0232}, a seasoned naval hand, and {v0332}, skilled with guns.
+
+@58023
+Without those two, we could never have built the ironclad.
+
+@58025
+But now that our toil has won us an ironclad, I can hardly wait for the next sea battle.
+
+@58025.1
+But now that our toil has won us an ironclad, I can hardly wait for the next sea battle!
+
+@58026
+At the port below {v0b32}, all is ready for the ironclad to sail out.
+
+@58027
+Good. Then let us show the ironclad's full power and rule the nearby seas.
+
+@58027.1
+Is that so, is that so! Then let us show the ironclad's full power and rule the nearby seas.
+
+@58028
+I am counting on you all to do great deeds.
+
+@58028.1
+I expect great deeds from you all!
+
+@58030
+From now on, let us show this ironclad's full power and rule the nearby seas. {v0234}, I am counting on you...
+
+@58030.1
+From now on, we show this ironclad's full power and rule the nearby seas. {v0234}, I count on you...
+
+@58032
+Month {v66}, {v65}: the {v3d32} clan raised its prestige to {v6f}, achieving its goal.
+
+@58034
+It was in month {v66} of {v65} that our clan set the goal of making the {v0136} name known throughout Japan...
+
+@58035
+So it was. We were told to strive hard to raise our clan's name.
+
+@58036
+Yes. It was absolutely necessary, both to unite our vassals and to keep the other clans in check...
+
+@58036.1
+Mm. It was absolutely necessary, both to unite our vassals and to keep the other clans in check...
+
+@58037
+But thanks to your loyal service, our clan's renown has risen greatly. I thank you.
+
+@58037.1
+But thanks to your loyal service, our clan's renown has risen greatly. You have my thanks.
+
+@58038
+You are too kind.
+
+@58039
+Now our clan's power is already beginning to overwhelm its neighbours.
+
+@58040
+Yes. Now our clan is a great warrior house too, and its might will ring throughout the realm.
+
+@58040.1
+Mm. Now our clan is a great warrior house too, and its might shall ring throughout the realm.
+
+@58041
+But our clan's power still cannot be called strong compared with its neighbours.
+
+@58042
+Yes. So there is still much ahead of us.
+
+@58042.1
+Mm. So there is still much ahead of us.
+
+@58043
+At last our clan has grown to stand as an equal of the other clans.
+
+@58044
+Yes. We must raise our name further, until the other clans hold us in respect.
+
+@58044.1
+Mm. We must raise our name further, until the other clans hold us in respect.
+
+@58046
+But the fight starts now. Keep serving the {v0136} clan well! I am counting on you.
+
+@58046.1
+But the true fight starts now. Keep serving the {v0136} clan well! I am counting on you!
+
+@58048
+Goal achieved! Now the {v0136} name must be known far and wide.
+
+@58049
+Month {v66}, {v65}: the {v3d32} clan unified {v6f}, achieving its goal.
+
+@58050
+Congratulations, {C14}. You have finally achieved your goal. Looking back, so much has happened...
+
+@58050.1
+Congratulations, {C14}. At last we have achieved the goal. Looking back, there was much along the way...
+
+@58051
+It was in month {v66} of {v65} that our clan set the goal of unifying {v6f}...
+
+@58052
+At that time our clan's power in {v6f} was already firmly established.
+
+@58053
+Just so. Unifying {v6f} seemed only a matter of time.
+
+@58054
+At that time our clan's power in {v6f} was still fragile.
+
+@58055
+Just so. Unifying {v6f} seemed a daunting task.
+
+@58056
+{v65} months to unify {v6f}... We acted swiftly.
+
+@58056.1
+{v65} months to unify {v6f}... We moved swiftly indeed.
+
+@58057
+Indeed. Everything went truly smoothly.
+
+@58058
+{v65} months since we set the goal... It took longer than expected.
+
+@58058.1
+{v65} months since we set the goal... It took longer than I thought.
+
+@58059
+Unifying a province brought many hardships, but we overcame them.
+
+@58060
+Quite so. I believe it is because each of us fulfilled the role given to them.
+
+@58061
+Yes... you have served me well, {C183}.
+
+@58061.1
+Mm... so it is. It is thanks to the work of {C13} and the others.
+
+@58063
+But we have only just secured our footing. The real contest starts now.
+
+@58063.1
+But we have only just secured our footing. The real contest starts now!
+
+@58064
+With {v6f} as our foothold, let us claim mastery of the realm!
+
+@58065
+Yes, my lord! Leave it to us.
+
+@58066
+How reassuring. Keep serving the {v0136} clan well! I am counting on you.
+
+@58066.1
+Good! That is the spirit. Keep serving the {v0136} clan well! I expect great things!
+
+@58069
+Good! Goal achieved. With {v6f} as my foothold, I shall claim mastery of the realm!
+
+@58070
+Month {v66}, {v65}: the {v3d32} clan destroyed {v6f}.
+
+@58071
+Congratulations, {C14}. At last you have destroyed {v6f}. Looking back, so much has happened...
+
+@58071.1
+Congratulations, {C14}. At last we have destroyed {v6f}. Looking back, there was much along the way...
+
+@58072
+In month {v66} of {v65}, {v6f}, of all things, issued an order to punish us.
+
+@58073
+So it was. But {C14} did not flinch, and resolved to meet them head-on.
+
+@58074
+Indeed, at that time even I trembled.
+
+@58074.1
+Indeed, at that time even I had to steel myself.
+
+@58075
+In those days {v6f} was more powerful than we were.
+
+@58076
+Some retainers grew restless at the thought of fighting {v6f}.
+
+@58077
+In those days our clan was about as strong as {v6f}... Neither side had the advantage.
+
+@58078
+No one could foresee which way the battle would go.
+
+@58079
+Though weaker than us, {v6f} dared to defy us.
+
+@58080
+Even so, the power of the Ikko sect was still not to be taken lightly.
+
+@58081
+So it was... And then it came to all-out war with {v6f}.
+
+@58081.1
+Hmm... and so it came to all-out war with {v6f}.
+
+@58082
+Looking back, much happened in the war with {v6f}.
+
+@58083
+Yes. The Ikko faithful, chanting the nembutsu and charging without fear of death, were truly like ghosts.
+
+@58083.1
+Mm. The Ikko faithful, chanting the nembutsu and charging without fear of death, were truly like ghosts.
+
+@58084
+Just so. They were no ordinary foe.
+
+@58085
+But in the end our army prevailed, and {v6f} bent the knee to our clan.
+
+@58086
+It was certainly no easy war...
+
+@58086.1
+It was certainly no easy war...
+
+@58087
+But because you, my vassals, fought as one, we came through this ordeal.
+
+@58087.1
+But because you, my vassals, fought as one, we came through this ordeal.
+
+@58088
+Gracious words. Whoever stands in the way of our lord's conquest, we shall simply destroy them.
+
+@58089
+You are all most reassuring.
+
+@58089.1
+Mm, mm. You are all most reassuring.
+
+@58090
+With one hard foe destroyed, our clan has gained momentum.
+
+@58091
+I too mean to strive for still greater advances. I am counting on you, {C183}.
+
+@58091.1
+I too mean to strive for still greater advances. I count on you, {C183}!
+
+@58094
+With one hard foe destroyed, our clan has gained momentum. Let us keep going at this pace.
+
+@58095
+Month {v66}, {v65}: the {v3d32} clan brought the whole land under its rule and unified Japan.
+
+@58096
+Congratulations. The long-awaited day has come at last.
+
+@58097
+At last {C14} is ruler of the realm. All our devoted work has been worth it.
+
+@58098
+Yes, at last I have been able to end this age of war.
+
+@58098.1
+Mm, at last I have settled this long age of war!
+
+@58099
+In the endless days of war, the people suffered bitterly.
+
+@58100
+All the people of the realm are celebrating the great deed of {C14}, who brought peace to a world in turmoil!
+
+@58101
+But that too was possible only because you, my vassals, supported me. I thank you!
+
+@58103
+The road to unification was long and hard. I could never have done it on my own.
+
+@58103.1
+The road to unification was long and hard. I could never have done it alone.
+
+@58106
+Your lion-like feats on the battlefield were truly splendid.
+
+@58107
+If my spear has been of any use to you, I, {v0134}, could wish for no greater happiness.
+
+@58108
+{C13}, you did great service in building up our lands and easing the people's hearts. I cannot thank you enough.
+
+@58109
+Such generous words... I, {v0134}, am overjoyed. I shall keep striving for the world of {C14}.
+
+@58110
+{C13}, without your schemes, unifying the realm would have been impossible. You have done well.
+
+@58111
+You are too kind... Seeing my lord's conquest fulfilled was my dearest wish.
+
+@58112
+Truly the "Jar-Breaker {v0233}"! Your demonic fighting has been a great comfort to me!
+
+@58113
+I have ridden across many battlefields for the {v0136} clan, but such words make me forget all hardship.
+
+@58114
+{C13}, wide as Japan may be, none is more skilled in government than you. You have served well.
+
+@58115
+You are too kind. I, {v0134}, will spare no toil for {C14}'s sake.
+
+@58116
+{C13}, your cunning, which earned you the name "the New Zhuge Liang", saved our clan many times.
+
+@58117
+If my humble efforts have been of use to {C14}, I am honoured.
+
+@58118
+Your valour, which made enemy generals dread you as "Jiki Hachiman", was splendid indeed.
+
+@58119
+Such praise... I, {v0134}, am deeply honoured.
+
+@58120
+{C13}, you assisted me well in building up our lands. I cannot thank you enough.
+
+@58121
+Gracious words. With the {v0136} clan ruling the realm, my father Soun must be rejoicing in his grave.
+
+@58122
+{C13}, in stratagems none could surpass you. You were most reassuring!
+
+@58123
+A realm under the {v0136} was the dearest wish of us rappa of Sagami. To see that day come at last fills me beyond words.
+
+@58124
+Your feats with the spear were truly splendid. I am heartily glad you were not my enemy!
+
+@58125
+You honour me beyond my worth. My spearhead has always been, and always will be, turned only on those who would harm our clan.
+
+@58126
+{C13}, your achievements in civil government were immense. You helped me well.
+
+@58127
+Gracious words. I, {v0134}, wish to give my all in the new reign of {C14} as well.
+
+@58128
+{C13}, you saved our clan from many a crisis. I am grateful!
+
+@58129
+Today, as you unify the realm, my lord, the ninja under my command must be rejoicing too.
+
+@58130
+Your red-armoured cavalry fought with admirable valour. Splendid work!
+
+@58131
+I am deeply honoured by your praise. I, {v0134}, swear unchanging loyalty to you, my lord.
+
+@58132
+{C13}, your services in both civil and military government were immense. I shall never forget your loyalty!
+
+@58133
+You are too kind... Yet serving one's lord is only a vassal's duty. Command me as you will from now on.
+
+@58134
+{C13}, the schemes you wove far and wide left even me in awe. Splendid!
+
+@58135
+Your praise, my lord, is the finest reward I, {v0134}, could receive.
+
+@58136
+Our army's many victories were owed to your work in the vanguard... I thank you.
+
+@58136.1
+Our army's many victories were owed to your work in the vanguard... You have my thanks.
+
+@58137
+You honour me beyond my worth. I, {v0134}, shall serve {C14} with unchanging loyalty.
+
+@58138
+{C13}, I am grateful from the heart for all your deeds, from the day I became head of the clan until today!
+
+@58139
+You are too kind... The {v0133} house will go on showing its worth for the {v0236}, led by {C14}.
+
+@58140
+{C13}, I am truly grateful for all your deeds, from the day I succeeded Lord Kenshin until today!
+
+@58141
+Gracious words. Now I too have repaid Lord Kenshin's kindness. There is no greater joy.
+
+@58142
+Your advice as strategist saved me time and again... {C13}, please go on teaching and guiding me.
+
+@58142.1
+Your advice as strategist saved me time and again... {C13}, go on supporting me.
+
+@58143
+You are too kind. I shall pass on to you all the strategy I have learned.
+
+@58144
+{v0234}, I made you give up a woman's happiness and choose a life on the battlefield.
+
+@58145
+It was for the clan, but it was cruel of me. Forgive me...
+
+@58146
+{C14}, what are you saying? I am happy to have been of use to our house and to the peace of Japan.
+
+@58147
+I see...
+
+@58147.1
+Mm, I see...
+
+@58148
+You have all truly done well. I shall never forget your loyal service. Let me thank you once again.
+
+@58148.1
+You have all truly done well. I shall never forget your loyal service. Let me thank you once more.
+
+@58149
+We are deeply grateful for your kind words, again and again. All of us vassals will go on giving our all.
+
+@58150
+Unification is achieved, but now we must rebuild a land ravaged by long years of war.
+
+@58151
+I still need everyone's help.
+
+@58152
+{C189} For the sake of the many soldiers who died, we must make sure such wars never come again.
+
+@58153
+Strive for an age of peace, and please never forget to cherish the people.
+
+@58154
+Indeed. I shall take it to heart.
+
+@58154.1
+Mm, I shall take it to heart.
+
+@58155
+{C14}, Lord {v0332} has come to offer congratulations.
+
+@58156
+This is a truly joyous occasion. All of the {v0136} clan offer you our heartfelt congratulations.
+
+@58157
+Thank you for coming so far. I leave {v6f} to {C15}. I am counting on you from now on.
+
+@58157.1
+Mm, thank you for coming so far. I leave {v6f} to {C15}. I count on you from now on!
+
+@58158
+{C189} Leave it to us. The whole {v0136} clan will join forces for {C14}.
+
+@58159
+{C14}, an envoy has arrived from the Imperial Palace with congratulations.
+
+@58160
+You have done well to bring peace to Japan. His Majesty is pleased.
+
+@58161
+Gracious words.
+
+@58162
+His Majesty is most satisfied with your service in bringing peace to an age of war.
+
+@58163
+{C189} Untalented though I am, I, {v0134}, shall strive with all my being not to fail His Majesty's hopes.
+
+@58164
+Good. Never forget your loyalty to His Majesty, and devote yourself to the peace of the Empire.
+
+@58165
+Yes, sir!
+
+@58166
+Since the great Onin-Bunmei war, the age of strife had seemed as if it would go on forever...
+
+@58167
+But at last, at the hands of {v0132}, the time had come for the curtain to fall.
+
+@58168
+The age of war was over, and now a new history was about to begin.
+

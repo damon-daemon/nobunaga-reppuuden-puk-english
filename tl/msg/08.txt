@@ -1,0 +1,252 @@
+@8000
+Abandon the mission and return to {v0b32}. Is that all right?
+
+@8001
+You are already allied with every daimyo. There is no castle to scheme against.
+
+@8002
+{v0132} has arrived at {v0b32}. Which officer will be the target of {v6f}?
+
+@8003
+There are no enemy corps within range to disrupt.
+
+@8004
+I'll slip forged letters into {v0232}'s army. That {C19} will panic!
+
+@8004.1
+I'll mingle with {v0232}'s army and shout "Attack from the rear! Run for it!" to throw them into chaos.
+
+@8004.2
+I'll feed false reports to {v0232}'s army and throw that {C19}'s troops into confusion!
+
+@8005
+What are you panicking for? Don't be fooled! Regroup at once!
+
+@8005.1
+Don't lose your heads! That was a false messenger! Calm down, men!
+
+@8005.2
+Don't be led astray by false reports! I'll punish anyone who panics!
+
+@8006
+Fool! As if I'd be taken in by such a petty false report! Find out where it came from!
+
+@8006.1
+I admire your courage, slipping into the enemy camp alone, but you're a hundred years too early to fool me!
+
+@8006.2
+As if this would rattle me! Find the source of the rumour and let no suspicious man escape!
+
+@8007
+The target, {v0b32}, is under siege and cannot be entered.
+
+@8008
+There are no officers in the castle.
+
+@8009
+Every officer in this castle has already promised to defect in battle. There is no need to incite them.
+
+@8010
+You cannot scheme against an ally.
+
+@8011
+Every officer in this castle has already promised to change sides. There is no need to incite rebellion.
+
+@8012
+Every officer in this castle has 0 duty. There is no need to spread rumours.
+
+@8013
+This castle's defence is already at its lowest, 1. There is no need for sabotage.
+
+@8014
+You are already allied with every daimyo.
+
+@8015
+You are already allied with this clan.
+
+@8016
+You are not yet allied with this clan. Form an alliance first.
+
+@8017
+You are not allied with any daimyo.
+
+@8018
+There are no independent powers.
+
+@8019
+You have no treasures.
+
+@8020
+Carry out {v6f}. Is that all right?
+
+@8021
+Carry out {v6f}. It will take {v65} turns to reach the destination. Is that all right?
+
+@8022
+There is no unmarried princess to marry off.
+
+@8023
+This daimyo is a woman. A princess cannot be married to her.
+
+@8024
+This daimyo is a close blood relative. The princess cannot marry into this house.
+
+@8025
+You already have a marriage alliance with this clan.
+
+@8026
+This is not an independent power's castle: it cannot be absorbed.
+
+@8027
+Delete
+
+@8028
+You have no treasure to give as tribute.
+
+@8029
+This clan's friendship towards yours is already at its maximum. It cannot be raised any further.
+
+@8030
+Delete
+
+@8031
+This clan has already promised to send reinforcements.
+
+@8032
+There are no vacant court titles.
+
+@8033
+You already have an imperial permit.
+
+@8034
+Your clan is allied with every clan. There is no clan to target.
+
+@8035
+Every clan is already a target for punishment.
+
+@8036
+Every clan has already been declared an Enemy of Court.
+
+@8037
+Your clan is not an Enemy of Court. There is no need for a pardon.
+
+@8038
+There is no allied daimyo who has not been recommended or who has a lower court title than yours.
+
+@8039
+Your castle has no gold: you cannot donate to the Court.
+
+@8040
+Every clan's friendship with the Court is 0. There is no need for slander.
+
+@8041
+Cancel {v6f}. Is that all right?
+
+@8042
+You cannot scheme against your own officers.
+
+@8043
+There is no princess to marry off.
+
+@8044
+You already have marriage alliances with every clan.
+
+@8045
+There is no suitable husband to marry her to.
+
+@8046
+There is no suitor unrelated by blood to this princess. Choose another princess.
+
+@8047
+You have already sent a marriage envoy to this clan.
+
+@8048
+No officer has been chosen.
+
+@8049
+No target has been chosen.
+
+@8050
+No princess has been chosen.
+
+@8051
+No treasure to send has been chosen.
+
+@8052
+There is no ally that can promise reinforcements.
+
+@8053
+You can only scheme against serving officers.
+
+@8054
+Already swayed: there is no need to sway them.
+
+@8055
+M'lord, it's terrible! The typhoon's ruined {v0b32}'s {v6f}! We'll have to use the castle's money to set things right.
+
+@8056
+M'lord, good news! {v0b32}'s {v6f} came out just grand this year. It's selling like mad, we're rolling in money!
+
+@8057
+M'lord, good news! {v0b32}'s {v6f} had a bumper crop this year. We'll be bringing you plenty!
+
+@8058
+Having given the matter thought, we have decided to withdraw the order to punish you.
+
+@8059
+Oh... Is that so, my lord?
+
+@8060
+See that you show loyalty to His Majesty, so that no such order is issued again.
+
+@8061
+The order to punish the {v0136} has been withdrawn.
+
+@8062
+Having given the matter thought, we have decided to withdraw the imperial letter granted to you.
+
+@8063
+Wh... What...?
+
+@8064
+Show your loyalty to His Majesty once more, and you may again borrow his august authority.
+
+@8065
+The imperial permit granted to the {v0136} has been withdrawn.
+
+@8066
+Poor harvests seem to have caused famine in many places.
+
+@8067
+Fearing the might of our {v0233} clan, a branch castle seems to have surrendered.
+
+@8067.1
+Lord {v0234}, a branch castle has surrendered to us in fear of the {v0136}.
+
+@8068
+The {v0233} are rising like the sun. The {v0133} cannot hope to stand against them... I must think hard.
+
+@8068.1
+So the {v0233} have reached even this land... What should I do to protect the {v0133}...?
+
+@8068.2
+{C191}... To keep our house alive, perhaps it would not be bad to join the rising {v0233}... This may be a turning point for the {v0133}.
+
+@8068.3
+Fighting on against the {v0233} may only pile up corpses, but can I give up my ambition...? What should I do...?
+
+@8068.4
+The {v0233}, eh... Would the head of the {v0233} be generous enough to accept us? If so, we could join them.
+
+@8068.5
+The {v0233} have reached my castle town... They say don't fight the current, but... what can I do to keep the {v0133} line alive?
+
+@8069
+So we can no longer move to {v0b32}... It can't be helped. We'll move to {v0c32} for now.
+
+@8070
+No corps unit can be formed: there are no troops.
+
+@8071
+The {v0137} clan's request for reinforcements has been accepted.
+

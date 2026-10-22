@@ -1,0 +1,732 @@
+@39000
+Throw the {v0132} unit into confusion?
+
+@39001
+
+
+@39001.1
+
+
+@39001.2
+
+
+@39001.3
+
+
+@39002
+Cut us down and you will fall into hell! If you would avoid that, chant the nembutsu and walk the path with us!
+
+@39002.1
+What do you fight for? Wage war after war for your own greed and hell is the only place it will lead you!
+
+@39003
+Your lord cares nothing for the lives of his soldiers. Do not throw yours away for him.
+
+@39003.1
+When my soldiers are angry, even I cannot hold them back... Who knows what they might do!
+
+@39003.2
+Defy us and we will set fire to your homes. Think what will become of your families!
+
+@39003.3
+My soldiers thirst for blood today. What bad luck for you.
+
+@39004
+Everyone! Don't panic, don't panic. Take a rest, take a rest.
+
+@39005
+Confusion, at a time like this! Pull yourselves together, quickly!
+
+@39005.1
+Everyone! Stay calm! Stay calm, I say!
+
+@39006
+Confusion, you say! Hmm... So it is beyond us after all!
+
+@39006.1
+With such confusion in the ranks, can we restore order on our own...?
+
+@39007
+Do not panic! Confusion like this plays right into the enemy's hands!
+
+@39007.1
+N-now then! Stay calm, {C218}! Stay calm, I say!
+
+@39007.2
+Do not waver! Why are you all so jittery? Do something!
+
+@39007.3
+Th-they got us! We can hardly move like this...
+
+@39007.4
+Confusion, at a time like this! Has Heaven forsaken me, {v0134}?
+
+@39007.5
+Confusion, you say! At this crucial moment! Do something, quickly!
+
+@39008
+The {v0132} unit has fallen into confusion.
+
+@39009
+The confusion in the {v0132} unit is spreading to other units.
+
+@39010
+Samurai, and you would fight with your mouths instead of your swords? It seems you lack the wits for it, though.
+
+@39010.1
+Ahahaha... No one among the faithful will fall for the smooth talk of useless samurai!
+
+@39011
+Hmph! Don't you make fools of us! We won't fall for a trick like that!
+
+@39011.1
+No use! We won't be fooled by talk like that! Our castle's too tough for you, so you're trying to confuse us, right?
+
+@39012
+{C184}, what nonsense. Put away your petty tricks and come at us fair and square!
+
+@39012.1
+{C184}, I am afraid there is not a single soldier in my army who would be fooled by the rumours of a {C19}.
+
+@39012.2
+Challenging us with words instead of spears and swords? Cowardly beyond words! One day I will rip out that tongue!
+
+@39012.3
+You're all talk, Lord {v0234}. Were you born mouth first, perhaps?
+
+@39012.4
+Hmm? That {C19} seems to be saying something, but I can't hear a thing!
+
+@39012.5
+They say the weakest dogs bark the loudest, {C218}. Pay it no mind, pay it no mind.
+
+@39012.6
+If they must stoop to such petty tricks, the {v0232} army is nothing to fear.
+
+@39013
+Set the {v0132} unit in ambush?
+
+@39014
+End the {v0132} unit's ambush?
+
+@39015
+Set the fires! Burn everything to the ground!
+
+@39015.1
+Take this!
+
+@39015.2
+I'll wrap you in crimson flames!
+
+@39015.3
+I'll let you taste the fires of hell while you still live!
+
+@39015.4
+I'll burn the lot of you to cinders! Prepare yourselves!
+
+@39016
+Oh no, the fire has spread! Someone put it out, quickly!
+
+@39016.1
+{C39045}! Flames everywhere... What do we do...?
+
+@39016.2
+...Ah! This is no time to stand gaping! Do something, quickly!
+
+@39016.3
+Ho there! Put out this fire at once!
+
+@39017
+The arson succeeded.
+
+@39018
+a toddler with blackened teeth
+
+@39018.1
+a toddler with a beard
+
+@39019
+To those who fear the fires of hell, what is a little blaze like this!
+
+@39019.1
+I take great care with fire at all times. Trying to burn my camp is futile!
+
+@39019.2
+Fire, just as I thought. That's all {v0234}'s head could come up with. {C184}
+
+@39019.3
+Delighting in playing with fire... {v0234} is just like {C39018}.
+
+@39020
+The arson failed.
+
+@39021
+{C185}... S-so this is the power of the Tanegashima gun...
+
+@39021.1
+{C185}... T-to see my dreams end... like this...
+
+@39021.2
+{C185}... So I... I am to die here...?
+
+@39022
+That was close... I was nearly shot dead.
+
+@39022.1
+So this is {v0234}'s doing! Sniping is a coward's game!
+
+@39023
+Provoke the {v0132} unit?
+
+@39024
+bastard
+
+@39025
+Witless {C15}, I have come to pay my respects today... you coward!
+
+@39025.1
+Well, {C15}... or should I call you the greatest coward in the land?
+
+@39026
+False monks! If Buddha protects you, come and fight!
+
+@39026.1
+Chant the nembutsu all you like, you are going to hell! You corrupt monks!
+
+@39027
+Rabble like you will only get cut down on the battlefield. Run home to your villages!
+
+@39027.1
+Small fry! If you value your lives, stay there and tremble!
+
+@39028
+Cowardly Lord {v0234}... You haven't the courage to come at me, have you?
+
+@39028.1
+{v0234} is a coward... I pity the soldiers who serve such a weakling.
+
+@39028.2
+Come on, {v0234}! Brave only with your mouth, are you...? {C184}
+
+@39028.3
+{C184}, {v0234} is a coward... So scared of me they cannot move!
+
+@39028.4
+{v0234}... have you the nerve to defy me? Oh dear, it seems your legs have given way.
+
+@39029
+
+
+@39029.1
+
+
+@39029.2
+
+
+@39029.3
+
+
+@39030
+I cannot bear it any longer! I will make you regret insulting me!
+
+@39030.1
+Curse you, {C19}! Enough of your mouthing. Wash your neck and wait for me!
+
+@39030.2
+I will tear apart the mouth that spat those insults! Follow me, {C218}!
+
+@39030.3
+I can stand no more... Trap or not, I care not! Follow me, {C218}!
+
+@39030.4
+Even if I walk straight into the enemy's trap, I will avenge this insult... Follow me!
+
+@39030.5
+C-curse you, {C19}! Don't you move one step! I'll cut your head off myself!
+
+@39031
+{v0132} has taken {v0232}'s bait.
+
+@39032
+Useless samurai! Provoke us all you like, it is no use. We won't fall for that!
+
+@39032.1
+Curse us as foully as you like, it won't work on us faithful!
+
+@39033
+You cannot touch us, so all you can do is bark from afar! Ahahaha!
+
+@39033.1
+Even a baby would not fall for such obvious taunts. Come back when you have a better plan!
+
+@39034
+Hohoho... You cannot touch us, so you attack with words? The howling of a beaten dog.
+
+@39034.1
+Fool, {v0234}! Taunting is your speciality... I know all your tricks.
+
+@39034.2
+Such foul insults... It's no use, {C19}! Come back the day before yesterday.
+
+@39034.3
+That is {v0234}'s favourite taunt... I will not fall for that!
+
+@39034.4
+{C184}! Such an obvious taunt will not work on me.
+
+@39035
+Lower the enemy army's morale?
+
+@39036
+The battle is already decided. Fight on and you will only die in vain.
+
+@39036.1
+The outcome of this battle is as plain as day. You have not the slightest chance of victory.
+
+@39036.2
+Your luck has run out. How wretched a beaten soldier is.
+
+@39037
+N-now, everyone, you must not panic! Oh, the soldiers are losing heart...
+
+@39037.1
+Do not waver! Why are you all so jittery? Do something!
+
+@39038
+The morale of the Ikko uprising corps has fallen.
+
+@39038.1
+The morale of the {v0137} army has fallen.
+
+@39038.2
+The morale of the {v0132} corps has fallen.
+
+@39039
+{C184}, I am afraid there is not a single soldier in my army who would be fooled by the rumours of a {C19}.
+
+@39039.1
+You're all talk, Lord {v0234}. Were you born mouth first, perhaps?
+
+@39039.2
+Pay it no mind, {C218}. That is just {v0234}'s favourite trick: rumours.
+
+@39039.3
+Fools... My army is not one to be shaken by your rumours.
+
+@39040
+I will send false orders to the enemy units around us and throw their lines into chaos.
+
+@39041
+It worked. The enemy army will be in pieces for a while.
+
+@39041.1
+It worked. I can just picture the confusion in the enemy camp.
+
+@39042
+The false orders succeeded.
+
+@39043
+The false orders failed.
+
+@39044.1
+you
+
+@39044.2
+you
+
+@39044.3
+you
+
+@39044.4
+you
+
+@39046
+
+
+@39046.1
+
+
+@39047
+
+
+@39048
+
+
+@39048.1
+
+
+@39048.2
+
+
+@39049
+
+
+@39049.1
+
+
+@39050
+What
+
+@39050.1
+Blast
+
+@39051
+
+
+@39051.1
+
+
+@39052
+It seems the {v0332} unit is the supply unit.
+
+@39053
+Show those samurai the strength of us faithful!
+
+@39053.1
+Bring the Buddha's punishment on those who hinder his teaching! Onward, everyone!
+
+@39054
+Forward! Show them the strength of the {v0137} army!
+
+@39054.1
+Break through {v0234}'s lines! Charge!
+
+@39054.2
+We'll crush them just like this! Forward!
+
+@39055
+The supply unit of the {v0132} corps has defected.
+
+@39056
+{v0b32}'s luck has run out. Surrender to us before you die in vain.
+
+@39056.1
+Further resistance is futile. I, {v0134}, will not treat you badly. If you are going to surrender, do it now.
+
+@39057
+No one answered the call to surrender.
+
+@39058
+Let us have those corrupt monks lend us a hand.
+
+@39058.1
+Those faithful over there are in confusion. Let us put them to good use.
+
+@39059
+Let us have {v0334}'s unit lend us a hand.
+
+@39059.1
+{v0334} is in confusion. Let us put them to good use.
+
+@39060
+I can't tell friend from foe! Blast it! I don't care! Charge!
+
+@39060.1
+What? Those are enemy soldiers over there? Right! Attack, {C218}!
+
+@39061
+We are on your side! This plays right into the enemy's hands!
+
+@39061.1
+What is this! Why must the faithful fight one another!
+
+@39062
+We are on your side! This plays right into the enemy's hands!
+
+@39062.1
+That is {C13}'s banner! Why are our own allies attacking us!
+
+@39063
+We are on your side! This plays right into the enemy's hands!
+
+@39063.1
+That is {C15}'s banner! Why are our own allies attacking us!
+
+@39064
+Using our confusion to set us at each other's throats... That will not work.
+
+@39064.1
+{v0234}, you wretch! I will not fall for such a scheme!
+
+@39064.2
+{v0234}, you wretch! Trying to make us fight each other... What a sly rat!
+
+@39065
+Using our confusion to set us at each other's throats... That will not work.
+
+@39065.1
+{v0234}, you wretch! I am not one to fall for such a scheme!
+
+@39066
+I will send spies into {v0334}'s unit and turn them against their strategist.
+
+@39066.1
+I will make the enemy lose faith in their strategist and stop the {v0332} corps' schemes.
+
+@39067
+What! {C13} is in league with the enemy? Surely not...
+
+@39067.1
+{C13} is up to something suspicious? What is the meaning of this?
+
+@39068
+What! {C15} is in league with the enemy? Surely not...
+
+@39068.1
+{C15} is up to something suspicious? What is the meaning of this?
+
+@39069
+I am dismissed as strategist? This plays right into the enemy's hands!
+
+@39069.1
+Removing me as strategist!? This is the enemy's scheme...
+
+@39070
+{v0232}, strategist of the {v0132} corps, has been dismissed from the post.
+
+@39071
+{C13}, a traitor... I will not be misled by such a scheme.
+
+@39071.1
+Do not be misled by the enemy's scheme! We must trust {C13} now.
+
+@39072
+{C15}, a traitor... I will not be misled by such a scheme.
+
+@39072.1
+Do not be misled by the enemy's scheme! We must trust {C15} now.
+
+@39073
+I will use my agents to capture every last courier of the Ikko.
+
+@39073.1
+Let us capture their couriers and disrupt the Ikko's messages.
+
+@39074
+I will use my agents to capture every last courier of {v0234}'s.
+
+@39074.1
+Let us capture their couriers and disrupt {v0234}'s messages.
+
+@39075
+The couriers have not come back? Then I cannot even give proper orders!
+
+@39075.1
+{v0234}, you wretch... Hunting our couriers so we cannot give orders...
+
+@39076
+The {v0132} unit now has {v65} couriers.
+
+@39077
+My army's couriers ride the finest steeds in the land. They will not be caught so easily.
+
+@39077.1
+{v0234}, you wretch! I will not let you throw our command into disorder.
+
+@39078
+{C191}! Who knew the walls of {v0b32} would be this hard to climb...
+
+@39078.1
+Even for me, getting over this wall is no easy matter...
+
+@39079
+{C191}... Just one more step and I could get over...
+
+@39079.1
+I cannot spend forever struggling with a wall like this!
+
+@39080
+The {v0133} Shinkage school knows no such word as defeat! {v0234}, prepare yourself!
+
+@39080.1
+They call me the strongest swordsman alive. With this sword I will cut you in two with a single stroke!
+
+@39080.2
+Can you withstand the deadly sword I forged on my travels through the provinces? Secret art: the Swallow Cut!
+
+@39080.3
+Can you dodge my two swords, undefeated in every duel? Here I come, {v0234}!
+
+@39080.4
+They say my sword breathes fire... Come, try it for yourself!
+
+@39081
+Hiyaaaaah!
+
+@39081.1
+Haaaaaaah!!!
+
+@39081.2
+Do not underestimate the strength of us faithful! Onward!
+
+@39082
+Let's go! Show them what we can do here and we'll move up in the world!
+
+@39082.1
+We can do it too when it counts!
+
+@39083
+I won't be beaten by a {C19}!
+
+@39083.1
+We will show you what we are made of! Take this!
+
+@39083.2
+Hiyaaaaah!
+
+@39084
+Don't you go lookin' down on us farmers!
+
+@39084.1
+Swift as the wind, fierce as fire! Fall upon the enemy!
+
+@39084.2
+Behold the spirit of a warrior, and take it with you to the grave!
+
+@39084.3
+Anyone who stands in the way of my rule of the realm by force will be cut down!
+
+@39084.4
+Die! Die!! Die!!!
+
+@39084.5
+Men! Fortune lies with Heaven, armour on your chest, and glory in your feet!
+
+@39084.6
+{C184}, you are no match for me yet!
+
+@39084.7
+{C184}, Lord {v0234}, this is no time to go soft-eyed over a lady on the battlefield!
+
+@39084.8
+I, {v0134}, will not lose to a woman!! Do not take me lightly!
+
+@39084.9
+Hiyaaaaah!
+
+@39084.10
+We will show you what the {v0137} army is made of! Take this!
+
+@39084.11
+I will cut your lines to ribbons! Prepare yourselves!
+
+@39085
+{v0234}! Taste the power of Muramasa, the blade they say brings ruin on the {v0233} clan!
+
+@39085.1
+To be cut down by so great a blade is an honour! Have at you!
+
+@39085.2
+{v0234}! To you this sword may be a curse, but to me it looks like a god!
+
+@39086
+The Ikko have attacked {v0136}'s {v0132} corps.
+
+@39087
+{v0136}'s {v0132} corps has attacked {v0236}'s {v0b32}.
+
+@39088
+{v0136}'s {v0132} corps has attacked {v0236}'s {v0232} corps.
+
+@39089
+{v0136}'s {v0132} corps has attacked the independent power at {v0b32}.
+
+@39090
+{v0136}'s {v0132} corps has attacked the Ikko.
+
+@39091
+Lord {v0132}, please decide the make-up of the units to sortie.
+
+@39092
+Lord {v0132}, please decide where to deploy the units.
+
+@39093
+Namu Amida Butsu...
+
+@39093.1
+Damn! Why do I have to die...
+
+@39093.2
+{C185}... So this is my end... How bitter...
+
+@39093.3
+{C185}... T-to see my dreams end... like this...
+
+@39093.4
+Next time I would like to be born in an age of peace... {C185}
+
+@39094
+{v0132} was beheaded by {v0232}.
+
+@39095
+Namu Amida Butsu...
+
+@39095.1
+{C185}... I guess I... was never cut out for war...
+
+@39095.2
+{C185}... S-so this is the power of the Tanegashima gun...
+
+@39095.3
+I never knew war could be so terrifying... {C185}
+
+@39095.4
+{C185}... So I... I am to die here...?
+
+@39095.5
+{C185}... Hit by a stray bullet... Am I to die in a place like this...
+
+@39096
+{v0132} was hit by a bullet and died.
+
+@39097
+Now you know! The Buddha's punishment will surely fall on all who stand in our way!
+
+@39097.1
+Namu...
+
+@39098
+We did it! We held this castle all by ourselves!
+
+@39098.1
+Hey, we won! Even without strong officers, you can pull through if you try hard enough!
+
+@39099
+You thought it was only a small castle and let your guard down! That is what you get for taking us lightly!
+
+@39099.1
+This land is ours. We will not hand it over so easily!
+
+@39099.2
+Even if an army of tens of thousands comes, we will never yield!
+
+@39100
+Now they all know the strength of the {v0136}...
+
+@39100.1
+The enemy commander-in-chief's unit is destroyed! Raise the victory cry, {C218}!
+
+@39100.2
+{C184}! Once their commander-in-chief falls, the enemy must withdraw...
+
+@39101
+Such is the way of this warring age. If you must blame someone, blame {C15}.
+
+@39101.1
+Making a turncoat their commander-in-chief... The {v0336} must have no worthy men at all...
+
+@39101.2
+{C184}! With the commander-in-chief changing sides, this is no longer a battle.
+
+@39102
+Pursue them! Capture every enemy officer!
+
+@39102.1
+The enemy is starting to flee! Victory is ours!
+
+@39102.2
+{C184}! The enemy has lost the will to fight. Victory is ours!
+
+@39102.3
+{C184}! The enemy is fleeing in disarray. Victory is ours!
+

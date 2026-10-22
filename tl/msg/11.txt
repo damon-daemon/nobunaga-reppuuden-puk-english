@@ -1,0 +1,351 @@
+@11000
+At last we have arrived... So this is the land of gold, Zipangu...
+
+@11001
+May the love and light of Deus reach the people of Zipangu too, and fill their hearts...
+
+@11002
+In the 7th month of 1549, the Jesuit missionary Francis Xavier came to Japan. The religion and culture of the Nanban soon spread across the land...
+
+@11003
+The Jesuits have begun to preach Christianity! Trade in Nanban goods is now possible!
+
+@11004
+{C14}, an envoy from the Imperial Palace has arrived.
+
+@11005
+Lord {v0132}, an envoy from the Imperial Palace has arrived.
+
+@11006
+Well, well... You are most welcome. And what brings you here today?
+
+@11007
+It has been decided to appoint you Shogun. We do hope you will accept.
+
+@11008
+Accept the private decree appointing you Shogun?
+
+@11009
+What... Me, Shogun? It is an honour far beyond one such as I... I humbly accept.
+
+@11010
+His Majesty earnestly wishes for peace in the realm. We are counting on you.
+
+@11011
+Yes, sir!
+
+@11012
+{v0132} has become Shogun! The vassals seem delighted.
+
+@11013
+The burden is too heavy for me. Forgive me, but I must humbly decline.
+
+@11014
+{v0232}, that is most regrettable.
+
+@11015
+{v0132} has declined the edict naming them Shogun. The vassals seem displeased.
+
+@11016
+{C14}, {v0332} has arrived as an envoy from the Shogun's house.
+
+@11017
+Lord {v0132}, {v0232} has arrived as an envoy from the Shogun's house.
+
+@11018
+Well, well... You are most welcome. And what brings you here today?
+
+@11019
+His Highness the Shogun wishes to appoint you {v6f}. We do hope you will accept.
+
+@11020
+It is an honour far beyond one such as I... I humbly accept.
+
+@11021
+We trust you will continue to guard and serve His Highness. We are counting on you.
+
+@11022
+Yes, sir!
+
+@11023
+{v0132} has been appointed {v6f}! The vassals seem delighted.
+
+@11024
+{v0132} has apparently been appointed {v6f}.
+
+@11025
+{C14}, congratulations on unifying {v70}{v71}.
+
+@11025.1
+{C14}, at last we have unified {v70}{v71}.
+
+@11026
+Yes, this marks the end of a chapter. I intend to take this occasion to style myself {v6f}.
+
+@11027
+What! {C14} as {v6f}... I feel as if all our toil has been rewarded.
+
+@11027.1
+{C192}, is that so! Everyone will be overjoyed.
+
+@11028
+{C13}, I shall need you all to keep working your hardest. I am counting on you.
+
+@11029
+Yes, sir!
+
+@11030
+Lord {v0234}, I hear you have managed to unify {v70}{v71}.
+
+@11031
+Yes. I intend to take this occasion to style myself {v6f}.
+
+@11032
+Oh... {v6f}, is it... And of what use is such a post in this day and age?
+
+@11033
+To keep one's vassals bound, one must use every authority there is. Please understand my troubles.
+
+@11034
+...
+
+@11035
+{v0132} has assumed the title of {v6f}.
+
+@11036
+{v0132} has apparently assumed the title of {v6f}.
+
+@11037
+Ah, {C13}! How did it go? Did you get the Ranjatai?
+
+@11038
+...Forgive me. The men of Todaiji say an imperial permit is needed. I came to report first...
+
+@11039
+What is the meaning of bringing troops into these grounds! Do you know this is Todaiji, you ruffians!
+
+@11040
+I am {v0132}, retainer of the {v0333}! By my lord's command I have come for the Ranjatai, Todaiji's treasured incense!
+
+@11041
+What? {v0334} wants the Ranjatai...? Hahaha! How amusing! ...Listen well, {v0234}.
+
+@11042
+The Ranjatai is held in trust from the Imperial Court. Without an imperial permit, no one may touch it.
+
+@11043
+If {v0334} wants the Ranjatai so badly, go back and say: obtain an imperial permit granting it from His Majesty!
+
+@11044
+Though not even Lord Taira no Kiyomori nor Lord Minamoto no Yoritomo could win that permit. Will {v0334} fare better?
+
+@11045
+...Very well. I shall convey your words to Lord {v0334} without fail.
+
+@11046
+...That is how it stands. What will you do?
+
+@11047
+Send an envoy to the Imperial Court asking for the Ranjatai?
+
+@11048
+I see. Then send an envoy to the Palace at once and petition for the Ranjatai.
+
+@11049
+If I obtain the Ranjatai, it will prove that the Court ranks me above even Lord Kiyomori and Lord Yoritomo.
+
+@11050
+In other words, a sign that I am recognised as master of the realm. Winning the Ranjatai is worth a million soldiers.
+
+@11051
+Understood! I shall go to the Palace as envoy at once.
+
+@11052
+News that {v0132} had asked for the Ranjatai quickly spread across the land.
+
+@11053
+Many daimyo laughed and mocked {v0134} for such folly. And yet...
+
+@11054
+Wh-what!? The Palace has granted {v0234} a permit to cut a piece of the Ranjatai!?
+
+@11055
+H-how can that be!! I-I cannot believe it!!
+
+@11056
+That {v0234}... Putting pressure on His Majesty! What irreverence!!
+
+@11057
+Against all expectations, {v0134} received an imperial permit to cut a piece of the Ranjatai, and set off for Todaiji at once...
+
+@11058
+I am {v0132}!! By imperial permit I have come to receive the Ranjatai!
+
+@11059
+Ugh... If you have a permit, there is nothing to be done. I shall show you to the Shosoin.
+
+@11060
+Hmph... So this is the Ranjatai. Carry it to {v0b32}! It will be cut inside the castle!
+
+@11061
+Wait! The Ranjatai must never leave these grounds! It may not be taken from this temple!
+
+@11062
+Where I cut it is my own affair. Would you scorn the imperial permit? Men! We are leaving!
+
+@11063
+That {v0234}... Such arrogance...
+
+@11064
+...And so {v0132} succeeded in cutting a piece of the Ranjatai.
+
+@11065
+The affair shocked the other daimyo: before {v0134}'s power, even the Imperial Court could be made to obey...
+
+@11066
+I have no time for the Ranjatai now. {C13}! Forget this matter. I shall forget it too.
+
+@11068
+Lord {v0132}, a missionary has come to see you.
+
+@11069
+Well, well... You are welcome to this humble place. And what brings you here today?
+
+@11069.1
+I am busy. State your business quickly.
+
+@11069.2
+A missionary... What a rare guest. And what brings you to my castle today?
+
+@11070
+I wish to ask permission to preach Christianity in your lands, Lord {v0132}.
+
+@11070.1
+I have come from far away to spread the teachings of Deus to as many people as I can.
+
+@11070.2
+I wish to give light to the people of Zipangu... Please, allow me to preach.
+
+@11071
+Allow Christian missionary work?
+
+@11072
+If that is your wish, I have no objection. You have my permission. Please make yourself at home...
+
+@11072.1
+...Do as you please. But at the first sign of trouble, you will be driven from my lands.
+
+@11072.2
+I may allow it. But I shall expect something in return.
+
+@11073
+Thank you very much. From now on, merchants will handle the goods of my homeland for you.
+
+@11074
+Christianity has spread in the {v0133} lands.
+
+@11075
+I would like to allow it, but many of my vassals still resent the Christian faith... I am sorry, but I must ask you to refrain.
+
+@11075.1
+Get out! Leave now, or your head will part from your body!
+
+@11075.2
+I have no interest in the Christian faith. Try elsewhere.
+
+@11076
+It cannot be helped... It must mean my faith is not yet strong enough.
+
+@11077
+The missionary has left.
+
+@11078
+A missionary seems to be visiting the {v0133} lands.
+
+@11079
+Lord {v0132}, a gunsmith by trade has come to {v0138}.
+
+@11080
+So you make guns for a living. I have long wished to meet an expert in that craft. Now, what is your business today?
+
+@11080.1
+And just how useful are guns supposed to be... Well, never mind. I am busy, so state your business quickly.
+
+@11080.2
+A gunsmith... What a rare guest. And what brings you here today?
+
+@11081
+Fighting with spears and bows is a thing of the past. This is the age of the gun. Hire me and you will not regret it.
+
+@11081.1
+Guns bought from merchants come dear. Take us into your service and you need never buy from them again.
+
+@11081.2
+Please take me into your service. I shall surely prove useful to you, Lord {v0234}.
+
+@11082
+Take this person into service?
+
+@11083
+I have been waiting for someone like you. Indeed, I must ask you: please stay with our house.
+
+@11083.1
+Do as you please. But I will tolerate no misconduct.
+
+@11083.2
+I may allow it. But I shall expect something in return.
+
+@11084
+I am most grateful. My lord, from now on please order your men to build a "Gunsmith Village".
+
+@11085
+Gun production has begun in the {v0133} lands.
+
+@11086
+...I am truly sorry, but let me think on it a while longer.
+
+@11086.1
+Get out! Leave now, or your head will part from your body!
+
+@11086.2
+I have no interest in guns at present. Forgive me, but try elsewhere.
+
+@11087
+Is that so... So {v0234} is another who cannot see where the times are heading.
+
+@11088
+The gunsmith has left.
+
+@11089
+A gunsmith seems to be visiting the {v0133} lands.
+
+@11090
+{C13}, I have something to discuss with you today. The villages in my lands can house no more troops. Is there a way to increase them?
+
+@11091
+How about opening a free market? If the castle town prospers, ronin will naturally gather there, which should mean more troops.
+
+@11092
+Accept {v0232}'s advice and allow a free market to be built?
+
+@11093
+{C192}, a fine idea. So there is such a way. I shall take {C13}'s advice at once.
+
+@11094
+I am most grateful that you heed my humble opinion.
+
+@11095
+{v0132} has given permission to build a free market.
+
+@11096
+Hmm... I cannot quite agree with that. Is there not a better way?
+
+@11097
+Is that so. Then I shall think of another way.
+
+@11098
+{v0132} did not allow a free market to be built.
+
+@11099
+{v0132} has given permission to build a free market.
+

@@ -1,0 +1,327 @@
+# Image English: FILE.tim[.spot]<TAB>text (ASCII); see tools/gfx.py
+# MDATA1/MAINWIN.11: main-map command bar, spot = command cell (also drawn into #12, highlighted).
+# Bar 0-6; Deploy 7-11; Info 12-18; Intrigue 19-24; Diplomacy 25-31; Court 32-36; Castle 37-40; Daimyo 41-44.
+# One pixfont line, <= 40 px (gfx.CMD_W; tight pairs are kerned by 1 px when needed).
+MDATA1/MAINWIN.11.0	Deploy
+MDATA1/MAINWIN.11.1	Info
+MDATA1/MAINWIN.11.2	Intrigue
+MDATA1/MAINWIN.11.3	Diplo.
+MDATA1/MAINWIN.11.4	Court
+MDATA1/MAINWIN.11.5	Castle
+MDATA1/MAINWIN.11.6	Daimyo
+MDATA1/MAINWIN.11.7	Corps
+MDATA1/MAINWIN.11.8	Develop
+MDATA1/MAINWIN.11.9	Build
+MDATA1/MAINWIN.11.10	Dispatch
+MDATA1/MAINWIN.11.11	Summon
+MDATA1/MAINWIN.11.12	Daimyo
+MDATA1/MAINWIN.11.13	Province
+MDATA1/MAINWIN.11.14	Castle
+MDATA1/MAINWIN.11.15	Officer
+MDATA1/MAINWIN.11.16	Corps
+MDATA1/MAINWIN.11.17	Develop
+MDATA1/MAINWIN.11.18	Build
+MDATA1/MAINWIN.11.19	Incite
+MDATA1/MAINWIN.11.20	Revolt
+MDATA1/MAINWIN.11.21	Rumours
+MDATA1/MAINWIN.11.22	Sway
+MDATA1/MAINWIN.11.23	Murder
+MDATA1/MAINWIN.11.24	Plots
+MDATA1/MAINWIN.11.25	Alliance
+MDATA1/MAINWIN.11.26	Marry
+MDATA1/MAINWIN.11.27	Absorb
+MDATA1/MAINWIN.11.28	Demand
+MDATA1/MAINWIN.11.29	Tribute
+MDATA1/MAINWIN.11.30	Break
+MDATA1/MAINWIN.11.31	Get Aid
+MDATA1/MAINWIN.11.32	Title
+MDATA1/MAINWIN.11.33	Outlaw
+MDATA1/MAINWIN.11.34	Pardon
+MDATA1/MAINWIN.11.35	Present
+MDATA1/MAINWIN.11.36	Slander
+MDATA1/MAINWIN.11.37	Recruit
+MDATA1/MAINWIN.11.38	Buy
+MDATA1/MAINWIN.11.39	Sell
+MDATA1/MAINWIN.11.40	Delegate
+MDATA1/MAINWIN.11.41	Retire
+MDATA1/MAINWIN.11.42	Betroth
+MDATA1/MAINWIN.11.43	Reward
+MDATA1/MAINWIN.11.44	Banish
+# MDATA1/KANKYOU: new-game settings buttons (each spot = dim + lit cell). #0: 4x5 cells of 96x24,
+# spot = row*2 + pair (Vibration, Sound, Domains/Borders, Difficulty, Reg. Officers/Items/Past Heroes).
+MDATA1/KANKYOU.0.0	On
+MDATA1/KANKYOU.0.1	Off
+MDATA1/KANKYOU.0.2	Stereo
+MDATA1/KANKYOU.0.3	Mono
+MDATA1/KANKYOU.0.4	Show
+MDATA1/KANKYOU.0.5	Hide
+MDATA1/KANKYOU.0.6	Beginner
+MDATA1/KANKYOU.0.7	Advanced
+MDATA1/KANKYOU.0.8	Appear
+MDATA1/KANKYOU.0.9	Absent
+# #1: 7x2 cells of 64x24: Text Speed (short/normal/long display time), Own Battles (watch / decide
+# each time / command yourself / skip).
+MDATA1/KANKYOU.1.0	Fast
+MDATA1/KANKYOU.1.1	Normal
+MDATA1/KANKYOU.1.2	Slow
+MDATA1/KANKYOU.1.3	Watch
+MDATA1/KANKYOU.1.4	Ask
+MDATA1/KANKYOU.1.5	Command
+MDATA1/KANKYOU.1.6	Skip
+# IDATA1/NEWGAME.0: main menu bars (each spot = lit + dim cell)
+IDATA1/NEWGAME.0.0	Load Data
+IDATA1/NEWGAME.0.1	Normal Play
+IDATA1/NEWGAME.0.2	Short Play
+IDATA1/NEWGAME.0.3	New Daimyo Play
+IDATA1/NEWGAME.0.4	Register Officers & Treasures
+IDATA1/NEWGAME.0.5	Imagawa's Ambition: Tutorial
+IDATA1/NEWGAME.0.6	Event Gallery
+IDATA1/NEWGAME.0.7	BGM Mode
+# IDATA1/SCENARIO.0: scenario bars "number  date^title" (title column after 112 px)
+IDATA1/SCENARIO.0.0	Scenario 0  Mar 1546^Nobunaga Comes of Age
+IDATA1/SCENARIO.0.1	Scenario 1  Mar 1551^Nobunaga Takes Over
+IDATA1/SCENARIO.0.2	Scenario 2  May 1560^Battle of Okehazama
+IDATA1/SCENARIO.0.3	Scenario 3  Sep 1570^Encircling Nobunaga
+IDATA1/SCENARIO.0.4	Scenario 4  Sep 1577^Battle of Tedorigawa
+IDATA1/SCENARIO.0.5	Scenario 5  Mar 1582^The Honnoji Incident
+IDATA1/SCENARIO.0.6	Scenario 6  Apr 1583^Battle of Shizugatake
+IDATA1/SCENARIO.0.7	Scenario 7  Mar 1584^Komaki-Nagakute
+IDATA1/SCENARIO.0.8	Scenario 8  Jan 1586^Kyushu Campaign
+IDATA1/SCENARIO.0.9	Scenario 9  Nov 1589^Odawara Campaign
+IDATA1/SCENARIO.0.10	Scenario 10  Sep 1570^War of Kings
+# IDATA1/SCENARIO.1: mode menu (new game / load / tutorial, three copies)
+IDATA1/SCENARIO.1.0	New Game
+IDATA1/SCENARIO.1.1	Load Data
+IDATA1/SCENARIO.1.2	Imagawa's Ambition: Tutorial
+IDATA1/SCENARIO.1.3	New Game
+IDATA1/SCENARIO.1.4	Load Data
+IDATA1/SCENARIO.1.5	Imagawa's Ambition: Tutorial
+IDATA1/SCENARIO.1.6	New Game
+# IDATA1/NEWDYOU.0 (+#1 dim copy): new-daimyo start menu
+IDATA1/NEWDYOU.0.0	Fictional Start
+IDATA1/NEWDYOU.0.1	Rebellion Start
+IDATA1/NEWDYOU.0.2	Successor Start
+# CDATA1/COMMON: 16x16 label tiles (tinyfont 3x5 codes), officer screens
+IDATA1/BGMSEL.0.0	1
+IDATA1/BGMSEL.0.1	2
+IDATA1/BGMSEL.0.2	3
+IDATA1/BGMSEL.0.3	4
+IDATA1/BGMSEL.0.4	5
+IDATA1/BGMSEL.0.5	6
+IDATA1/BGMSEL.0.6	7
+IDATA1/BGMSEL.0.7	8
+IDATA1/BGMSEL.0.8	9
+IDATA1/BGMSEL.0.9	10
+IDATA1/BGMSEL.0.10	11
+IDATA1/BGMSEL.0.11	12
+IDATA1/BGMSEL.0.12	13
+IDATA1/BGMSEL.0.13	14
+IDATA1/BGMSEL.0.14	15
+IDATA1/BGMSEL.0.15	16
+IDATA1/BGMSEL.0.16	17
+IDATA1/BGMSEL.0.17	18
+IDATA1/BGMSEL.0.18	19
+IDATA1/BGMSEL.0.19	20
+IDATA1/BGMSEL.0.20	21
+IDATA1/BGMSEL.0.21	22
+IDATA1/BGMSEL.0.22	23
+IDATA1/BGMSEL.0.23	24
+CDATA1/COMMON.22.0	BRF
+CDATA1/COMMON.22.1	DET
+CDATA1/COMMON.26.0	YET
+CDATA1/COMMON.26.1	DID
+CDATA1/COMMON.31.0	FRM
+CDATA1/COMMON.31.1	COM
+CDATA1/COMMON.31.2	BLD
+CDATA1/COMMON.31.3	REC
+CDATA1/COMMON.31.4	DIP
+CDATA1/COMMON.34.0	INF
+CDATA1/COMMON.34.1	CAV
+CDATA1/COMMON.34.2	GUN
+CDATA1/COMMON.34.3	NAV
+CDATA1/COMMON.41.0	MAR
+CDATA1/COMMON.41.1	ALY
+CDATA1/COMMON.42.0	POL
+CDATA1/COMMON.42.1	WAR
+CDATA1/COMMON.42.2	CMD
+CDATA1/COMMON.42.3	INT
+# Battle marks (16x16 one-kanji tiles, tinyfont codes): siege attacker/defender side marks (lit, dim),
+# formation stance defend/move/attack, mid-map castle marks disaster / done
+WDATA1/WARMARK.34.0	ATK
+WDATA1/WARMARK.34.1	ATK
+WDATA1/WARMARK.51.0	DEF
+WDATA1/WARMARK.51.1	DEF
+WDATA1/WJINKEI.0.0	DEF
+WDATA1/WJINKEI.4.0	MOV
+WDATA1/WJINKEI.5.0	ATK
+MDATA1/MIDMAP.2.0	DMG
+MDATA1/MIDMAP.2.1	DID
+# EDATA editor (notes/gfx_edata.md): label strips (grey = normal; gold copies via ALIAS), buttons, register menu
+EDATA/BEPAGE1A.3.0	OK
+EDATA/BEPAGE1A.4.0	Cancel
+EDATA/BEPAGE1A.5.0	OK
+EDATA/BEPAGE1A.6.0	Cancel
+EDATA/BEPAGE1A.7.0	Next
+EDATA/BEPAGE1A.8.0	Back
+EDATA/BEPAGE1A.9.0	Next
+EDATA/BEPAGE1A.10.0	Back
+EDATA/BEPAGE1A.11.0	Name
+EDATA/BEPAGE1A.12.0	Father
+EDATA/BEPAGE1A.13.0	Change Face
+EDATA/BEPAGE1A.14.0	Life
+EDATA/BEPAGE1A.15.0	Sex
+EDATA/BEPAGE1A.16.0	Born
+EDATA/BEPAGE1B.11.0	Name
+EDATA/BEPAGE1B.12.0	Life
+EDATA/BEPAGE1B.13.0	Merit
+EDATA/BEPAGE1B.14.0	Joined
+EDATA/BEPAGE2.11.0	Pol.
+EDATA/BEPAGE2.12.0	War
+EDATA/BEPAGE2.13.0	Cmd.
+EDATA/BEPAGE2.14.0	Intel
+EDATA/BEPAGE2.15.0	Inf.
+EDATA/BEPAGE2.16.0	Cav.
+EDATA/BEPAGE2.17.0	Guns
+EDATA/BEPAGE2.18.0	Navy
+EDATA/BEPAGE3.11.0	Farm
+EDATA/BEPAGE3.12.0	Comm.
+EDATA/BEPAGE3.13.0	Build
+EDATA/BEPAGE3.14.0	Recruit
+EDATA/BEPAGE3.15.0	Diplo.
+EDATA/BEPAGE3.16.0	Volley
+EDATA/BEPAGE3.17.0	Firepot
+EDATA/BEPAGE3.18.0	Charge
+EDATA/BEPAGE3.19.0	M.Guns
+EDATA/BEPAGE4.11.0	Ninja
+EDATA/BEPAGE4.12.0	Tea
+EDATA/BEPAGE4.13.0	Sword
+EDATA/BEPAGE4.14.0	Monk
+EDATA/BEPAGE4.15.0	Crane
+EDATA/BEPAGE4.16.0	Scale
+EDATA/BEPAGE4.17.0	Geese
+EDATA/BEPAGE4.18.0	Moon
+EDATA/BEPAGE4.19.0	Yoke
+EDATA/BEPAGE4.20.0	Snake
+EDATA/BEPAGE4.21.0	Arrow
+EDATA/BEPAGE4.22.0	Circle
+EDATA/BEPAGE5.11.0	Speech
+EDATA/BEPAGE5.12.0	Compat.
+EDATA/BEPAGE5.13.0	Duty
+EDATA/BEPAGE5.14.0	Max Duty
+EDATA/BEPAGE5.15.0	Mindset
+EDATA/BEPAGE5.16.0	Prest.
+EDATA/BEPAGE5.17.0	Christianity
+EDATA/BEPAGE5.18.0	Kyoto Drive
+EDATA/BEPAGE6.3.0	Name
+EDATA/BEPAGE6.4.0	Father
+EDATA/BEPAGE6.5.0	Sex
+EDATA/BEPAGE6.6.0	Born
+EDATA/DED.0.0	Fame
+EDATA/DED.0.1	Amity
+EDATA/DED.0.2	Ironclad
+EDATA/DED.0.3	Court
+EDATA/DED.0.4	Cannon
+EDATA/DED.3.0	OK
+EDATA/DED.3.1	Cancel
+EDATA/KED.0.0	Name
+EDATA/KED.1.0	Change CG
+EDATA/KED.2.0	Grade
+EDATA/KED.3.0	Owner
+EDATA/KED.4.0	Type
+EDATA/KED.5.0	Stat Boost
+EDATA/KED.6.0	Unit Boost
+EDATA/SED.0.0	Def.
+EDATA/SED.0.1	Gold
+EDATA/SED.0.2	Rice
+EDATA/SED.0.3	Troops
+EDATA/SED.0.4	Guns
+EDATA/SED.0.5	Horses
+EDATA/EDCOMMON.0.0	OK
+EDATA/EDCOMMON.0.1	Cancel
+EDATA/EDCOMMON.1.0	OK
+EDATA/EDCOMMON.1.1	Cancel
+EDATA/MDMAIN.0.0	Register New Officer
+EDATA/MDMAIN.0.1	Register New Treasure
+EDATA/MDMAIN.0.2	Save Registered Data
+EDATA/MDMAIN.0.3	Load Registered Data
+EDATA/MDMAIN.2.0	Create New Officer
+EDATA/MDMAIN.2.1	Edit New Officer
+EDATA/MDMAIN.2.2	Delete New Officer
+EDATA/MDMAIN.4.0	Create New Treasure
+EDATA/MDMAIN.4.1	Edit New Treasure
+EDATA/MDMAIN.4.2	Delete New Treasure
+# TDATA1 tutorial (notes/gfx_tdata.md). TMENU.0: title bars (lit + dim); TMENU.1: chapters (lit + dim),
+# single-line short forms (user): full titles Strategy Screen, Land Development, Foreign Affairs, Organise Corps,
+# Council of War, Battle Screen
+TDATA1/TMENU.0.0	Imagawa's Ambition: Game Flow
+TDATA1/TMENU.0.1	Reppuuden Glossary: Game Keywords
+TDATA1/TMENU.1.0	Strategy
+TDATA1/TMENU.1.1	Develop
+TDATA1/TMENU.1.2	Personnel
+TDATA1/TMENU.1.3	Diplomacy
+TDATA1/TMENU.1.4	Corps
+TDATA1/TMENU.1.5	Council
+TDATA1/TMENU.1.6	Battle Scr.
+TDATA1/TMENU.1.7	Battle
+TDATA1/TMENU.1.8	Aftermath
+# TPCMENU.0: glossary topics, spot 2r = left column, 2r+1 = right column of row r (#1 = brown copy via ALIAS)
+TDATA1/TPCMENU.0.0	Victory and Defeat
+TDATA1/TPCMENU.0.1	Prestige
+TDATA1/TPCMENU.0.2	Ranks and Troops
+TDATA1/TPCMENU.0.3	Officer Traits
+TDATA1/TPCMENU.0.4	Castles and Domains
+TDATA1/TPCMENU.0.5	Development Terrain
+TDATA1/TPCMENU.0.6	Domestic Plan
+TDATA1/TPCMENU.0.7	Unit Types
+TDATA1/TPCMENU.0.8	Corps Size
+TDATA1/TPCMENU.0.9	Small Field Battle
+TDATA1/TPCMENU.0.10	Medium Field Battle
+TDATA1/TPCMENU.0.11	Large Field Battle
+TDATA1/TPCMENU.0.12	Medium Siege
+TDATA1/TPCMENU.0.13	Large Siege
+TDATA1/TPCMENU.0.14	Naval Battle
+TDATA1/TPCMENU.0.15	Ending a Battle
+TDATA1/TPCMENU.0.16	Officer Rankings
+TDATA1/TPCMENU.0.17	Register Officers
+TDATA1/TPCMENU.0.18	Register Treasures
+TDATA1/TPCMENU.0.19	Editor Functions
+TDATA1/TPCMENU.0.20	Short Play Mode
+TDATA1/TPCMENU.0.21	New Daimyo Play Mode
+# TMMARKER / TWMARKER: tutorial callouts (one plate each)
+TDATA1/TMMARKER.1	Prestige
+TDATA1/TMMARKER.2	Officers
+TDATA1/TMMARKER.3	Gold
+TDATA1/TMMARKER.4	Rice
+TDATA1/TMMARKER.5	Troops
+TDATA1/TMMARKER.6	Merchant
+TDATA1/TMMARKER.7	Ronin
+TDATA1/TMMARKER.8	Typhoon
+TDATA1/TMMARKER.9	Delegate
+TDATA1/TMMARKER.10	Main|Castle
+TDATA1/TMMARKER.11	Branch|Castle
+TDATA1/TMMARKER.12	Main Castle Domain
+TDATA1/TMMARKER.13	Branch Castle Domain
+TDATA1/TWMARKER.0	Weather
+TDATA1/TWMARKER.1	Wind
+TDATA1/TWMARKER.2	Attacking|Troops
+TDATA1/TWMARKER.3	Defending|Troops
+TDATA1/TWMARKER.4	Turn|Marker
+# TSTILL: stills shown in the tutorial text (8bpp): message box, PC-style command bars (spot 0 = bar title), arrows
+TDATA1/TSTILL.2	Lord Imagawa Yoshimoto, your orders?
+TDATA1/TSTILL.4.0	Strategy
+TDATA1/TSTILL.4.1	Deploy
+TDATA1/TSTILL.4.2	Info
+TDATA1/TSTILL.4.3	Intrigue
+TDATA1/TSTILL.4.4	Diplo.
+TDATA1/TSTILL.4.5	Court
+TDATA1/TSTILL.4.6	Castle
+TDATA1/TSTILL.4.7	Daimyo
+TDATA1/TSTILL.5.0	Deploy
+TDATA1/TSTILL.5.1	Corps
+TDATA1/TSTILL.5.2	Develop
+TDATA1/TSTILL.5.3	Build
+TDATA1/TSTILL.5.4	Dispatch
+TDATA1/TSTILL.5.5	Summon
+TDATA1/TSTILL.6	Main|Castle
+TDATA1/TSTILL.7	Branch|Castle
+TDATA1/TSTILL.8	Domain

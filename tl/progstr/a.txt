@@ -1,0 +1,401 @@
+# chunk a: PROG:800b2998 - PROG:800d9648 (data field names, map labels)
+PROG:800b723c	Next Topic
+PROG:800bfa14	Name
+PROG:800bfa1c	Face No.
+PROG:800bfa24	Daimyo
+PROG:800bfa30	Castle
+PROG:800bfa38	Status
+PROG:800bfa40	Kin
+PROG:800bfa48	Age
+PROG:800bfa50	Service
+PROG:800bfa58	Merit
+PROG:800bfa60	Loyal
+PROG:800bfa68	Politics
+PROG:800bfa70	War
+PROG:800bfa78	Intel
+PROG:800bfa80	Cmd.
+PROG:800bfa88	Inf.
+PROG:800bfa90	Cav.
+PROG:800bfa98	Guns
+PROG:800bfaa0	Navy
+PROG:800bfaa8	Action
+PROG:800bfab0	Sex
+PROG:800bfab8	Calling
+PROG:800bfac0	Court Title
+PROG:800bfac8	Duty
+PROG:800bfad0	Compat.
+PROG:800bfad8	Kin
+PROG:800bfae0	Algo
+PROG:800bfae8	Speech
+PROG:800bfaf0	Lifespan
+PROG:800bfaf8	Incite
+PROG:800bfb00	Incite Clan
+PROG:800bfb0c	Daimyo ID
+PROG:800bfb1c	Likes Inf.
+PROG:800bfb24	Likes Cav.
+PROG:800bfb2c	Likes Guns
+PROG:800bfb34	Ninja
+PROG:800bfb3c	Tea
+PROG:800bfb44	Sword
+PROG:800bfb4c	Monk
+PROG:800bfb54	Ninja (Item)
+PROG:800bfb60	Tea M. (Item)
+PROG:800bfb6c	Swords. (Item)
+PROG:800bfb78	Monk (Item)
+PROG:800bfb84	Ninja (Skill)
+PROG:800bfb90	Tea M. (Skill)
+PROG:800bfb9c	Swords. (Skill)
+PROG:800bfba8	Monk (Skill)
+PROG:800bfbb4	Volley
+PROG:800bfbbc	Charge
+PROG:800bfbc4	M. Guns
+PROG:800bfbcc	Fire Pot
+PROG:800bfbd4	Rebellion
+PROG:800bfbdc	Crane
+PROG:800bfbe4	Scale
+PROG:800bfbec	Geese
+PROG:800bfbf4	Moon
+PROG:800bfbfc	Yoke
+PROG:800bfc04	Snake
+PROG:800bfc0c	Arrow
+PROG:800bfc14	Circle
+PROG:800bfc1c	Views
+PROG:800bfc28	Outlook
+PROG:800bfc34	Christianity
+PROG:800bfc40	Farming XP
+PROG:800bfc4c	Commerce XP
+PROG:800bfc58	Building XP
+PROG:800bfc64	Military XP
+PROG:800bfc70	Dom. Counter
+PROG:800bfc7c	In Unit
+PROG:800bfc84	Domestic Unit
+PROG:800bfc90	Corps Unit
+PROG:800bfc9c	Famous
+PROG:800bfca4	Farm
+PROG:800bfcac	Comm.
+PROG:800bfcb4	Build
+PROG:800bfcbc	Recruit
+PROG:800bfcc4	Diplo.
+PROG:800bfccc	Served Under
+PROG:800bfcdc	Dead
+PROG:800bfce4	Birth Parent
+PROG:800bfcf0	Lord
+PROG:800bfd00	Defect To
+PROG:800bfd0c	Unit
+PROG:800bfd18	Corps
+PROG:800bfd24	Domestic
+PROG:800bfd30	Father ID
+PROG:800bfd38	Year Joined
+PROG:800bfd40	Max Duty
+PROG:800bfd4c	Unit Type
+PROG:800bfd54	Task
+PROG:800bfd60	Target
+PROG:800bfd68	Target Type
+PROG:800bfd70	Born
+PROG:800bfd78	Kyoto Drive
+PROG:800bfd84	Movement
+PROG:800bfd8c	Confusion
+PROG:800bfd94	Formations
+PROG:800bfd9c	Troops
+PROG:800bfda4	DW Data
+PROG:800bfdb0	Escort Troops
+PROG:800bfdb8	Aptitude
+PROG:800bfdc0	Cannon
+PROG:800bfdc8	Ironclad
+PROG:800bfdd0	C-in-C
+PROG:800bfdd8	Rice
+PROG:800bfde0	Horses
+PROG:800bfde8	Road Start
+PROG:800bfdf0	Road End
+PROG:800bfdf8	Mtd. Gunners
+PROG:800bfe04	Daimyo
+PROG:800bfe0c	Sr. Elder
+PROG:800bfe14	Elder
+PROG:800bfe1c	Commander
+PROG:800bfe24	General
+PROG:800bfe2c	Captain
+PROG:800bfe34	Independent
+PROG:800bfe3c	Ronin
+PROG:800bfe44	Not of Age
+PROG:800bfe4c	Unborn
+PROG:800bfe54	Ikko
+PROG:800bfe5c	Uprising
+PROG:800bfe64	Retired
+PROG:800bfe6c	Corps Unit
+PROG:800bfe7c	Domestic Unit
+PROG:800bfe8c	Coords
+PROG:800bfe9c	has retired
+PROG:800bfeac	has passed away
+PROG:800bfebc	-
+PROG:800bfec4	-
+PROG:800bff48	-
+PROG:800bff54	-
+PROG:800bff60	-
+PROG:800bff6c	-
+PROG:800bff78	-
+PROG:800bff84	-
+PROG:800bff90	-
+PROG:800bff9c	-
+PROG:800bffa8	-
+PROG:800bffb4	-
+PROG:800bffc8	-
+PROG:800bffdc	-
+PROG:800bfff0	-
+PROG:800c00b0	Loyal
+PROG:800c00b8	Merit
+PROG:800c00c0	Years
+PROG:800c00c8	Recruit this officer?
+PROG:800c00d8	Views
+PROG:800c00e0	Bio
+PROG:800c00e8	Items
+PROG:800c0124	Map
+PROG:800c012c	Independent
+PROG:800c0138	Ikko
+PROG:800c0140	Indep.
+PROG:800c0148	Kin
+PROG:800c0150	%d
+PROG:800c0158	---
+PROG:800c0160	%3d
+PROG:800c02f8	-
+PROG:800c0778	-
+PROG:800c07f4	Province
+PROG:800c07fc	Owner
+PROG:800c0804	Main
+PROG:800c080c	DW Data
+PROG:800c0814	Speciality
+PROG:800c081c	Spec. Income
+PROG:800c0828	Forts
+PROG:800c0830	Snow
+PROG:800c0838	Uprising
+PROG:800c0840	Harvest
+PROG:800c084c	Rice Supply
+PROG:800c0858	Rice Growth
+PROG:800c0864	Rice Price
+PROG:800c0870	Horse Supply
+PROG:800c087c	Horse Growth
+PROG:800c0888	Horse Price
+PROG:800c0894	Gun Supply
+PROG:800c08a0	Gun Growth
+PROG:800c08ac	Gun Price
+PROG:800c08b8	Snow Rate
+PROG:800c08c0	Prov. No.
+PROG:800c0fa8	Poor Crop
+PROG:800c0fb0	Good Crop
+PROG:800c0fb8	Famine
+PROG:800c0fe4	%M: Gold
+PROG:800c0ff0	%M: Rice
+PROG:800c1e9c	Clan
+PROG:800c1ea8	Daimyo
+PROG:800c1eb4	Hostile Clan
+PROG:800c1ec0	Daimyo
+PROG:800c1ec8	Base
+PROG:800c1ed0	Court Foe
+PROG:800c1ed8	Imp. Letter
+PROG:800c1ee0	Recomm.
+PROG:800c1ee8	Punish
+PROG:800c1ef0	Aid From
+PROG:800c1ef8	Amity
+PROG:800c1f00	Ally
+PROG:800c1f08	Wed
+PROG:800c1f10	Court
+PROG:800c1f18	Crest No.
+PROG:800c1f20	Castles
+PROG:800c1f28	Ofcrs.
+PROG:800c1f30	Troops
+PROG:800c1f38	Horses
+PROG:800c1f40	Guns
+PROG:800c1f48	Ironclads
+PROG:800c1f50	Cannon
+PROG:800c1f58	Prest.
+PROG:800c1f60	Gold
+PROG:800c1f68	Gold Balance
+PROG:800c1f74	Gold Income
+PROG:800c1f80	Gold Expense
+PROG:800c1f8c	Rice
+PROG:800c1f94	Rice Balance
+PROG:800c1fa0	Rice Income
+PROG:800c1fac	Rice Expense
+PROG:800c1fb8	Title
+PROG:800c1fc0	Post
+PROG:800c1fc8	Player
+PROG:800c1fd4	DW Data
+PROG:800c1fdc	Aid To
+PROG:800c1fe4	Provinces
+PROG:800c1fec	Daimyo Title
+PROG:800c1ff8	%s
+PROG:800d8f20	All
+PROG:800d906c	Cannot build on this terrain.
+PROG:800d9080	Mountains
+PROG:800d9088	Hills
+PROG:800d9090	Plains
+PROG:800d9098	Marsh
+PROG:800d90a0	Beach
+PROG:800d90a8	Palace
+PROG:800d90b4	Kyoto
+PROG:800d90bc	Hakata
+PROG:800d90c4	Lake Aoki
+PROG:800d90cc	Lake Ashi
+PROG:800d90d4	Lake Biwa
+PROG:800d90dc	Hachirogata
+PROG:800d90e4	Lake Hamana
+PROG:800d90ec	Lake Ikeda
+PROG:800d90f4	Lake Inawashiro
+PROG:800d9100	Kasumigaura
+PROG:800d9108	Kitaura
+PROG:800d9110	Nakaumi
+PROG:800d9118	Lake Ogawara
+PROG:800d9124	Lake Shinji
+PROG:800d912c	Lake Suwa
+PROG:800d9134	Lake Tazawa
+PROG:800d913c	Lake Towada
+PROG:800d9148	Mt. Tsurugi
+PROG:800d9150	Mt. Akagi
+PROG:800d9158	Mt. Akaishi
+PROG:800d9160	Mt. Amagi
+PROG:800d9168	Mt. Arafune
+PROG:800d9170	Mt. Arakawa
+PROG:800d9178	Mt. Arakai
+PROG:800d9180	Mt. Asahi
+PROG:800d9188	Mt. Asama
+PROG:800d9190	Mt. Asa
+PROG:800d9198	Mt. Aso
+PROG:800d91a0	Mt. Bandai
+PROG:800d91a8	Mt. Chokai
+PROG:800d91b0	Mt. Daibosatsu
+PROG:800d91bc	Mt. Daimonji
+PROG:800d91c8	Mt. Daisen
+PROG:800d91d0	Mt. Ena
+PROG:800d91d8	Mt. Fuji
+PROG:800d91e0	Mt. Futago
+PROG:800d91e8	Mt. Gassan
+PROG:800d91f0	Mt. Gomadan
+PROG:800d91fc	Mt. Shirane
+PROG:800d9204	Hachimantai
+PROG:800d920c	Mt. Hakkoda
+PROG:800d9218	Mt. Hakone
+PROG:800d9220	Mt. Hakuba
+PROG:800d9228	Mt. Haku
+PROG:800d9230	Mt. Haruna
+PROG:800d9238	Mt. Hashikami
+PROG:800d9240	Mt. Hayachine
+PROG:800d924c	Mt. Heike
+PROG:800d9254	Mt. Hiba
+PROG:800d925c	Mt. Hijiri
+PROG:800d9264	Mt. Hiko
+PROG:800d926c	Mt. Hiruzen
+PROG:800d9274	Mt. Hiuchi
+PROG:800d927c	Mt. Hodaka
+PROG:800d9284	Mt. Hotaka
+PROG:800d928c	Mt. Horaiji
+PROG:800d9298	Mt. Hyonosen
+PROG:800d92a0	Mt. Ibuki
+PROG:800d92a8	Mt. Ichifusa
+PROG:800d92b0	Mt. Iide
+PROG:800d92b8	Mt. Iimori
+PROG:800d92c0	Mt. Ikoma
+PROG:800d92c8	Mt. Ishizuchi
+PROG:800d92d0	Mt. Iwaki
+PROG:800d92d8	Mt. Iwate
+PROG:800d92e0	Mt. Jinkichi
+PROG:800d92e8	Mt. Koma
+PROG:800d92f0	Mt. Kaimon
+PROG:800d92f8	Mt. Kanmuri
+PROG:800d9300	Mt. Yari
+PROG:800d9308	Mt. Katamuki
+PROG:800d9310	Mt. Katsuragi
+PROG:800d9318	Mt. Kinpoku
+PROG:800d9320	Mt. Kinka
+PROG:800d9328	Mt. Kinpu
+PROG:800d9330	Mt. Kirishima
+PROG:800d9338	Mt. Kobushi
+PROG:800d9344	Mt. Kongo
+PROG:800d934c	Mt. Koya
+PROG:800d9354	Mt. Kumoso
+PROG:800d935c	Mt. Kunimi
+PROG:800d9364	Mt. Kurikoma
+PROG:800d936c	Mt. Kyo
+PROG:800d9374	Mt. Mahiru
+PROG:800d937c	Mt. Mikagura
+PROG:800d9388	Mt. Mimuro
+PROG:800d9390	Mt. Minobu
+PROG:800d9398	Mt. Myogi
+PROG:800d93a0	Mt. Myoko
+PROG:800d93a8	Mt. Naeba
+PROG:800d93b0	Mt. Nantai
+PROG:800d93b8	Mt. Nasu
+PROG:800d93c0	Mt. Norikura
+PROG:800d93c8	Mt. Nogo-Haku
+PROG:800d93d4	Mt. Ontake
+PROG:800d93dc	Odaigahara
+PROG:800d93e8	Mt. Oe
+PROG:800d93f0	Mt. Okue
+PROG:800d93f8	Mt. Omine
+PROG:800d9400	Mt. Otakine
+PROG:800d940c	Mt. Oto
+PROG:800d9414	Mt. Osorakan
+PROG:800d9420	Mt. Osore
+PROG:800d9428	Mt. Ogi
+PROG:800d9430	Mt. Rokko
+PROG:800d9438	Mt. Ryozen
+PROG:800d9440	Sakurajima
+PROG:800d9448	Mt. Sanbe
+PROG:800d9450	Sasagamine
+PROG:800d9458	Mt. Sefuri
+PROG:800d9460	Mt. Senjo
+PROG:800d9468	Mt. Shaka
+PROG:800d9474	Mt. Shiomi
+PROG:800d947c	Mt. Sobo
+PROG:800d9484	Mt. Suga
+PROG:800d9490	Mt. Taihei
+PROG:800d9498	Mt. Taishaku
+PROG:800d94a0	Mt. Takahara
+PROG:800d94a8	Mt. Takami
+PROG:800d94b0	Mt. Tanigawa
+PROG:800d94b8	Mt. Tanzawa
+PROG:800d94c0	Mt. Tate
+PROG:800d94c8	Mt. Togakushi
+PROG:800d94d0	Mt. Tsukuba
+PROG:800d94d8	Mt. Unzen
+PROG:800d94e0	Mt. Ushimawari
+PROG:800d94e8	Mt. Yamizo
+PROG:800d94f0	Yatsugatake
+PROG:800d94f8	Mt. Yone
+PROG:800d9500	Mt. Yoshino
+PROG:800d9508	Mt. Zao
+PROG:800d9510	River Mouth
+PROG:800d9518	River 1
+PROG:800d9520	River 2
+PROG:800d9528	River 3
+PROG:800d9530	River 4
+PROG:800d9538	River 5
+PROG:800d9540	River 6
+PROG:800d9548	River 7
+PROG:800d9550	River 8
+PROG:800d9558	River 9
+PROG:800d9560	River 10
+PROG:800d9568	River 11
+PROG:800d9570	River 12
+PROG:800d9578	River 13
+PROG:800d9580	River 14
+PROG:800d9588	Road
+PROG:800d9590	Road 1
+PROG:800d9598	Road 2
+PROG:800d95a0	Road 3
+PROG:800d95a8	Road 4
+PROG:800d95b0	Road 5
+PROG:800d95b8	Road 6
+PROG:800d95c0	Road 7
+PROG:800d95c8	Road 8
+PROG:800d95d0	Road 9
+PROG:800d95d8	Road 10
+PROG:800d95e4	Road 11
+PROG:800d95f0	Bridge 1
+PROG:800d95f8	Bridge 2
+PROG:800d9600	Paddy Lv1
+PROG:800d960c	Paddy Lv2
+PROG:800d9618	Paddy Lv3
+PROG:800d9624	Town Lv1
+PROG:800d962c	Town Lv2
+PROG:800d9634	Town Lv3
+PROG:800d963c	Gunsmith Village
+PROG:800d9648	Gold Mine Lv1

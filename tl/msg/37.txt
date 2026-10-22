@@ -1,0 +1,324 @@
+@37000
+Congratulations, {C14}. Word has just come that your lady has given birth to a girl.
+
+@37000.1
+{C14}! It is born! A healthy boy!
+
+@37000.2
+Good news, {C14}! Your lady has given birth. It is a boy!
+
+@37000.3
+Congratulations, {C14}. Word has just come that your lady has given birth to a boy.
+
+@37001
+Good news, {v0134}! A baby girl is born!
+
+@37001.1
+Good news, {v0134}! A baby boy is born!
+
+@37002
+{C192}, a son is born!
+
+@37002.1
+A son! Nothing could be better.
+
+@37002.2
+A son! Well done!
+
+@37002.3
+{C192}, what joyous news.
+
+@37003
+When he comes of age, he shall be called {v0234}.
+
+@37003.1
+When he is grown... I shall name him {v0234}.
+
+@37003.2
+His adult name shall be {v0234}.
+
+@37004
+{C37002} His childhood name... Yes, Bontenmaru! {C37003}
+
+@37004.1
+{C37002} His childhood name... Yes, Tokujumaru! The same as mine. {C37003}
+
+@37004.2
+{C37002} His childhood name... Yes, Fujimasa! When he takes holy orders, he shall be {v0234}.
+
+@37004.3
+{C37002} His childhood name... Yes, Tokujumaru! The same as mine. {C37003}
+
+@37004.4
+{C37002} His childhood name... Yes, Kokuomaru! {C37003}
+
+@37004.5
+{C37002} His childhood name... Yes, Kotsurumaru! {C37003}
+
+@37004.6
+{C37002} His childhood name... Yes, Senkumamaru! {C37003}
+
+@37004.7
+{C37002} His childhood name... Yes, Yonekikumaru! {C37003}
+
+@37004.8
+{C37002} Hmm... What a strange face. Right! His name is Kimyomaru, "Strange One"! {C37003}
+
+@37004.9
+{C37002} Hmm... Hair fit to tie like a tea whisk. Right! His name is Chasenmaru, "Tea Whisk"! {C37003}
+
+@37004.10
+{C37002} What day is it? The 7th of the 3rd month? Right! His name is Sanshichimaru, "Three-Seven"! {C37003}
+
+@37004.11
+{C37002} The last child was Sute, "Foundling"... Right! This one I will call Hiroi, "Found"! {C37003}
+
+@37004.12
+{C37002} This child is the precious heir of the {v0133}... His name is Takechiyo, like mine! {C37003}
+
+@37004.13
+{C37002} His childhood name... Yes, Ogimaru! {C37003}
+
+@37004.14
+{C37002} His childhood name... Yes, Choshomaru! {C37003}
+
+@37004.15
+{C37002} His childhood name... Yes, Tensaimaru! {C37003}
+
+@37004.16
+{C37002} His childhood name... Yes, Chiomaru! {C37003}
+
+@37004.17
+{C37002} His childhood name... Yes, Fukumatsumaru! {C37003}
+
+@37004.18
+{C37002} His childhood name... Yes, Tatsuchiyo! {C37003}
+
+@37004.19
+{C37002} His childhood name... Yes, Chojumaru! {C37003}
+
+@37004.20
+{C37002} His childhood name... Yes, Torakumamaru! {C37003}
+
+@37004.21
+{C37002} His childhood name... Yes, Chojumaru! {C37003}
+
+@37004.22
+{C37002} His childhood name... Yes, Sanboshi! {C37003}
+
+@37004.23
+{C37002} His childhood name... Yes, Nokemaru! {C37003}
+
+@37004.24
+{C37002} His childhood name... Yes, Umetsurumaru! {C37003}
+
+@37004.25
+{C37002} His childhood name... Yes, Umetsurumaru! The same as mine. {C37003}
+
+@37004.26
+{C37002} I will give him Magoichi, the name every head of our house has borne. {C37003}
+
+@37004.27
+{C37002} His childhood name... Yes, Saikikumaru! {C37003}
+
+@37004.28
+{C37002} His childhood name... Yes, Senzurumaru! {C37003}
+
+@37004.29
+{C37002} His childhood name... Yes, Komatsumaru! {C37003}
+
+@37004.30
+{C37002} His childhood name... Yes, Somyomaru! {C37003}
+
+@37004.31
+{C37002} His childhood name... Yes, Iwamaru! {C37003}
+
+@37004.32
+{C37002} His childhood name... Yes, Isejumaru! {C37003}
+
+@37004.33
+Really! What joyous news! When he comes of age, I shall name him {v0234}. Let us celebrate!
+
+@37005
+A daughter, Princess {v0234}, was born to {v0132}.
+
+@37005.1
+A son, {v0234}, was born to {v0132}.
+
+@37006
+Lord {v0232}, {v0132} has joined your retainers at {v0138}.
+
+@37007
+I, {v0134}, have come of age at last. I will follow your brave example, {C14}, and not shame you.
+
+@37007.1
+I, {v0134}, have come of age at last. I am glad to serve under you, {C14}, whom I revere.
+
+@37007.2
+{C14}, I have just completed my coming-of-age ceremony. From now on I will work hard to help you, {C14}.
+
+@37008
+I, {v0134}, have come of age. Now I too am truly one of the {v0236} family.
+
+@37008.1
+I am {v0132}. I mean to serve the {v0236} to my last breath.
+
+@37008.2
+I am {v0132} of {v0138}. I will surely be of use.
+
+@37008.3
+I am {v0132}. I have come to serve the {v0236}.
+
+@37008.4
+I am {v0132} of {v0138}. I mean to give my all for the {v0136}.
+
+@37009
+Lord {v0132}, the princess's hair-tying ceremony is over.
+
+@37010
+Raise this princess as a warrior?
+
+@37011
+{v0234}, I am glad your hair-tying ceremony went well.
+
+@37012
+Foster father, from this day I too will strive as a warrior's daughter to bring no shame to the {v0236} name.
+
+@37012.1
+Father, from now on I too will strive as a warrior's daughter to bring no shame to the {v0236} name.
+
+@37013
+{C7}, I see our house is short of hands, and you are troubled...
+
+@37014
+...You must give up a woman's happiness... This too is for the {v0136}.
+
+@37015
+I have long wished to be of some use to you, Lord {v0234}...
+
+@37015.1
+I have long wished to be of some use to you, {C7}...
+
+@37015.2
+I have wished to see this age of war ended as soon as possible...
+
+@37015.3
+I have been looking forward to this day...
+
+@37016
+Lord {v0132}, {v0232}'s daughter has completed her hair-tying ceremony.
+
+@37017
+Please choose the princess's name.
+
+@37018
+{v0132}, retired officer of the {v0152}, has died.
+
+@37018.1
+{v0132}, officer of {v0138}, has died.
+
+@37019
+To meet this day without seeing the realm united...
+
+@37020
+Forgive me, {C14}... I go to the next world ahead of you. Forgive me for dying first...
+
+@37020.1
+Man's fifty years, beside the heavens, are but a dream, an illusion... My life was truly a dream...
+
+@37020.2
+Fallen like dew, vanished like dew, such is my life... Like dew on the grass, my life fades. How bitter...
+
+@37020.3
+Life is like walking a long road with a heavy load... At last the time has come to set it down...
+
+@37020.4
+Forgive me, {C14}... I, {v0132}... can no longer be of use to you...
+
+@37020.5
+{C14}... It seems the time has come to part. I will watch over your deeds from the grave...
+
+@37020.6
+{C14}... my life seems to be at its end. That I can serve you no more is my deepest regret...
+
+@37020.7
+{C14}, you must not weep. Everyone has a lifespan, and mine has simply run out. Smile and see me off.
+
+@37021
+{v0134}, wife of {v0232} of the {v0236}, has died.
+
+@37022
+With the death of the princess given in marriage, the marriage tie between the {v3d32} and the {v3e32} has ended.
+
+@37023
+{v0132}, princess of the {v3d32}, has died.
+
+@37024
+{v0134}, princess of {v0232}, has died.
+
+@37025
+The marriage tie between the {v3d32} and the {v3e32} has ended.
+
+@37026
+{C24} has served splendidly of late. Why not promote them to {v6f} as a pillar of the {v0237} clan?
+
+@37027
+{C14}, {C24}'s service merits the rank of {v6f}. Why not promote them?
+
+@37027.1
+{C24} seems to be outgrowing their present rank. Why not promote them to {v6f}?
+
+@37027.2
+{C14}, I believe {C24}'s service merits the rank of {v6f}.
+
+@37027.3
+{C24} has served with great devotion. Why not promote them to {v6f} as a reward?
+
+@37027.4
+Leaving a loyal vassal like {C24} at the present rank would cast doubt on your judgement, {C14}. Please promote them to {v6f}.
+
+@37028
+{v0132} seems to have earned enough merit for promotion to {v6f}.
+
+@37028.1
+{v0132} has earned enough merit to be promoted to {v6f}.
+
+@37029
+{C13}, from today I raise you to {v6f}. Go on helping me as a pillar of the {v0136}.
+
+@37030
+{C13}, your loyal service is admirable. I therefore raise you to {v6f}.
+
+@37030.1
+{C13}, you have worked hard. Expecting still greater service, I raise you to {v6f}.
+
+@37030.2
+{C13}, I raise you to {v6f}. Let it spur you to serve me even better.
+
+@37030.3
+{C13}, you have served our house well. In thanks I raise you to {v6f}. I count on you.
+
+@37030.4
+{C13}, I raise you to {v6f}. Go on working hard for the {v0136}.
+
+@37031
+I am most grateful. I will give my all for you, {C7}, and for us, the {v0236}.
+
+@37031.1
+Yes! I am most grateful. I, {v0132}, will serve all the more loyally.
+
+@37031.2
+An honour far beyond my worth... I will serve with still greater loyalty.
+
+@37031.3
+Such an undeserved favour... I, {v0132}, am overwhelmed.
+
+@37031.4
+I am most grateful. As {v6f}, I mean to work all the harder for you, {C14}.
+
+@37031.5
+I am truly glad my work is recognised. I hope to keep helping the {v0136} prosper.
+
+@37032
+Very well. I shall give this child the name {v0234}.
+

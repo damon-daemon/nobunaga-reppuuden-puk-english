@@ -1,0 +1,267 @@
+@15000
+Watch this battle?
+
+@15001
+{v0132} of the {v0232} corps has defected.
+
+@15002
+{v0132} of the {v0232} corps has died.
+
+@15003
+There are no troops in {v6f}.
+
+@15004
+There are no officers in {v6f}.
+
+@15005
+Up to {v65} units without officers can be organised into the corps.
+
+@15006
+Cancelling the sortie means defeat. Are you sure?
+
+@15007
+Lord {v0132}, send reinforcements for the {v0233} attack on {v0b32}?
+
+@15008
+Lord {v0132}, send reinforcements to {v0b32} of the {v0233}?
+
+@15009
+From which castle will you send reinforcements?
+
+@15010
+Cancel sending reinforcements?
+
+@15011
+Choose 5 officers to sortie, including the commander-in-chief.
+
+@15012
+Choose 10 officers to sortie, including the commander-in-chief.
+
+@15013
+Choose 20 officers to sortie, including the commander-in-chief.
+
+@15014
+Appoint a supply unit.
+
+@15015
+No strategist has been appointed. Is that all right?
+
+@15016
+You can still appoint more deputies. Is that all right?
+
+@15017
+Choose the unit to serve as strategist.
+
+@15018
+Choose officers to serve as deputies (up to {v65}).
+
+@15019
+Choose the unit to carry the rice.
+
+@15020
+End the council of war?
+
+@15021
+Deploy the unit of commander-in-chief {v0132}.
+
+@15022
+Deploy the unit of deputy {v0132}.
+
+@15023
+Deploy the unit of strategist {v0132}.
+
+@15024
+Deploy {v0132}'s supply unit.
+
+@15025
+Deploy {v0132}'s unit.
+
+@15026
+You cannot deploy on that tile.
+
+@15027
+Choose the unit's facing.
+
+@15028
+Is this position all right?
+
+@15029
+...Here I come, {v0234}!
+
+@15029.1
+...Forward, {C218}!
+
+@15029.2
+Attack, {C218}!
+
+@15030
+...Here I am, {v0234}!
+
+@15030.1
+...A worthy opponent!
+
+@15030.2
+...Come near and be cut down!
+
+@15031
+Everyone, our foe is the pride of the {v0236}. Do not let your guard down for a moment!
+
+@15031.1
+I am rather confident of my skill. Do not take me lightly for a woman. Now, here I come!
+
+@15032
+{C192}, so my opponent this time is {v0234}. A worthy foe!
+
+@15032.1
+No need to hold back. Do not think of me as a woman. Come at me without restraint!
+
+@15033
+{v0234}! Taste to the full the terror of the {v0133}'s famed red-armoured troops!
+
+@15034
+{C192}! So you are {v0232}, leader of those mighty red-armoured troops! A worthy foe at last!
+
+@15035
+{C192}! I wondered who it was, and it is the traitor {v0234}! Disgrace of the {v0133}, I will cut you down!
+
+@15035.1
+Everyone! Crush {v0234}'s army utterly and deliver the Buddha's punishment!
+
+@15035.2
+You, sham monk! This is where you die. Chant your own prayers for the dead!
+
+@15035.3
+Hear me, {C218}! The enemy has no officer of note. This battle is ours!
+
+@15035.4
+My pride forbids me to fight a woman, but... it cannot be helped. Attack!
+
+@15035.5
+{C192}! There flies the Jiki Hachiman banner! A worthy foe at last!!
+
+@15035.6
+Fall behind me, {C218}, and shame your line forever!
+
+@15035.7
+{v0234}! I, {v0132}, shall take your head. Are you ready!
+
+@15035.8
+We shall scatter {v0234}'s army utterly, {C218}!
+
+@15035.9
+Now we go to take {v0234}'s head, {C218}! Win all the glory you can!
+
+@15035.10
+Meet a Buddha, cut down the Buddha! Meet a demon, cut down the demon! Charge straight into the enemy camp! Our goal... is {v0234}'s head!
+
+@15036
+Hmph... What nonsense! You are the disgrace of the {v0133}! I shall send you to the underworld at once!
+
+@15036.1
+Everyone! Advance, and the Pure Land awaits; retreat, and it is hell! Charge on!
+
+@15036.2
+What nonsense, you sham monk! This is where you die. Chant your own prayers for the dead!
+
+@15036.3
+We'll hold this place even if we're on our own!
+
+@15036.4
+Challenged by a woman... I, {v0134}, am held cheap indeed. I shall take you alive!
+
+@15036.5
+{C192}! There flies the Jiki Hachiman banner! A worthy foe at last!!
+
+@15036.6
+What are you saying, {v0234}! I shall strike you down instead!
+
+@15036.7
+Big talk! Do not come crying to me later, {v0234}!
+
+@15036.8
+Hmph! What is this {C19} babbling! I shall send you to the underworld!
+
+@15036.9
+Quite confident, are we, {v0232}! I shall teach you well that your confidence is mere conceit!
+
+@15036.10
+Hmph... You have nerve, challenging me. I shall break that proud nose of yours!
+
+@15037
+The {v0336} are our allies too. We cannot send aid to {C15}.
+
+@15037.1
+We are allied with both houses. We shall stay neutral here.
+
+@15038
+So {C15} is attacking {v0b32}. We did promise aid, but we cannot leave our lands unguarded now.
+
+@15038.1
+Sorry, {C15}, but we have our hands full defending our own lands. We cannot send aid.
+
+@15039
+So {C15} is attacking {v0b32}. As promised, we too shall send troops.
+
+@15039.1
+Let us put the {v0236} in our debt. Prepare to march, {C183}!
+
+@15040
+The {v0336} are our allies too. We cannot send aid to {C15}.
+
+@15040.1
+We are allied with both houses. We shall stay neutral here.
+
+@15041
+{v0b32} of the {v0236} is under attack! In this situation we cannot send aid. They must drive the enemy off alone.
+
+@15041.1
+Sorry, {C15}, but we have our hands full defending our own lands. We cannot send aid.
+
+@15042
+{v0b32} of the {v0236} is under attack! As promised, send reinforcements at once!
+
+@15042.1
+Let us put the {v0236} in our debt. Prepare to march, {C183}!
+
+@15043
+The {v3e32} friendship toward the {v3d32} is now {v65}.
+
+@15044
+The Ikko have attacked the {v0132} corps of the {v0136}.
+
+@15045
+A great corps of the {v0136} led by {v0132} has attacked {v0b32} of the {v0236}.
+
+@15046
+A corps of the {v0136} led by {v0132} has attacked {v0b32} of the {v0236}.
+
+@15047
+A small corps of the {v0136} led by {v0132} has attacked {v0b32} of the {v0236}.
+
+@15048
+A great corps of the {v0136} led by {v0132} has attacked the {v0232} corps of the {v0236}.
+
+@15049
+A corps of the {v0136} led by {v0132} has attacked the {v0232} corps of the {v0236}.
+
+@15050
+A small corps of the {v0136} led by {v0132} has attacked the {v0232} corps of the {v0236}.
+
+@15051
+A great corps of the {v0136} led by {v0132} has attacked {v0b32}, an independent power.
+
+@15052
+A corps of the {v0136} led by {v0132} has attacked {v0b32}, an independent power.
+
+@15053
+A small corps of the {v0136} led by {v0132} has attacked {v0b32}, an independent power.
+
+@15054
+A great corps of the {v0136} led by {v0132} has attacked the Ikko.
+
+@15055
+A corps of the {v0136} led by {v0132} has attacked the Ikko.
+
+@15056
+A small corps of the {v0136} led by {v0132} has attacked the Ikko.
+

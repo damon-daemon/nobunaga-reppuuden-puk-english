@@ -1,0 +1,426 @@
+@45000
+With Matsudaira Motoyasu now kin, Imagawa Yoshimoto's preparations to march on Kyoto had entered their final stage...
+
+@45001
+One day...
+
+@45002
+My lord! Land development has borne fruit and our province is strong! And all your vassals are eager for battle!
+
+@45003
+Then surely there is no better time than now to march on Kyoto, as you have long wished!
+
+@45004
+No, wait. The time is not yet ripe.
+
+@45005
+Not yet...?
+
+@45006
+Just so. Before I move the army, there is something I wish to do.
+
+@45007
+Foreign affairs?
+
+@45008
+Indeed.
+
+@45009
+But we already have alliances with the Takeda and the Hojo... Surely there is no fear of them threatening our rear while we are on campaign...
+
+@45010
+What more do you intend to do?
+
+@45011
+That is a secret. Fetch Ujizane! You may withdraw.
+
+@45012
+At once, my lord! (...What is His Lordship up to?)
+
+@45013
+Ah, Ujizane, you are here!
+
+@45014
+Today I shall teach you about foreign affairs.
+
+@45015
+Er, yes.
+
+@45016
+The commands for foreign affairs are [Intrigue], [Diplomacy] and [Court].
+
+@45017
+[Intrigue] covers all kinds of plotting: luring other clans' officers to defect or rebel, setting fire to other clans' castles, and so on.
+
+@45018
+[Intrigue] has 6 subcommands: [Incite], [Rebellion], [Rumours], [Sway], [Assassinate] and [Ploy].
+
+@45019
+[Diplomacy] is for all kinds of diplomatic activity: making alliances with other clans, absorbing independent powers, and so on.
+
+@45020
+[Diplomacy] has 7 subcommands: [Alliance], [Marriage], [Absorb], [Demand], [Tribute], [Break Pact] and [Aid].
+
+@45021
+[Court] works on the Imperial Court: urging it to grant court titles, or to issue an edict naming an enemy of the court.
+
+@45022
+[Court] has 5 subcommands: [Court Title], [Enemy of Court], [Pardon], [Present] and [Slander].
+
+@45023
+My, what a lot of commands there are.
+
+@45024
+Ha ha ha! You need not remember them all. A rough idea will do.
+
+@45025
+More to the point, there is something I want you to do.
+
+@45026
+What might that be?
+
+@45027
+Yes. Go to Kiyosu Castle in Owari, set fire to it, and lower its castle defence.
+
+@45028
+What!? M-me?
+
+@45029
+Just so. By rights I should send someone with high Intellect...
+
+@45030
+But Owari is ruled by that fool Nobunaga, so his guard must be lax. Besides, no one in the Imagawa house runs away faster than you. You will be fine.
+
+@45031
+Well... I am not very confident, but...
+
+@45032
+I shall explain foreign affairs commands with an example: Ujizane's ploy against Kiyosu Castle.
+
+@45033
+For foreign affairs, choose [Intrigue], [Diplomacy] or [Court] from the strategy commands.
+
+@45034
+Then choose the officer to take charge, and where he is to go. That is the basic procedure.
+
+@45035
+Now let us actually set a ploy in motion.
+
+@45036
+To carry out a ploy, choose [Intrigue].
+
+@45037
+When you choose [Intrigue], the subcommands appear. Choose [Ploy] here.
+
+@45038
+When you choose [Ploy], the Ploy command window appears.
+
+@45039
+When the Ploy command window appears, choose the officer to take charge.
+
+@45040
+[Intrigue] succeeds more often the higher the officer's Intellect, and even more often if the officer's calling is ninja.
+
+@45041
+As for [Diplomacy] and [Court], the higher the daimyo's Prestige and court friendship, the better...
+
+@45042
+and the higher the officer's Politics, the likelier success; if the officer has the Diplomacy skill, the chance rises further.
+
+@45043
+But here I shall deliberately choose Ujizane.
+
+@45044
+Next choose the castle to target. Here we choose Kiyosu Castle.
+
+@45045
+This time I have no confidence at all. They say Kiyosu Castle is the castle that foils ninja.
+
+@45046
+The period is the time needed before the plot is carried out.
+
+@45047
+Now press [Go], and the ploy is carried out.
+
+@45048
+Ready, men? We now set fire to Kiyosu Castle. If we succeed, the Imagawa clan's future is assured. Let's go!
+
+@45049
+...The wind has changed... This is nothing but a bonfire... Let us withdraw before they grow wary.
+
+@45050
+To arms, to arms! Intruders! Seize them!
+
+@45051
+They are rather good... Let us retreat for now.
+
+@45052
+F-Father! I faileeed!
+
+@45053
+Hmph! So their guard was tighter than expected! (Fool he may be, but better than Ujizane, it seems...)
+
+@45054
+The 5th month of Eiroku 3 (1560)... Imagawa Yoshimoto, resolved to march on Kyoto, issued a call to arms to Suruga, Totomi and Mikawa.
+
+@45055
+Sunpu Castle...
+
+@45056
+Asahina shall lead the infantry... Okazaki Castle... Motoyasu, the cavalry... and the rice...
+
+@45057
+Father!! I have a request. Let me join this march on Kyoto!
+
+@45058
+Ah, Ujizane! I am just about to form a corps unit and send it to Okazaki Castle. Forgive me, but could it wait?
+
+@45059
+W-well, yes.
+
+@45060
+Oh, of course! Let me teach you how to form a corps unit.
+
+@45061
+You form a corps unit to fight a battle, or to transport supplies (rice, gold, horses, troops, guns) to a castle.
+
+@45062
+A corps unit? How do I form one?
+
+@45063
+Well, the command for forming a corps unit is [Deploy] - [Corps].
+
+@45064
+In [Corps] you decide the officers and the number of troops in the corps, then enter its destination and action.
+
+@45065
+There are 6 actions: [Attack], [Organise], [Split], [Transport], [Pursue] and [Move].
+
+@45066
+To attack another daimyo's castle or corps, choose [Attack]; to enter a castle you rule, choose [Move]. That is how it works.
+
+@45067
+I mean to lead the army out of Sunpu, enter neighbouring Hanazawa Castle, then march on to Okazaki Castle in Mikawa and join Matsudaira Motoyasu.
+
+@45068
+Now I shall form and dispatch a corps unit. Watch closely!
+
+@45069
+I shall explain forming and dispatching a corps unit with an example: the Imagawa army entering Hanazawa.
+
+@45070
+To form a corps unit, choose [Deploy] from the strategy commands.
+
+@45071
+When you choose [Deploy], the subcommands appear. Choose [Corps] here.
+
+@45072
+When you choose [Corps], the corps unit window appears.
+
+@45073
+In the corps unit window you decide the officers who join, the commander-in-chief, the troops each officer leads, the unit type, and the amount of rice.
+
+@45074
+First, the officers who join.
+
+@45075
+When choosing them, bear this in mind: the number of officers decides the size of the corps.
+
+@45076
+The size of the corps?
+
+@45077
+Yes. In battle, an officer plus his troops make one unit, and the number of units changes the size of the corps.
+
+@45078
+5 units or fewer make a small corps; 6 to 10 a medium corps; 11 or more a large corps.
+
+@45079
+And what difference does the size of the corps make?
+
+@45080
+Put simply, a large corps tends to bring on a large battle, and a small corps a small battle.
+
+@45081
+Ah... So the number of officers affects the size of the corps, and the size of the corps affects the size of the battle.
+
+@45082
+That is it.
+
+@45083
+Once the officers are chosen, the commander-in-chief is set automatically.
+
+@45084
+The higher the commander-in-chief's War and Command, the stronger the corps.
+
+@45085
+If his abilities are low, you may pick a better-suited one from among the officers.
+
+@45086
+But the daimyo is always commander-in-chief, and that cannot be changed.
+
+@45087
+Once the officers are chosen, decide how many troops each leads, and their unit type.
+
+@45088
+Unit type?
+
+@45089
+Yes. An officer plus his troops make one unit, and the unit's way of attacking, its attack and its defence depend on its unit type -- its kind of troops.
+
+@45090
+There are 4 unit types: Infantry, Cavalry, Gunners and Mounted Gunners.
+
+@45091
+Infantry is the basic type and costs nothing, yet it is versatile: in battle it can change its arms to bows or pikes, and use [Climb].
+
+@45092
+Cavalry moves far, and being able to [Charge] is a joy. Of course, it needs as many horses as troops.
+
+@45093
+Gunners' great strength is attacking with guns. But they move and defend poorly, so they may suit sieges. And without guns they cannot be formed.
+
+@45094
+Mounted Gunners take the best of Cavalry and Gunners. But they need the Mounted Gunner skill, plus as many horses and guns as troops.
+
+@45095
+To set the unit type, move the cursor to [Unit Type] to the right of the officer and press the Circle button.
+
+@45096
+Each press of the Circle button changes the unit type.
+
+@45097
+Next, the troops. Move the cursor to [Troops] beside [Unit Type] and press the Circle button: a number window appears.
+
+@45098
+Enter the number of troops in this number window.
+
+@45099
+Right! Let each officer lead a great many troops, and we will crush them with numbers!
+
+@45100
+I would like that too, but the most troops an officer can lead depends on his rank.
+
+@45101
+The limit is 1000 for a daimyo, 900 for a Senior Elder, 800 for an Elder, 700 for a Commander, 600 for a General and 500 for a Captain.
+
+@45102
+If you have cannon or ironclads, choose [Cannon] or [Ironclad] and press the Circle button.
+
+@45103
+Each press of the Circle button switches between taking them and not.
+
+@45104
+Next decide the supplies the corps carries: gold, rice, horses, guns and escorts.
+
+@45105
+Move the cursor to [Gold], [Rice], [Horses], [Guns] or [Escorts] and press the Circle button: a number window appears.
+
+@45106
+Enter the amount of supplies in the number window.
+
+@45107
+When all is entered, choose [OK]. The corps unit is formed.
+
+@45108
+Oh! The land around Sunpu Castle, is it not?
+
+@45109
+Once the corps unit is formed, choose the target it is to move to.
+
+@45110
+While you choose the target, the Strategy Screen shows how far the unit can move in one turn.
+
+@45111
+You may choose a target out of range, of course; then the unit moves as far as it can each turn, heading for the target.
+
+@45112
+When you choose a target, the corps unit window appears.
+
+@45113
+In the corps unit window you choose the unit's action. The actions you can choose depend on the target.
+
+@45114
+Here we shall choose [Move].
+
+@45115
+Forward!
+
+@45116
+!?... Wh-why are you in the corps unit!
+
+@45117
+What does it matter, Father! I will show you what I can do!
+
+@45119
+Late in the 5th month of Eiroku 3 (1560)... Imagawa Yoshimoto gathered his army for Kyoto at Okazaki Castle in Mikawa.
+
+@45120
+My lord!! At last we march for Kyoto!
+
+@45121
+Owari and its like will fall at a single blow...
+
+@45122
+Father!! I, Ujizane, will do my best too! (...Heh heh, once in Kyoto I'll play kickball to my heart's content...)
+
+@45123
+Men! We march!
+
+@45124
+A corps of the Oda clan led by Hayashi Michikatsu has attacked the Imagawa corps of Imagawa Yoshimoto.
+
+@45125
+Aaah!! Father! Enemy troops!
+
+@45126
+Do not panic. That is the corps of the fool of Owari. We will crush it with ease.
+
+@45127
+But first... Before a great battle like this, we must hold a council of war and choose the officers who go, the strategist, the deputies and so on.
+
+@45128
+I shall explain the council of war with an example: 20 units, Ishikawa Kazumasa as strategist, Matsudaira Motoyasu and one other as deputies, Sakai Tadatsugu leading the supply unit.
+
+@45129
+Before a battle this screen may appear. It is called the council of war window.
+
+@45130
+In the council of war window, first decide the officers who go into battle.
+
+@45131
+Once they are decided, choose the strategist unit, the supply unit and the deputy units.
+
+@45132
+The strategist unit can use many schemes, so choose an officer with high Intellect.
+
+@45133
+If the supply unit is beaten, morale suffers, so choose an officer with high Command.
+
+@45134
+For the deputy units, officers with high War and Command who know formations are best.
+
+@45135
+Formations can be changed during battle with [Form].
+
+@45136
+Oh... By the way, what is a formation?
+
+@45137
+The order in which troops are drawn up for battle! Born in an age of war and you do not know what a formation is!
+
+@45138
+The type of formation changes attack, defence and movement.
+
+@45139
+Formations can be changed during battle, but first you must set the opening formation at the council of war.
+
+@45140
+That ends the council of war. Note that what the council covers depends on the size of the battle.
+
+@45141
+F-Father, it will be all right, won't it? We will win, won't we? (...This is bad. It has turned into a real battle...)
+
+@45142
+Fear not!
+

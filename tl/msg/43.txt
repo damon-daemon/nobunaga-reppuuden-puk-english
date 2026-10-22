@@ -1,0 +1,453 @@
+@43000
+At sixteen, {v0132} went to a hot spring with his father {v0234}. When bandits attacked, he cut their chief in two, drove them off and became famed throughout the region.
+
+@43001
+But {v0234} shunned {v0134}, doted on his second son Yoshitoki and openly meant to make him heir. {v0134}'s position was in danger.
+
+@43002
+Then one day... {v0134} went to pray at a mountain temple in his domain.
+
+@43003
+Why... why does Father hate me so... What is it about me he dislikes? ...I am the eldest son of the {v0233} clan! I won't let Yoshitoki inherit!
+
+@43004
+Namu... Hachiman Daibosatsu! I beg you, let me inherit the headship of the {v0233} clan!! This I pray!
+
+@43005
+His prayers done, {v0134} returned at once to {v0138} and ordered his vassals to muster the army...
+
+@43006
+...Lord {v0134}...
+
+@43007
+...Old Man! Why are you here! You are gravely ill... Go home at once and rest!!
+
+@43008
+Next to the dying {v0233} clan, my illness is nothing... cough... More to the point... what is this army for?
+
+@43009
+Hmph, is it not obvious! To open the eyes of Father, who shuns me and plans to set up Yoshitoki. We march as soon as we are ready.
+
+@43010
+Stop this foolishness... If father and son fight now, the {v0233} clan will be badly weakened. The neighbouring provinces will not let that pass.
+
+@43011
+...Then what am I to do!!
+
+@43012
+Leave it to me, {v0334}. My life is a candle in the wind now... Making you head of the {v0233} clan, Lord {v0134}, will be my last service...
+
+@43013
+...Very well, Old Man! I will hold the army back for now. I leave it all to you. See to it that I inherit the headship!
+
+@43014
+Despite his illness, {v0334} set out at once for {v0238}...
+
+@43015
+What brings you, {v0334}? Were you not resting? Go home and rest at once.
+
+@43016
+...I cannot. With danger hanging over my lord's house, how could I lie in bed?
+
+@43017
+...About {v0134} and Yoshitoki? There is nothing to discuss. I have already chosen Yoshitoki as my heir. Leave.
+
+@43018
+No, I will not leave. Passing over the eldest son is the seed of family strife. Look at the past...
+
+@43019
+Lord Otomo Yoshiaki was killed by his vassals for trying to set up his youngest, Shioichimaru. Lord Takeda Nobutora was driven out by Shingen for trying to favour Nobushige...
+
+@43020
+...There are many such examples. Pass the headship to Lord {v0134}. He is a man of great ability... He will surely serve the {v0233} clan well.
+
+@43021
+Mmmmm... V-very well... It is as you say. Then I will have Yoshitoki inherit my old family, the Nakano...
+
+@43022
+{v0334}'s plea, staked on his life, succeeded, and {v0134} inherited the {v0233} clan. Under {v0134}, the {v0133} clan went on to grow in power.
+
+@43023
+When {v0532}, a local lord who had served {v0432}, broke his vow of allegiance, {v0232} flew into a rage and at once invaded the {v0533} lands.
+
+@43024
+There {v0234} put everyone to the sword, and {v0534} fled to {v0434}. This affair would grow into an incident that shook the {v0233} clan...
+
+@43025
+My lord, Lord {v0432} has offered peace. What will you do?
+
+@43026
+There will be no peace! I will crush the castles of the {v0433}!
+
+@43027
+But... taking a hard line with those who seek peace may only breed resentment later.
+
+@43028
+Enough! I will not forgive them for sheltering {v0534}, who mocked me! I will destroy the {v0433} without fail!
+
+@43029
+{v0234}... Will you not accept Lord {v0434}'s offer of peace?
+
+@43030
+But, Father... If I do, the other lords will think me weak.
+
+@43031
+Once, in a war, I borrowed troops from Lord {v0434}. I owe him a debt... Please, forgive him for my sake.
+
+@43032
+...Very well. If you insist so strongly, Father, I have no choice...
+
+@43033
+A few days later... {v0434} visited {v0134} at his retreat to give thanks for arranging the peace.
+
+@43034
+I, {v0434}, cannot thank you enough for your trouble this time.
+
+@43035
+Welcome. Come, come in.
+
+@43036
+The talks went on in a friendly mood. But...
+
+@43037
+My lord, my lord...
+
+@43038
+What is it? You are pale as a ghost. Has something happened?
+
+@43039
+The {v0233} mean to kill us! Behind the residence, drunken soldiers were sharpening their swords.
+
+@43040
+What!... So that is their game. If {v0234} means to act like that, I have my own ideas...
+
+@43041
+The talks ended and it was time for {v0434} to leave. Just as {v0134} and {v0434} reached the entrance side by side...!
+
+@43042
+Lord {v0134}! I hear you were plotting to murder me by treachery...!
+
+@43043
+What?... What are you saying... Wh-what! What are you doing!!
+
+@43044
+Hahaha! {v0234}, this is your reward for your petty tricks! Men! Back to the {v0433} lands at once!!
+
+@43045
+{v0434} took {v0134} hostage and fled for the {v0433} lands. {v0234} heard the news while out hawking and at once gave chase with his troops.
+
+@43046
+Good, just a little further to my {v0433} lands... Hm? What is that...
+
+@43047
+Father!!
+
+@43048
+{v0234}! Oh, you have brought gunners! Never mind me! Have the soldiers fire!
+
+@43049
+Father...
+
+@43050
+My lord, there is no time to hesitate. Decide at once!
+
+@43051
+Open fire on {v0132} and {v0432}?
+
+@43052
+{v0234}, what are you doing! Do not hesitate! Hesitate now and you will leave trouble for the future!
+
+@43053
+Silence! Be quiet!
+
+@43054
+Father... forgive me... Gunners, forward!!
+
+@43055
+Fire!!!
+
+@43056
+...Ugh, so this is the end... Then I will take {v0134} to hell with me. Die!!
+
+@43057
+Gwah!...
+
+@43058
+Fatheeer!!
+
+@43059
+{v0434} stabbed {v0134} to death, then took his own life. {v0134} had given his life to teach {v0234} the harshness of a warring age...
+
+@43060
+Tch...
+
+@43061
+My lord! Are you going to let {v0434} escape!?
+
+@43062
+...I cannot!! I cannot shoot my own father!
+
+@43063
+{v0234}!!!
+
+@43064
+Wahahaha! Now you know, you {v0233} whelp! If you must blame someone, blame yourself! Farewell!!
+
+@43065
+{v0434} escaped into the {v0433} lands with {v0134}. Later, it is said, {v0134} was slaughtered by {v0434}...
+
+@43066
+Cold today... Hm? Isn't that {v0134}? What do you want?
+
+@43067
+You must be tired, my lord. Why not soothe your weariness in my bath?
+
+@43068
+Accept {v0132}'s offer?
+
+@43069
+Hmm... Your bath is the talk of the household, I recall. Very well, I will take you up on it.
+
+@43070
+Then, to my house at once...
+
+@43071
+Oh! A splendid bath! Now then...
+
+@43072
+A moment, please. First, let me check the water.
+
+@43073
+Ugh... Hurry up.
+
+@43074
+Hmmm...
+
+@43075
+Hey! {v0134}! Hurry up!
+
+@43076
+Hmm... That should do. Just the right temperature. Enjoy yourself. I will be by the stove.
+
+@43077
+Right, in I go!!
+
+@43078
+!......!?...... C-c-c-cold!!! {v0134}!!
+
+@43079
+Wahahaha! How do you like a cold bath? Now, by your leave.
+
+@43081
+...And so {v0132} left the {v0233} clan. Truly a {C43080} who loved his pranks.
+
+@43082
+Oh, quite right... Wait, I won't fall for your pranks again!!
+
+@43083
+Tch, found out!
+
+@43084
+{v0134}, what do you want?
+
+@43085
+You must be weary from your daily duties. How about a game for a change of mood?
+
+@43086
+Oh, I was just itching for a game. Bring the go board, quickly.
+
+@43087
+Before that! Just playing is no fun. How about the winner gives the loser one flick on the wrist?
+
+@43088
+Fine! Fine, I said, now bring the go board!
+
+@43089
+As you wish... ... Thank you for waiting. Well, shall we begin...
+
+@43090
+...I yield. You are strong indeed, my lord. Go ahead, then.
+
+@43091
+Right, here it comes.
+
+@43092
+Ow, ow, ow... My lord, how about another game?
+
+@43093
+Oh, I will play you as often as you like.
+
+@43094
+...Hmm, I yield. {v0134}, you are quite good. Go ahead, then.
+
+@43095
+Heaven forbid! To flick my own lord would be the height of disloyalty!
+
+@43096
+What are you saying! Even in play, a promise must be kept! Come on, quickly.
+
+@43097
+Is that so... Then, by your leave...
+
+@43098
+Gwah!... ...{v0134}!
+
+@43099
+Wahahaha! How did you like my flick? Now, by your leave.
+
+@43100
+One New Year... a banquet to celebrate the new year was held at {v0238}, the seat of {v0232}.
+
+@43101
+Whew... hic... {v0134}! Where is {v0134}!
+
+@43102
+You called, my lord?
+
+@43103
+...Whew... Th-there was a big cup somewhere. Bring it here.
+
+@43104
+As you command. ... Thank you for waiting.
+
+@43105
+Good, good! Well done! Now, is there anyone who will drink sake from this cup? ...
+
+@43106
+Wh-what's this! No one!? What a bore! ...{v0134}! Will you try?
+
+@43107
+...My lord, there are limits even to jests.
+
+@43108
+Wh-what!? ...hic... {v0134}! You d-dare... whew... refuse my order!?
+
+@43109
+N-no... it is not that, my lord.
+
+@43110
+Right, I've got it! ...hic... If you can drain this cup, I will give you anything you want!
+
+@43111
+My lord, a samurai does not go back on his word, does he? Then I would like Nomitori, the famed spear you treasure. Is that agreed?
+
+@43112
+Nomitori! Come to think of it, you have long wanted it. Whew... It's yours! Now... hic... drink!
+
+@43113
+Then... here I go. Gulp, gulp... gulp... gulp... gulp... gulp...
+
+@43114
+......... ...... ... Phew...
+
+@43115
+Oh! Splendid, {v0134}!! As promised, Nomitori is yours!
+
+@43116
+Thank you, my lord! I am most grateful!
+
+@43117
+Thus {v0134} won the famed spear Nomitori.
+
+@43118
+{v0134}'s feat of drinking was handed down to later ages in the folk song "Kuroda-bushi"...
+
+@43119
+One day... Luis Frois, a missionary of the Society of Jesus, came to see {v0132}.
+
+@43120
+Lord {v0134}, I am most honoured to meet you. I am a missionary of the Society of Jesus. My name is Luis Frois.
+
+@43121
+A missionary, what a rare guest. Frois, is it... What is it you want?
+
+@43122
+I wish to spread the teachings of Deus in your lands, Lord {v0134}. Please, grant me permission.
+
+@43123
+Grant Frois's request and allow Christian missionary work?
+
+@43124
+Very well! ...More to the point, what is that strange box beside you?
+
+@43125
+It is a machine for measuring time. I have brought it as a gift for you, Lord {v0134}. Please, have a look.
+
+@43126
+Let me see it... ...?...??...??? ...Frois, how does this work?
+
+@43127
+On the back of the box there is a thing called a key. When you turn it...
+
+@43128
+Oh, it did start moving, but... I have no idea what it is... Frois, I am sorry, but please take it back.
+
+@43129
+Oh, but why? Is there something not to your liking...?
+
+@43130
+I cannot understand how the box works at all... I have no use for what I cannot understand, so take it back, I say.
+
+@43131
+Is that so... That is a great pity.
+
+@43132
+Do not be so downcast, Frois. I cannot understand it, but it is certainly a curious thing. Bring me more curious things.
+
+@43133
+Yes. Thank you very much. Then I will take my leave for today.
+
+@43134
+I make it a rule not to trust the teachings of the Christians. Go away, go away.
+
+@43135
+One day... Luis Frois, a missionary of the Society of Jesus, came to see {v0132}.
+
+@43136
+Lord {v0134}, it has been a long time. It is I, Luis Frois.
+
+@43137
+Oh, Frois. It has been a long time. What brings you today?
+
+@43138
+Yes, I have brought this to present to you, Lord {v0134}.
+
+@43139
+?... What is this round thing? It is painted in all sorts of colours, blue and green...
+
+@43140
+This is called a globe. It is a map of the whole world.
+
+@43141
+Oh... a map of the whole world, you say? Then where is my {v0138}? Around here? Or around here?
+
+@43142
+Hehehe... Lord {v0134}, the country of Japan, where you live, is here.
+
+@43143
+Let me see... Hm!? Wh-what!? This tiny little thing!? You call this Japan!?
+
+@43144
+Yes... that is so. My homeland, Portugal, is on the other side... here.
+
+@43145
+Hm?... The other side?... Wait a moment. If the world is round like this, would you not fall off if you stood here?
+
+@43146
+No... you do not fall. The earth truly is round. Long ago, some even sailed all the way around it.
+
+@43147
+Is that so... Then I can understand what you say. Hmm, there is so much in this world I do not know...
+
+@43148
+Yes! Today was most interesting. Tell me more interesting tales again! I gratefully accept the globe.
+
+@43149
+I am glad you are pleased. Then I will take my leave.
+
+@43150
+You again... What do you want today?
+
+@43151
+Very well! ...More to the point, what is that round thing beside you?
+

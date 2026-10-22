@@ -1,0 +1,240 @@
+@36001
+{C36000}, it is a waste for a warrior of your valour to wander masterless. I beg you, serve our house.
+
+@36001.1
+{C36000}, your valour is said to be unrivalled. Please lend it to my lord.
+
+@36002
+{C36000}, it is a waste for a mind as shrewd as yours to wander masterless. I beg you, serve our house.
+
+@36002.1
+{C36000}, they say your cunning has no equal in all Japan. Please lend it to my lord.
+
+@36003
+{C36000}, it is a waste for one of your calibre to wander masterless. I beg you, serve our house.
+
+@36003.1
+{C36000}, they say you can move a million men like your own limbs. The {v0136} need that talent.
+
+@36004
+{C36000}, I hear your horsemanship is the finest in the land. Would you put it to use for the {v0133}?
+
+@36004.1
+{C36000}, they say you can tame any wild horse. Please lend that skill to my lord.
+
+@36005
+{C36000}, I hear your gunnery is the finest in the land. Would you put it to use for the {v0133}?
+
+@36005.1
+{C36000}, they say you never miss a shot. Please lend that skill to my lord.
+
+@36006
+A navy is vital for the wars to come. Lend me your strength, and let us build the {v0133} navy together.
+
+@36006.1
+Life on land may not suit you, but please lend your navy to my lord, {C36000}.
+
+@36007
+{C192}! Who should it be but {v0234}! How about it? Will you serve the {v0136} with me?
+
+@36007.1
+{C7}, stop wasting away in a place like this. Will you not work for the {v0136} with me?
+
+@36008
+You there. You seem tired of the ronin's life. Would you care to serve my lord?
+
+@36008.1
+{C7}, the {v0136} offer you a path to fame throughout the land. Will you take service?
+
+@36008.2
+{C7}, I have heard much of you. I beg you, lend your strength to our house.
+
+@36008.3
+Lord {v0232}... would you care to serve my master, Lord {v0332}?
+
+@36008.4
+I heard of you in the castle town, {C36000}, and so I came. Will you not meet my lord?
+
+@36008.5
+Have you any interest in the {v0333}? If you are willing, {C36000}, I will put in a word with my lord.
+
+@36009
+Would you care to work under me?
+
+@36009.1
+{C36000}, I truly need your strength. Will you not help me?
+
+@36009.2
+To end this age of war I need your strength, {C36000}. Please become my retainer.
+
+@36009.3
+{C7}, the {v0136} offer you a path to fame throughout the land. Will you take service?
+
+@36010
+I cannot refuse a request from you, {C7}. Very well, I will join the {v0236}.
+
+@36010.1
+I cannot refuse a request from you, {C7}. Very well, I will join the {v0236}.
+
+@36011
+I cannot distrust a fellow ninja. I will serve Lord {v0334}.
+
+@36011.1
+I cannot distrust a fellow follower of the Way of Tea. I will serve Lord {v0334}.
+
+@36011.2
+I cannot distrust a fellow follower of the sword. I will serve Lord {v0334}.
+
+@36011.3
+I cannot distrust one who has taken holy vows. I will serve Lord {v0334}.
+
+@36011.4
+How good of you to call on me! I will live up to your hopes, you will see!
+
+@36011.5
+Such a courteous offer to one like me! I gladly take service with the {v0236}.
+
+@36011.6
+Agreed. I will become the {v0236}'s most rewarded warrior!
+
+@36011.7
+Nothing could please me more. I was about to come to you myself.
+
+@36011.8
+I cannot turn down so kind an offer. I will become a {v0333} vassal.
+
+@36011.9
+I have waited for such a chance. I place my life in your hands, {C23}.
+
+@36011.10
+I have long wished to serve Lord {v0332}. I am at your service.
+
+@36012
+That you came in person, Lord {v0232}... I am moved. I swear lifelong loyalty to you, my lord.
+
+@36012.1
+Lord {v0232}! My lord himself, for one like me... I am unworthy. I will live up to your hopes.
+
+@36012.2
+They say a warrior dies for the one who knows his worth... I place my life in your hands, Lord {v0234}.
+
+@36013
+Fellow ninja or not, I cannot trust your word, {C36000}.
+
+@36013.1
+I doubt you understand the ninja's way, {C36000}. Please leave.
+
+@36014
+Follower of the Way of Tea or not, I cannot trust your word, {C36000}.
+
+@36014.1
+I do not trust those who know nothing of tea. Please leave.
+
+@36015
+Follower of the sword or not, I cannot trust your word, {C36000}.
+
+@36015.1
+I do not trust those who know nothing of the sword. Please leave.
+
+@36016
+Holy vows or not, I cannot trust your word, {C36000}.
+
+@36016.1
+My only master is the Buddha. Please leave.
+
+@36017
+They say Lord {v0332} prefers kickball to the martial arts. I have no wish to serve such a man.
+
+@36017.1
+They say Lord {v0332} cares only for drink and women. I have no wish to serve such a man.
+
+@36017.2
+They say Lord {v0332} is a fool known for strange antics. I have no wish to serve such a man.
+
+@36017.3
+They say Lord {v0332} is an upstart of unknown birth. I have no wish to serve such a man.
+
+@36017.4
+They say Lord {v0332} is so ruthless they call him the Viper. I have no wish to serve such a man.
+
+@36017.5
+They say Lord {v0332} stole a vassal's wife. I have no wish to serve such a man.
+
+@36017.6
+I am no one's retainer. If anything, I serve the sea... Please leave.
+
+@36017.7
+Serve the {v0236}... Spare me that, I pray. I simply cannot stand that one.
+
+@36017.8
+I hear Lord {v0334} prizes duty and compassion. Our views do not agree.
+
+@36017.9
+I hear Lord {v0334} believes might makes right. Our views do not agree.
+
+@36017.10
+Please leave. I cannot trust the likes of {v0332}.
+
+@36017.11
+A kind offer, but... I have no wish to serve anyone at present.
+
+@36017.12
+Please go. I do not mean to come out into the world for some time yet.
+
+@36018
+Serve {C36000}... {C184}, Lord {v0234}, you jest too much.
+
+@36018.1
+Please leave... I simply cannot bring myself to serve {C36000}.
+
+@36018.2
+The {v0233} will do perfectly well without me. Please leave...
+
+@36019
+Oh, well... Not someone who would have been a pillar of our house anyway.
+
+@36019.1
+Is that so... If {C14} says so, it cannot be helped.
+
+@36020
+It is a pity to leave a talent like {C36000} buried... but it cannot be helped.
+
+@36020.1
+Pressing further would be useless... Then I take my leave.
+
+@36020.2
+A pity, but it cannot be helped. How regrettable...
+
+@36020.3
+Is that so... If {C14} says so, it cannot be helped.
+
+@36021
+You refuse to serve our house? Am I not worthy enough...?
+
+@36021.1
+Then I will call again another day. I will come as often as it takes to make you my vassal, {C36000}!
+
+@36021.2
+Perhaps one day you will change your mind, {C36000}. Come to me when you do.
+
+@36021.3
+Oh, well... Not someone who would have been a pillar of our house anyway.
+
+@36022
+{C192}! You accept? Then come with me to my lord at once.
+
+@36022.1
+I am most grateful. My lord will surely welcome you to his service, {C36000}.
+
+@36022.2
+Just as I expected of you, {C7}! I was sure you would say yes.
+
+@36023
+{C36000}, reward is yours for the taking, according to your deeds. Show us all you can do.
+
+@36023.1
+Splendid! I expect great things of you, {C36000}!
+
+@36023.2
+To have a great general like {C36000} as my vassal... It is a true honour.
+

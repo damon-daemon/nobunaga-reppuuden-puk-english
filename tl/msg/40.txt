@@ -1,0 +1,360 @@
+@40000
+I hear {C15} believes that endurance is the way to survive a troubled age... but is that any way to live for a {C177} born into such times?
+
+@40000.1
+People say might makes right. But in so foul a world, should we not at least keep ourselves unstained?
+
+@40000.2
+Tell me, {C15}. I hear you never hesitate to say "might makes right". Is that not far too sad a way to think?
+
+@40001
+{C15}, in this troubled age you cannot survive unless you bow to the strong.
+
+@40001.1
+Trusting yourself is well and good, but confidence can turn to overconfidence. Living that way, do you think the {v0233} name will endure?
+
+@40001.2
+No one can live alone. Learning to endure is never a bad thing.
+
+@40002
+Well, {C15}... it seems we thought alike all along. {C184}, forgive me.
+
+@40002.1
+{C15}, it seems you still put your faith in endurance. But one must carve out one's own path.
+
+@40002.2
+If this line appears, the other officer's view of prestige has become unknown. Sorry, but could you look into it?
+
+@40003
+{C15}... are you not trusting a little too much in your own strength? Cast aside such dangerous thoughts. Sometimes one must endure.
+
+@40003.1
+Well, {C15}... it seems we thought alike all along. {C184}, forgive me.
+
+@40003.2
+If this line appears, the other officer's view of prestige has become unknown. Sorry, but could you look into it?
+
+@40004
+Well, {C15}... it seems we thought alike all along. {C184}, forgive me.
+
+@40004.1
+{C15}, you always say that serving a great power is the way to survive... Is that not a feeble thought for a {C177} born into this age?
+
+@40004.2
+If this line appears, the other officer's view of prestige has become unknown. Sorry, but could you look into it?
+
+@40005
+{C15}, it seems you still wish to trust in your own strength... but serving a strong power is the way to preserve your house.
+
+@40005.1
+Well, {C15}... it seems we thought alike all along. {C184}, forgive me.
+
+@40005.2
+If this line appears, the other officer's view of prestige has become unknown. Sorry, but could you look into it?
+
+@40006
+If this line appears, my view of prestige has become unknown. Sorry, but could you look into it?
+
+@40007
+If this line appears, my view of prestige has become unknown. Sorry, but could you look into it?
+
+@40008
+I understand what {C15} is saying, but I have no intention of changing how I live.
+
+@40008.1
+{C184}, is that all {C15} has to say? Then, as I am a busy person, I will take my leave.
+
+@40008.2
+...My, how your tongue does run on. If you have time to lecture others, why not practise your martial arts?
+
+@40008.3
+Whatever others may say, this is the path I live by... I have no intention of changing my beliefs. Please leave.
+
+@40008.4
+Trying to change someone's heart... It seems {C15} has never heard that faith saves the faithful. Please go home.
+
+@40009
+{C190}, there is some truth in what {C15} says... I must reconsider my views a little.
+
+@40009.1
+I see... You are quite right. I feel as if the scales have fallen from my eyes. My thanks, {C15}.
+
+@40009.2
+Hmm... I see. Everything {C15} says is perfectly reasonable. I have heard some fine words today.
+
+@40010
+{C190}, there is some truth in what {C15} says... I must reconsider my views a little.
+
+@40010.1
+I see... You are quite right. I feel as if the scales have fallen from my eyes. My thanks, {C15}.
+
+@40010.2
+Hmm... I see. Everything {C15} says is perfectly reasonable. I have heard some fine words today.
+
+@40011
+You stand in the way of destroying the {v0236}. You must die.
+
+@40011.1
+For the taking of {v0238}, you must die here... Prepare yourself!
+
+@40012
+I bear you no grudge, but for the sake of the {v0136}, you must die.
+
+@40012.1
+By order of Lord {v0334}, you must die. Prepare yourself.
+
+@40013
+A waste of effort... You underestimated the {v0133} band. I knew you were coming long ago!
+
+@40013.1
+I, {v0132}, will not fall to the likes of you.
+
+@40014
+Trying to assassinate me... Laughable.
+
+@40014.1
+Did you think you could kill me with so little skill? How naive! ...{v0234}.
+
+@40015
+You seem not to know my skill, I who am famed as a master swordsman. With your skill, you cannot kill me.
+
+@40015.1
+{C184}, what was that swordplay? Allow me to give you a stern lesson.
+
+@40016
+I never knew the {v0236} had so skilled a kunoichi... I let my guard down... {C185}
+
+@40016.1
+So you are the skilled woman ninja I heard rumours of! I let my guard down... {C185}
+
+@40017
+I let my guard down... I never knew there was such a woman... {C185}
+
+@40017.1
+Slain by a woman... How careless... {C185}
+
+@40018
+For my ninja arts, this is no trouble at all.
+
+@40018.1
+Run in darkness, leave no trace, and vanish back into darkness: that is the ninja's law... Farewell.
+
+@40018.2
+Now you know my power...
+
+@40019
+Well, I managed to kill {v0232}...
+
+@40019.1
+Still alive, are you? You should have died.
+
+@40019.2
+Do not hate me. Hate this age of war. Farewell.
+
+@40020
+I bear no grudge against Lord {v0232}, but for the sake of the {v0136}, I will have your life.
+
+@40020.1
+...Prepare yourself.
+
+@40020.2
+...
+
+@40020.3
+{C15}... your very existence is a threat to the {v0136}. I will have your life.
+
+@40020.4
+This is all for the sake of the {v0136}. {C15}, prepare yourself!
+
+@40020.5
+{v0232}, foe of the {v0136}, by my lord's command I will have your life. Prepare yourself!
+
+@40021
+Fool!! You are a hundred years too early to stop my rule of the realm by force with such petty tricks!!
+
+@40021.1
+{C184}, I am not one to be struck down so easily.
+
+@40021.2
+How naive, {v0232}. Did you think you could defeat me with such swordplay?
+
+@40021.3
+My motto is "always on the battlefield". This is no surprise attack at all!
+
+@40022
+{C185}... You are {v0234} of Iga!? I should not have made you my enemy...
+
+@40022.1
+Wh-what a giant of a man! You monster!! ...{C185}...{C185}
+
+@40022.2
+Hm! Black garb... An assassin of the {v0236}... S-so strong... {C185}
+
+@40022.3
+Slurp... What fine tea... {C185} D-damn... It was poisoned... {C185}
+
+@40022.4
+{C185}... {v0132}... the blunder of a lifetime...
+
+@40022.5
+Who goes there! Ugh... {C185}...
+
+@40022.6
+{C185}... Curse you, coward... I will haunt the {v0236} for ever...
+
+@40022.7
+{C185}... To fall in battle is one thing... but to die like this...
+
+@40022.8
+Wha! What are you doing! ...{C185}... An assassin of the {v0236}... {C185}
+
+@40022.9
+A spear from under my feet! D-damn... the {v0236}... how vile... {C185}
+
+@40022.10
+Ugh! This pain... A poisoned arrow! So, the {v0236}... {C185}...
+
+@40023
+Perish into the darkness.
+
+@40023.1
+I heard {v0232} was a mighty warrior, but that was nothing special.
+
+@40023.2
+Well, I managed to kill {v0232}...
+
+@40023.3
+Still alive, are you? You should have died.
+
+@40023.4
+By my lord's command, I have taken your life.
+
+@40023.5
+Do not hate me. Hate this age of war. Farewell.
+
+@40024
+{v0132} of the {v0136} has been assassinated by an unknown hand.
+
+@40025
+Without {v0232}, the {v0236} is nothing to fear.
+
+@40025.1
+To strike down {v0234}, who shares the {v0333} blood, without batting an eye... Even as my own vassal, a fearsome man.
+
+@40025.2
+As expected of {v0332}. Such a task is no trouble at all.
+
+@40025.3
+I see, so you struck down {v0232} in fine style. {v0332}'s skill is remarkable.
+
+@40025.4
+Even {v0232}, whom we could not defeat on the battlefield, {v0332} slays with ease. {C22} is worth a thousand men.
+
+@40025.5
+Splendid, {v0332}! I can just picture the {v0236} running about in panic.
+
+@40026
+What! {C13} has been murdered!? And the killer is... {v0332}!? Such a vile deed... It shames me as a fellow {v0133}!
+
+@40026.1
+What! {C13} assassinated by an agent of the {v0336}! Curse them, what a cowardly act...
+
+@40026.2
+{C13} has been assassinated... So the {v0336} were behind it. To lose a pillar of our house like this...
+
+@40026.3
+What, {C13} assassinated? By the ninja of the {v0336}... The {v0336}... I will remember this...
+
+@40026.4
+I had not seen {C13} about... Killed by the {v0336}!? Grr... The {v0336}... I will never forget this...
+
+@40027
+Show them the terror of {C220}! Spread out and set the fires, {C183}!
+
+@40027.1
+Follow me, {C183}! Show them the skill of {C220}!
+
+@40028
+It seems that even for us, breaking the strength of {v0b32} will not be easy.
+
+@40028.1
+Tch... The weather has turned. Even we cannot set fires in this. Let us withdraw for now...
+
+@40029
+Everyone, at the signal, set fire to {v0b32} as planned... Understood?
+
+@40029.1
+A fine wind is rising... There will be no better night to burn {v0b32} to a cinder.
+
+@40029.2
+Towers, gates, stone walls, anything will do. Weaken {v0b32} as much as you can... Scatter!
+
+@40029.3
+Ready, everyone? We now set fire to {v0b32}. If we succeed, the way ahead opens for the {v0136}. Let's go!
+
+@40030
+...Rain again... Trying a ploy in the rainy season was asking too much, it seems... No help for it, we withdraw.
+
+@40030.1
+{C192}! Snow... In the snow our black garb will only stand out. No help for it, we withdraw.
+
+@40030.2
+...As expected of {v0b32}. With guards this tight, we cannot lay a finger on it... We will come back another time...
+
+@40030.3
+No opening to exploit... It is a pity, but let us withdraw for now...
+
+@40030.4
+...The wind has changed... This is no more than a bonfire now... Let us withdraw before they grow wary.
+
+@40030.5
+{C190}... I never thought {v0b32}'s defences would be so tight... No help for it. Let us withdraw.
+
+@40031
+The rice and the towers are burning! Now you know our power... {C184}
+
+@40031.1
+{C184}, burn, burn! Let the rice and the towers burn to ashes! {C184}... {C184}!
+
+@40031.2
+At this rate, the fire will reach the granary... {C184}
+
+@40031.3
+The fire has reached the granary... In that case, there is no need to linger!
+
+@40031.4
+{C192}, the fire has reached the granary! Let the men of {v0b32} suffer all they like... {C184}
+
+@40031.5
+{C192}, everything is burning! The towers, the granary... I will have a fine report to make.
+
+@40032
+The plot was a great success: the defence of {v0b32} is now {v65}, and its rice {v66}.
+
+@40033
+Now you know our power... {C184}! {v0b32} will be easier to attack now.
+
+@40033.1
+Not quite stripped bare, but {v0b32} seems much weakened.
+
+@40033.2
+{C184}, a fine wind. Even mighty {v0b32} is no match for these flames.
+
+@40033.3
+{C184}, against fire like this even {v0b32} is helpless. Everyone, we withdraw.
+
+@40033.4
+{C184}, the men of {v0b32} are running about in a panic. Right! We withdraw before they notice us.
+
+@40033.5
+With the fire this widespread, that should be enough. Everyone! We withdraw.
+
+@40034
+The plot succeeded: the defence of {v0b32} is now {v65}.
+
+@40035
+Only independent powers' castles are left, so no plots can be used.
+
+@40036
+Plots cannot be used against independent powers.
+

@@ -1,0 +1,444 @@
+@14000
+The {v0133} clan... Its head, {v0134}, disliked his eccentric eldest son {v0234} and wished to make his second son, Shioichimaru, his heir.
+
+@14001
+But {v0134} did not foresee that this wish would lead to a bloodbath.
+
+@14002
+...Well? How is {v0234} doing at the retreat?
+
+@14003
+...Beyond all help. I am utterly appalled. If you hand the headship to Lord {v0234}, the future of the {v0133} clan...
+
+@14004
+...I see. It has come to this, then; it cannot be helped. I shall disinherit {v0234} and make Shioichimaru my heir.
+
+@14005
+A wise decision indeed. But I believe many will oppose it. First we must win over your close retainers...
+
+@14006
+Yes. If I tell them myself, they will not object. Summon them at once.
+
+@14007
+...All four of you are here. I have something to announce. I have decided to disinherit {v0234} and make Shioichimaru my heir.
+
+@14008
+Wh-what is the reason for this!?
+
+@14009
+{v0234} has long behaved strangely and is unfit to head the {v0133}, a noble house since the Kamakura age... That is why.
+
+@14010
+A strange thing to say. To my eyes, Lord {v0234} seems rather to have a lively spirit.
+
+@14011
+Moreover, your predecessor Lord Yoshinaga decreed that the {v0133} must pass to the eldest son. Is it right to break that...?
+
+@14012
+Enough! Silence, silence! Whatever anyone says, Shioichimaru shall inherit our {v0133} house! Leave, leave at once!
+
+@14013
+...By your leave. Come, everyone.
+
+@14014
+{v0334}! Kill those four! Mind you, do not fail!
+
+@14015
+A few days later, Saito Harima-no-kami and Kozai Yamato-no-kami were murdered by unknown hands. Clearly, it was on {v0134}'s orders...
+
+@14016
+They say Lord Saito and Lord Kozai were cut down. We are surely next... Lord Taguchi... it seems we too must make up our minds.
+
+@14017
+So it seems... Rather than sit here waiting to die... we might as well...
+
+@14018
+That night...
+
+@14019
+Wh-what is this! Hm... Taguchi and Tsukumi! Have you gone mad!
+
+@14020
+This is not madness! It is for the house! My lord, your life is ours!
+
+@14021
+Guards! Assassins!!
+
+@14022
+My lord, forgive me!
+
+@14023
+Gahh!...
+
+@14024
+{v0134}'s attendants noticed the commotion and cut down the two, but Shioichimaru and his mother were killed outright and {v0134} was mortally wounded.
+
+@14025
+Hurrying back from the retreat at the news, {v0234} swiftly quelled the turmoil in {v0138}, then rushed to {v0134}'s side.
+
+@14026
+Father! Why... why has it come to this?
+
+@14027
+{v0234}... Is that you, {v0234}... I heard... You calmed the castle superbly...
+
+@14028
+I-it seems... I was wrong... The headship of the {v0133}... I leave to you...
+
+@14029
+...Rest easy. I shall make the {v0133} name known across the four seas. Father, hold on!
+
+@14030
+Ugh... {v0234}... F-forgive... your... father...
+
+@14031
+Father!...
+
+@14032
+Thus {v0234} became the 21st head of the {v0133}. {v0332}, leader of Shioichimaru's faction, is said to have been beheaded where he fled...
+
+@14033
+Since taking over the headship, {v0132} had drawn closer to the {v0333}. The year before, for instance, he took the daughter of a senior {v0333} vassal as wife for his son.
+
+@14034
+But many {v0133} vassals resented {v0134}'s policy, and the clan was on the verge of splitting. It was at such a time...
+
+@14035
+{v0534}... What do you think of our lord's recent conduct?
+
+@14036
+Content to take the daughter of a {v0333} vassal as Lord {v0234}'s wife... At this rate the {v0133} will end up beneath the {v0333}.
+
+@14037
+Yes... that worries me too. It seems we have no choice but to have Lord {v0234} rise.
+
+@14038
+A few days later... {v0434} and {v0534} went to visit {v0234}.
+
+@14039
+...That is how it stands. The {v0133} are as good as vassals of the {v0333}. We cannot bear it!
+
+@14040
+Lord {v0234}! You are the only one we can rely on now! Please, for the sake of the {v0133}...
+
+@14041
+Hm... I understand what you want to say. I too think the present state of affairs does the {v0133} no good.
+
+@14042
+Rather than let time drift... It cannot be helped; I shall ask Father to retire. I shall persuade him myself, so do nothing rash. Understood?
+
+@14044
+Now... before I persuade Father, there is something I must do.
+
+@14045
+Ah, welcome home.
+
+@14046
+My wife... I have a favour to ask. Will you return to the {v0333} without a word?
+
+@14047
+What!? ...B-but why? Have I done something wrong... If so, I shall mend my ways. Please do not speak of parting.
+
+@14048
+No, it is not that... You are not to blame. I think you a good wife. I meant to stay with you all my life... But...
+
+@14049
+I am going to ask Father to retire and then break with the {v0333}. Otherwise I cannot quell the vassals' discontent.
+
+@14050
+If you were here then, who knows what might happen... I do not want you to die... Please, understand how I feel.
+
+@14051
+Lord {v0234}!... Oh, ohh...
+
+@14052
+Forgive me...
+
+@14053
+So {v0234}'s wife was divorced and returned to her family. Hearing of it, his father {v0134} at once summoned {v0234}.
+
+@14054
+{v0234}, what is the meaning of this? If we offend the {v0333}, what then...
+
+@14055
+Father... I ask you to retire. This is the wish of all the vassals. I beg you to grant it.
+
+@14056
+Wh-what are you saying, {v0234}! Why should I retire!?
+
+@14057
+All the vassals are unhappy with your attitude toward the {v0333}. There is no way out of this but your retirement, Father.
+
+@14058
+Grrr... Then what will you do if I flatly refuse to retire?
+
+@14059
+All is for the sake of the house... Please understand.
+
+@14060
+...V-very well. I shall retire and hand the headship to you... Do as you please.
+
+@14061
+{v0234} succeeded to the headship of the {v0233}. Upon becoming head, {v0234} at once informed the {v0333} that all ties were cut.
+
+@14062
+{v0132} succeeded his father {v0234} as head of the {v0133}, but in his youth often acted on hot blood, constantly troubling the old retainers.
+
+@14063
+Above all the chief elder, {v0332}, worried for the house's future and repeatedly remonstrated, so the rift with {v0134} gradually deepened...
+
+@14064
+Father?... Why are you in such a hurry?
+
+@14065
+Yes... Lord {v0134} says there is an urgent matter to discuss and I must come to {v0138} at once.
+
+@14066
+Father, lately there are rumours that Lord {v0134} wants you dead. Better not go to the castle for a while.
+
+@14067
+Nonsense. If I did that, Lord {v0134} would only suspect me more. Well, I am off. Look after the house.
+
+@14068
+I am {v0332}. I am glad to see you looking as well as ever...
+
+@14069
+...Spare me the stiff greetings. Come closer. There is something I wish to tell you privately, about a danger close at hand for you.
+
+@14070
+Hm... And what is this danger close at hand, my lord?
+
+@14071
+This!
+
+@14072
+Argh!... M-my lord... Do you think the house will stand by in silence... at such an outrage...
+
+@14073
+Enough, be quiet! I am sick of your nagging! Die!!!
+
+@14074
+Ugh!... Is this the end of the {v0133} clan...
+
+@14075
+Thus {v0334} was struck down by his lord, {v0134}. The news "{v0334} murdered" swiftly raced through {v0134}'s lands...
+
+@14076
+What!? ...Father killed by {v0134}!? That is why I urged him not to go to the castle... Father!
+
+@14077
+...I can bear it no longer! My bond of service to {v0134} ends today! I shall avenge my father!!
+
+@14078
+The vassals, led by {v0334}'s son {v0434}, rose in fury at {v0134}'s deed and began raising troops everywhere.
+
+@14079
+Panicked by the vassals' unexpectedly fierce reaction, {v0134} fled to {v0532}, lord of {v0538}...
+
+@14080
+...{v0534}... P-please... Will you not make peace between me and my vassals...
+
+@14081
+...There are limits to selfishness. And what would you do, my lord, if I refused?
+
+@14082
+Do not say such a cruel thing. Please, I beg you! I will do anything you say!
+
+@14083
+...Very well. Since it is my lord who asks... I shall mediate.
+
+@14084
+Oh, you will! Thank you! I am grateful, {v0534}!
+
+@14085
+...From now on, Lord {v0134}'s power will only wane... Perhaps the {v0133} clan is finished...
+
+@14086
+Thanks to {v0534}'s efforts, {v0134} and the vassals made peace. But after this affair the power of the {v0133} declined sharply.
+
+@14087
+The "{v0133} House Code", drawn up in later years, calls for "lord and vassal alike to obey the code", which tells of the house's decline.
+
+@14088
+{v0132}, who served {v0232}, had gentle features like a woman's, and so was looked down on by {v0234}.
+
+@14089
+Following their master, even {v0234}'s attendants mocked and laughed at {v0134}.
+
+@14089.1
+At last, unable to bear it any longer, {v0134} went to see father-in-law {v0332}...
+
+@14090
+Lord {v0334}... This time I have truly had enough. The truth is...
+
+@14091
+...Hmm... Lord {v0234} does do cruel things.
+
+@14092
+That is no way for a master of men to act. I want to bring Lord {v0234} to his senses. Will you help me?
+
+@14093
+What do you mean to do? I understand how you feel, but... rashness will be your ruin.
+
+@14094
+Oh, my lord! There you are. A grave matter: Lord Kyusaku has fallen ill, it seems...
+
+@14095
+What!? Kyusaku... You mean {v0134}'s younger brother Kyusaku, a hostage at {v0238}?
+
+@14096
+That is right.
+
+@14097
+{v0134}? What is it? You look troubled.
+
+@14098
+...!! I have thought of the perfect plan to bring our lord to his senses. If you will excuse me...
+
+@14099
+Ah, hey, wait, {v0134}!
+
+@14100
+Back at the castle, {v0134} had retainers carry chests and set out for {v0238}. The party reached {v0238} in the middle of the night.
+
+@14101
+Open the gate, open up! {v0132} is here to visit my sick brother Kyusaku! Please let us through!
+
+@14102
+Oh, how good of you to come so late at night. I will open it now.
+
+@14103
+Thank you for your trouble!
+
+@14104
+...Urgh!...
+
+@14105
+Heh heh... it worked. Right, take the arms out of the chests. Then all of you run about everywhere and raise war cries.
+
+@14106
+I shall go straight to Lord {v0234}. Now, scatter!
+
+@14107
+We're under attack!!
+
+@14107.1
+The enemy is attacking!!
+
+@14107.2
+Night raid!!
+
+@14108
+At that time {v0234}, perhaps from drink, was dead asleep, when suddenly {v0132} burst in, clad in armour.
+
+@14109
+Wh-whoa! Wh-wh-who are you!
+
+@14110
+It is {v0132}. I have come uninvited to offer you advice, my lord...
+
+@14111
+G-guards! Treason! Assassins! Wh-whoa...! Hm? Y-Y-Yukimaru! Eeeek!!
+
+@14112
+How does it feel to have your castle seized by the vassal you mocked so much?
+
+@14113
+Y-Y-Yukimaru is... d-d-dead...
+
+@14114
+My lord! This is an age of war. There is no time to amuse yourself by mocking your vassals!
+
+@14115
+F-f-forgive me... S-spare my life...
+
+@14116
+Enemies are not only outside! Never forget that your careless words and deeds can make enemies within too!
+
+@14117
+...I-I understand... Y-you are right. F-forgive me.
+
+@14118
+{v0238}, called "the strongest castle in the land", was seized by a mere dozen or so men led by {v0134}.
+
+@14119
+It was the affair that first showed the world the genius of {v0134}, later called "the new Zhuge Liang"...
+
+@14120
+With {v0138} as base, {v0134} set the next aim: to march on Kyoto. For that, an alliance with {v0332} of {v0338} was needed.
+
+@14121
+One day... {v0134} called for his younger sister {v0234}.
+
+@14122
+Brother... What is it you wished to speak of?
+
+@14123
+{v0234}, as one of the {v0133}, you know your brother's lifelong wish.
+
+@14124
+To end this age of strife and make a world without war. Is that not so?
+
+@14125
+Yes. If you know that, this will be quick. You are to be married. The man is {v0332} of {v0338}.
+
+@14126
+He is young, but full of spirit and promise, I hear. He will understand my aims. What do you say, {v0234}?
+
+@14127
+I understand. I, {v0234}, shall marry Lord {v0334}, and I shall tell him of your aims, Brother.
+
+@14128
+Hahaha, well said! There is nothing more I need say. You are truly my sister.
+
+@14129
+{v0434}, what did the {v0133} envoy want?
+
+@14130
+They want a pact with us. As proof, they wish to marry {v0134}'s sister, Princess {v0234}, to you, my lord... Of course you will refuse.
+
+@14131
+Marry Princess {v0234} and ally with {v0132}?
+
+@14132
+{v0434}, tell the envoy: "All is understood."
+
+@14133
+My lord! What are you thinking? You cannot be unaware that our ally, Lord {v0533}, loathes the {v0133}.
+
+@14134
+I know that well... but still. Lord {v0134} is a rare talent. I hear he has long wished to rid Japan of war.
+
+@14135
+That is my wish too. What harm is there in those of like mind joining hands to pursue their goal?
+
+@14136
+If you understand, {v0434}, go and give the envoy our answer. And I leave the wedding arrangements to you. See that nothing goes amiss.
+
+@14137
+...Yes, my lord. If that is what you think, there is nothing more to say...
+
+@14138
+Hahaha, is that so! {v0334} has seen right through to my aims. This promises to be a fine match.
+
+@14139
+And so Princess {v0234} was married to {v0332}.
+
+@14140
+{v0434}, tell the envoy: "We decline."
+
+@14141
+Our {v0333} house owes Lord {v0533} a great debt. And the present Lord {v0534} loathes the {v0133}...
+
+@14142
+If we offend Lord {v0534}, our {v0333} house cannot stand. Give the envoy that answer... But! Do not be discourteous.
+
+@14143
+Yes, my lord! Understood. I shall answer them tactfully.
+
+@14144
+Hmph... Keeping faith with the likes of the {v0533}... So {v0334} is another who cannot see where the times are heading...
+
+@14145
+And so the talk of Princess {v0234}'s marriage came to nothing.
+

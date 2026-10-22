@@ -1,0 +1,228 @@
+@33000
+Has her father's statecraft and valour.
+
+@33000.1
+Has her father's cunning and valour.
+
+@33000.2
+A keen politician who runs the clan's affairs.
+
+@33000.3
+Braver than most men; often leads an army into battle.
+
+@33000.4
+Supports her father with boundless wit.
+
+@33000.5
+Has the makings of a general; a fine archer too.
+
+@33000.6
+Among the finest riders in the clan.
+
+@33000.7
+Skilled with guns; said to be the best shot in the clan.
+
+@33000.8
+A woman captain who rules a crew of rough sailors.
+
+@33000.9
+Her father's right hand, active far and wide.
+
+@33001
+{v0134} {v65}-?
+
+@33002
+Adopted daughter of {v0232}; leads an army at his request. {C33000}
+
+@33002.1
+Daughter of {v0232}; leads an army at her father's request. {C33000}
+
+@33003
+{v0134} {v65}-?
+
+@33004
+Head of the {v0136}. Took command at her late father's request. {C33000}
+
+@33004.1
+{v0136} vassal. Took command at her late father's request. {C33000}
+
+@33004.2
+Took command at her late father's request. {C33000}
+
+@33005
+{v0134} ?-?
+
+@33006
+Peasant revolt leader. Angered by the rule of {v0b35}, lord of {v0b32}, rallied local farmers to rise up.
+
+@33007
+{v0134} ?-?
+
+@33008
+Peasant revolt leader. Angered by the age of war, rallied local farmers to rise up.
+
+@33009
+One of the finest gunners among Honganji's temple officials.
+
+@33010
+{v0134} ?-?
+
+@33011
+Honganji temple official. At the call of Abbot {v0234}, raised an Ikko uprising near {v0b32}. {C33009}
+
+@33012
+{v0134} ?-?
+
+@33013
+Honganji temple official. At the call of Abbot {v0234}, raised an Ikko uprising. {C33009}
+
+@33014
+Kicho 1535-1612
+
+@33015
+Daughter of Saito Dosan; also called Nohime. Wed Oda Nobunaga to seal peace. After Honnoji relied on Nobunaga's son Nobukatsu; given land in Owari, she was called Lady Azuchi.
+
+@33016
+Ichi 1547-1583
+
+@33017
+Oda Nobunaga's sister. Wed Azai Nagamasa; returned home after his suicide. After Honnoji wed Shibata Katsuie and died with him at Kitanosho. Famed as a great beauty.
+
+@33018
+Gotoku 1559-1636
+
+@33019
+Oda Nobunaga's daughter; wed Matsudaira Nobuyasu. Reported his misconduct and her mother-in-law's Takeda plot to her father; Nobuyasu was forced to die. She then returned home.
+
+@33020
+Chacha 1567-1615
+
+@33021
+Azai Nagamasa's eldest daughter; Lady Yodo. Taken in by Toyotomi Hideyoshi as a concubine, bore Hideyori. Mighty in Osaka after his death; died with Hideyori when Osaka fell.
+
+@33022
+Hatsu 1569-1633
+
+@33023
+Azai Nagamasa's second daughter; wed Kyogoku Takatsugu. At Osaka strove in vain to make peace between her sisters: Lady Yodo of the Toyotomi and Go of the Tokugawa.
+
+@33024
+Go 1573-1626
+
+@33025
+Azai Nagamasa's third daughter. Married, divorced and remarried at Toyotomi Hideyoshi's whim, then wed Tokugawa Hidetada. Said to be strong-willed like her sister Lady Yodo.
+
+@33026
+Sena 1542-1579
+
+@33027
+Imagawa Yoshimoto's adopted daughter; Lady Tsukiyama. Wed Tokugawa Ieyasu; fell out with him over his Oda alliance after Okehazama. Suspected of a Takeda plot, killed by her husband.
+
+@33028
+Toku 1565-1615
+
+@33029
+Tokugawa Ieyasu's second daughter; wed Hojo Ujinao, then Ikeda Terumasa after the Hojo fell. Said to have tried to kill her stepson Toshitaka with a poisoned bun.
+
+@33030
+Sen 1597-1666
+
+@33031
+Tokugawa Hidetada's daughter; wed Toyotomi Hideyori aged 7. Returned home when Osaka fell and wed Honda Tadatoki; widowed again, went back to Edo and became a nun.
+
+@33032
+Komatsu 1573-1620
+
+@33033
+Honda Tadakatsu's daughter; wed Sanada Nobuyuki. In the Sekigahara war held Numata for her absent husband, said to have barred his father Masayuki and brother Yukimura.
+
+@33034
+Matsu 1561-1616
+
+@33035
+Takeda Shingen's daughter. Betrothed to Oda Nobutada, but the feud between the clans ended it. Never wed; on hearing of his death at Honnoji became the nun Shinshoni.
+
+@33036
+Yoshi 1548-1623
+
+@33037
+Mogami Yoshiaki's sister; wed Date Terumune. A woman of fierce passions, "the Demon Princess of Ou". Bore Masamune and Kojiro, but loathed one-eyed Masamune and tried to poison him.
+
+@33038
+Iroha 1594-1661
+
+@33039
+Date Masamune's daughter; wed Matsudaira Tadateru. Returned home when he was stripped of his lands; lived in the west hall of Sendai, hence Lady Nishidate. Said to be a Christian.
+
+@33040
+Tatsuko ?-1634
+
+@33041
+Kyogoku Takayoshi's daughter; wed Takeda Motoaki. After his death became Toyotomi Hideyoshi's concubine; second only to Lady Yodo at Osaka, she did much for her brother Takatsugu.
+
+@33042
+Tamako 1563-1600
+
+@33043
+Akechi Mitsuhide's third daughter; baptised Gracia. Wed Hosokawa Tadaoki, who doted on her. Refused to be Ishida Mitsunari's hostage before Sekigahara; had a retainer spear her.
+
+@33044
+Justa ?-?
+
+@33045
+Otomo Sorin's daughter. Wed Ichijo Kanesada; returned home when the Ichijo fell. Later wed Kiyota Akitada, a Bungo lord. Baptised around 1582, taking the name Justa.
+
+@33046
+Famed locally for her beauty.
+
+@33046.1
+Her quick wit was the talk of the region.
+
+@33046.2
+A graceful, gentle princess.
+
+@33047
+{v0134} {v65}-?
+
+@33048
+Adopted daughter of {v0232}; raised with his full affection. {C33046}
+
+@33048.1
+Daughter of {v0232}; raised with her father's full affection. {C33046}
+
+@33049
+Cherished by the {v0333} household.
+
+@33049.1
+Her marriage to {v0334} was a happy one.
+
+@33049.2
+Ran the {v0333} household and quietly supported {v0334}.
+
+@33050
+{v0134} {v65}-?
+
+@33051
+Adopted daughter of {v0232}; wed {v0332}. {C33049}
+
+@33051.1
+Daughter of {v0232}; wed {v0332}. {C33049}
+
+@33052
+{v0134} {v65}-?
+
+@33053
+Sister of {v0232}. {C33046}
+
+@33054
+{v0134} {v65}-?
+
+@33055
+Sister of {v0232}; wed {v0332}. {C33049}
+
+@33056
+{v0134} {v65}-?
+
+@33057
+Wife of {v0332}. {C33049}
+

@@ -1,0 +1,540 @@
+@7000
+No officer can carry this out.
+
+@7001
+A diplomacy unit can only target a castle that is not your own.
+
+@7002
+A spy unit can only target an enemy castle.
+
+@7003
+A transfer unit can only target one of your own castles.
+
+@7004
+There are no officers in this castle.
+
+@7005
+No officer in this castle has been formed into a unit.
+
+@7006
+To unite the realm by force, one must first raise one's own ability. Even if others point fingers, I intend to follow my convictions.
+
+@7007
+To rise from a lowly foot soldier, one must make the world recognise one's ability. Then the way will open of itself.
+
+@7008
+Following the strong is one way to survive. But to unite the realm by force, I believe one must make the world recognise one's strength.
+
+@7009
+Following the strong is one way to survive. But to rise from low birth, I believe one must make others recognise one's strength.
+
+@7010
+Carving your own path is fine. But to unite the realm by force, enduring service under the strong at times... is that not important too?
+
+@7011
+A life relying only on oneself is fine. But to rise from low birth, one must also consider following the strong.
+
+@7012
+If you would unite the realm by force, you cannot live recklessly. Only by following the strong and staying alive can you aim for the realm.
+
+@7013
+To rise from a lowly foot soldier, you cannot live recklessly. Following the strong is the first step to advancement.
+
+@7014
+
+
+@7014.1
+
+
+@7014.2
+
+
+@7015
+Living meekly under the strong does not suit me. I would rather die than live like that.
+
+@7016
+To make a name in this age of war, you cannot rely on the strength of others. Raising your own strength is what matters.
+
+@7017
+In this age of endless war, you cannot count on others. A path is something you carve with your own hands.
+
+@7018
+Endless war has ravaged people's hearts. In times like these, I wish to live without being stained by the corruption, even if only I.
+
+@7019
+To survive this age of war, enduring submission may be needed at times. But if I can, I wish to carve my own path.
+
+@7020
+To live in this age of war, following a great power may be needed. But if I can, I wish to go forward trusting my own strength.
+
+@7021
+Following the strong may be wise to protect the {v0133} name. But if I can, I would rather not choose such a path.
+
+@7022
+Following a strong power is needed at times, but as one born into this chaotic age, I want to use my strength to the full.
+
+@7023
+As one born into an age of war, I do wish to seize the realm. But protecting the {v0133} name comes first; at times we must follow the strong.
+
+@7024
+Testing one's ability to the full and vanishing like dew on the battlefield is one way to live, but if I can, I would rather not.
+
+@7025
+If I could, I would like to survive this age of war by my own strength alone. But at times relying on a great power may be needed.
+
+@7026
+Carving one's own path... it is very appealing, but I doubt I could live that way.
+
+@7027
+Leaving my corpse on a battlefield? No thank you. Following the strong is the best way to survive.
+
+@7028
+In an age of war, the weak can only perish. If you want to live out your days, it is wiser to follow a great power.
+
+@7029
+My duty is to protect the {v0133} name. So I cannot live selfishly and put my family at risk. If need be, I shall rely on a great power.
+
+@7030
+Leaving the {v0133} name to posterity matters more to me than making a name in war. So relying on a strong power is best.
+
+@7031
+No unit can be formed: there are no officers in the castle.
+
+@7032
+No unit can be formed: no officer can carry this out.
+
+@7033
+You cannot leave the castle: it is surrounded by the enemy.
+
+@7034
+No more units can be formed.
+
+@7035
+Cancel forming the unit?
+
+@7036
+No corps can be formed: there are no troops.
+
+@7037
+Is 0 rice all right?
+
+@7038
+Cancel forming the unit?
+
+@7039
+You cannot move to another power's castle.
+
+@7040
+Your gold is at its maximum: no more can be returned.
+
+@7041
+You do not have enough gold to return any more.
+
+@7042
+The planned purchases exceed your gold.
+
+@7043
+Cannot sell: your gold would exceed its maximum.
+
+@7044
+No officer has been chosen.
+
+@7045
+There are no treasures you can sell.
+
+@7046
+This merchant does not deal in treasures.
+
+@7047
+No ronin has been chosen.
+
+@7048
+That character cannot be used in a name.
+
+@7049
+That character cannot be used in a name.
+
+@7050
+Names may only use the letters, digits, kana and kanji offered on the entry screen.
+
+@7051
+That name already exists in the game. Is that all right?
+
+@7052
+The magistrate cannot be changed: there is only one officer.
+
+@7053
+The magistrate cannot be changed: the daimyo holds the post.
+
+@7054
+No officer can join a development unit.
+
+@7055
+No tile has been chosen for the development.
+
+@7056
+{v6f} cannot be built on this tile.
+
+@7057
+Flood control is not possible on this tile.
+
+@7058
+Cancel entering the details. Is that all right?
+
+@7059
+This tile already has the highest level of development.
+
+@7060
+This officer has already acted.
+
+@7061
+No officer chosen for the army can be commander-in-chief.
+
+@7062
+No development plan has been drawn up.
+
+@7063
+You cannot view the development plans of another province's castles.
+
+@7064
+The development unit cannot leave the castle.
+
+@7065
+No officer has been chosen.
+
+@7066
+{v6f} cannot be built now.
+
+@7067
+{v6f} is already planned at {v0b32}.
+
+@7068
+End the work and bring the development unit back into the castle?
+
+@7069
+The castle's gold may run out within a year. Is that all right?
+
+@7070
+The commander-in-chief cannot be changed: the daimyo is in the army.
+
+@7071
+Cannot attack: there are no enemy corps around the castle.
+
+@7072
+Officers with 0 troops will not join the army. Is that all right?
+
+@7073
+No corps unit can be formed: the commander-in-chief has 0 troops.
+
+@7074
+Cannot move: you rule only one castle.
+
+@7075
+There are no officers who can move.
+
+@7076
+Choose the castle to move from.
+
+@7077
+Choose the castle to move to.
+
+@7078
+You cannot move to another power's castle.
+
+@7079
+Move {v6f} officers of {v0b32} to {v0c32}. Is that all right?
+
+@7080
+No castle to move from has been chosen.
+
+@7081
+No castle to move to has been chosen.
+
+@7082
+No officers to move have been chosen.
+
+@7083
+Cancel the Move command. Is that all right?
+
+@7084
+Cannot summon: you rule only one castle.
+
+@7085
+There are no officers who can be summoned.
+
+@7086
+Move {v6f} officers to {v0b32}. Is that all right?
+
+@7087
+Cancel the Summon command. Is that all right?
+
+@7088
+The commander-in-chief cannot be changed: only one officer is in the army.
+
+@7089
+Choose the officers to take part.
+
+@7090
+Choose an officer to be magistrate.
+
+@7091
+Cancel the trade. Is that all right?
+
+@7092
+{C14}, please leave this to me! I will do fine work, I promise.
+
+@7092.1
+{C14}, if I may be so bold, please give that task to me. I will surely live up to your hopes.
+
+@7092.2
+With respect, I believe I am the right one for that task. Please, give the order to me.
+
+@7093
+Appoint {v0132} as magistrate?
+
+@7094
+I am most grateful! I shall carry out the magistrate's duties admirably.
+
+@7094.1
+Right, now I'm fired up! {C14}, I'll make this a splendid domain, you'll see!
+
+@7094.2
+I shall fulfil the great duty of magistrate splendidly. Await good news!
+
+@7095
+...But why...? This will take the heart out of my everyday service...
+
+@7095.1
+...I see... So {C14} does not trust me...
+
+@7095.2
+...When it comes to sapping people's spirit, {C14} has no equal in the realm...
+
+@7096
+{C191}... Perhaps {C22} is not suited to this sort of work. I must think again.
+
+@7096.1
+...This is hard to say, but I feel the work would go better without {C24}. {C14}... I trust your wisdom.
+
+@7096.2
+{C14}... It shames my own family to say it, but please remove {C24}. That one is unsuited to such work.
+
+@7097
+{C14}, please take {C24} off the work. That one hardly does a thing.
+
+@7097.1
+I am at the end of my patience! Please remove {C24}. Frankly, that one only gets in the way.
+
+@7097.2
+Please take {C24} off the work. Surely there is some other job better suited.
+
+@7098
+{C192}, splendid progress this month. Well done, everyone.
+
+@7098.1
+{C14}, rejoice! The work made great progress this month. We shall keep it up.
+
+@7098.2
+Good, good, this month went smoothly. {C14} must be pleased indeed.
+
+@7098.3
+I feel wonderful this month. Everyone has kept the work running smoothly. Nothing could make me happier.
+
+@7098.4
+Well done, everyone. When this work is finished, shall we all hold a feast?
+
+@7099
+{C191}... The work made little progress this month. What went wrong? I must think it over.
+
+@7099.1
+{C14}, my apologies. The work did not progress much this month. I will make up for it, without fail...
+
+@7099.2
+What's the matter, everyone? Are you tired? At this rate we'll miss the deadline. Keep at it!
+
+@7099.3
+Everyone seems tired. Don't overdo it. When you're tired, rest is best.
+
+@7099.4
+The workers grumble that there's too much work, my superiors scold me for poor management... A magistrate's job is no easy one.
+
+@7100
+The work is nearly finished. Well done, everyone. But don't let your guard down yet.
+
+@7100.1
+{C14}, the work looks nearly finished. Await good news!
+
+@7100.2
+Yes, we're nearly done. Keep at it, everyone! Let's bring {C14} good news!
+
+@7100.3
+Just because we're nearly done, don't slack off! {C14} is a strict master, you know.
+
+@7100.4
+Well done, everyone. But this is not the end. Even bigger work awaits us from now on.
+
+@7101
+{C191}... It seems we're short of gold after all... Perhaps we must start by saving up gold.
+
+@7101.1
+{C14}... At this rate we cannot pay the labourers. Could you increase {v0138}'s gold?
+
+@7101.2
+What? The labourers are complaining there isn't enough money? ...It can't be helped. I'll go and ask {C14} for some.
+
+@7101.3
+What? No money to buy new tools? ...It can't be helped. I'll go and ask {C14} for some.
+
+@7101.4
+...This money goes here... no good. However I look at it, there isn't enough... It can't be helped. I'll go and ask {C14}.
+
+@7102
+{C191}... It seems we're short of men after all... Perhaps we need to lure able people away from other clans.
+
+@7102.1
+{C14}... We lack workers. As things are, the work cannot advance. Could you assign more people?
+
+@7102.2
+Hmm... People are what we need first and foremost. Shall I ask {C14} for more men?
+
+@7102.3
+I see, nobody can take on another job. There's a limit to what one person can do... Shall I consult my lord?
+
+@7102.4
+Hmm, at this rate it won't be finished on schedule. I'll have to consult my lord.
+
+@7103
+Form a corps unit.
+
+@7104
+Develop the castle town.
+
+@7105
+Improve the province and the castle town.
+
+@7106
+Scheme against other provinces.
+
+@7107
+Promise to change sides in battle.
+
+@7108
+Incite a rebellion.
+
+@7109
+Lower an officer's loyalty.
+
+@7110
+Change an officer's way of thinking.
+
+@7111
+Assassinate an officer.
+
+@7112
+Lower a castle's defence.
+
+@7113
+Negotiate with other clans.
+
+@7114
+Form an alliance with another clan.
+
+@7115
+Form a marriage alliance with another clan.
+
+@7116
+Bring an independent power into your clan.
+
+@7117
+Persuade them to become your vassal.
+
+@7118
+Give a treasure to raise friendship.
+
+@7119
+Break an alliance with another clan.
+
+@7120
+Request reinforcements from another clan.
+
+@7121
+Negotiate with the Imperial Court.
+
+@7122
+Obtain a court title from the Court.
+
+@7123
+Raise your clan's prestige.
+
+@7124
+Lower another clan's prestige.
+
+@7125
+Have another clan declared an Enemy of Court.
+
+@7126
+Have the Enemy of Court status lifted.
+
+@7127
+Raise another clan's prestige.
+
+@7128
+Give gold to raise friendship.
+
+@7129
+Lower another clan's friendship with the Court.
+
+@7130
+Move officers.
+
+@7131
+Move officers to another castle.
+
+@7132
+Gather officers at a castle of your choice.
+
+@7133
+Recruit officers and trade goods.
+
+@7134
+Recruit a ronin as a vassal.
+
+@7135
+Buy and sell rice and other goods.
+
+@7136
+Entrust all the castle's governance.
+
+@7137
+{C24} clearly wishes to serve our clan. If I go in person, that one will surely become our vassal.
+
+@7137.1
+If I go in person, {C24} should become our vassal... but I cannot say there is no hesitation about serving the {v0136}.
+
+@7137.2
+It is hard to imagine {C24} serving our clan... but if I go in person, perhaps I can persuade them.
+
+@7137.3
+Even if I go in person, {C24} serving our clan is unthinkable. It may well be wasted effort.
+
+@7138
+Leave it to me! I will surely persuade {C24} to serve our clan.
+
+@7138.1
+I am confident I can persuade {C24} to serve our clan, but something could always go wrong. Please bear that in mind.
+
+@7138.3
+This time I have no confidence at all. That one seems to have no wish whatsoever to serve our clan.
+
+@7139
+{v0b32}'s delegated target castle has been lost.
+
+@7140
+The plan entered cannot be carried out.
+
+@7141
+There are no officers who have yet to act.
+
+@7142
+There are no units without orders.
+

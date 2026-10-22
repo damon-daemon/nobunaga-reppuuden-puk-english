@@ -1,0 +1,489 @@
+@5000
+must be
+
+@5000.1
+must be
+
+@5000.2
+must be
+
+@5000.3
+must be
+
+@5001
+{C14}, Lord {v0332} has come in person as envoy of the {v0336}!
+
+@5001.1
+{C14}, an envoy has come from the {v0336}.
+
+@5002
+An envoy seems to have come from the {v0236}.
+
+@5003
+What?... {C15} is here? We have nothing to discuss, but... very well, show them in.
+
+@5003.1
+{C192}, {C15} has come? Show them in at once.
+
+@5003.2
+{C15} has come? Show them in at once, and with every courtesy.
+
+@5003.3
+{C15} has come? Show them in at once.
+
+@5004
+What?... An envoy from {C20}? We have nothing to discuss, but... very well, show them in.
+
+@5004.1
+{C192}, an envoy from {C20}? Show them in at once.
+
+@5004.2
+An envoy from {C20}? Show them in at once, and with every courtesy.
+
+@5004.3
+An envoy from {C20}? Show them in at once.
+
+@5005
+{v0232} has come in person? Show them in.
+
+@5005.1
+Lord {v0234} has come in person? Show our guest in.
+
+@5005.2
+Lord {v0234} has come? Bring our guest here, with every courtesy.
+
+@5005.3
+Lord {v0234} has come? Bring our guest here.
+
+@5006
+An envoy from {C24}? Show them in.
+
+@5006.1
+{C24}'s envoy? Bring them here.
+
+@5006.2
+{C24}'s envoy has come? Bring them here, with every courtesy.
+
+@5006.3
+An envoy from {C24}? Show them in.
+
+@5007
+It has been a long time, {C15}. This time I come as envoy of the {v0137} clan.
+
+@5007.1
+It has been a long time, {C15}. Forgive me for coming without any notice.
+
+@5008
+{C15}... I humbly beg pardon for this sudden visit...
+
+@5008.1
+I am {v0134}, head of the {v0137} clan. {C15}... the matter is grave, so I have come myself...
+
+@5008.2
+I am {v0132}. I have a proposal for Lord {v0234}, so I have come myself.
+
+@5008.3
+I am {v0132}. Lord {v0234}... I have come to consult with {C15}.
+
+@5009
+Thank you most kindly for receiving me. I am {v0132} of {v0b32}.
+
+@5009.1
+I am {v0132}. I bring a message for {C15} from my lord, {v0332}.
+
+@5009.2
+I am deeply honoured by this audience. I am {v0132} of {v0b32}.
+
+@5009.3
+I am {v0132}. Today I come on behalf of my lord, {v0332}.
+
+@5009.4
+I am {v0132}. I come as the deputy of my lord, {v0332}.
+
+@5010
+{C15}, no need for stiff greetings... Make yourself at home.
+
+@5010.1
+{C15}... no need to be so formal... Let me hear your business.
+
+@5010.2
+Oh, {C15}... it has been a long time... I am glad to see you well.
+
+@5011
+{C15}, here in person? I, {v0134}, am deeply honoured... And your business?
+
+@5011.1
+The head of the clan in person... this is no small matter... Please tell me.
+
+@5011.2
+Oh, {C15}... What brings you to me, {v0134}, today?
+
+@5012
+Why, {C15}... What brings you to such a humble place as this?
+
+@5012.1
+Why, Lord {v0234}... What brings the head of the {v0233} clan to such a humble place as this?
+
+@5012.2
+Why, Lord {v0234}... What brings you to such a humble place as this?
+
+@5013
+{C192}, is it not {C15}? You {C5000} weary from the long road. Rest first; I will hear your business after.
+
+@5013.1
+{C192}, is it not Lord {v0234}? A visit from the clan head in person, how kind. Rest first; I will hear your business after.
+
+@5013.2
+{C192}, Lord {v0234}! Is Lord {v0334} well? Rest first; I will hear your business after.
+
+@5014
+Well, if it isn't {C15}. We have nothing to discuss, but I will at least hear your business.
+
+@5014.1
+Well, if it isn't Lord {v0234}. Bold of you to come yourself. I will at least hear your business.
+
+@5014.2
+I am busy. I will at least hear your business.
+
+@5015
+Oho, from {C24}... State your business.
+
+@5015.1
+An envoy from {C24}, how rare... And your business?
+
+@5015.2
+{C24}'s messenger... I can guess the matter, but state your business.
+
+@5016
+The {v3d32} propose "{v6f}". Accept?
+
+@5017
+The {v3d32} offer {v6f} as tribute. Accept?
+
+@5018
+{C192}, just like {C15}! I am grateful!
+
+@5018.1
+{C192}, how kind... It was worth coming all this way.
+
+@5018.2
+Just like {C15}. It was worth coming to ask.
+
+@5018.3
+Most joyful news. I must return and tell my lord at once... I take my leave.
+
+@5018.4
+{C192}, what welcome words. I wish to tell my lord as soon as I can. And so...
+
+@5018.5
+I am glad of your kind reply. Now I can return to {C23} with my head held high.
+
+@5019
+To think {C15} has grown so stubborn... There is no talking to you... I shall leave.
+
+@5019.1
+Bold of you to make a fool of me, {v0132}... Remember this...
+
+@5019.2
+Even after all my pleading, you will not agree?... A great pity.
+
+@5019.3
+{C15}, I hope you will not regret this later...
+
+@5019.4
+I see. A pity, but I shall come again another time.
+
+@5020
+{C15}, for the prosperity of both houses, become an ally of our {v0137} clan.
+
+@5020.1
+Fighting each other brings no gain to either house. Will you not make a pact with our clan?
+
+@5021
+My lord wishes for a pact for the prosperity of both the {v0233} and {v0137} houses.
+
+@5021.1
+I bring my lord's words: "A pact with the {v0137} clan rests on Lord {v0234}'s wishes."
+
+@5022
+When {C15} asks in person, I cannot refuse. Agreed.
+
+@5022.1
+Agreed. I cannot refuse a request from {C15}.
+
+@5022.2
+An offer I could only hope for... It is I, {v0134}, who should ask. Let us make the pact.
+
+@5022.3
+I am not without objections... but for the prosperity of both houses, I agree.
+
+@5022.4
+Raise your head. From now on the {v0237} and the {v0137} are good friends. No need to be so stiff.
+
+@5023
+The {v0137} and {v0237} clans have formed an alliance.
+
+@5024
+{C15}, you have come in person, but the matter is grave and I cannot answer at once. Please withdraw for now...
+
+@5024.1
+Even for {C15}, I cannot say yes to this...
+
+@5024.2
+Hmm... I am sorry, but I cannot give a favourable answer.
+
+@5024.3
+I cannot answer at once. Please leave for today...
+
+@5024.4
+I am sorry, but the {v0137} clan has its own concerns. Please leave...
+
+@5025
+To bind our houses firmly, will {C24} take our {v0434} as his lawful wife?
+
+@5025.1
+Lasting friendship between our houses is my lord's wish. As proof, we wish to send Princess {v0434} to wed {C24}...
+
+@5026
+Oh... Princess {v0434}! An offer I could only hope for. Of course I agree.
+
+@5026.1
+Princess {v0434}'s beauty is famed; a princess worthy of the {v0137} clan. All our house eagerly awaits the wedding day!
+
+@5027
+A princess of the {v0237} clan has married into the {v0137} clan.
+
+@5028
+I am not in the mood... It is not a bad offer... I mean no offence.
+
+@5028.1
+Princess {v0434} deserves a more fitting match... I must decline.
+
+@5029
+Your lands will be secured, so will you not submit to us? It would be good for you too, {C13}.
+
+@5029.1
+Will you serve the {v0137} clan together with {C2}? I guarantee your lands.
+
+@5029.2
+The strong grow stronger: such is this age of war. Will you join our {v0137} clan?
+
+@5030
+To fall in war is a samurai's wish. If you want me to yield, beat me in battle.
+
+@5030.1
+Better the head of a chicken than the tail of an ox. I will submit to no one.
+
+@5030.2
+Lord {v0237} seems to fear me greatly. All the more reason not to submit.
+
+@5031
+You speak no lie? {C184}, if my lands are secured, I will gladly join you.
+
+@5031.1
+I never thought I could win against the {v0237} clan... Then I will simply join the {v0237}.
+
+@5031.2
+If my lands are secured, it matters not whom I serve. From now on I will count myself one of the {v0237} clan.
+
+@5032
+{v0b32} has submitted to the {v0136}.
+
+@5033
+The {v0237} clan's luck has run out. {C15}... why not live out your days under us?
+
+@5033.1
+Before the {v0237} clan's life runs out, {C15}, join the {v0137} clan with good grace.
+
+@5033.2
+{C15}, join the ranks of the {v0137} clan's vassals. I promise you will be treated well!
+
+@5034
+The {v0137} name must survive at any cost... It cannot be helped. I will serve {C14}.
+
+@5034.1
+......Very well...... I will become a vassal of {C24}, together with {C15}...
+
+@5034.2
+The outcome is already decided... I humbly accept. Lord {v0234}, please give {C24} my regards.
+
+@5034.3
+...Our clan is too weak to aim for the realm... Then let us dream of it as a wing of the {v0237}.
+
+@5035
+The {v0137} clan has surrendered and joined the {v0237} clan.
+
+@5036
+You came all this way to say that?... Hmph... Leave at once.
+
+@5036.1
+{C15}... did you think I would yield so easily? Never show your face to me again.
+
+@5036.2
+Tell {C24}... I will never bow to a fool like that!
+
+@5036.3
+{v0234}... I will spare your head this time. Now get out!
+
+@5036.4
+Nonsense... Someone throw this one out of the castle!
+
+@5036.5
+H-how dare you! This is too much of an insult! {v0234}, if you value your life, leave at once!
+
+@5037
+I have brought this {v6f}, which befits {C15} above all. Please accept it.
+
+@5037.1
+My lord wishes {C15} to have this {v6f}... Please accept it.
+
+@5037.2
+This {v6f} is a small token from the {v0137} clan for the {v0237} clan's constant support...
+
+@5037.3
+This {v6f} is a small gift from my lord. Please accept it.
+
+@5038
+{C192}, {C192}, you come all this way and bring such a thing too. {C15}, I thank you!
+
+@5038.1
+Well, well... Please tell {C24} I am grateful for this kindness.
+
+@5038.2
+{C24} is a thoughtful one, sending me just what I wanted, just when I wanted it.
+
+@5039
+You came all this way and I am sorry, but I cannot accept such a thing.
+
+@5039.1
+I regret to say I am not one to be dazzled by such a paltry tribute. Please take your leave.
+
+@5039.2
+I am held cheap indeed, if they think such a thing will sway me...
+
+@5039.3
+Tell {C24} that I am not one to dance to such a petty scheme.
+
+@5040
+Friendship with the {v0236} is now at its maximum.
+
+@5040.1
+Friendship with the {v0236} is now {v65}.
+
+@5041
+I will be blunt. I am sorry, but our pact with the {v0233} clan ends today.
+
+@5041.1
+I bring my lord's words: "For good reason, the pact between the {v0137} and {v0237} clans is now void."
+
+@5042
+Is that so... You mean to destroy our clan, then...
+
+@5042.1
+So be it. From tomorrow we are enemies. We next meet on the battlefield.
+
+@5042.2
+For what reason? Do you wish to cross blades with our house?
+
+@5042.3
+What... {C24} does not seem to know the meaning of good faith.
+
+@5043
+Shifting loyalties are the way of this warring age... As one who lives in it, {C15} must know that... I take my leave.
+
+@5043.1
+It pains me, but it is my lord's order. Farewell, {C15}, and good health.
+
+@5044
+The {v0137} clan has broken its alliance with the {v0237} clan.
+
+@5045
+I shall return Princess {v0234} to Lord {v0134}... I cannot bring myself to kill her.
+
+@5045.1
+Now that we have broken with the {v0136}, Princess {v0234}, I cannot keep you here. Farewell.
+
+@5046
+It is sad, but it cannot be helped. I will return to the {v0236}.
+
+@5047
+The promise to send reinforcements to the {v0237} clan is cancelled.
+
+@5048
+Because it is you, {C15}, I ask this myself. Lend us troops when we besiege a castle.
+
+@5048.1
+I have come on behalf of the {v0137} clan to borrow {C15}'s strength. Lend us troops when we besiege a castle.
+
+@5049
+I am sorry... Even if {C15} asks in person, I cannot give what I do not have.
+
+@5049.1
+Just as the {v0237} clan has its concerns, so does ours... Please take your leave for now.
+
+@5050
+Asked face to face like this, I cannot refuse. I will help whenever you need.
+
+@5050.1
+{C24} is a dear ally. I will gladly lend troops. Call on us any time.
+
+@5051
+The {v0136} have refused the request for reinforcements.
+
+@5052
+The {v0137} clan has promised to send reinforcements for castle sieges.
+
+@5053
+Lord {v0232} has come in person? Show our guest in.
+
+@5053.1
+{v0232} has come in person? Show them in.
+
+@5053.2
+An envoy from the {v0236}? Show them in.
+
+@5053.3
+An envoy from the {v0236}? Bring them here.
+
+@5054
+Our clan has been named an Enemy of Court, so {v6f} cannot be carried out.
+
+@5055
+An order to punish our clan has been issued, so {v6f} cannot be carried out.
+
+@5056
+This daimyo has been named an Enemy of Court, so {v6f} cannot be carried out.
+
+@5057
+This daimyo holds an imperial permit, so {v6f} cannot be carried out.
+
+@5058
+This daimyo has been recommended, so {v6f} cannot be carried out.
+
+@5059
+An order to punish this daimyo has been issued, so {v6f} cannot be carried out.
+
+@5060
+An order to punish the {v3d32} has already been issued, so {v6f} cannot be carried out.
+
+@5061
+The {v3d32} clan has already been named an Enemy of Court, so {v6f} cannot be carried out.
+
+@5062
+Do you think His Majesty would accept so little gold? Come back another time.
+
+@5062.1
+Only this much?... This will not do. Come back again.
+
+@5062.2
+You do not seem to grasp His Majesty's hardship. Come back again.
+
+@5062.3
+Such a pittance is not worth presenting. Come back again.
+
+@5063
+Officers displeased that the alliance was broken one-sidedly are losing loyalty.
+
+@5064
+Court friendship is already at its maximum. It cannot be raised any further.
+

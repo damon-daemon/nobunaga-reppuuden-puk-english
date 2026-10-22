@@ -1,0 +1,396 @@
+@34000
+An alliance of the {v0233} and the {v0333}... {C24} will surely agree.
+
+@34000.1
+Knowing {C24}, an alliance of the {v0233} and the {v0333} should appeal...
+
+@34000.2
+{C24} will likely refuse an alliance of the {v0233} and the {v0333}, but it is worth a try.
+
+@34000.3
+An alliance of the {v0233} and the {v0333} would mean much to us, but winning over {C24} is probably impossible.
+
+@34001
+Leave it to me. I will win over {C24} and see the alliance of the {v0233} and the {v0333} sealed.
+
+@34001.1
+I am confident I can seal the {v0233}-{v0333} alliance. Still, things may go awry; please bear that in mind.
+
+@34001.2
+I am not very confident... but I will do what I can. If we show sincerity, they may yet agree.
+
+@34001.3
+I have no confidence at all this time. I cannot imagine {C24} agreeing to this.
+
+@34002
+A marriage between the {v0233} and the {v0333}... {C24} will surely agree.
+
+@34002.1
+Knowing {C24}, a marriage with our house should appeal...
+
+@34002.2
+{C24} will likely refuse a marriage between the {v0233} and the {v0333}, but it is worth a try.
+
+@34002.3
+A marriage with the {v0333} would mean much to us, but winning over {C24} is probably impossible.
+
+@34003
+Leave it to me. I will win over {C24} and see the marriage of the {v0233} and the {v0333} sealed.
+
+@34003.1
+I am confident I can arrange the {v0233}-{v0333} marriage. Still, things may go awry; please bear that in mind.
+
+@34003.2
+I am not very confident... but I will do what I can. If we show sincerity, they may yet agree.
+
+@34003.3
+I have no confidence at all this time. I cannot imagine {C24} agreeing to this.
+
+@34004
+Even {v0332} must feel the might of our house, known far and wide. Submission to us is certain.
+
+@34004.1
+If we show our strength, even {v0332} should submit to us, barring something unforeseen.
+
+@34004.2
+Knowing {v0332}... I doubt they will submit to us so easily, but it may be worth a try.
+
+@34004.3
+{v0332} openly declares we cannot share the same sky. They will never submit to us.
+
+@34005
+Leave it to me. I will persuade {C24} to become our vassal without fail.
+
+@34005.1
+I am confident I can bring {C24} to submit. Still, things may go awry; please bear that in mind.
+
+@34005.2
+I am not very confident... but I will do what I can. On the right terms, they may yet agree.
+
+@34005.3
+I have no confidence at all this time. {C24} seems to see us as a mortal enemy.
+
+@34006
+The gap in power between the {v0233} and the {v0333} is plain. Even {C24} must submit to us.
+
+@34006.1
+{C24} must feel the gulf in might between the {v0233} and the {v0333}... Submission is very likely.
+
+@34006.2
+The {v0333} still have plenty of fight... yet our greater might seems to unsettle them. They may submit.
+
+@34006.3
+The {v0233} far outmatch the {v0333}, but even a worm will turn. They will surely refuse.
+
+@34007
+Leave it to me. I will persuade {C24} to become our vassal without fail.
+
+@34007.1
+I am confident I can bring {C24} to submit. Still, things may go awry; please bear that in mind.
+
+@34007.2
+I am not very confident... but I will do what I can. On the right terms, they may yet agree.
+
+@34007.3
+I have no confidence at all this time. I fear it will only rub {C24} the wrong way.
+
+@34008
+If I go in person, {C24} will surely accept, and friendship between the {v0233} and the {v0333} will grow.
+
+@34008.1
+{C24} dislikes us more than you might think. They would refuse even a gift.
+
+@34009
+Leave it to me. I will be the bridge that brings the {v0233} and the {v0333} closer.
+
+@34009.1
+I have no confidence at all this time. {v0334} is not one to be swayed by gifts.
+
+@34010
+Given our ties with the {v0333}, they will surely send reinforcements.
+
+@34010.1
+Our ties with the {v0333} promise help, but their own troubles may keep them from sending any.
+
+@34010.2
+The {v0333} plainly have no troops to spare for us... but an earnest appeal might yet move them.
+
+@34010.3
+In their present state the {v0333} cannot possibly spare troops for us. They will refuse.
+
+@34011
+Leave it to me. I will persuade {C24} to send reinforcements without fail.
+
+@34011.1
+I am confident I can win their aid. Still, things may go awry; please bear that in mind.
+
+@34011.2
+I am not very confident... but I will do what I can. If I tell them of our plight, they may agree.
+
+@34011.3
+I have no confidence at all this time. {C24} is not one to spare troops for our sake.
+
+@34012
+If I go, we will surely gain a new title.
+
+@34012.1
+We will very likely gain a new title... though our gifts to the Court may not be enough.
+
+@34012.2
+I know our gifts to the Court fall short. Still, a new title is not out of the question.
+
+@34012.3
+The Court seems to think our present title suits our power. A trip to the Palace would be wasted.
+
+@34013
+Leave it to me. I will obtain a new court title for {C14} without fail.
+
+@34013.1
+I am confident I can obtain a new title for {C14}. Still, things may go awry; please bear that in mind.
+
+@34013.2
+I am not very confident... but I will do what I can. On the right terms, they may lend an ear.
+
+@34013.3
+I have no confidence at all this time. I cannot imagine the Palace granting us a title.
+
+@34014
+If I go, we will surely obtain an edict naming the {v0333} enemies of the Court.
+
+@34014.1
+We will likely obtain an edict against the {v0333}... though our gifts to the Court may not be enough.
+
+@34014.2
+I know our gifts fall short, but the Court naming the {v0333} its enemies is not out of the question.
+
+@34014.3
+The Court has no thought of naming the {v0333} its enemies. A trip to the Palace would be wasted.
+
+@34015
+Leave it to me. The Palace will surely declare {v0332} an enemy of the Court.
+
+@34015.1
+I am confident I can have the {v0333} named enemies of the Court. Still, things may go awry; please bear that in mind.
+
+@34015.2
+I am not very confident... but I will do what I can. If I list {v0334}'s misdeeds, they may lend an ear.
+
+@34015.3
+I have no confidence at all this time. I hear the Palace trusts {v0334}.
+
+@34016
+If I go, they will surely lift the unjust stain of "enemy of the Court".
+
+@34016.1
+I think our gifts are enough to clear the unjust charge of being enemies of the Court... but I cannot be sure.
+
+@34016.2
+I know our gifts fall short, but we must clear our name as enemies of the Court at any cost.
+
+@34016.3
+The Court seems to bear us great ill will. Seeking a pardon at the Palace would be wasted effort.
+
+@34017
+Leave it to me. I will soothe the Palace's anger without fail.
+
+@34017.1
+I am confident I can soothe the Palace's anger. Still, things may go awry; please bear that in mind.
+
+@34017.2
+I am not very confident... but I will do what I can. If I plead our sincerity, they may lend an ear.
+
+@34017.3
+I have no confidence at all this time. I hear the Palace is quite angry with us.
+
+@34018
+If I go, they will surely accept it, and the Court will think better of us.
+
+@34018.1
+I doubt so small a sum will satisfy the Court. They will probably refuse even to accept it.
+
+@34019
+Leave it to me. I will be the bridge between the Palace and our house.
+
+@34019.1
+I have no confidence at all this time. I cannot see the Court accepting such a paltry sum.
+
+@34020
+If I go and speak, the Court's trust in the {v0333} is sure to waver.
+
+@34020.1
+The Court's trust in the {v0333} will likely waver... though they may not believe my words.
+
+@34020.2
+The Court trusts the {v0333} more than us; I doubt they will believe me, but it is not impossible.
+
+@34020.3
+The Court seems to trust the {v0333} deeply. A trip to the Palace would be wasted.
+
+@34021
+Leave it to me. I will spread ill words of {v0332} throughout the Palace.
+
+@34021.1
+I am confident I can blacken {v0332}'s name at the Palace. Still, things may go awry; please bear that in mind.
+
+@34021.2
+I am not very confident... but I will do what I can. With the right slander, it may work.
+
+@34021.3
+I have no confidence at all this time. The Court seems to trust {v0332} greatly.
+
+@34022
+...Wait a moment. We already have {C24}'s promise to turn in battle. Going again may be pointless.
+
+@34022.1
+{C24} clearly favours us. If I go in person, they will surely swear to turn on the battlefield.
+
+@34022.2
+{C24} may hesitate to betray the {v0336}, but if I go, they will swear to turn.
+
+@34022.3
+{C24} betray the {v0336}... It is hard to imagine, but if I go in person, I may persuade them.
+
+@34022.4
+Even if I go in person, I cannot see {C24} turning to our side. It may be wasted effort.
+
+@34023
+...Wait, {C14}. {C24} has already promised to turn for us. I fear it is pointless...
+
+@34023.1
+Leave it to me. I will bring {C24} to turn and join our side without fail.
+
+@34023.2
+I am confident I can bring {C24} over to us. Still, things may go awry; please bear that in mind.
+
+@34023.3
+I am not very confident... but I will do what I can. With the right approach, they may agree.
+
+@34023.4
+I have no confidence at all this time. That one will not fall for petty schemes.
+
+@34024
+...Wait a moment. We already have {C24}'s promise to rebel. Going again may be pointless.
+
+@34024.1
+{C24} clearly favours us. If I go in person, they will surely swear to rebel.
+
+@34024.2
+{C24} may hesitate to betray the {v0336}, but if I go, they will swear to rebel.
+
+@34024.3
+{C24} betray the {v0336}... It is hard to imagine, but if I go in person, I may persuade them.
+
+@34024.4
+Even if I go in person, I cannot see {C24} turning to our side. It may be wasted effort.
+
+@34025
+...Wait, {C14}. {C24} has already promised us to rebel. I fear it is pointless...
+
+@34025.1
+Leave it to me. I will talk {C24} into rebelling against the {v0336} without fail.
+
+@34025.2
+I am confident I can lead {C24} to rebel. Still, things may go awry; please bear that in mind.
+
+@34025.3
+I am not very confident... but I will do what I can. With the right approach, they may agree.
+
+@34025.4
+I have no confidence at all this time. I hear that one is deeply loyal.
+
+@34026
+With my cunning, sowing doubt in {C24} will be easy.
+
+@34026.1
+Sowing doubt in {C24} is simple enough... but I cannot say it is certain.
+
+@34026.2
+{C24} is deeply loyal, but I may yet be able to sow some doubt.
+
+@34026.3
+Whatever I do, {C24}'s loyalty will not waver.
+
+@34027
+Leave it to me. I will sow doubt in {C24} without fail.
+
+@34027.1
+I am confident I can sow doubt in {C24}. Still, things may go awry; please bear that in mind.
+
+@34027.2
+I am not very confident... but I will do what I can. With the right words, I may sow doubt.
+
+@34027.3
+I have no confidence at all this time. That one is not swayed by rumours.
+
+@34028
+With my cunning, swaying {C24} will be easy.
+
+@34028.1
+Swaying {C24} is simple enough... but I cannot say it is certain.
+
+@34028.2
+Shaking {C24}'s faith and convictions is hard... but I may yet manage it.
+
+@34028.3
+{C24}'s convictions are firm indeed. Bending them is beyond me.
+
+@34029
+Leave it to me. I will change {C24}'s convictions without fail.
+
+@34029.1
+I am confident I can bend {C24}'s convictions. Still, things may go awry; please bear that in mind.
+
+@34029.2
+I am not very confident... but I will do what I can. With the right approach, I may bend {C24}'s convictions.
+
+@34029.3
+I have no confidence at all this time. I hear that one is very stubborn.
+
+@34030
+With my skill, disposing of {C24} is as easy as twisting a baby's arm.
+
+@34030.1
+I can kill them nine times out of ten. But {C24} is skilled too... We must not be careless.
+
+@34030.2
+With {C24} as the target, it will not be easy. Yet with my skills, I may still do it.
+
+@34030.3
+With {C24} as the target, even my skills could not do it. It is impossible.
+
+@34031
+Leave it to me. I will send {C24} to the grave without fail.
+
+@34031.1
+I am confident I can dispose of {C24}. Still, things may go awry; please bear that in mind.
+
+@34031.2
+I am not very confident... but I will do what I can. With luck, I may strike them down unawares.
+
+@34031.3
+I have no confidence at all this time. I do not think I can catch that one off guard.
+
+@34032
+{v0b32}'s weak points are plain to all. I will wrap it in crimson flames.
+
+@34032.1
+It is not certain, but {v0b32} has many gaps. Setting it alight should not be hard.
+
+@34032.2
+{v0b32} is a famed stronghold and hard to set alight, but not without gaps. It is worth a try.
+
+@34032.3
+{v0b32} is a famed stronghold with no gap to exploit. We had better give up.
+
+@34033
+Leave it to me. I will wrap {v0b32} in crimson flames without fail.
+
+@34033.1
+I am confident I can set {v0b32} ablaze. Still, things may go awry; please bear that in mind.
+
+@34033.2
+I am not very confident... but I will do what I can. If only I can catch {v0b32}'s guards off guard...
+
+@34033.3
+I have no confidence at all this time. I hear {v0b32} is proof against ninja.
+

@@ -1,0 +1,528 @@
+STUP:801c4d98	OK
+STUP:801c4da0	Cancel
+STUP:801c4da8	Fictional Start
+STUP:801c4db8	Switch
+STUP:801c4dc0	Prestige
+STUP:801c4e38	Move Officers
+STUP:801c4e44	Create Clan
+STUP:801c4e54	Change Ruling Clan
+STUP:801c4e68	Place Officers
+STUP:801c4e78	Unify or Free Provinces
+STUP:801c4e90	Daimyo Info
+STUP:801c4ea0	From
+STUP:801c4ea8	To
+STUP:801c4eb0	Officer
+STUP:801c4eb8	Update
+STUP:801c4ec0	Move Officer
+STUP:801c4ecc	At
+STUP:801c4ed4	Select
+STUP:801c4f14	 Seat 
+STUP:801c4f1c	New Daimyo
+STUP:801c4f24	Create Daimyo
+STUP:801c4f58	Castle
+STUP:801c4f60	Ruler
+STUP:801c4f68	Change Ruler
+STUP:801c4fb0	Place At
+STUP:801c4fc0	Place Officers
+STUP:801c4fd0	Chosen
+STUP:801c5004	Edit Branch Castle
+STUP:801c5014	Change
+STUP:801c5044	%s under %s
+STUP:801c5054	%s independent
+STUP:801c5064	%s: no ruler
+STUP:801c5778	Daimyo
+STUP:801c5780	Seat
+STUP:801c5788	Join
+STUP:801c5790	Vassals
+STUP:801c5798	OK
+STUP:801c57a0	Cancel
+STUP:801c57bc	Successor Start
+STUP:801c57cc	Rebellion Start
+STUP:801c5d7c	-
+STUP:801c5d94	Deadline
+STUP:801c5d9c	Encircle Chosokabe
+STUP:801c5db4	OK
+STUP:801c5dbc	Cancel
+STUP:801c5dc4	Ends %Y %4d
+STUP:801c5f84	Scenario
+STUP:801c5f90	Final Deadline
+STUP:801c5f9c	Period
+STUP:801c5fa4	Shogunate & Court
+STUP:801c5fb4	Auto
+STUP:801c5fbc	Advice
+STUP:801c5fc4	Encircle Chosokabe
+STUP:801c5fdc	%-21s%Y %4d %3d yrs
+STUP:801c5ff4	Unify Region
+STUP:801c6000	Defeat a Clan
+STUP:801c600c	Personnel
+STUP:801c6018	Development
+STUP:801c6024	Other
+STUP:801c6220	Unify Japan
+STUP:801c622c	Unify %s
+STUP:801c6234	Other Clans
+STUP:801c6240	Defeat %s
+STUP:801c6248	Take %s
+STUP:801c6250	To Kyoto (Meet Shogun)
+STUP:801c6264	To Kyoto (Aid Shogun)
+STUP:801c6278	To Kyoto (Topple Shogun)
+STUP:801c628c	Encircle %s
+STUP:801c629c	Break Encirclement
+STUP:801c62ac	Court Title
+STUP:801c62b8	Gain War Talent
+STUP:801c62c8	Gain Political Talent
+STUP:801c62d8	Gain Intellect Talent
+STUP:801c62e8	Tea Ceremony
+STUP:801c62f4	Tournament
+STUP:801c6304	Strengthen %s
+STUP:801c6310	Secure Rice
+STUP:801c631c	Secure Troops
+STUP:801c6328	Build Ironclads
+STUP:801c6334	Raise Prestige
+STUP:801c6340	Unify %s
+STUP:801c634c	Honganji Rises
+STUP:801c6358	Control every main castle of %s.\n
+STUP:801c6380	 +%d more
+STUP:801c6388	: take control.\n
+STUP:801c6398	Form a corps led by %s\nwith %d+ troops in total\nand move it to a tile\nadjacent to %s.
+STUP:801c63e0	Control every main castle in Kinai.\n
+STUP:801c6400	Control every main castle of the %s shogunate.\n
+STUP:801c6424	Take %s in Yamashiro.\n
+STUP:801c6438	Control every main castle of the %s shogunate.\n
+STUP:801c645c	Raise Prestige to %d+ to show your might.\n
+STUP:801c647c	Gain a court title of %s or higher.\n
+STUP:801c649c	Gain the court title of Regent.\n
+STUP:801c64b4	(Current title: %s)\n
+STUP:801c64c8	(Current title: none)\n
+STUP:801c64e0	Have %d officers with War or Command\nof 75+, or War + Command of 140+\nin your service.\n(%d more to go)\n
+STUP:801c6558	Have %d officers with\nPolitics of 75+ in your service.\n(%d more to go)\n
+STUP:801c659c	Have %d officers with\nIntellect of 75+ in your service.\n(%d more to go)\n
+STUP:801c65e0	Summon 7 officers who own tea\nutensils of Grade 4 or better to the\ndaimyo's seat and keep them there.\n(%d more to go)
+STUP:801c6644	Summon 4 officers whose calling is\nSwordsman to the daimyo's seat.\n(%d more to go)
+STUP:801c6698	Fill every tile ruled by %s Castle\nwith developed terrain.\nPaddies, towns, villages: LV3.\nRivers need no flood control.
+STUP:801c6704	Secure %d+ rice in total.\n(Current total: %d)
+STUP:801c6734	Secure %d+ troops in total.\n(Current total: %d)
+STUP:801c6764	Station an officer with Gunner\naptitude A+ and one with Navy A+\nin a port castle of yours\nand have 5000 gold ready.
+STUP:801c67c4	Raise Prestige to %d+.\n(Current Prestige: %d)
+STUP:801c67f0	Control every castle of %s.\n
+STUP:801c680c	Rule every main castle,\nor else\nbecome Shogun, own %d+ main castles\nand ally with every daimyo.
+STUP:801c6878	Goal Achieved
+STUP:801c6884	Kyushu
+STUP:801c688c	Shikoku
+STUP:801c6894	Chugoku
+STUP:801c689c	Kinai
+STUP:801c68a4	Koshinetsu
+STUP:801c68ac	Tokai
+STUP:801c68b4	Kanto
+STUP:801c68bc	Tohoku
+STUP:801c69ac	Nobunaga Comes of Age
+STUP:801c69b8	Nobunaga Takes Over
+STUP:801c69c8	Battle of Okehazama
+STUP:801c69d4	Encircling Nobunaga
+STUP:801c69e0	Battle of Tedorigawa
+STUP:801c69ec	The Honnoji Incident
+STUP:801c69f8	Battle of Shizugatake
+STUP:801c6a04	Komaki-Nagakute
+STUP:801c6a10	Kyushu Campaign
+STUP:801c6a1c	Odawara Campaign
+STUP:801c6a28	War of Kings
+STUP:801c6a84	Switch
+STUP:801c6ab8	OK
+STUP:801c6ac0	Cancel
+STUP:801c6edc	Next Officer
+STUP:801c6ee8	Choose the officer\nwho will succeed.
+STUP:801c6f08	Choose the officer\nwho will rebel.
+STUP:801c6f2c	Choose the successor's\ncastle.
+STUP:801c6f50	Choose the rebel's\ncastle.
+STUP:801c6f78	Choose officers\nto join the\nrebellion.
+STUP:801c6fa0	Choose new\nofficers to\nserve you.
+STUP:801c70c8	1.Budding Feelings
+STUP:801c70d8	2.Quiet Hermitage
+STUP:801c70e8	3.Breath of Schemes
+STUP:801c70f8	4.Spring Haze
+STUP:801c7104	5.Unshaken Clouds
+STUP:801c7118	6.Path of Fleeting Dreams
+STUP:801c712c	7.Feast in Deep Snow
+STUP:801c7138	8.Blurred Memories
+STUP:801c7148	9.Clear Stream Path
+STUP:801c7154	10.Land of Mountain Mist
+STUP:801c7164	11.Turbulent Soul
+STUP:801c716c	12.Gathered Thoughts
+STUP:801c7178	13.Though I Never Go Home
+STUP:801c718c	14.On the Brink of Madness
+STUP:801c719c	15.The Glaring Rider
+STUP:801c71a8	16.Endless Vow
+STUP:801c71b8	17.Heartfelt Hope
+STUP:801c71c4	18.Seeking the Burning Light
+STUP:801c71d4	19.Beyond the Brink of Death
+STUP:801c71e4	20.To a Dazzling Tomorrow
+STUP:801c71f8	21.Bound to Fate
+STUP:801c7208	22.A Moment's Warmth
+STUP:801c721c	23.Crimson Lantern
+STUP:801c7228	24.Schemer by Moonlight
+STUP:801c725c	BGM Mode
+STUP:801c7604	Switch
+STUP:801c760c	OK
+STUP:801c7614	Cancel
+STUP:801c7624	No more daimyo can be chosen.
+STUP:801c7644	Back to scenario selection.
+STUP:801c769c	Prest.
+STUP:801c76a4	Provs
+STUP:801c76ac	Castles
+STUP:801c76b4	Ofcrs.
+STUP:801c76bc	Troops
+STUP:801c76c4	Play as this clan?
+STUP:801c7d74	Heir
+STUP:801c7d7c	Rebel
+STUP:801c7d84	Switch
+TL:8019b118	Details
+TL:8019b120	Recruit
+TL:8019b128	Free
+TL:8019b130	Behead
+TL:8019b138	Oda
+TL:8019b140	Hayashi Michikatsu
+TL:8019b148	Elder
+TL:8019b150	47
+TL:8019b158	Merit
+TL:8019b160	Loyal
+TL:8019b22c	-
+TL:8019b378	Period
+TL:8019b380	Officer
+TL:8019b388	Target
+TL:8019b390	Plot
+TL:8019b398	Go
+TL:8019b3a0	Cancel
+TL:8019b3b8	Imagawa Ujizane
+TL:8019b3c4	Kiyosu
+TL:8019b3cc	1 month
+TL:8019b564	Betroth
+TL:8019b56c	Officer
+TL:8019b574	Go
+TL:8019b57c	Cancel
+TL:8019b598	Sena
+TL:8019b5a0	Matsudaira Motoyasu
+TL:8019b5ac	Commander
+TL:8019b944	Move
+TL:8019b94c	Attack
+TL:8019b954	Split
+TL:8019b95c	Pursue
+TL:8019b964	Officer
+TL:8019b96c	Organise
+TL:8019b974	Supply
+TL:8019b97c	Cancel
+TL:8019b9f8	Imagawa Yoshimoto
+TL:8019bb8c	Staff
+TL:8019bb94	Lead
+TL:8019bb9c	Max
+TL:8019bba4	OK
+TL:8019bbac	Cancel
+TL:8019bbb4	Move
+TL:8019bbbc	Supplies
+TL:8019bc70	Imagawa Yoshimoto
+TL:8019bc7c	Imagawa Ujizane
+TL:8019bc88	Abe Motozane
+TL:8019bc94	Itami Yasunao
+TL:8019c0ac	Sortie
+TL:8019c0b4	Strat.
+TL:8019c0bc	Rice
+TL:8019c0c4	Aide
+TL:8019c0cc	Go
+TL:8019c0d4	C-in-C
+TL:8019c0dc	Unit
+TL:8019c0e4	None
+TL:8019c0ec	Imagawa Yoshimoto
+TL:8019c1e4	-
+TL:8019c3a8	Strategy Screen
+TL:8019c3e8	Imagawa's turn
+TL:8019c3f8	%Y %4d
+TL:8019c9b4	Lead
+TL:8019c9bc	Officer
+TL:8019c9c4	Clear
+TL:8019c9cc	Plan
+TL:8019c9d4	Recall
+TL:8019c9dc	Go
+TL:8019c9e4	Cancel
+TL:8019cae0	Period
+TL:8019cae8	Gold
+TL:8019caf0	Terrain
+TL:8019cafc	Switch
+TL:8019cbe4	Sunpu
+TL:8019ccd4	Smithy
+TL:8019ccdc	Town
+TL:8019cce4	Village
+TL:8019ccec	Market
+TL:8019ccf4	Paddy
+TL:8019ccfc	Speciality
+TL:8019cd04	Field
+TL:8019cd0c	Undo
+TL:8019cd14	Plains
+TL:8019cd20	Paddy LV2
+TL:8019cdac	Town Lv1
+TL:8019cdb4	Village Lv1
+TL:8019cd2c	Terrain
+TL:8019cd34	Staff
+TL:8019cd3c	Price
+TL:8019cd5c	Okabe Masatsuna
+TL:8019cd68	Katsurayama Ujimoto
+TL:8019cd74	Imagawa Ujizane
+TL:8019cd80	Okabe Motonobu
+TL:8019cd8c	Abe Motozane
+TL:8019cd98	Asahina Nobuoki
+TL:8019cde0	Price %d
+TL:8019cdf0	Period %s
+TL:8019cedc	-
+TL:8019cefc	Go
+TL:8019cf04	Cancel
+TL:8019cf58	Quit the tutorial?
+TL:8019cfe0	Go
+TL:8019cfe8	Good
+TL:8019cff0	Poor
+TL:8019d040	Formation
+TL:8019d04c	Direction
+TL:8019d058	%s
+TL:8019d3d4	Back
+TL:8019d3dc	Next
+TL:8019d448	-
+TL:8019d474	-
+TL:8019d584	-
+TL:8019d594	-
+TL:8019d5b4	-
+TL:8019d5cc	-
+TL:8019d5d4	-
+TL:8019d5e4	-
+TL:8019d5ec	-
+TL:8019d604	-
+TL:8019d60c	-
+TL:8019d61c	-
+TL:8019d634	-
+TL:8019d64c	-
+TL:8019d664	-
+TL:8019d67c	-
+TL:8019d684	-
+TL:8019d68c	-
+TL:8019d848	Reppuuden Glossary: Game Keywords
+TL:8019d89c	Switch
+TL:8019da70	-
+TL:8019da9c	-
+TL:801a09ec	Imagawa Yoshimoto
+TL:801a09f8	Imagawa Ujizane
+TL:801a0a04	Matsudaira Motoyasu
+TL:801a0a10	Asahina Nobuoki
+TL:801a0a1c	Sena
+TL:801a0a28	Hachisuka Masakatsu
+TL:801a0a34	Ishikawa Kazumasa
+TL:801a0a40	Hayashi Michikatsu
+TL:801a0a48	Okabe Motonobu
+TL:801a0a54	OK
+TL:801a0a5c	Next Topic
+TL:801a0a70	All
+TL:801a0aec	Next Officer
+TL:801a0b1c	Next Castle
+TL:801a0b24	Map
+TL:801a0ed4	-
+TL:801a0f00	-
+TL:801a0fb0	   Next   End
+TL:801a0fd0	-
+TL:801a1014	-
+TL:801a109c	-
+TL:801a1138	-
+TL:801a1164	-
+TL:801a1228	-
+TL:801a12d8	-
+TL:801a13b8	-
+TL:801a142c	Name
+TL:801a1434	POL
+TL:801a143c	Farm
+TL:801a1444	Comm.
+TL:801a144c	Build
+TL:801a1490	Imagawa Yoshimoto
+TL:801a149c	Okabe Masatsuna
+TL:801a14a8	Katsurayama Ujimoto
+TL:801a14b4	Imagawa Ujizane
+TL:801a14c0	Okabe Motonobu
+TL:801a14cc	Abe Motozane
+TL:801a14d8	Asahina Nobuoki
+TL:801a14e4	Itami Yasunao
+TL:801a1630	Loyalty
+TL:801a1638	Status
+TL:801a1664	Elder
+TL:801a166c	Commander
+TL:801a1674	Matsudaira Motoyasu
+TL:801a1680	General
+TL:801a1688	Udono Nagateru
+TL:801a1694	Iio Tsuratatsu
+TL:801a16a0	Ishikawa Kazumasa
+TL:801a1784	INT
+TL:801a17bc	Daimyo
+TL:801a17c4	Captain
+TL:801a18cc	WAR
+TL:801a18d4	CMD
+TL:801a1a3c	Sakai Tadatsugu
+TL:801a1b68	Hattori Hanzo
+TL:801a1b74	Okubo Tadayo
+TL:801a1b80	Hiraiwa Chikayoshi
+TL:801a1b8c	Okubo Tadasuke
+TL:801a1cb8	Castle
+TL:801a1cc0	Lord
+TL:801a1cc8	Officers
+TL:801a1cf4	Ichijodani
+TL:801a1d00	Asakura Yoshikage
+TL:801a1d0c	Oyama Gobo
+TL:801a1d18	Shimozuma Raisho
+TL:801a1d24	Kasugayama
+TL:801a1d30	Nagao Kagetora
+TL:801a1d3c	Shibata
+TL:801a1d48	Nagao Kagenobu
+TL:801a1d54	Inabayama
+TL:801a1d60	Saito Yoshitatsu
+TL:801a1d6c	Kiyosu
+TL:801a1d74	Oda Nobunaga
+TL:801a1d80	Minowa
+TL:801a1d88	Uesugi Norimasa
+TL:801a1d94	Kururi
+TL:801a1da0	Satomi Yoshitaka
+TL:801a1dac	Mito
+TL:801a1db4	Satake Yoshiaki
+TL:801a2008	Plains
+TL:801a2010	Plains, Field
+TL:801a2018	Sunpu Imagawa
+TL:801a208c	Hanazawa Imagawa
+TL:801a20a8	-
+TL:801a20c0	Crane
+TL:801a20c8	Geese
+TL:801a20d0	Arrow
+TL:801a21e0	Okazaki Imagawa
+TL:801a21f0	Lord Yoshimoto, your orders?
+TL:801a2208	Hold back and watch?
+TL:801a2218	End your orders?
+TL:801a2280	Normal
+TL:801a2288	Charge
+TL:801a2290	Guns
+TL:801a2298	Joint
+TL:801a22a0	Cannon
+TL:801a22a8	Formation
+TL:801a23bc	Ruse
+TL:801a23c4	Rider
+TL:801a23cc	Ploy
+TL:801a23d4	Arms
+TL:801a23dc	Policy
+TL:801a23e4	Retire
+TL:801a2404	Rattle
+TL:801a240c	Taunt
+TL:801a2414	Arson
+TL:801a241c	Morale
+TL:801a2424	Feud
+TL:801a242c	Hinder
+TL:801a244c	Form
+TL:801a2454	Rally
+TL:801a245c	Parley
+TL:801a2464	Inspire
+TL:801a246c	Sortie
+TL:801a2474	Incite
+TL:801a2494	Mound
+TL:801a249c	Wreck
+TL:801a24a4	Climb
+TL:801a24c4	Foot
+TL:801a24cc	Pikes
+TL:801a24ec	Attack
+TL:801a24f4	Guard
+TL:801a24fc	Join
+TL:801a2534	-
+TL:801a25e0	-
+TL:801a292c	Battle Screen
+TL:801a2968	%M %d
+TL:801a2974	-
+TL:801a2a0c	Unit List
+TL:801a2a18	Corps Info
+TL:801a2a24	Delegate
+TL:801a2a2c	Settings
+TL:801a2a38	End
+WAR:801cc0f8	Name
+WAR:801cc100	Daimyo
+WAR:801cc10c	Duty
+WAR:801cc114	Action
+WAR:801cc11c	Troops
+WAR:801cc124	Type
+WAR:801cc12c	Policy
+WAR:801cc134	Status
+WAR:801cc13c	WAR
+WAR:801cc144	CMD
+WAR:801cc14c	INT
+WAR:801cc154	POL
+WAR:801cc15c	Inf.
+WAR:801cc164	Cav.
+WAR:801cc16c	Guns
+WAR:801cc174	Navy
+WAR:801cc17c	Cannon
+WAR:801cc184	Iron
+WAR:801cc18c	Volley
+WAR:801cc194	Charge
+WAR:801cc19c	M. Guns
+WAR:801cc1a4	Fire Pot
+WAR:801cc1ac	Build
+WAR:801cc1b4	Ninja
+WAR:801cc1bc	Arrow
+WAR:801cc1c4	Scale
+WAR:801cc1cc	Geese
+WAR:801cc1d4	Circle
+WAR:801cc1dc	Crane
+WAR:801cc1e4	Moon
+WAR:801cc1ec	Snake
+WAR:801cc1f4	Yoke
+WAR:801cc1fc	C-in-C
+WAR:801cc204	Aide
+WAR:801cc20c	Strat.
+WAR:801cc214	Rice
+WAR:801cc21c	Regular
+WAR:801cc224	Pikes
+WAR:801cc22c	Sekibune
+WAR:801cc234	Atakebune
+WAR:801cc23c	Attack
+WAR:801cc244	Defend
+WAR:801cc24c	Retreat
+WAR:801cc254	Join
+WAR:801cc658	Next Unit
+WAR:801ce298	E
+WAR:801ce29b	D
+WAR:801ce29e	C
+WAR:801ce2a1	B
+WAR:801ce2a4	A
+WAR:801ce2a7	S
+WAR:801ce530	-
+WAR:801ce7e4	Surrender the castle?
+WAR:801ce8c0	Next Unit
+WAR:801ce940	Unit List
+WAR:801ce94c	Corps Info
+WAR:801ce958	Delegate
+WAR:801ce960	Settings
+WAR:801ce96c	End
+WAR:801cee14	Go
+WAR:801cee1c	Good
+WAR:801cee24	Poor
+WAR:801cf0c0	Formation
+WAR:801cf0cc	Direction
+WAR:801cf0d8	%s
+WAR:801cf53c	%M %d
+WAR:801cf5e4	Mound
+WMAIN:8018228c	Next Unit
+WMAIN:80182298	Quit to the main menu.\nAre you sure?
+WMAIN:80185f20	Normal
+WMAIN:80185f28	Charge
+WMAIN:80185f30	Guns
+WMAIN:80185f38	Joint
+WMAIN:80185f40	Cannon
+WMAIN:80185f48	Form.
+WMAIN:80186118	-
+WMAIN:80186128	Form.
+WMAIN:80186130	Officer
+WMAIN:8018630c	Unit List
+WMAIN:80186498	Lead
+WMAIN:801864a0	Men
+WMAIN:801864a8	Units
+WMAIN:801864b0	Mor.
+WMAIN:801864b8	Rice
+WMAIN:80186714	Independent
+WMAIN:80186720	Ikko
+WMAIN:80186920	Good
+WMAIN:80186928	Poor
+WMAIN:80186b60	%s
+WMAIN:80186c68	-

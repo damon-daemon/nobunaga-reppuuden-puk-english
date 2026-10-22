@@ -1,0 +1,429 @@
+@41000
+Mt. Hiei's Enryakuji, which in Kamakura days made Retired Emperor Go-Shirakawa lament it was beyond his control, sided with the {v0333} and {v0433} against {v0134}.
+
+@41001
+For {v0134}, Mt. Hiei's hostility was like a dagger held to the chest. To break the deadlock, {v0134} at once sent an envoy to the mountain.
+
+@41002
+Lord {v0134}, I have brought Gosei of Shokakuin and some ten other monks of Mt. Hiei.
+
+@41003
+Well done. Show them in at once.
+
+@41004
+Well, well, Lord {v0134}. What business have you with humble monks like us?
+
+@41005
+I hear you have sheltered the {v0333} and {v0433} rabble on your mountain. Why do mere monks defy the samurai?
+
+@41006
+Lord {v0333} is a great patron of Enryakuji, and Lord {v0433} his closest ally. We cannot abandon them in their hour of need.
+
+@41007
+I have this to say to you. Drive out the {v0333} and {v0433} and side with my house, and I will return all your temple lands across the provinces.
+
+@41008
+Hmph... How very generous of you.
+
+@41009
+Still, a monk has his principles, and the {v0333} are your great patrons. If siding with one party troubles you, then at least stay neutral. Understood?
+
+@41010
+Is that all you have to say? ...Then we will take our leave.
+
+@41011
+You there! Break your word, and I will burn the whole mountain, the Konponchudo and the 21 Sanno shrines with it! Mark that well!!
+
+@41012
+Do it if you can. Burn the sacred ground that guards the capital, and you know what follows... You will surely fall into hell.
+
+@41013
+Mt. Hiei ignored {v0134} and went on aiding the {v0333} and {v0433}. The mountain was surely walking the road to its own ruin...
+
+@41014
+Losing patience with Mt. Hiei, which ignored the warning and still aided the {v0333} and {v0433}, {v0134} at last ordered it burned.
+
+@41015
+My lord! There is a matter I must put before you. I beg you, please hear me...
+
+@41016
+What is it? If it is about Mt. Hiei, I will not listen. You will only tell me to stop. It is men who think like you who let rogues use the mountain!
+
+@41017
+Besides, those Hiei monks love killing, eat fish and fowl, keep women and never study. It sickens me to think of it. I am merely punishing false monks.
+
+@41018
+Th-that may be true, but... Mt. Hiei holds three thousand Buddhas. Are the Buddhas guilty of anything?
+
+@41019
+Nonsense! What are Buddhas made of? Gold and wood, are they not? Gold is gold and wood is wood, nothing more. If Buddhas truly existed...
+
+@41020
+...the false monks would have been punished long ago. Yet they still live at their ease... Is that not proof that there is no Buddha?
+
+@41021
+B-but, my lord, even so... Burning Mt. Hiei will earn you an evil name for generations to come.
+
+@41022
+Let later ages judge for themselves! Listen, {v0234}!! I am not burning Mt. Hiei! I am burning a castle where lawless rogues hide!
+
+@41023
+What destroys Mt. Hiei is Mt. Hiei itself!! Understood? If so, get back to your post!!
+
+@41024
+At last {v0134} had decided. Fires set on every side soon engulfed the whole mountain, and a hellish scene of screaming and wailing unfolded...
+
+@41025
+Show no mercy! Burn everything! Gods, Buddhas, monks, women, children: kill them all!!
+
+@41026
+{v0134}!!!
+
+@41027
+Hm!? Who are you!
+
+@41028
+I am Kongo Sagami, the fiercest warrior monk of Mt. Hiei! With this arrow, three feet six inches long, I bring you the Buddha's punishment! Here it comes!
+
+@41029
+Tch! It hit the horse!
+
+@41030
+Fool! As if a false monk's arrow could hit me, {v0134}! Men, what are you doing! Cut down that savage monk!
+
+@41031
+Damn!
+
+@41032
+If the false monks of Hiei had the gods' protection, that arrow would have hit me. It missed: proof that I am right! Men! Burn every corner!!
+
+@41033
+Every shrine, temple, hall and pagoda was burned, and everyone on the mountain, from high priests to small boys, was put to the sword...
+
+@41034
+I-I was brought here by force by wicked monks. I mean no defiance to you, my lord. I beg you, spare my life.
+
+@41035
+Hmph... Why would a kidnapped woman live at her ease on Mt. Hiei? Listen! Behead these women and children before me, thirty at a time!
+
+@41036
+D-demon! Monster!! I will haunt you! I will curse you!! Gweh!...
+
+@41037
+Thus Mt. Hiei, the holy ground guarding the capital, was reduced to ashes by {v0134}. Some 400 to 500 halls burned and over 3,000 people were killed, it is said...
+
+@41038
+One day, some time after {v0132} moved his seat to {v0138}, Okabe Mataemon, master craftsman of the {v0133} clan, came to {v0138}.
+
+@41039
+Oh! If it isn't Mataemon! It has been a long time. Welcome.
+
+@41040
+It has been a long time, my lord. Today I have come with a request for you, Lord {v0134}.
+
+@41041
+This {v0138}, where you now reside, Lord {v0134}... In my humble view, it is ill suited to your rule of the realm by force.
+
+@41042
+If you would grant me 20,000 gold, I will build you a castle without equal in the land, worthy of you, Lord {v0134}.
+
+@41043
+Accept Okabe Mataemon's proposal and build a castle for 20,000 gold?
+
+@41044
+I see... Very well! I leave it all to you! Build me a castle worthy of ruling the realm by force!
+
+@41045
+I am most grateful. If you bear with me for a year, I will surely build a splendid castle that meets your wishes, Lord {v0134}.
+
+@41046
+A new castle?... Nonsense. I still have mountains of things to do. I have no gold for building castles.
+
+@41047
+I see... Forgive me for speaking out of turn.
+
+@41048
+It seems {v0132} has begun building a new castle.
+
+@41049
+Grr... So {v0b32} has fallen to the enemy... But I will not give up!
+
+@41050
+With Lord Nobunaga dead, there is nothing to be done... The castle building is cancelled...
+
+@41051
+With the Oda clan destroyed, there is nothing to be done... The castle building is cancelled...
+
+@41052
+A year after {v0132} ordered Okabe Mataemon to build a new castle, Mataemon came to see {v0134}.
+
+@41053
+Lord {v0134}, thank you for waiting. The castle is at last complete. Please take your time and look around. I will be your guide.
+
+@41054
+...
+
+@41055
+...Yes! This is a truly magnificent castle! Mataemon, splendid work! You have my praise.
+
+@41056
+Thank you, my lord. I am deeply honoured by your words.
+
+@41057
+Now... I must think of a name for the new castle... What I desire is to turn war-torn Japan into a land of peace and ease...
+
+@41058
+...That's it! I name the castle "Azuchi Castle"! What do you say, Mataemon? A fine name, is it not?
+
+@41059
+A truly fine name. Your aspirations will surely reach your retainers and all the people of the realm, Lord {v0134}.
+
+@41060
+Hahaha! Well said, Mataemon! Let us fight on to turn Japan into a land of peace and ease!!
+
+@41061
+Thus Azuchi Castle was completed. But after {v0134}'s death, this peerless castle was set on fire by an unknown hand and burned to the ground.
+
+@41062
+{v0138}, the seat of {v0132}... {v0134} summoned his chief retainers {v0232} and {v0332}.
+
+@41063
+Listen well, both of you. For reasons of my own, I have decided to strike down Lord {v0434}... You have no objection, I trust?
+
+@41064
+My lord... I am against it. Strike His Highness now and every {v0433} vassal in the land will turn their troops on us... We will have enemies on all sides.
+
+@41065
+Besides, my lord, you rose in the world thanks to His Highness. Strike him, to whom you owe so much, and you will be called an ingrate.
+
+@41066
+I have thought that through. But... the many humiliations I have suffered... I can bear no more. If you oppose me, you may cut me down.
+
+@41067
+...I understand your resolve, my lord. If you feel so strongly...
+
+@41068
+...then all of us will follow you, my lord... Do as you see fit.
+
+@41069
+Oh!... {v0234}... {v0334}...
+
+@41070
+The next day, at the hour of the Rooster... {v0134} set out from {v0138} at the head of 13,000 men.
+
+@41071
+Lord {v0234}...? Are we going to Kyoto? Weren't we going to help Lord {v0834}?
+
+@41072
+His Highness wishes to review the troops. That is why we are going to Kyoto. Do not worry.
+
+@41073
+Y-yes, sir. Understood, sir.
+
+@41074
+Soon after setting out from {v0138}... {v0134} suddenly looked back.
+
+@41075
+Come to think of it... I have bitter memories of this land of Tanba too...
+
+@41076
+I promised the Hatano clan their lives if they surrendered. As proof, I left my old mother as a hostage in Yakami Castle.
+
+@41077
+I beg you. Please spare the lives of the Hatano clan. Otherwise my old mother will...
+
+@41078
+I said no and I mean no! The Hatano have tormented my house for years. They are my sworn enemies. Behead the whole clan!!
+
+@41079
+...After that, the castle's soldiers tortured Mother to death... I have never forgotten my hatred from that day...
+
+@41080
+The hour of the Rat... {v0134}'s army crossed Oinosaka on the Yamashiro-Tanba border.
+
+@41081
+By now Lord {v0934} should be in Sakai... Speaking of Lord {v0934}... there was that business too...
+
+@41082
+{v0134}! Just whom is this building meant to entertain!!
+
+@41083
+Pardon?... I was told it was Lord {v0934}. Is something amiss?
+
+@41084
+You fool! Such luxury for {v0934}! What will you do when we receive the Emperor or his envoys!
+
+@41085
+Idiot! Take this!!!
+
+@41086
+Gwah!...
+
+@41087
+...The hatred of being beaten before all the lords that day... I have not forgotten it even now.
+
+@41088
+Soon after coming down from Oinosaka, the army reached a hamlet called Kutsukake. {v0134} had all the soldiers eat their field rations.
+
+@41089
+{v0334}...
+
+@41090
+My lord?
+
+@41091
+No, I was just remembering the day we met...
+
+@41092
+...About this {v0334} of yours. He was originally Ittetsu's retainer. Ittetsu wants him back... Will you return him?
+
+@41093
+{v0334} is a pillar of my house and a precious retainer... Even if it is your command, my lord, I cannot agree.
+
+@41094
+What!? I bow my head to ask you, and you refuse!?
+
+@41095
+...I could not bear to give you up, no matter what. So I had to suffer that humiliation...
+
+@41096
+No, my lord... That day I made up my mind: "I will die for Lord {v0134}."
+
+@41097
+Dying for one's lord... I used to think that way too, but not that time...
+
+@41098
+Takeda Katsuyori was an archer famed throughout Japan, yet when his luck ran out he came to this. How fleeting a warrior's life is...
+
+@41099
+...And yet, on the other hand, I cannot help feeling that all my past toil has been rewarded... Do you not think so, {v0134}?
+
+@41100
+Just as you say, my lord. Our long years of toil in your service have been worthwhile.
+
+@41101
+...What did you say, {v0134}!! Say that again! When did you lot ever toil!? I am the one who has toiled!
+
+@41102
+...That time, I truly thought "one day I will kill this man"... And now I am about to do it...
+
+@41103
+Some time after leaving Kutsukake... the {v0133} army reached the Katsura River. Across this river lay the city of Kyoto.
+
+@41104
+So I have come this far at last... After all the times he humiliated me... and then, on top of it all...
+
+@41105
+Lord {v0134}, you are to be granted the two provinces of Izumo and Iwami. In exchange, your present Tanba and Omi will be taken back.
+
+@41106
+What!?... What does that mean!? If we lose the war, we will have lost our lands!
+
+@41107
+I am only a messenger and do not know His Highness's intentions. Now, by your leave.
+
+@41108
+In a few years, many chief retainers have been driven out: Lord Hayashi, Lord Sakuma, Lord Ando... Next it will be me. I will not let it happen!!
+
+@41109
+{v0234}, {v0334}! Kyoto is right before us. We prepare for battle. Send the order to the whole army!
+
+@41110
+Hear me, all troops! Cut off the horses' shoes! Foot soldiers, put on new straw sandals or half-sandals!!
+
+@41111
+Huh? Why do we gotta throw away the horses' shoes here?
+
+@41112
+Gunners! Cut your fuses to a foot and a half and light them! Hang them upside down so they don't go out!
+
+@41113
+Huh? Light the fuses here? ...!? D-don't tell me our lord is...
+
+@41114
+Are you ready, men! Our enemy... is at Honnoji!!! From tomorrow the realm belongs to me, {v0134}! Don't fall behind and live to regret it!
+
+@41115
+Ready for battle, the {v0133} army crossed the Katsura River and made for Honnoji. Meanwhile, {v0434}...
+
+@41116
+...Hm? What is that noise? The servants fighting after drinking... No, this is different! Ran! Are you there?
+
+@41117
+Yes, my lord. What is the matter?
+
+@41118
+It seems some rogues have entered the temple grounds. Go and look.
+
+@41119
+At once!
+
+@41120
+My lord, what is happening?
+
+@41121
+...You can hear it too, can't you, No? That is clearly the sound of troops on the march.
+
+@41122
+...! I-I hear it... S-surely not...
+
+@41123
+Your Highness! Soldiers! Soldiers have entered the temple!
+
+@41124
+I see... And did you make out the crest on their banners?
+
+@41125
+I-it is the bellflower crest, my lord.
+
+@41126
+!?... J-Jubei... But why...
+
+@41127
+...Wahahaha! So {v0134} got the better of me after all. I always thought that if anyone in my house stood in my way, it would be {v0134}.
+
+@41128
+...Then there is nothing to be done. I will take everyone who opposes me to hell with me! No! Flee with your ladies-in-waiting.
+
+@41129
+I will not! My father's house is gone, and if my mother's house has rebelled against you, I have nowhere left to go.
+
+@41130
+Let me stay by your side, my lord! I... I want to follow you wherever you go!
+
+@41131
+!!... Heh... Do as you please. I will follow soon. Don't lose your way at the crossroads of the Six Paths! Wait with a smile, hair unruffled!
+
+@41132
+Come, Ran!! Let us cut down {v0133}'s men, cut them down, and keep on cutting!
+
+@41133
+I, {v0734}, will follow you, my lord, to the very depths of hell!!
+
+@41134
+Only a few hundred troops were at Honnoji. Both {v0734} and {v0634} were soon killed.
+
+@41135
+And after seeing them die, {v0434} too vanished into the raging fire of Honnoji. He was {v043b} years old.
+
+@41136
+Meanwhile, {v0534}, who was lodging at Myokakuji...
+
+@41137
+What!?... {v0134}'s army attacked Honnoji!? And Father... took his own life!? ...Curse you, {v0134}!!
+
+@41138
+Men! Gather at {v0538} at once!! {v0134}'s army will be here soon. We fight to avenge my father!!
+
+@41139
+But only 500 soldiers gathered at {v0538}. Hopelessly outnumbered, {v0534} took his own life at {v0538}.
+
+@41140
+It seemed the age of war would be ended by the peerless genius {v0432}... but Japan was about to be swept into the whirlpool of war once more...
+
+@41141
+With which daimyo will you continue the game?
+
+@41142
+Continue with {v0632}?
+

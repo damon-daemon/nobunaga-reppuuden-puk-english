@@ -1,0 +1,360 @@
+@10000
+There is no princess who can be betrothed.
+
+@10001
+There is no officer who can be betrothed.
+
+@10002
+No officer has been chosen.
+
+@10003
+No princess has been chosen.
+
+@10004
+As kin of the {v0136}... no, as your husband, I will become a man you need never be ashamed of.
+
+@10004.1
+For your sake, I will become one of the finest officers of the {v0136}.
+
+@10004.2
+To fulfil the {v0136}'s ambition, I will fight with all my life.
+
+@10005
+As kin of the {v0236}... and as your wife, I will become a woman you need never be ashamed of.
+
+@10005.1
+Then as your wife, I will care for you with all my heart, so that you can go to the battlefield without worry.
+
+@10005.2
+I will devote myself to you sincerely, so that you can fulfil the {v0236}'s ambition.
+
+@10006
+There is no officer who can be adopted.
+
+@10007
+Adopt this officer?
+
+@10008
+Become my adopted child and serve the {v0136} well.
+
+@10008.1
+From today you shall take the name {v0133} {v0234} and serve the {v0136} faithfully.
+
+@10008.2
+To secure the supremacy of the {v0136}, become an adopted child of the {v0136} from today and serve me.
+
+@10009
+As kin of the {v0236}, I shall show you deeds that make my name ring throughout the realm.
+
+@10009.1
+As you wish. As one who bears the {v0233} name, I shall become a fine {C177}.
+
+@10009.2
+I shall become an officer the whole realm fears, so that all say the {v0236} has {v0134}.
+
+@10010
+You have no allies.
+
+@10011
+You have no officers to reward.
+
+@10012
+You have no treasures or court titles.
+
+@10013
+
+
+@10013.1
+
+
+@10014
+
+
+@10014.1
+
+
+@10015
+Are we not closer than that? There is no need for such formality; I would never betray {C14}.
+
+@10015.1
+Just seeing your face, {C14}, makes me happy.
+
+@10015.2
+This is far more than my service deserves... I am most grateful.
+
+@10015.3
+{C184}, it seems {C14} knew exactly what I wanted.
+
+@10015.4
+{C14} is the finest lord in all Japan. I am truly fortunate.
+
+@10016
+This label is currently unused.
+
+@10017
+{v0132}'s loyalty is now %d.
+
+@10018
+You will not regret this, I hope.
+
+@10018.1
+Do not come to regret this...
+
+@10018.2
+{C14}, I understand your thinking well.
+
+@10018.3
+But why...?
+
+@10019
+
+
+@10019.1
+
+
+@10019.2
+
+
+@10019.3
+
+
+@10020
+So to {C14}, a vassal is nothing but a box to keep treasures in...
+
+@10020.1
+...............\n{C10018}
+
+@10020.2
+So this is all my service was worth...
+
+@10020.3
+If that is how {C14} thinks, there is nothing to be done...
+
+@10020.4
+So you say my service is still not enough...
+
+@10020.5
+...Rather than argue here, I shall prove myself through deeds...
+
+@10020.6
+It is not my place to question {C14}'s decisions, but...
+
+@10021
+No officer to reward has been chosen.
+
+@10022
+No officer to confiscate from has been chosen.
+
+@10023
+I am counting on you.
+
+@10023.1
+I'm counting on you.
+
+@10024
+As of today I retire. I leave the future of our house in your hands.
+
+@10025
+I, {v0132}, will strive with all my heart for our house.
+
+@10026
+{v0132} has retired, and {v0232} has succeeded.
+
+@10027
+To treat one's own family like this... I refuse to serve such a man.
+
+@10027.1
+I never thought {C14} would treat a vassal like this... I am disappointed! I refuse to serve such a man.
+
+@10027.2
+It seems I chose the wrong master to serve... There is no point staying any longer! Farewell!
+
+@10027.3
+How pathetic of me to misjudge my lord's character! I must start my training over! Farewell!
+
+@10027.4
+They say even a thief has his reasons, but this {C19} has none at all! I refuse to serve such a man.
+
+@10027.5
+No joke! Why should I serve a lord who repays kindness with spite? There is no point staying any longer! Farewell!
+
+@10027.6
+Serving a lord like this, I'd need more than one life! I never want to see that {C19}'s face again!
+
+@10028
+{v0132} has left the clan.
+
+@10029
+So there is no place for me among the {v0236}...
+
+@10029.1
+I never knew {C15} was one to repay kindness with spite... I must think about my future.
+
+@10029.2
+What has my life been until now...? Did I choose the wrong lord to serve?
+
+@10030
+The officer cannot be changed until {v0132}'s reward is carried out. Carry it out?
+
+@10031
+There are no officers who can be banished.
+
+@10032
+No officer has been chosen. Cancel?
+
+@10033
+Really banish this officer?
+
+@10034
+My wish is to restore the order lost in these endless wars. I must restore the shogunate's authority, even at the cost of my life.
+
+@10034.1
+My mission is to return this war-torn land to what it should be. I must swiftly restore the shogunate's authority and rebuild the capital.
+
+@10034.2
+Kyoto overflows with corpses and the stench of death fills its streets. My mission is to banish that stench and restore its old glory.
+
+@10034.3
+My wish is to restore Kyoto to its former glory. To achieve it, I intend to break through any obstacle.
+
+@10035
+My wish is to unite the realm by force and restore the lost order. To fulfil it, I must march on Kyoto as soon as possible.
+
+@10036
+My wish is to restore the order lost in these endless wars. I must keep the shogunate alive, even at the cost of my life.
+
+@10036.1
+My mission is to return this war-torn land to what it should be. To rebuild the capital, I must hasten to rebuild the shogunate.
+
+@10036.2
+Kyoto overflows with corpses and the stench of death fills its streets. First I must cleanse the city and make the shogunate's footing secure.
+
+@10036.3
+My wish is to restore the {v0133} shogunate to its ancient glory. To achieve it, I must remove every obstacle with certainty.
+
+@10037
+My mission is to unite the realm by force and return the land to what it should be. To fulfil it, I must first make my own footing firm.
+
+@10038
+Returning the order lost in war to the old ways is impossible. I must create a new order, even if I destroy the {v0133} shogunate myself.
+
+@10038.1
+Returning this war-torn land to what it was is impossible. Creating a new Japan matters, even if it means destroying the {v0133} shogunate.
+
+@10038.2
+I was born to rebuild the {v0133} shogunate. I shall carry out sweeping reforms and restore its former glory.
+
+@10038.3
+Everyone longs for a new age; perhaps these endless wars are proof of it. I care nothing for the {v0133} shogunate's survival; creating a new age interests me.
+
+@10039
+Everyone longs for a new age; perhaps these endless wars are proof of it. First I must take Kyoto, the capital, and press on to unite the realm.
+
+@10040
+Returning the order lost in war to the old ways is impossible. At the very least, I must reform the posts of our {v0133} shogunate.
+
+@10040.1
+Returning this war-torn land to what it was is impossible. At the very least, I must give Kyoto a new life.
+
+@10040.2
+I was born to rebuild the {v0133} shogunate. Through reforms such as reorganising its posts, I shall make the {v0133} house secure.
+
+@10040.3
+Everyone longs for a new age; these endless wars are proof of it. I shall begin by bringing peace to Kyoto and make the {v0133} house secure.
+
+@10041
+Unless I make my own footing firm, uniting the realm is but a distant dream. First I must establish a new order in my own domain.
+
+@10042
+My wish is to restore the order lost in these endless wars. First I must march on Kyoto as soon as possible and restore the capital's prosperity.
+
+@10043
+My mission is to return this war-torn land to what it should be. For that I must hurry to the capital and rebuild it.
+
+@10044
+They say Kyoto overflows with corpses and the stench of death fills its streets. My mission is to banish that stench and restore its old glory.
+
+@10045
+My wish is to go up to Kyoto and restore its ancient glory. To achieve it, I intend to break through any obstacle.
+
+@10046
+My wish is to restore the order lost in these endless wars. First I must restore order in my own domain as soon as possible.
+
+@10047
+My mission is to return this war-torn land to what it should be. For that I must first restore my own ravaged domain.
+
+@10048
+They say Kyoto overflows with corpses and the stench of death, but my own domain is not much better. First I must bring it stability.
+
+@10049
+My wish is to restore the {v0133} domain to its ancient prosperity. To achieve it, I must remove every obstacle with certainty.
+
+@10057
+My wish is to restore the {v0133} domain to its ancient prosperity. To achieve it, I intend to break through any obstacle.
+
+@10058
+Returning the order lost in war to the old ways is impossible. So I shall march on Kyoto myself and establish a new order.
+
+@10059
+Returning this war-torn land to what it was is impossible. So I must march on Kyoto as soon as possible and remake the world.
+
+@10060
+I was born to give Japan a new life. I shall set out for Kyoto at once and crush the old powers that infest the capital.
+
+@10061
+Everyone longs for a new age; these endless wars are proof of it. I shall march on Kyoto at once and lead the way into the new age!
+
+@10062
+Returning the order lost in war to the old ways is impossible. I shall establish a new order in my domain with my own hands!
+
+@10063
+Returning this war-torn land to what it was is impossible. At the very least, I must give my own domain a new life.
+
+@10064
+I was born to establish a new order in my domain. First I shall pacify it and make the {v0133} house secure.
+
+@10065
+Everyone longs for a new age; these endless wars are proof of it. I shall begin by pacifying my domain and make the {v0133} house secure.
+
+@10074
+You have no officers.
+
+@10075
+Abandon your retirement?
+
+@10076
+Has {C15} gone mad...? Why adopt someone like {v0334}, of all people...?
+
+@10076.1
+I do not understand what {C15} is thinking... Is there no trust in those of our {v0133} house...?
+
+@10076.2
+What! {C15} is adopting {v0334}!? Adopting that one... I cannot believe it...
+
+@10077
+Adopting someone like {v0334}... Is there something about me you are unhappy with?
+
+@10077.1
+{v0334} has no merit whatsoever. Surely what {C15} is doing is a mistake...
+
+@10077.2
+Adopting {v0334}... Do you mean to mock me? I do not understand... I simply do not understand.
+
+@10078
+Retirement, betrothals and more.
+
+@10079
+Hand the headship to a vassal.
+
+@10080
+Marry a princess to a vassal.
+
+@10081
+Make an officer not yet of age a member of the family.
+
+@10082
+Reward or punish vassals.
+
+@10083
+Banish a vassal.
+

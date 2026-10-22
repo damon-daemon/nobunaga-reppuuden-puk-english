@@ -1,0 +1,522 @@
+@12000
+The feud between the {v0133} and the {v0333} was sinking into a quagmire when, one day, {v0532}, a {v0333} retainer, offered a proposal to his lord, {v0334}.
+
+@12001
+{v0534}, what is it you wish to say?
+
+@12002
+{v0132} is a rare master of war. I fear that fighting {v0134} any longer will only exhaust our lands.
+
+@12003
+I therefore suggest we welcome {v0134}'s daughter, Princess {v0234}, as Lord {v0434}'s wife, and seek peace...
+
+@12004
+Accept {v0532}'s advice and seek peace with {v0132}?
+
+@12005
+Princess {v0234} is said to be {v0134}'s pride. To win that daughter over to our side... Splendid! I leave it all to you. See it through.
+
+@12006
+I am most grateful you heed me. I shall go to {v0138} as envoy at once.
+
+@12007
+Peace...? Talk no nonsense! The Viper is my sworn enemy. Never speak those words again.
+
+@12008
+F-forgive me. I spoke out of turn...
+
+@12009
+Doku, what has {v0533} come for?
+
+@12010
+A troublesome matter, my lord. They wish to make peace with us... and, as proof, to receive Princess {v0234} as {v0434}'s wife.
+
+@12011
+What...? {v0234}, married to that fool...?
+
+@12012
+How shall I answer them?
+
+@12013
+Accept {v0332}'s request and marry Princess {v0234} to {v0432}?
+
+@12014
+The Viper's daughter wed to the fool... Hahaha, {v0334} has an amusing idea. Doku, we accept.
+
+@12015
+M-my lord!... Do you truly mean it?
+
+@12016
+I mean it entirely. You and {v0533} arrange the wedding. And fetch {v0234} for me.
+
+@12017
+Yes, my lord.
+
+@12018
+Out of the question. Who would hand a beloved daughter to a fool? I will have none of it.
+
+@12019
+Naturally, my lord. I shall send {v0533} packing at once.
+
+@12020
+They refused our offer. I am deeply sorry. My skill fell short...
+
+@12021
+Father, you called for me?
+
+@12022
+Ah, {v0234}. It is this: I want you to marry into the {v0333} clan.
+
+@12023
+What!? Marry into the {v0333}...? Surely the groom is not...
+
+@12024
+...It is just as you fear. The groom is that famous fool. And so... I am giving you this.
+
+@12025
+If {v0434} proves a true fool, stab him with this, then come straight back to {v0138}. Is that clear?
+
+@12026
+...That I cannot accept. I am to be Lord {v0434}'s wife. Should the need arise...
+
+@12027
+...I might turn this blade on you, Father... Will that still be acceptable?
+
+@12028
+Ugh... Wahahahaha... Now that is the Viper's daughter! Too fine a bride for the likes of {v0434}!
+
+@12029
+And so {v0132}'s daughter, {v0234}, was married to {v0434}. Then, on the wedding day...
+
+@12030
+I am {v0234}. I am an unworthy bride, but I hope that for many years...
+
+@12031
+O-No.
+
+@12032
+...? I am not No. I am {v0234}.
+
+@12033
+That does not matter. You came from Mino, so O-No will do.
+
+@12034
+...More importantly, O-No, have you heard what people are saying about us?
+
+@12035
+Why, no...? What are they saying?
+
+@12036
+That the Viper of Mino's daughter has married the fool of Owari. A well-matched couple indeed...
+
+@12037
+The world calls me a fool. But as I see it, the world is the bigger fool by far.
+
+@12038
+Which of us is right, I shall prove with my own strength... O-No, lend me your aid.
+
+@12039
+...As you wish. My strength is small, but I shall help you, my lord...
+
+@12040
+Word that "{v0334} is a fool without equal" was spreading ever wider. Hotta Doku, a {v0133} retainer, offered a proposal to his lord, {v0134}.
+
+@12041
+Doku, what is it you wish to say?
+
+@12042
+It is some years since the {v0333} became our in-laws, yet father-in-law and son-in-law have never once met. That seems hardly fitting.
+
+@12043
+What do you think... The season is fine. Why not meet Lord {v0334} and see for yourself whether he is truly a fool?
+
+@12044
+Propose a meeting with {v0332}?
+
+@12045
+Well now... Perhaps I should take a look at my son-in-law's foolery. Doku, make the arrangements.
+
+@12046
+Understood. I shall negotiate with the {v0333} at once.
+
+@12047
+...Meet my son-in-law? Nonsense. I am busy. I have no time to sit and watch his foolery.
+
+@12048
+Is that so. Now that you say it, that is true. Forgive me for speaking out of turn.
+
+@12049
+I hear my father has asked to meet you, my lord...
+
+@12050
+What... You know already? You hear everything.
+
+@12051
+What do you intend to do?
+
+@12052
+Accept {v0132}'s proposal of a meeting?
+
+@12053
+I have decided to meet him. The fool and the Viper face to face... Does that not sound amusing?
+
+@12054
+What!? You accepted!? It may be one of Father's schemes. Please, do not go!
+
+@12055
+Do not worry. I, {v0334}, will give you no cause for concern, O-No. Instead, I shall take the Viper's breath away.
+
+@12056
+I refused. The man is the Viper, after all. I, {v0334}, am not so dim as to walk into his trap.
+
+@12057
+I see... I am relieved to hear it...
+
+@12058
+The meeting was set at Shotokuji on the border. On the day, {v0134} reached Shotokuji early and waited for {v0334} to arrive.
+
+@12059
+Well then, let me take a look at my son-in-law before the others... Doku, come with me!
+
+@12061
+{v0134} and Doku crept into a ramshackle hut beside the road and waited for {v0334}'s procession.
+
+@12062
+My lord, Lord {v0334}'s procession is coming.
+
+@12063
+Is it? Let me see... Hm!? What is this...
+
+@12064
+That {v0334}... When did he raise such an army... But what is that outfit my son-in-law wears... Are the rumours true after all?...
+
+@12065
+...Doku! I no longer wish to meet him. I am going back to {v0138}.
+
+@12066
+What are you saying now? It was our house that asked for the meeting. Why not simply meet him in plain dress, my lord?
+
+@12067
+True enough, but... I hardly feel like it... Poor {v0434}, married to that...
+
+@12068
+{v0134} and Doku returned to Shotokuji unseen by {v0334}. {v0134} took his seat in plain dress. Half an hour later...
+
+@12069
+My son-in-law is slow... Hm? Doku, who is that?
+
+@12070
+...Hmm? That should be Lord {v0334}'s waiting room...
+
+@12071
+...Ah! That is my son-in-law!
+
+@12072
+What!?... Ah! It is indeed Lord {v0334}!
+
+@12073
+...To think one change of dress could alter a man so... He is no fool at all. ...Doku! Show my son-in-law to his seat.
+
+@12074
+...Lord {v0333}, Lord {v0134} is already here. This way, please.
+
+@12075
+Is that so. You have done well!
+
+@12076
+...I am {v0134}.
+
+@12077
+I am {v0332}.
+
+@12078
+They exchanged not another word, and the meeting ended. On the way home after parting with {v0334}, {v0134} spoke to Doku.
+
+@12079
+Doku... What did you make of him?
+
+@12080
+To my eyes, {v0334} looked every bit the fool the rumours say. A happy thing for our house indeed. How did he seem to you, my lord?
+
+@12081
+...The only happy thing is that head of yours. When I am dead, {v0234} will surely end up tying his horse at my son-in-law's gate...
+
+@12082
+Wh-what did you say, my lord!?
+
+@12083
+I said {v0234} will one day become my son-in-law's vassal... Sad to say, {v0234} is no match for him in calibre...
+
+@12084
+...Perhaps entrusting my dream to my son-in-law would not be so bad...
+
+@12085
+A few days later, {v0134}'s words reached {v0234}'s ears.
+
+@12086
+What!? I am to become that fool's vassal one day!? Who said such a thing!
+
+@12087
+!?... Father... Father said that!?
+
+@12088
+Grrr... This mockery goes too far...
+
+@12089
+Thus ended the meeting at Shotokuji. {v0134} and {v0334} grew close, while father and son, {v0134} and {v0234}, drifted ever further apart.
+
+@12090
+After Shotokuji, the strife between father and son within the {v0133} grew ever fiercer, for {v0134} had taken to his son-in-law {v0334} and backed him.
+
+@12091
+A rumour that "{v0234}'s father is not {v0134} but Toki Yoriaki, former Constable of Mino" made the feud between them still worse...
+
+@12092
+I am Isshiki Sakyo-no-daibu {v0234}! Now is the time to avenge my father, Toki Yoriaki! Everyone! Rally to me!
+
+@12093
+At last {v0234} took his mother's maiden name, Isshiki, and openly rose in revolt against his "father", {v0134}...
+
+@12094
+The purpose of this letter: Mino is hereby left wholly to {v0332} to dispose of as he sees fit; this deed of cession is sent to {v0334}...
+
+@12095
+My lord, you called for me?
+
+@12096
+Ah, Doku. I have a favour to ask. I have written a letter ceding Mino to my son-in-law. Deliver it to him.
+
+@12097
+!!... M-my lord... Wh-what do you intend by this...
+
+@12098
+I want to entrust my dream to my son-in-law. The dream of soaring over the realm from Owari and this Mino...
+
+@12099
+...With this letter, he can take Mino openly, for {v0234} will be holding land I gave away, without any right.
+
+@12100
+I see... Understood! I shall deliver it to Lord {v0334} even at the cost of my life. Then... my lord... f-farewell!
+
+@12101
+Yes... You have served me well all these years. You have my thanks...
+
+@12102
+Early the next morning, battle was joined at last. {v0234} had 12,000 men; {v0134} a little over 2,000. The outcome was decided from the start...
+
+@12103
+Oh... {v0234} does well. I thought such a big body left no wits to spare... It seems I was wrong.
+
+@12104
+...Hm! Who goes there!
+
+@12105
+Komaki Genta, retainer of {v0232}! Lord {v0132}, I claim your head!
+
+@12106
+Genta, is it! To fall by your hand would suit me. Come, be quick.
+
+@12108
+Hurry! I will not be killed by anyone else! Quickly!!
+
+@12109
+My lord! Forgive me!
+
+@12110
+Guhh!...
+
+@12111
+Thus the great schemer {v0132} fell to the army of his son {v0234}, ending a life full of turmoil...
+
+@12112
+Month {v66}, {v65}... {v0232} left the seat of {v0238} at the head of 40,000 troops,
+
+@12113
+bent on fulfilling the ambition to "march on Kyoto and command the realm"...
+
+@12114
+At {v0138}, news came that "{v0234} has set out westward", yet not one council of war was held as time slipped idly by...
+
+@12115
+Have you all heard? {v0234} has finally set out from {v0238}.
+
+@12116
+What on earth is our lord thinking? The enemy marches on {v0138}, and not one council of war...
+
+@12117
+Rumour has it our lord means to hold the castle... We too must resolve to die fighting...
+
+@12118
+Hmm... Is this the end of the {v0133}...
+
+@12119
+But {v0134} was not simply wasting time. A few days later...
+
+@12120
+I have news! {v0232} is to rest today at Dengaku-hazama!
+
+@12121
+The perfect chance to strike down {v0234} has come! My lord, your decision!
+
+@12122
+Sortie?
+
+@12123
+Man's fifty years, set against the world below the heavens, are but a dream, an illusion...
+
+@12124
+Bring my armour!! We march!! To Atsuta Shrine!! Follow me, men!!
+
+@12125
+Wh-what!? Our lord has already set out!? We must hurry!!
+
+@12126
+Where to!... Atsuta Shrine!? ...Very well, I go at once. Everyone, follow me!!
+
+@12127
+Dashing out of {v0138} with only five riders, {v0134} reached Atsuta Shrine and at once offered a prayer prepared long before.
+
+@12128
+To halt the ambition of {v0232}, I, {v0132}, now take the field... Behold well our righteous cause...
+
+@12129
+Hm! Men, listen well!! I hear the clash of arms from deep within the shrine! The god of Atsuta is with us!!
+
+@12130
+Ohhh!!
+
+@12131
+Now we go to strike down {v0234}! Men! Entrust your lives to me! Fall behind me, and shame your line forever!
+
+@12132
+Meanwhile {v0234}, marching on unopposed, had taken the Marune and Washizu forts and was receiving peasants in high spirits.
+
+@12133
+We've brung victory sake for the {v0233} lord, an' we made plenty o' rice balls too. Please take 'em.
+
+@12134
+Oh, is that so? I accept them with thanks. This war is as good as won... Very well, we shall rest here!
+
+@12135
+A feast in camp has its own charm... No ranks today, drink, drink! Hey, someone fetch a hand drum...
+
+@12136
+Rain had begun to fall. When the {v0134} army reached Dengaku-hazama, the {v0233} soldiers had shed their armour to cool off and were all but naked...
+
+@12137
+Victory is mine!
+
+@12138
+...Listen, men! We want one thing only: {v0234}'s head! Seek no other glory! Forward!
+
+@12139
+...What is that racket? Have the foot soldiers got drunk and started brawling... How vulgar... Someone stop them...
+
+@12140
+Hm? Hm!? Wh-what, what is this!? ...Argh! Wh-who are you!
+
+@12141
+Hattori Koheita! {v0234}, prepare yourself!
+
+@12142
+Curse you, wretch! Take this!!
+
+@12143
+Ugh!
+
+@12144
+Koheita, I am here to help! {v0234}, prepare yourself!
+
+@12145
+...Gah! ...Y-you... Whose... men are you...
+
+@12146
+Mori Shinsuke Hidetaka, man of Kazusa-no-suke of the {v0133}! {v0234}, your head is mine!
+
+@12147
+Argh!... T-to think... I would die... in a place like this...
+
+@12148
+Mori Shinsuke Hidetaka has taken the head of Lord {v0232}!!
+
+@12149
+Well done, Shinsuke!! Men! Raise the victory cry!!
+
+@12150
+Ei, ei!!
+
+@12151
+Thus, with the surprise attack of a lifetime, {v0132} struck down {v0232}.
+
+@12152
+From then on, {v0134}'s name swiftly spread across the land. No one called {v0134} a "fool" any more...
+
+@12153
+...Wait a little longer. I have not yet reached a decision...
+
+@12154
+...Is that so. A pity.
+
+@12155
+Some time after {v0132} had moved to {v0138}, the Owari monk Takugen Soon came to {v0138} at {v0134}'s invitation.
+
+@12156
+Oh! Master Takugen! Welcome. I am glad to see you in good health.
+
+@12157
+I rejoice to see you so well, Lord {v0134}. And congratulations on your move to {v0138}.
+
+@12158
+Yes, thank you. I asked you here for one reason: I have a favour to ask, Master. First, look at this.
+
+@12159
+Tenka... Fu... Bu...? "Spread arms across the realm"... So, Lord {v0134}, you aim at last to take the realm?
+
+@12160
+Just as I would expect of you, Master. Exactly so. And so... I would ask you...
+
+@12161
+...to give a name worthy of the place where the master of the realm rises, is that it? Well then...
+
+@12162
+There is a saying, "King Wen of Zhou rose at Mount Qi and settled the realm"... How about "Gisan"?
+
+@12163
+Hmm... The origin is good, but... using it as it is...
+
+@12164
+I see... Then how about "Giyo"?
+
+@12165
+Hmm... Not quite to my liking...
+
+@12166
+Hm... Not to your taste? Then how about "Gifu"?
+
+@12167
+..."Gifu"...? ...That is it! That is the name! {v0132} rose at Gifu and settled the realm... Yes, a fine name!
+
+@12168
+Very well, from this moment this castle is "Gifu Castle"! Master, you have given it a fine name. My thanks!
+
+@12169
+Ho ho ho...
+
+@12170
+And so {v0132} renamed {v0138} Gifu Castle.
+
+@12171
+Well, {v0634}, I am off. Look forward to the day our {v0233} banners fly over Kyoto.
+
+@12172
+Farewell, Father. While you are away I, {v0634}, shall keep {v0638} firmly defended.
+
+@12173
+Right! Men, we march! First we shall make a bloody example of that {v0133} brat who is stirring up trouble!
+
+@12174
+Once given life, is there any who shall not perish...
+
+@12175
+...Hm? Rain? What, what... It spoils the mood. Well, at least it will cool things down a little.
+

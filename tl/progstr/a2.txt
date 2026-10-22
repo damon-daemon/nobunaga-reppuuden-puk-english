@@ -1,0 +1,120 @@
+# chunk a2: PROG:800c2c4c - PROG:800c3a88 (strings after the half-width font, hidden by PROG_SKIP until
+# phase 3 session 3 part 3): officer field names (2nd copy), treasure list/info, court title list,
+# settings dialog (battle Settings / game settings). Duplicates of a.txt come from translation memory.
+PROG:800c2dec	Loyal
+PROG:800c2e34	Acted
+PROG:800c2e8c	Defector
+PROG:800c2eb8	Is Ninja
+PROG:800c2ec0	Is Tea M.
+PROG:800c2ec8	Is Swords.
+PROG:800c2ed0	Is Monk
+PROG:800c2fa0	Views
+PROG:800c2fb8	Christianity
+PROG:800c3008	Army Unit
+PROG:800c3028	Married
+# princess names: uipatch.princess_names gives their getter English tables
+PROG:800c3040	-
+PROG:800c3048	-
+PROG:800c3050	-
+PROG:800c3058	-
+PROG:800c3060	-
+PROG:800c3068	-
+PROG:800c3070	-
+PROG:800c3078	-
+PROG:800c3080	-
+PROG:800c308c	-
+PROG:800c3098	-
+PROG:800c30a4	-
+PROG:800c30b0	-
+PROG:800c30bc	-
+PROG:800c30c8	-
+PROG:800c30d4	-
+PROG:800c30e0	-
+PROG:800c30ec	-
+PROG:800c30f8	-
+PROG:800c3104	-
+PROG:800c3110	-
+PROG:800c311c	-
+PROG:800c3128	-
+PROG:800c3134	-
+PROG:800c3140	-
+PROG:800c314c	-
+PROG:800c3158	-
+PROG:800c3164	-
+PROG:800c3170	-
+PROG:800c317c	-
+PROG:800c3188	-
+PROG:800c3194	-
+PROG:800c31a0	-
+PROG:800c31ac	-
+# treasure list headers / treasure info (CItemInfoDlg)
+PROG:800c31dc	Treasure
+PROG:800c31e4	Owner
+PROG:800c31f8	Grade
+PROG:800c3208	Apt. Effect
+PROG:800c3214	CG No.
+PROG:800c3260	Nanban
+PROG:800c3270	Price
+PROG:800c32a0	Special
+PROG:800c3288	Unit
+# treasure types and effects
+PROG:800c32bc	Tea Ware
+PROG:800c32c8	Raises max Duty
+PROG:800c32dc	Blade
+PROG:800c32e4	Ranged
+PROG:800c32f0	Matchlock
+PROG:800c32f8	Pistol
+PROG:800c3300	Arms
+PROG:800c3308	Horse
+PROG:800c3310	Always escapes battle
+PROG:800c3328	Sword Book
+PROG:800c3330	Gunnery Book
+PROG:800c3338	Strategy Book
+PROG:800c3340	All formations usable
+PROG:800c3358	Medical Book
+PROG:800c3360	Longer life
+PROG:800c3370	Ninja Book
+PROG:800c3378	Navy Book
+PROG:800c3380	Learning Book
+PROG:800c3388	Farming Book
+PROG:800c3390	Commerce Book
+PROG:800c3398	Building Book
+PROG:800c33a0	Imported Book
+PROG:800c33a8	Favours Christianity
+PROG:800c33c0	Literature Book
+PROG:800c33c8	Buddhism Book
+PROG:800c33d0	War Chronicle
+PROG:800c33e4	Corps moves farther
+PROG:800c33fc	Painting
+PROG:800c3404	Abacus
+PROG:800c340c	Shogi Board
+PROG:800c3414	Go Board
+PROG:800c341c	Compass
+PROG:800c3424	Nanban Clock
+PROG:800c3430	Cross
+PROG:800c3438	Telescope
+PROG:800c3440	Tobacco
+PROG:800c3448	Shorter life
+PROG:800c3454	Instrument
+PROG:800c345c	Karuta
+PROG:800c3464	Incense Wood
+PROG:800c346c	Raises prestige
+PROG:800c347c	Grade %d
+PROG:800c3574	Owner
+# court title list headers
+PROG:800c37e8	Title
+PROG:800c37f0	Rank
+PROG:800c37f8	Holder
+PROG:800c380c	-
+# settings dialog (KANKYOU_SETTEI_DLG) and game settings
+PROG:800c39d0	Vibration
+PROG:800c39d8	Sound
+PROG:800c39e4	Text Speed
+PROG:800c39f0	Domains
+PROG:800c39fc	Borders
+PROG:800c3a04	Own Battles
+PROG:800c3a10	Other Battles
+PROG:800c3a1c	Difficulty
+PROG:800c3a24	Reg. Officers
+PROG:800c3a30	Reg. Items
+PROG:800c3a3c	Past Heroes
