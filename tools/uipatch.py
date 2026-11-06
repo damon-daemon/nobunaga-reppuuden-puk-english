@@ -41,6 +41,25 @@ PATCHES = [
     # (the `slti $at, $sN, 3` per-line count in each of the 8 list loops of both overlays).
     ('STUP', 0x801c6378, 0x32312d25, 0x38312d25),          # "%-12" -> "%-18"
     ('MONRT', 0x801cf208, 0x32312d25, 0x38312d25),
+    # Number-entry dialogs (issue #3): the digit cursor (8-px box, rect draw 0x8002a61c) sits at
+    # x = base + 8 * digit, the Japanese half-width digit pitch, but the VWF draws digits on a
+    # DIGIT_W + SPACING = 6 px pitch (tools/pixfont.py), so the cursor drifted right of the digit it
+    # edits. Now x = base + 6 * digit (box width unchanged). Spare load/branch delay slots hold the
+    # extra instructions. RT1 0x8015a078 = generic number dialog (birth year, stats, amounts);
+    # CMD2 0x801ba9dc = CEditLifeDlg (lifespan, new-officer editor).
+    ('RT1', 0x8015a0a4, ('sll', 'v0', 'v0', 3), ('sll', 's1', 'v0', 1)),        # s1 = 2k
+    ('RT1', 0x8015a0ac, ('nop',), ('addu', 's1', 's1', 'v0')),                  # s1 = 3k
+    ('RT1', 0x8015a0b4, 0x20510030, ('addiu', 's1', 's1', 0x18)),
+    ('RT1', 0x8015a0d8, ('addu', 'a3', 's1', 'zero'), ('addu', 'a3', 's1', 's1')),  # x = 0x30 + 6k
+    ('CMD2', 0x801baa28, ('sll', 'v0', 'v0', 3), ('sll', 's1', 'v0', 1)),
+    ('CMD2', 0x801baa2c, 0x20510048, ('addu', 's1', 's1', 'v0')),
+    ('CMD2', 0x801baa5c, ('nop',), ('addiu', 's1', 's1', 0x24)),               # jalr delay slot
+    ('CMD2', 0x801baa80, ('addu', 'a3', 's1', 'zero'), ('addu', 'a3', 's1', 's1')),  # x = 0x48 + 6k
+    # TL 0x8017aa38 = the tutorial's copy of the RT1 dialog (cursor sprite re-created on each move).
+    ('TL', 0x8017aa54, ('sll', 'v0', 'v0', 3), ('sll', 's1', 'v0', 1)),
+    ('TL', 0x8017aa58, 0x20510030, ('addu', 's1', 's1', 'v0')),
+    ('TL', 0x8017aa60, ('nop',), ('addiu', 's1', 's1', 0x18)),                 # load delay slot
+    ('TL', 0x8017aa94, ('addu', 'a3', 's1', 'zero'), ('addu', 'a3', 's1', 's1')),    # x = 0x30 + 6k
 ] + [(tag, va, ('slti', 'at', reg, 3), ('slti', 'at', reg, 2)) for tag, va, reg in [
     ('STUP', 0x801b528c, 's1'), ('STUP', 0x801b5448, 's0'), ('STUP', 0x801b5784, 's2'), ('STUP', 0x801b590c, 's0'),
     ('STUP', 0x801b5b3c, 's0'), ('STUP', 0x801b5d00, 's0'), ('STUP', 0x801b6988, 's1'), ('STUP', 0x801b6b00, 's0'),
