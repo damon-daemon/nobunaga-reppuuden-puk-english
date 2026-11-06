@@ -433,7 +433,7 @@ CMD2:801c13d8	%s +%2d
 CMD2:801c13e0	Get %s
 CMD2:801c1484	Next Officer
 CMD2:801c1868	-
-CMD2:801c1c10	Lifespan
+CMD2:801c1c10	Life
 CMD2:801c1cf4	Daimyo
 CMD2:801c1cfc	Officer
 CMD2:801c1d14	Next Daimyo
