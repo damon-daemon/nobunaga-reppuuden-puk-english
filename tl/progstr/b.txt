@@ -248,7 +248,7 @@ PROG:800dce8c	Guard
 PROG:800dce94	Retire
 PROG:800dce9c	Join
 PROG:800dcf3c	Arson
-PROG:800dcf50	Morale
+PROG:800dcf50	Spirit
 PROG:800dcf64	Feud
 PROG:800dcf78	Hinder
 PROG:800dcf8c	Form
@@ -378,7 +378,7 @@ PROG:800ddba8	No
 PROG:800ddbac	Male
 PROG:800ddbb0	Female
 PROG:800ddbe4	Bows
-PROG:800ddbe8	Palisade
+PROG:800ddbe8	Fence
 PROG:800ddbf0	?
 PROG:800ddbf4	Yes
 PROG:800ddbf8	No
@@ -404,7 +404,7 @@ PROG:800ddd74	Sort
 PROG:800dde64	B
 PROG:800dde68	D
 PROG:800dde6c	Bows
-PROG:800dde70	Palisade
+PROG:800dde70	Fence
 PROG:800dde74	Bows
 PROG:800dde84	-
 PROG:800dde88	Hirai

@@ -127,8 +127,8 @@ CMD:801ca74e	Field
 CMD:801ca753	Cancel
 CMD:801cab90	From
 CMD:801cab98	To
-CMD:801caba0	Officer
-CMD:801caba8	Update
+CMD:801caba0	Ofcr.
+CMD:801caba8	Apply
 CMD:801cabb0	Go
 CMD:801cabb8	Cancel
 CMD:801cac20	In Castle
@@ -136,13 +136,13 @@ CMD:801cac28	Away
 CMD:801caca8	Switch
 CMD:801cacb0	%2d months away
 CMD:801cafec	Period 
-CMD:801caff4	Officer
+CMD:801caff4	Ofcr.
 CMD:801caffc	Go
 CMD:801cb004	Cancel
 CMD:801cb15c	Gold
 CMD:801cb1d4	Period 
-CMD:801cb1dc	Officer
-CMD:801cb1e4	Target
+CMD:801cb1dc	Ofcr.
+CMD:801cb1e4	Aim
 CMD:801cb1ec	Go
 CMD:801cb1f4	Cancel
 CMD:801cb58c	Snow
@@ -161,10 +161,10 @@ CMD:801cb628	%M
 CMD:801cb630	Gold Income
 CMD:801cb63c	Rice Income
 CMD:801cb974	Betroth
-CMD:801cb97c	Officer
+CMD:801cb97c	Ofcr.
 CMD:801cb984	Go
 CMD:801cb98c	Cancel
-CMD:801cb9a8	Recruit
+CMD:801cb9a8	Hire
 CMD:801cb9b0	Ronin
 CMD:801cbe08	Prest.
 CMD:801cbe10	Court
@@ -172,7 +172,7 @@ CMD:801cbe18	Post
 CMD:801cbe20	Title
 CMD:801cbe28	Amity
 CMD:801cbe30	Allies
-CMD:801cbe38	Officer
+CMD:801cbe38	Ofcr.
 CMD:801cbe40	Map
 CMD:801cc13c	Ofcr.
 CMD:801cc144	Loyal
@@ -184,8 +184,8 @@ CMD:801cc16c	Go
 CMD:801cc174	Cancel
 CMD:801cc18c	%3d
 CMD:801cc4a4	Period 
-CMD:801cc4ac	Officer
-CMD:801cc4b4	Target
+CMD:801cc4ac	Ofcr.
+CMD:801cc4b4	Aim
 CMD:801cc4bc	Go
 CMD:801cc4c4	Cancel
 CMD:801cc4cc	Bride
@@ -194,7 +194,7 @@ CMD:801cc6a4	Move
 CMD:801cc6ac	Attack
 CMD:801cc6b4	Split
 CMD:801cc6bc	Pursue
-CMD:801cc6c4	Officer
+CMD:801cc6c4	Ofcr.
 CMD:801cc6cc	Reorg.
 CMD:801cc6d4	Supply
 CMD:801cc6dc	Cancel
@@ -202,25 +202,25 @@ CMD:801cc758	Wait
 CMD:801cc760	On %s orders
 CMD:801cc9c8	Move
 CMD:801cc9d0	Period 
-CMD:801cc9d8	Officer
+CMD:801cc9d8	Ofcr.
 CMD:801cca20	Map
 CMD:801cca28	Ikko
 CMD:801cca30	On %s orders
 CMD:801cce24	Total Prestige
-CMD:801cce30	Domain
+CMD:801cce30	Lands
 CMD:801cce38	Main
-CMD:801cce40	Branch
+CMD:801cce40	Forts
 CMD:801cce48	Fame
 CMD:801cce50	Title
 CMD:801cce58	Post
-CMD:801cce60	Marriage
+CMD:801cce60	Wed
 CMD:801cce68	Kyoto
 CMD:801cce70	Court
 CMD:801cce78	Outlaw
 CMD:801cce80	Prestige halved
 CMD:801cd340	Lead
-CMD:801cd348	Officer
-CMD:801cd350	Clear All
+CMD:801cd348	Ofcr.
+CMD:801cd350	Clear
 CMD:801cd358	Plan
 CMD:801cd360	Recall
 CMD:801cd368	Go
@@ -230,13 +230,13 @@ CMD:801cd3a8	Terrain
 CMD:801cd3b4	Switch
 CMD:801cd52c	Staff
 CMD:801cd560	Period 
-CMD:801cd57c	Terrain
+CMD:801cd57c	Land
 CMD:801cd584	Gold %d
 CMD:801cd598	Next Officer
 CMD:801cd864	Castle
 CMD:801cd86c	Levee
 CMD:801cd874	Demolish
-CMD:801cd87c	Officer
+CMD:801cd87c	Ofcr.
 CMD:801cd884	Repair
 CMD:801cd88c	Road
 CMD:801cd894	Move
@@ -244,7 +244,7 @@ CMD:801cd89c	Cancel
 CMD:801cd8bc	On %s orders
 CMD:801cd8cc	Period 
 CMD:801cdab4	Lead
-CMD:801cdabc	Officer
+CMD:801cdabc	Ofcr.
 CMD:801cdac4	Go
 CMD:801cdacc	Cancel
 CMD:801cdcac	No more domestic units can be formed.
@@ -260,7 +260,7 @@ CMD:801cdf74	Next Daimyo
 CMD:801ce058	Price
 CMD:801ce060	Trade
 CMD:801ce068	Item
-CMD:801ce070	Officer
+CMD:801ce070	Ofcr.
 CMD:801ce078	Rice
 CMD:801ce080	Horses
 CMD:801ce088	Guns
@@ -284,7 +284,7 @@ CMD:801ce504	Map
 CMD:801ce50c	Independent
 CMD:801ce518	%s
 CMD:801ce520	Main
-CMD:801ce528	Branch
+CMD:801ce528	Forts
 CMD:801ce538	Yearly
 CMD:801ce540	Monthly
 CMD:801ce548	Year
@@ -292,7 +292,7 @@ CMD:801ce558	Next Mo.
 CMD:801ce958	Go
 CMD:801ce960	Cancel
 CMD:801ce968	Change
-CMD:801ce970	Target
+CMD:801ce970	Aim
 CMD:801ce978	Delegate
 CMD:801ce9f0	Aggressive
 CMD:801ce9fc	Cautious
@@ -318,7 +318,7 @@ CMD:801cf010	Make %s your heir?
 CMD:801cf118	Choose a castle to command.
 CMD:801cf138	Not your castle.
 CMD:801cf154	Ally
-CMD:801cf15c	Marriage
+CMD:801cf15c	Marry
 CMD:801cf164	Annex
 CMD:801cf16c	Submit
 CMD:801cf174	Tribute
@@ -435,7 +435,7 @@ CMD2:801c1484	Next Officer
 CMD2:801c1868	-
 CMD2:801c1c10	Life
 CMD2:801c1cf4	Daimyo
-CMD2:801c1cfc	Officer
+CMD2:801c1cfc	Ofcr.
 CMD2:801c1d14	Next Daimyo
 CMD2:801c1d20	No castles.
 CMD2:801c1d30	Next Castle
