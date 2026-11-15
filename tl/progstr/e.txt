@@ -11,8 +11,8 @@ STUP:801c4e78	Unify or Free Provinces
 STUP:801c4e90	Daimyo Info
 STUP:801c4ea0	From
 STUP:801c4ea8	To
-STUP:801c4eb0	Officer
-STUP:801c4eb8	Update
+STUP:801c4eb0	Ofcr.
+STUP:801c4eb8	Apply
 STUP:801c4ec0	Move Officer
 STUP:801c4ecc	At
 STUP:801c4ed4	Select
@@ -186,8 +186,8 @@ TL:8019b158	Merit
 TL:8019b160	Loyal
 TL:8019b22c	-
 TL:8019b378	Period
-TL:8019b380	Officer
-TL:8019b388	Target
+TL:8019b380	Ofcr.
+TL:8019b388	Aim
 TL:8019b390	Plot
 TL:8019b398	Go
 TL:8019b3a0	Cancel
@@ -195,7 +195,7 @@ TL:8019b3b8	Imagawa Ujizane
 TL:8019b3c4	Kiyosu
 TL:8019b3cc	1 month
 TL:8019b564	Betroth
-TL:8019b56c	Officer
+TL:8019b56c	Ofcr.
 TL:8019b574	Go
 TL:8019b57c	Cancel
 TL:8019b598	Sena
@@ -205,7 +205,7 @@ TL:8019b944	Move
 TL:8019b94c	Attack
 TL:8019b954	Split
 TL:8019b95c	Pursue
-TL:8019b964	Officer
+TL:8019b964	Ofcr.
 TL:8019b96c	Organise
 TL:8019b974	Supply
 TL:8019b97c	Cancel
@@ -235,7 +235,7 @@ TL:8019c3a8	Strategy Screen
 TL:8019c3e8	Imagawa's turn
 TL:8019c3f8	%Y %4d
 TL:8019c9b4	Lead
-TL:8019c9bc	Officer
+TL:8019c9bc	Ofcr.
 TL:8019c9c4	Clear
 TL:8019c9cc	Plan
 TL:8019c9d4	Recall
@@ -258,7 +258,7 @@ TL:8019cd14	Plains
 TL:8019cd20	Paddy LV2
 TL:8019cdac	Town Lv1
 TL:8019cdb4	Village Lv1
-TL:8019cd2c	Terrain
+TL:8019cd2c	Land
 TL:8019cd34	Staff
 TL:8019cd3c	Price
 TL:8019cd5c	Okabe Masatsuna
@@ -409,7 +409,7 @@ TL:801a23e4	Retire
 TL:801a2404	Rattle
 TL:801a240c	Taunt
 TL:801a2414	Arson
-TL:801a241c	Morale
+TL:801a241c	Spirit
 TL:801a2424	Feud
 TL:801a242c	Hinder
 TL:801a244c	Form
@@ -513,7 +513,7 @@ WMAIN:80185f40	Cannon
 WMAIN:80185f48	Form.
 WMAIN:80186118	-
 WMAIN:80186128	Form.
-WMAIN:80186130	Officer
+WMAIN:80186130	Ofcr.
 WMAIN:8018630c	Unit List
 WMAIN:80186498	Lead
 WMAIN:801864a0	Men

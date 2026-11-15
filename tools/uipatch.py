@@ -60,6 +60,24 @@ PATCHES = [
     ('TL', 0x8017aa58, 0x20510030, ('addu', 's1', 's1', 'v0')),
     ('TL', 0x8017aa60, ('nop',), ('addiu', 's1', 's1', 0x18)),                 # load delay slot
     ('TL', 0x8017aa94, ('addu', 'a3', 's1', 'zero'), ('addu', 'a3', 's1', 's1')),    # x = 0x30 + 6k
+    # Daimyo screen (CMD layout 0x801cbee4, records {id, cell, y<<16|x, text, flags}): the Post value
+    # (128-px cell at x 0x6c) ran under the "Court" label at x 0xc4 ("Constable of Harima" = 98 px;
+    # the Japanese posts are <= 5 kanji). Court label and value move 40 px right (value ends at 300 of 312).
+    ('CMD', 0x801cbf90, 0x004800c4, 0x004800ec),
+    ('CMD', 0x801cbfa4, 0x004800e4, 0x0048010c),
+    # Princess window (CMD layout 0x801ccd5c): the 父 / 夫 labels are 16-px cells (sheet 0x4e3d =
+    # VRAM words 0x3b8..0x3c0, 2 columns), "Father" / "Husband" were cut to "Fat" / "Hus". The name
+    # sheet 0x4e3b beside it (0x380..0x3b8 = 224 px, one cell) gives up 16 words: name 160 px, labels
+    # 2 x 48 px; the father / husband names move from x 0x68 to 0x82.
+    # Its bio (text object 3, sheet 0x4e3a = 320 x 64 at x 8 of the 312-px window) wrapped at the sheet
+    # width and was cut at the frame: the sheet becomes 288 px wide (0x378..0x3c0), as the officer bio box.
+    ('CMD', 0x801ccc34, 0x00000370, 0x00000378),
+    ('CMD', 0x801ccc5c, 0x000003b8, 0x000003a8),
+    ('CMD', 0x801ccc74, 0x000003b8, 0x000003a8),
+    ('CMD', 0x801ccd70, 0x00100001, 0x00300001),      # label width (flags >> 16)
+    ('CMD', 0x801ccd98, 0x00100001, 0x00300001),
+    ('CMD', 0x801ccd90, 0x00280068, 0x00280082),
+    ('CMD', 0x801ccdb8, 0x00400068, 0x00400082),
 ] + [(tag, va, ('slti', 'at', reg, 3), ('slti', 'at', reg, 2)) for tag, va, reg in [
     ('STUP', 0x801b528c, 's1'), ('STUP', 0x801b5448, 's0'), ('STUP', 0x801b5784, 's2'), ('STUP', 0x801b590c, 's0'),
     ('STUP', 0x801b5b3c, 's0'), ('STUP', 0x801b5d00, 's0'), ('STUP', 0x801b6988, 's1'), ('STUP', 0x801b6b00, 's0'),

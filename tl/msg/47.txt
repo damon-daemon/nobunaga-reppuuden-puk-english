@@ -122,13 +122,13 @@ A typical field battle between daimyo, like Okehazama or Kawanakajima. The C-in-
 Medium Field Battle 2
 
 @47041
-Battle commands in a medium field battle (* = C-in-C only, + = strategist only):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Formation*\nRuse: Rattle, Taunt, Arson, Morale+\n(continued)
+Battle commands in a medium field battle (* = C-in-C only, + = strategist only):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Formation*\nRuse: Rattle, Taunt, Arson, Spirit+\n(continued)
 
 @47042
 Medium Field Battle 3
 
 @47043
-Rider: Form*, Rally*, Inspire*,\n  Sortie*, Incite*\nPloy: Palisade, Mound, Wreck\nArms: Foot, Pikes, Bows\nRetire\n* = C-in-C only, + = strategist only
+Rider: Form*, Rally*, Inspire*,\n  Sortie*, Incite*\nPloy: Fence, Mound, Wreck\nArms: Foot, Pikes, Bows\nRetire\n* = C-in-C only, + = strategist only
 
 @47044
 Large Field Battle 1
@@ -146,7 +146,7 @@ Battle commands in a large field battle (only: * = C-in-C, + = strategist, # = d
 Large Field Battle 3
 
 @47049
-Ruse: Rattle, Taunt, Arson, Morale+,\n  Feud+, Hinder+\nRider: Form*#, Rally*#,\n  Inspire*, Sortie*, Incite*\nPloy: Palisade, Mound, Wreck\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Join^, Retire^\nRetire\nOnly: * = C-in-C, + = strategist,\n  # = deputy, ^ = all but the C-in-C
+Ruse: Rattle, Taunt, Arson, Spirit+,\n  Feud+, Hinder+\nRider: Form*#, Rally*#,\n  Inspire*, Sortie*, Incite*\nPloy: Fence, Mound, Wreck\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Join^, Retire^\nRetire\nOnly: * = C-in-C, + = strategist,\n  # = deputy, ^ = all but the C-in-C
 
 @47050
 Medium Siege 1
@@ -158,13 +158,13 @@ Like the siege of Tottori. The goal is to take or hold the inner keep. The gate 
 Medium Siege 2
 
 @47053
-Battle commands in a medium siege (only: * = C-in-C, + = strategist, ^ = all but the C-in-C):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Cannon\nRuse: Rattle, Taunt, Arson, Morale+\n(continued)
+Battle commands in a medium siege (only: * = C-in-C, + = strategist, ^ = all but the C-in-C):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Cannon\nRuse: Rattle, Taunt, Arson, Spirit+\n(continued)
 
 @47054
 Medium Siege 3
 
 @47055
-Rider: Rally*, Parley*, Inspire*,\n  Sortie*, Incite*\nPloy: Palisade, Mound, Wreck,\n  Climb\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Retire^\nRetire\n* C-in-C, + strategist, ^ not C-in-C only
+Rider: Rally*, Parley*, Inspire*,\n  Sortie*, Incite*\nPloy: Fence, Mound, Wreck,\n  Climb\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Retire^\nRetire\n* C-in-C, + strategist, ^ not C-in-C only
 
 @47056
 Large Siege 1
@@ -176,13 +176,13 @@ A great siege, like that of Odawara. Same rules as a medium siege, but the wide 
 Large Siege 2
 
 @47059
-Battle commands in a large siege (only: * = C-in-C, + = strategist, ^ = all but the C-in-C):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Cannon\nRuse: Rattle, Taunt, Arson, Morale+\n(continued)
+Battle commands in a large siege (only: * = C-in-C, + = strategist, ^ = all but the C-in-C):\n\nMove\nAttack: Normal, Charge, Bows, Guns,\n  Joint, Cannon\nRuse: Rattle, Taunt, Arson, Spirit+\n(continued)
 
 @47060
 Large Siege 3
 
 @47061
-Rider: Rally*, Parley*, Inspire*,\n  Sortie*, Incite*\nPloy: Palisade, Mound, Wreck,\n  Climb\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Retire^\nRetire\n* C-in-C, + strategist, ^ not C-in-C only
+Rider: Rally*, Parley*, Inspire*,\n  Sortie*, Incite*\nPloy: Fence, Mound, Wreck,\n  Climb\nArms: Foot, Pikes, Bows\nPolicy: Attack, Guard, Retire^\nRetire\n* C-in-C, + strategist, ^ not C-in-C only
 
 @47062
 Naval Battle
